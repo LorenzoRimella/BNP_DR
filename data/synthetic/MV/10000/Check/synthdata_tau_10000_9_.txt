@@ -1,0 +1,9001 @@
+Start MCMC with K 180
+Batch number 0
+Acceptance rate 0.52
+Batch number 1
+Acceptance rate 0.5
+Batch number 2
+Acceptance rate 0.503
+Batch number 3
+Acceptance rate 0.495
+Batch number 4
+Acceptance rate 0.498
+Batch number 5
+Acceptance rate 0.503
+Batch number 6
+Acceptance rate 0.506
+Batch number 7
+Acceptance rate 0.494
+Batch number 8
+Acceptance rate 0.508
+Batch number 9
+Acceptance rate 0.503
+Batch number 10
+Acceptance rate 0.502
+Batch number 11
+Acceptance rate 0.498
+Batch number 12
+Acceptance rate 0.494
+Batch number 13
+Acceptance rate 0.499
+Batch number 14
+Acceptance rate 0.497
+Batch number 15
+Acceptance rate 0.498
+Batch number 16
+Acceptance rate 0.491
+Batch number 17
+Acceptance rate 0.492
+Batch number 18
+Acceptance rate 0.493
+Batch number 19
+Acceptance rate 0.493
+Batch number 20
+Acceptance rate 0.489
+Batch number 21
+Acceptance rate 0.491
+Batch number 22
+Acceptance rate 0.49
+Batch number 23
+Acceptance rate 0.495
+Batch number 24
+Acceptance rate 0.496
+Batch number 25
+Acceptance rate 0.496
+Batch number 26
+Acceptance rate 0.498
+Batch number 27
+Acceptance rate 0.498
+Batch number 28
+Acceptance rate 0.498
+Batch number 29
+Acceptance rate 0.499
+Batch number 30
+Acceptance rate 0.498
+Batch number 31
+Acceptance rate 0.498
+Batch number 32
+Acceptance rate 0.499
+Batch number 33
+Acceptance rate 0.497
+Batch number 34
+Acceptance rate 0.498
+Batch number 35
+Acceptance rate 0.498
+Batch number 36
+Acceptance rate 0.497
+Batch number 37
+Acceptance rate 0.495
+Batch number 38
+Acceptance rate 0.494
+Batch number 39
+Acceptance rate 0.494
+Batch number 40
+Acceptance rate 0.493
+Batch number 41
+Acceptance rate 0.493
+Batch number 42
+Acceptance rate 0.493
+Batch number 43
+Acceptance rate 0.494
+Batch number 44
+Acceptance rate 0.493
+Batch number 45
+Acceptance rate 0.49
+Batch number 46
+Acceptance rate 0.49
+Batch number 47
+Acceptance rate 0.491
+Batch number 48
+Acceptance rate 0.49
+Batch number 49
+Acceptance rate 0.491
+Batch number 50
+Acceptance rate 0.489
+Batch number 51
+Acceptance rate 0.488
+Batch number 52
+Acceptance rate 0.489
+Batch number 53
+Acceptance rate 0.489
+Batch number 54
+Acceptance rate 0.487
+Batch number 55
+Acceptance rate 0.487
+Batch number 56
+Acceptance rate 0.487
+Batch number 57
+Acceptance rate 0.487
+Batch number 58
+Acceptance rate 0.486
+Batch number 59
+Acceptance rate 0.485
+Batch number 60
+Acceptance rate 0.486
+Batch number 61
+Acceptance rate 0.486
+Batch number 62
+Acceptance rate 0.487
+Batch number 63
+Acceptance rate 0.487
+Batch number 64
+Acceptance rate 0.487
+Batch number 65
+Acceptance rate 0.488
+Batch number 66
+Acceptance rate 0.489
+Batch number 67
+Acceptance rate 0.49
+Batch number 68
+Acceptance rate 0.489
+Batch number 69
+Acceptance rate 0.489
+Batch number 70
+Acceptance rate 0.488
+Batch number 71
+Acceptance rate 0.488
+Batch number 72
+Acceptance rate 0.487
+Batch number 73
+Acceptance rate 0.488
+Batch number 74
+Acceptance rate 0.487
+Batch number 75
+Acceptance rate 0.486
+Batch number 76
+Acceptance rate 0.486
+Batch number 77
+Acceptance rate 0.486
+Batch number 78
+Acceptance rate 0.485
+Batch number 79
+Acceptance rate 0.485
+Batch number 80
+Acceptance rate 0.485
+Batch number 81
+Acceptance rate 0.485
+Batch number 82
+Acceptance rate 0.485
+Batch number 83
+Acceptance rate 0.486
+Batch number 84
+Acceptance rate 0.485
+Batch number 85
+Acceptance rate 0.486
+Batch number 86
+Acceptance rate 0.486
+Batch number 87
+Acceptance rate 0.486
+Batch number 88
+Acceptance rate 0.486
+Batch number 89
+Acceptance rate 0.486
+Batch number 90
+Acceptance rate 0.486
+Batch number 91
+Acceptance rate 0.485
+Batch number 92
+Acceptance rate 0.486
+Batch number 93
+Acceptance rate 0.486
+Batch number 94
+Acceptance rate 0.486
+Batch number 95
+Acceptance rate 0.487
+Batch number 96
+Acceptance rate 0.487
+Batch number 97
+Acceptance rate 0.488
+Batch number 98
+Acceptance rate 0.488
+Batch number 99
+Acceptance rate 0.488
+Batch number 100
+Acceptance rate 0.489
+Batch number 101
+Acceptance rate 0.489
+Batch number 102
+Acceptance rate 0.49
+Batch number 103
+Acceptance rate 0.489
+Batch number 104
+Acceptance rate 0.489
+Batch number 105
+Acceptance rate 0.489
+Batch number 106
+Acceptance rate 0.488
+Batch number 107
+Acceptance rate 0.489
+Batch number 108
+Acceptance rate 0.488
+Batch number 109
+Acceptance rate 0.488
+Batch number 110
+Acceptance rate 0.487
+Batch number 111
+Acceptance rate 0.487
+Batch number 112
+Acceptance rate 0.487
+Batch number 113
+Acceptance rate 0.487
+Batch number 114
+Acceptance rate 0.488
+Batch number 115
+Acceptance rate 0.488
+Batch number 116
+Acceptance rate 0.488
+Batch number 117
+Acceptance rate 0.488
+Batch number 118
+Acceptance rate 0.487
+Batch number 119
+Acceptance rate 0.488
+Batch number 120
+Acceptance rate 0.488
+Batch number 121
+Acceptance rate 0.488
+Batch number 122
+Acceptance rate 0.488
+Batch number 123
+Acceptance rate 0.488
+Batch number 124
+Acceptance rate 0.488
+Batch number 125
+Acceptance rate 0.487
+Batch number 126
+Acceptance rate 0.488
+Batch number 127
+Acceptance rate 0.489
+Batch number 128
+Acceptance rate 0.489
+Batch number 129
+Acceptance rate 0.489
+Batch number 130
+Acceptance rate 0.49
+Batch number 131
+Acceptance rate 0.49
+Batch number 132
+Acceptance rate 0.49
+Batch number 133
+Acceptance rate 0.49
+Batch number 134
+Acceptance rate 0.49
+Batch number 135
+Acceptance rate 0.489
+Batch number 136
+Acceptance rate 0.489
+Batch number 137
+Acceptance rate 0.489
+Batch number 138
+Acceptance rate 0.489
+Batch number 139
+Acceptance rate 0.49
+Batch number 140
+Acceptance rate 0.49
+Batch number 141
+Acceptance rate 0.49
+Batch number 142
+Acceptance rate 0.49
+Batch number 143
+Acceptance rate 0.49
+Batch number 144
+Acceptance rate 0.49
+Batch number 145
+Acceptance rate 0.49
+Batch number 146
+Acceptance rate 0.49
+Batch number 147
+Acceptance rate 0.49
+Batch number 148
+Acceptance rate 0.49
+Batch number 149
+Acceptance rate 0.489
+Batch number 150
+Acceptance rate 0.489
+Batch number 151
+Acceptance rate 0.49
+Batch number 152
+Acceptance rate 0.49
+Batch number 153
+Acceptance rate 0.49
+Batch number 154
+Acceptance rate 0.49
+Batch number 155
+Acceptance rate 0.49
+Batch number 156
+Acceptance rate 0.49
+Batch number 157
+Acceptance rate 0.489
+Batch number 158
+Acceptance rate 0.49
+Batch number 159
+Acceptance rate 0.49
+Batch number 160
+Acceptance rate 0.49
+Batch number 161
+Acceptance rate 0.49
+Batch number 162
+Acceptance rate 0.489
+Batch number 163
+Acceptance rate 0.489
+Batch number 164
+Acceptance rate 0.489
+Batch number 165
+Acceptance rate 0.489
+Batch number 166
+Acceptance rate 0.489
+Batch number 167
+Acceptance rate 0.489
+Batch number 168
+Acceptance rate 0.488
+Batch number 169
+Acceptance rate 0.489
+Batch number 170
+Acceptance rate 0.488
+Batch number 171
+Acceptance rate 0.488
+Batch number 172
+Acceptance rate 0.488
+Batch number 173
+Acceptance rate 0.488
+Batch number 174
+Acceptance rate 0.487
+Batch number 175
+Acceptance rate 0.487
+Batch number 176
+Acceptance rate 0.487
+Batch number 177
+Acceptance rate 0.487
+Batch number 178
+Acceptance rate 0.488
+Batch number 179
+Acceptance rate 0.488
+Batch number 180
+Acceptance rate 0.488
+Batch number 181
+Acceptance rate 0.488
+Batch number 182
+Acceptance rate 0.488
+Batch number 183
+Acceptance rate 0.488
+Batch number 184
+Acceptance rate 0.488
+Batch number 185
+Acceptance rate 0.488
+Batch number 186
+Acceptance rate 0.489
+Batch number 187
+Acceptance rate 0.488
+Batch number 188
+Acceptance rate 0.488
+Batch number 189
+Acceptance rate 0.487
+Batch number 190
+Acceptance rate 0.487
+Batch number 191
+Acceptance rate 0.486
+Batch number 192
+Acceptance rate 0.487
+Batch number 193
+Acceptance rate 0.487
+Batch number 194
+Acceptance rate 0.487
+Batch number 195
+Acceptance rate 0.487
+Batch number 196
+Acceptance rate 0.487
+Batch number 197
+Acceptance rate 0.487
+Batch number 198
+Acceptance rate 0.486
+Batch number 199
+Acceptance rate 0.486
+Batch number 200
+Acceptance rate 0.486
+Batch number 201
+Acceptance rate 0.486
+Batch number 202
+Acceptance rate 0.486
+Batch number 203
+Acceptance rate 0.486
+Batch number 204
+Acceptance rate 0.486
+Batch number 205
+Acceptance rate 0.486
+Batch number 206
+Acceptance rate 0.486
+Batch number 207
+Acceptance rate 0.486
+Batch number 208
+Acceptance rate 0.486
+Batch number 209
+Acceptance rate 0.486
+Batch number 210
+Acceptance rate 0.486
+Batch number 211
+Acceptance rate 0.486
+Batch number 212
+Acceptance rate 0.486
+Batch number 213
+Acceptance rate 0.486
+Batch number 214
+Acceptance rate 0.486
+Batch number 215
+Acceptance rate 0.486
+Batch number 216
+Acceptance rate 0.486
+Batch number 217
+Acceptance rate 0.487
+Batch number 218
+Acceptance rate 0.487
+Batch number 219
+Acceptance rate 0.486
+Batch number 220
+Acceptance rate 0.486
+Batch number 221
+Acceptance rate 0.486
+Batch number 222
+Acceptance rate 0.486
+Batch number 223
+Acceptance rate 0.487
+Batch number 224
+Acceptance rate 0.487
+Batch number 225
+Acceptance rate 0.487
+Batch number 226
+Acceptance rate 0.487
+Batch number 227
+Acceptance rate 0.487
+Batch number 228
+Acceptance rate 0.487
+Batch number 229
+Acceptance rate 0.487
+Batch number 230
+Acceptance rate 0.487
+Batch number 231
+Acceptance rate 0.487
+Batch number 232
+Acceptance rate 0.487
+Batch number 233
+Acceptance rate 0.486
+Batch number 234
+Acceptance rate 0.486
+Batch number 235
+Acceptance rate 0.487
+Batch number 236
+Acceptance rate 0.487
+Batch number 237
+Acceptance rate 0.487
+Batch number 238
+Acceptance rate 0.486
+Batch number 239
+Acceptance rate 0.486
+Batch number 240
+Acceptance rate 0.487
+Batch number 241
+Acceptance rate 0.486
+Batch number 242
+Acceptance rate 0.486
+Batch number 243
+Acceptance rate 0.486
+Batch number 244
+Acceptance rate 0.486
+Batch number 245
+Acceptance rate 0.487
+Batch number 246
+Acceptance rate 0.486
+Batch number 247
+Acceptance rate 0.486
+Batch number 248
+Acceptance rate 0.486
+Batch number 249
+Acceptance rate 0.486
+Batch number 250
+Acceptance rate 0.486
+Batch number 251
+Acceptance rate 0.486
+Batch number 252
+Acceptance rate 0.486
+Batch number 253
+Acceptance rate 0.486
+Batch number 254
+Acceptance rate 0.486
+Batch number 255
+Acceptance rate 0.486
+Batch number 256
+Acceptance rate 0.485
+Batch number 257
+Acceptance rate 0.485
+Batch number 258
+Acceptance rate 0.485
+Batch number 259
+Acceptance rate 0.485
+Batch number 260
+Acceptance rate 0.485
+Batch number 261
+Acceptance rate 0.485
+Batch number 262
+Acceptance rate 0.484
+Batch number 263
+Acceptance rate 0.485
+Batch number 264
+Acceptance rate 0.484
+Batch number 265
+Acceptance rate 0.484
+Batch number 266
+Acceptance rate 0.484
+Batch number 267
+Acceptance rate 0.485
+Batch number 268
+Acceptance rate 0.484
+Batch number 269
+Acceptance rate 0.484
+Batch number 270
+Acceptance rate 0.484
+Batch number 271
+Acceptance rate 0.484
+Batch number 272
+Acceptance rate 0.484
+Batch number 273
+Acceptance rate 0.484
+Batch number 274
+Acceptance rate 0.484
+Batch number 275
+Acceptance rate 0.483
+Batch number 276
+Acceptance rate 0.483
+Batch number 277
+Acceptance rate 0.483
+Batch number 278
+Acceptance rate 0.482
+Batch number 279
+Acceptance rate 0.482
+Batch number 280
+Acceptance rate 0.482
+Batch number 281
+Acceptance rate 0.482
+Batch number 282
+Acceptance rate 0.482
+Batch number 283
+Acceptance rate 0.482
+Batch number 284
+Acceptance rate 0.482
+Batch number 285
+Acceptance rate 0.482
+Batch number 286
+Acceptance rate 0.482
+Batch number 287
+Acceptance rate 0.482
+Batch number 288
+Acceptance rate 0.482
+Batch number 289
+Acceptance rate 0.482
+Batch number 290
+Acceptance rate 0.482
+Batch number 291
+Acceptance rate 0.482
+Batch number 292
+Acceptance rate 0.482
+Batch number 293
+Acceptance rate 0.481
+Batch number 294
+Acceptance rate 0.482
+Batch number 295
+Acceptance rate 0.482
+Batch number 296
+Acceptance rate 0.482
+Batch number 297
+Acceptance rate 0.481
+Batch number 298
+Acceptance rate 0.481
+Batch number 299
+Acceptance rate 0.481
+Batch number 300
+Acceptance rate 0.481
+Batch number 301
+Acceptance rate 0.481
+Batch number 302
+Acceptance rate 0.481
+Batch number 303
+Acceptance rate 0.481
+Batch number 304
+Acceptance rate 0.481
+Batch number 305
+Acceptance rate 0.481
+Batch number 306
+Acceptance rate 0.481
+Batch number 307
+Acceptance rate 0.481
+Batch number 308
+Acceptance rate 0.481
+Batch number 309
+Acceptance rate 0.481
+Batch number 310
+Acceptance rate 0.481
+Batch number 311
+Acceptance rate 0.481
+Batch number 312
+Acceptance rate 0.481
+Batch number 313
+Acceptance rate 0.481
+Batch number 314
+Acceptance rate 0.481
+Batch number 315
+Acceptance rate 0.481
+Batch number 316
+Acceptance rate 0.481
+Batch number 317
+Acceptance rate 0.481
+Batch number 318
+Acceptance rate 0.48
+Batch number 319
+Acceptance rate 0.48
+Batch number 320
+Acceptance rate 0.481
+Batch number 321
+Acceptance rate 0.481
+Batch number 322
+Acceptance rate 0.481
+Batch number 323
+Acceptance rate 0.48
+Batch number 324
+Acceptance rate 0.48
+Batch number 325
+Acceptance rate 0.48
+Batch number 326
+Acceptance rate 0.48
+Batch number 327
+Acceptance rate 0.48
+Batch number 328
+Acceptance rate 0.479
+Batch number 329
+Acceptance rate 0.48
+Batch number 330
+Acceptance rate 0.479
+Batch number 331
+Acceptance rate 0.479
+Batch number 332
+Acceptance rate 0.479
+Batch number 333
+Acceptance rate 0.479
+Batch number 334
+Acceptance rate 0.479
+Batch number 335
+Acceptance rate 0.478
+Batch number 336
+Acceptance rate 0.478
+Batch number 337
+Acceptance rate 0.478
+Batch number 338
+Acceptance rate 0.478
+Batch number 339
+Acceptance rate 0.478
+Batch number 340
+Acceptance rate 0.477
+Batch number 341
+Acceptance rate 0.477
+Batch number 342
+Acceptance rate 0.477
+Batch number 343
+Acceptance rate 0.477
+Batch number 344
+Acceptance rate 0.477
+Batch number 345
+Acceptance rate 0.477
+Batch number 346
+Acceptance rate 0.477
+Batch number 347
+Acceptance rate 0.476
+Batch number 348
+Acceptance rate 0.476
+Batch number 349
+Acceptance rate 0.476
+Batch number 350
+Acceptance rate 0.476
+Batch number 351
+Acceptance rate 0.475
+Batch number 352
+Acceptance rate 0.475
+Batch number 353
+Acceptance rate 0.475
+Batch number 354
+Acceptance rate 0.475
+Batch number 355
+Acceptance rate 0.475
+Batch number 356
+Acceptance rate 0.474
+Batch number 357
+Acceptance rate 0.474
+Batch number 358
+Acceptance rate 0.474
+Batch number 359
+Acceptance rate 0.474
+Batch number 360
+Acceptance rate 0.474
+Batch number 361
+Acceptance rate 0.474
+Batch number 362
+Acceptance rate 0.474
+Batch number 363
+Acceptance rate 0.474
+Batch number 364
+Acceptance rate 0.473
+Batch number 365
+Acceptance rate 0.473
+Batch number 366
+Acceptance rate 0.473
+Batch number 367
+Acceptance rate 0.472
+Batch number 368
+Acceptance rate 0.472
+Batch number 369
+Acceptance rate 0.472
+Batch number 370
+Acceptance rate 0.472
+Batch number 371
+Acceptance rate 0.472
+Batch number 372
+Acceptance rate 0.472
+Batch number 373
+Acceptance rate 0.471
+Batch number 374
+Acceptance rate 0.471
+Batch number 375
+Acceptance rate 0.471
+Batch number 376
+Acceptance rate 0.47
+Batch number 377
+Acceptance rate 0.47
+Batch number 378
+Acceptance rate 0.47
+Batch number 379
+Acceptance rate 0.469
+Batch number 380
+Acceptance rate 0.469
+Batch number 381
+Acceptance rate 0.469
+Batch number 382
+Acceptance rate 0.469
+Batch number 383
+Acceptance rate 0.469
+Batch number 384
+Acceptance rate 0.469
+Batch number 385
+Acceptance rate 0.468
+Batch number 386
+Acceptance rate 0.468
+Batch number 387
+Acceptance rate 0.468
+Batch number 388
+Acceptance rate 0.468
+Batch number 389
+Acceptance rate 0.468
+Batch number 390
+Acceptance rate 0.467
+Batch number 391
+Acceptance rate 0.467
+Batch number 392
+Acceptance rate 0.467
+Batch number 393
+Acceptance rate 0.466
+Batch number 394
+Acceptance rate 0.466
+Batch number 395
+Acceptance rate 0.466
+Batch number 396
+Acceptance rate 0.466
+Batch number 397
+Acceptance rate 0.465
+Batch number 398
+Acceptance rate 0.465
+Batch number 399
+Acceptance rate 0.465
+Batch number 400
+Acceptance rate 0.465
+Batch number 401
+Acceptance rate 0.464
+Batch number 402
+Acceptance rate 0.464
+Batch number 403
+Acceptance rate 0.464
+Batch number 404
+Acceptance rate 0.463
+Batch number 405
+Acceptance rate 0.463
+Batch number 406
+Acceptance rate 0.463
+Batch number 407
+Acceptance rate 0.463
+Batch number 408
+Acceptance rate 0.462
+Batch number 409
+Acceptance rate 0.462
+Batch number 410
+Acceptance rate 0.462
+Batch number 411
+Acceptance rate 0.461
+Batch number 412
+Acceptance rate 0.461
+Batch number 413
+Acceptance rate 0.461
+Batch number 414
+Acceptance rate 0.461
+Batch number 415
+Acceptance rate 0.46
+Batch number 416
+Acceptance rate 0.46
+Batch number 417
+Acceptance rate 0.46
+Batch number 418
+Acceptance rate 0.46
+Batch number 419
+Acceptance rate 0.459
+Batch number 420
+Acceptance rate 0.459
+Batch number 421
+Acceptance rate 0.459
+Batch number 422
+Acceptance rate 0.458
+Batch number 423
+Acceptance rate 0.458
+Batch number 424
+Acceptance rate 0.458
+Batch number 425
+Acceptance rate 0.458
+Batch number 426
+Acceptance rate 0.457
+Batch number 427
+Acceptance rate 0.457
+Batch number 428
+Acceptance rate 0.457
+Batch number 429
+Acceptance rate 0.457
+Batch number 430
+Acceptance rate 0.456
+Batch number 431
+Acceptance rate 0.456
+Batch number 432
+Acceptance rate 0.456
+Batch number 433
+Acceptance rate 0.456
+Batch number 434
+Acceptance rate 0.455
+Batch number 435
+Acceptance rate 0.455
+Batch number 436
+Acceptance rate 0.455
+Batch number 437
+Acceptance rate 0.455
+Batch number 438
+Acceptance rate 0.454
+Batch number 439
+Acceptance rate 0.454
+Batch number 440
+Acceptance rate 0.454
+Batch number 441
+Acceptance rate 0.453
+Batch number 442
+Acceptance rate 0.453
+Batch number 443
+Acceptance rate 0.453
+Batch number 444
+Acceptance rate 0.453
+Batch number 445
+Acceptance rate 0.452
+Batch number 446
+Acceptance rate 0.452
+Batch number 447
+Acceptance rate 0.452
+Batch number 448
+Acceptance rate 0.451
+Batch number 449
+Acceptance rate 0.451
+Batch number 450
+Acceptance rate 0.451
+Batch number 451
+Acceptance rate 0.45
+Batch number 452
+Acceptance rate 0.45
+Batch number 453
+Acceptance rate 0.45
+Batch number 454
+Acceptance rate 0.45
+Batch number 455
+Acceptance rate 0.449
+Batch number 456
+Acceptance rate 0.449
+Batch number 457
+Acceptance rate 0.449
+Batch number 458
+Acceptance rate 0.449
+Batch number 459
+Acceptance rate 0.448
+Batch number 460
+Acceptance rate 0.448
+Batch number 461
+Acceptance rate 0.448
+Batch number 462
+Acceptance rate 0.447
+Batch number 463
+Acceptance rate 0.447
+Batch number 464
+Acceptance rate 0.447
+Batch number 465
+Acceptance rate 0.447
+Batch number 466
+Acceptance rate 0.446
+Batch number 467
+Acceptance rate 0.446
+Batch number 468
+Acceptance rate 0.446
+Batch number 469
+Acceptance rate 0.446
+Batch number 470
+Acceptance rate 0.446
+Batch number 471
+Acceptance rate 0.445
+Batch number 472
+Acceptance rate 0.445
+Batch number 473
+Acceptance rate 0.445
+Batch number 474
+Acceptance rate 0.445
+Batch number 475
+Acceptance rate 0.444
+Batch number 476
+Acceptance rate 0.444
+Batch number 477
+Acceptance rate 0.444
+Batch number 478
+Acceptance rate 0.444
+Batch number 479
+Acceptance rate 0.443
+Batch number 480
+Acceptance rate 0.443
+Batch number 481
+Acceptance rate 0.443
+Batch number 482
+Acceptance rate 0.443
+Batch number 483
+Acceptance rate 0.442
+Batch number 484
+Acceptance rate 0.442
+Batch number 485
+Acceptance rate 0.442
+Batch number 486
+Acceptance rate 0.442
+Batch number 487
+Acceptance rate 0.441
+Batch number 488
+Acceptance rate 0.441
+Batch number 489
+Acceptance rate 0.441
+Batch number 490
+Acceptance rate 0.441
+Batch number 491
+Acceptance rate 0.441
+Batch number 492
+Acceptance rate 0.44
+Batch number 493
+Acceptance rate 0.44
+Batch number 494
+Acceptance rate 0.44
+Batch number 495
+Acceptance rate 0.439
+Batch number 496
+Acceptance rate 0.439
+Batch number 497
+Acceptance rate 0.439
+Batch number 498
+Acceptance rate 0.439
+Batch number 499
+Acceptance rate 0.439
+Batch number 500
+Acceptance rate 0.438
+Batch number 501
+Acceptance rate 0.438
+Batch number 502
+Acceptance rate 0.438
+Batch number 503
+Acceptance rate 0.438
+Batch number 504
+Acceptance rate 0.437
+Batch number 505
+Acceptance rate 0.437
+Batch number 506
+Acceptance rate 0.437
+Batch number 507
+Acceptance rate 0.437
+Batch number 508
+Acceptance rate 0.436
+Batch number 509
+Acceptance rate 0.436
+Batch number 510
+Acceptance rate 0.436
+Batch number 511
+Acceptance rate 0.436
+Batch number 512
+Acceptance rate 0.435
+Batch number 513
+Acceptance rate 0.435
+Batch number 514
+Acceptance rate 0.435
+Batch number 515
+Acceptance rate 0.435
+Batch number 516
+Acceptance rate 0.435
+Batch number 517
+Acceptance rate 0.434
+Batch number 518
+Acceptance rate 0.434
+Batch number 519
+Acceptance rate 0.434
+Batch number 520
+Acceptance rate 0.434
+Batch number 521
+Acceptance rate 0.433
+Batch number 522
+Acceptance rate 0.433
+Batch number 523
+Acceptance rate 0.433
+Batch number 524
+Acceptance rate 0.433
+Batch number 525
+Acceptance rate 0.432
+Batch number 526
+Acceptance rate 0.432
+Batch number 527
+Acceptance rate 0.432
+Batch number 528
+Acceptance rate 0.432
+Batch number 529
+Acceptance rate 0.432
+Batch number 530
+Acceptance rate 0.432
+Batch number 531
+Acceptance rate 0.431
+Batch number 532
+Acceptance rate 0.431
+Batch number 533
+Acceptance rate 0.431
+Batch number 534
+Acceptance rate 0.431
+Batch number 535
+Acceptance rate 0.43
+Batch number 536
+Acceptance rate 0.43
+Batch number 537
+Acceptance rate 0.43
+Batch number 538
+Acceptance rate 0.43
+Batch number 539
+Acceptance rate 0.43
+Batch number 540
+Acceptance rate 0.429
+Batch number 541
+Acceptance rate 0.429
+Batch number 542
+Acceptance rate 0.429
+Batch number 543
+Acceptance rate 0.429
+Batch number 544
+Acceptance rate 0.429
+Batch number 545
+Acceptance rate 0.428
+Batch number 546
+Acceptance rate 0.428
+Batch number 547
+Acceptance rate 0.428
+Batch number 548
+Acceptance rate 0.428
+Batch number 549
+Acceptance rate 0.427
+Batch number 550
+Acceptance rate 0.427
+Batch number 551
+Acceptance rate 0.427
+Batch number 552
+Acceptance rate 0.427
+Batch number 553
+Acceptance rate 0.427
+Batch number 554
+Acceptance rate 0.426
+Batch number 555
+Acceptance rate 0.426
+Batch number 556
+Acceptance rate 0.426
+Batch number 557
+Acceptance rate 0.426
+Batch number 558
+Acceptance rate 0.426
+Batch number 559
+Acceptance rate 0.426
+Batch number 560
+Acceptance rate 0.425
+Batch number 561
+Acceptance rate 0.425
+Batch number 562
+Acceptance rate 0.425
+Batch number 563
+Acceptance rate 0.425
+Batch number 564
+Acceptance rate 0.425
+Batch number 565
+Acceptance rate 0.424
+Batch number 566
+Acceptance rate 0.424
+Batch number 567
+Acceptance rate 0.424
+Batch number 568
+Acceptance rate 0.424
+Batch number 569
+Acceptance rate 0.423
+Batch number 570
+Acceptance rate 0.423
+Batch number 571
+Acceptance rate 0.423
+Batch number 572
+Acceptance rate 0.423
+Batch number 573
+Acceptance rate 0.423
+Batch number 574
+Acceptance rate 0.422
+Batch number 575
+Acceptance rate 0.422
+Batch number 576
+Acceptance rate 0.422
+Batch number 577
+Acceptance rate 0.422
+Batch number 578
+Acceptance rate 0.422
+Batch number 579
+Acceptance rate 0.421
+Batch number 580
+Acceptance rate 0.421
+Batch number 581
+Acceptance rate 0.421
+Batch number 582
+Acceptance rate 0.421
+Batch number 583
+Acceptance rate 0.421
+Batch number 584
+Acceptance rate 0.421
+Batch number 585
+Acceptance rate 0.42
+Batch number 586
+Acceptance rate 0.42
+Batch number 587
+Acceptance rate 0.42
+Batch number 588
+Acceptance rate 0.42
+Batch number 589
+Acceptance rate 0.42
+Batch number 590
+Acceptance rate 0.42
+Batch number 591
+Acceptance rate 0.419
+Batch number 592
+Acceptance rate 0.419
+Batch number 593
+Acceptance rate 0.419
+Batch number 594
+Acceptance rate 0.419
+Batch number 595
+Acceptance rate 0.419
+Batch number 596
+Acceptance rate 0.418
+Batch number 597
+Acceptance rate 0.418
+Batch number 598
+Acceptance rate 0.418
+Batch number 599
+Acceptance rate 0.418
+Batch number 600
+Acceptance rate 0.418
+Batch number 601
+Acceptance rate 0.418
+Batch number 602
+Acceptance rate 0.417
+Batch number 603
+Acceptance rate 0.417
+Batch number 604
+Acceptance rate 0.417
+Batch number 605
+Acceptance rate 0.417
+Batch number 606
+Acceptance rate 0.417
+Batch number 607
+Acceptance rate 0.416
+Batch number 608
+Acceptance rate 0.416
+Batch number 609
+Acceptance rate 0.416
+Batch number 610
+Acceptance rate 0.416
+Batch number 611
+Acceptance rate 0.416
+Batch number 612
+Acceptance rate 0.416
+Batch number 613
+Acceptance rate 0.415
+Batch number 614
+Acceptance rate 0.415
+Batch number 615
+Acceptance rate 0.415
+Batch number 616
+Acceptance rate 0.415
+Batch number 617
+Acceptance rate 0.415
+Batch number 618
+Acceptance rate 0.415
+Batch number 619
+Acceptance rate 0.414
+Batch number 620
+Acceptance rate 0.414
+Batch number 621
+Acceptance rate 0.414
+Batch number 622
+Acceptance rate 0.414
+Batch number 623
+Acceptance rate 0.414
+Batch number 624
+Acceptance rate 0.414
+Batch number 625
+Acceptance rate 0.414
+Batch number 626
+Acceptance rate 0.413
+Batch number 627
+Acceptance rate 0.413
+Batch number 628
+Acceptance rate 0.413
+Batch number 629
+Acceptance rate 0.413
+Batch number 630
+Acceptance rate 0.413
+Batch number 631
+Acceptance rate 0.413
+Batch number 632
+Acceptance rate 0.412
+Batch number 633
+Acceptance rate 0.412
+Batch number 634
+Acceptance rate 0.412
+Batch number 635
+Acceptance rate 0.412
+Batch number 636
+Acceptance rate 0.412
+Batch number 637
+Acceptance rate 0.411
+Batch number 638
+Acceptance rate 0.411
+Batch number 639
+Acceptance rate 0.411
+Batch number 640
+Acceptance rate 0.411
+Batch number 641
+Acceptance rate 0.411
+Batch number 642
+Acceptance rate 0.41
+Batch number 643
+Acceptance rate 0.41
+Batch number 644
+Acceptance rate 0.41
+Batch number 645
+Acceptance rate 0.41
+Batch number 646
+Acceptance rate 0.41
+Batch number 647
+Acceptance rate 0.41
+Batch number 648
+Acceptance rate 0.41
+Batch number 649
+Acceptance rate 0.409
+Batch number 650
+Acceptance rate 0.409
+Batch number 651
+Acceptance rate 0.409
+Batch number 652
+Acceptance rate 0.409
+Batch number 653
+Acceptance rate 0.409
+Batch number 654
+Acceptance rate 0.408
+Batch number 655
+Acceptance rate 0.408
+Batch number 656
+Acceptance rate 0.408
+Batch number 657
+Acceptance rate 0.408
+Batch number 658
+Acceptance rate 0.408
+Batch number 659
+Acceptance rate 0.408
+Batch number 660
+Acceptance rate 0.408
+Batch number 661
+Acceptance rate 0.408
+Batch number 662
+Acceptance rate 0.408
+Batch number 663
+Acceptance rate 0.408
+Batch number 664
+Acceptance rate 0.408
+Batch number 665
+Acceptance rate 0.407
+Batch number 666
+Acceptance rate 0.407
+Batch number 667
+Acceptance rate 0.407
+Batch number 668
+Acceptance rate 0.407
+Batch number 669
+Acceptance rate 0.407
+Batch number 670
+Acceptance rate 0.406
+Batch number 671
+Acceptance rate 0.406
+Batch number 672
+Acceptance rate 0.406
+Batch number 673
+Acceptance rate 0.406
+Batch number 674
+Acceptance rate 0.406
+Batch number 675
+Acceptance rate 0.406
+Batch number 676
+Acceptance rate 0.405
+Batch number 677
+Acceptance rate 0.405
+Batch number 678
+Acceptance rate 0.405
+Batch number 679
+Acceptance rate 0.405
+Batch number 680
+Acceptance rate 0.405
+Batch number 681
+Acceptance rate 0.405
+Batch number 682
+Acceptance rate 0.405
+Batch number 683
+Acceptance rate 0.405
+Batch number 684
+Acceptance rate 0.405
+Batch number 685
+Acceptance rate 0.404
+Batch number 686
+Acceptance rate 0.404
+Batch number 687
+Acceptance rate 0.404
+Batch number 688
+Acceptance rate 0.404
+Batch number 689
+Acceptance rate 0.404
+Batch number 690
+Acceptance rate 0.404
+Batch number 691
+Acceptance rate 0.404
+Batch number 692
+Acceptance rate 0.403
+Batch number 693
+Acceptance rate 0.403
+Batch number 694
+Acceptance rate 0.403
+Batch number 695
+Acceptance rate 0.403
+Batch number 696
+Acceptance rate 0.403
+Batch number 697
+Acceptance rate 0.403
+Batch number 698
+Acceptance rate 0.402
+Batch number 699
+Acceptance rate 0.402
+Batch number 700
+Acceptance rate 0.402
+Batch number 701
+Acceptance rate 0.402
+Batch number 702
+Acceptance rate 0.402
+Batch number 703
+Acceptance rate 0.401
+Batch number 704
+Acceptance rate 0.401
+Batch number 705
+Acceptance rate 0.401
+Batch number 706
+Acceptance rate 0.401
+Batch number 707
+Acceptance rate 0.401
+Batch number 708
+Acceptance rate 0.401
+Batch number 709
+Acceptance rate 0.401
+Batch number 710
+Acceptance rate 0.401
+Batch number 711
+Acceptance rate 0.4
+Batch number 712
+Acceptance rate 0.4
+Batch number 713
+Acceptance rate 0.4
+Batch number 714
+Acceptance rate 0.4
+Batch number 715
+Acceptance rate 0.4
+Batch number 716
+Acceptance rate 0.4
+Batch number 717
+Acceptance rate 0.4
+Batch number 718
+Acceptance rate 0.399
+Batch number 719
+Acceptance rate 0.399
+Batch number 720
+Acceptance rate 0.399
+Batch number 721
+Acceptance rate 0.399
+Batch number 722
+Acceptance rate 0.399
+Batch number 723
+Acceptance rate 0.399
+Batch number 724
+Acceptance rate 0.399
+Batch number 725
+Acceptance rate 0.399
+Batch number 726
+Acceptance rate 0.399
+Batch number 727
+Acceptance rate 0.398
+Batch number 728
+Acceptance rate 0.398
+Batch number 729
+Acceptance rate 0.398
+Batch number 730
+Acceptance rate 0.398
+Batch number 731
+Acceptance rate 0.398
+Batch number 732
+Acceptance rate 0.398
+Batch number 733
+Acceptance rate 0.398
+Batch number 734
+Acceptance rate 0.398
+Batch number 735
+Acceptance rate 0.398
+Batch number 736
+Acceptance rate 0.397
+Batch number 737
+Acceptance rate 0.397
+Batch number 738
+Acceptance rate 0.397
+Batch number 739
+Acceptance rate 0.397
+Batch number 740
+Acceptance rate 0.397
+Batch number 741
+Acceptance rate 0.397
+Batch number 742
+Acceptance rate 0.396
+Batch number 743
+Acceptance rate 0.396
+Batch number 744
+Acceptance rate 0.396
+Batch number 745
+Acceptance rate 0.396
+Batch number 746
+Acceptance rate 0.396
+Batch number 747
+Acceptance rate 0.396
+Batch number 748
+Acceptance rate 0.396
+Batch number 749
+Acceptance rate 0.396
+Batch number 750
+Acceptance rate 0.396
+Batch number 751
+Acceptance rate 0.396
+Batch number 752
+Acceptance rate 0.395
+Batch number 753
+Acceptance rate 0.395
+Batch number 754
+Acceptance rate 0.395
+Batch number 755
+Acceptance rate 0.395
+Batch number 756
+Acceptance rate 0.395
+Batch number 757
+Acceptance rate 0.395
+Batch number 758
+Acceptance rate 0.395
+Batch number 759
+Acceptance rate 0.395
+Batch number 760
+Acceptance rate 0.395
+Batch number 761
+Acceptance rate 0.395
+Batch number 762
+Acceptance rate 0.395
+Batch number 763
+Acceptance rate 0.394
+Batch number 764
+Acceptance rate 0.394
+Batch number 765
+Acceptance rate 0.394
+Batch number 766
+Acceptance rate 0.394
+Batch number 767
+Acceptance rate 0.394
+Batch number 768
+Acceptance rate 0.394
+Batch number 769
+Acceptance rate 0.394
+Batch number 770
+Acceptance rate 0.394
+Batch number 771
+Acceptance rate 0.394
+Batch number 772
+Acceptance rate 0.394
+Batch number 773
+Acceptance rate 0.393
+Batch number 774
+Acceptance rate 0.393
+Batch number 775
+Acceptance rate 0.393
+Batch number 776
+Acceptance rate 0.393
+Batch number 777
+Acceptance rate 0.393
+Batch number 778
+Acceptance rate 0.393
+Batch number 779
+Acceptance rate 0.393
+Batch number 780
+Acceptance rate 0.393
+Batch number 781
+Acceptance rate 0.393
+Batch number 782
+Acceptance rate 0.393
+Batch number 783
+Acceptance rate 0.392
+Batch number 784
+Acceptance rate 0.392
+Batch number 785
+Acceptance rate 0.392
+Batch number 786
+Acceptance rate 0.392
+Batch number 787
+Acceptance rate 0.392
+Batch number 788
+Acceptance rate 0.392
+Batch number 789
+Acceptance rate 0.392
+Batch number 790
+Acceptance rate 0.392
+Batch number 791
+Acceptance rate 0.392
+Batch number 792
+Acceptance rate 0.392
+Batch number 793
+Acceptance rate 0.391
+Batch number 794
+Acceptance rate 0.391
+Batch number 795
+Acceptance rate 0.391
+Batch number 796
+Acceptance rate 0.391
+Batch number 797
+Acceptance rate 0.391
+Batch number 798
+Acceptance rate 0.391
+Batch number 799
+Acceptance rate 0.391
+Batch number 800
+Acceptance rate 0.391
+Batch number 801
+Acceptance rate 0.39
+Batch number 802
+Acceptance rate 0.39
+Batch number 803
+Acceptance rate 0.39
+Batch number 804
+Acceptance rate 0.39
+Batch number 805
+Acceptance rate 0.39
+Batch number 806
+Acceptance rate 0.39
+Batch number 807
+Acceptance rate 0.39
+Batch number 808
+Acceptance rate 0.39
+Batch number 809
+Acceptance rate 0.39
+Batch number 810
+Acceptance rate 0.39
+Batch number 811
+Acceptance rate 0.39
+Batch number 812
+Acceptance rate 0.39
+Batch number 813
+Acceptance rate 0.389
+Batch number 814
+Acceptance rate 0.389
+Batch number 815
+Acceptance rate 0.389
+Batch number 816
+Acceptance rate 0.389
+Batch number 817
+Acceptance rate 0.389
+Batch number 818
+Acceptance rate 0.389
+Batch number 819
+Acceptance rate 0.389
+Batch number 820
+Acceptance rate 0.389
+Batch number 821
+Acceptance rate 0.389
+Batch number 822
+Acceptance rate 0.388
+Batch number 823
+Acceptance rate 0.388
+Batch number 824
+Acceptance rate 0.388
+Batch number 825
+Acceptance rate 0.388
+Batch number 826
+Acceptance rate 0.388
+Batch number 827
+Acceptance rate 0.388
+Batch number 828
+Acceptance rate 0.388
+Batch number 829
+Acceptance rate 0.388
+Batch number 830
+Acceptance rate 0.387
+Batch number 831
+Acceptance rate 0.387
+Batch number 832
+Acceptance rate 0.387
+Batch number 833
+Acceptance rate 0.387
+Batch number 834
+Acceptance rate 0.387
+Batch number 835
+Acceptance rate 0.387
+Batch number 836
+Acceptance rate 0.387
+Batch number 837
+Acceptance rate 0.387
+Batch number 838
+Acceptance rate 0.387
+Batch number 839
+Acceptance rate 0.386
+Batch number 840
+Acceptance rate 0.386
+Batch number 841
+Acceptance rate 0.386
+Batch number 842
+Acceptance rate 0.386
+Batch number 843
+Acceptance rate 0.386
+Batch number 844
+Acceptance rate 0.386
+Batch number 845
+Acceptance rate 0.386
+Batch number 846
+Acceptance rate 0.386
+Batch number 847
+Acceptance rate 0.386
+Batch number 848
+Acceptance rate 0.386
+Batch number 849
+Acceptance rate 0.386
+Batch number 850
+Acceptance rate 0.386
+Batch number 851
+Acceptance rate 0.386
+Batch number 852
+Acceptance rate 0.386
+Batch number 853
+Acceptance rate 0.386
+Batch number 854
+Acceptance rate 0.386
+Batch number 855
+Acceptance rate 0.386
+Batch number 856
+Acceptance rate 0.386
+Batch number 857
+Acceptance rate 0.385
+Batch number 858
+Acceptance rate 0.385
+Batch number 859
+Acceptance rate 0.385
+Batch number 860
+Acceptance rate 0.385
+Batch number 861
+Acceptance rate 0.385
+Batch number 862
+Acceptance rate 0.385
+Batch number 863
+Acceptance rate 0.385
+Batch number 864
+Acceptance rate 0.385
+Batch number 865
+Acceptance rate 0.385
+Batch number 866
+Acceptance rate 0.385
+Batch number 867
+Acceptance rate 0.385
+Batch number 868
+Acceptance rate 0.385
+Batch number 869
+Acceptance rate 0.385
+Batch number 870
+Acceptance rate 0.384
+Batch number 871
+Acceptance rate 0.384
+Batch number 872
+Acceptance rate 0.384
+Batch number 873
+Acceptance rate 0.384
+Batch number 874
+Acceptance rate 0.384
+Batch number 875
+Acceptance rate 0.384
+Batch number 876
+Acceptance rate 0.384
+Batch number 877
+Acceptance rate 0.384
+Batch number 878
+Acceptance rate 0.384
+Batch number 879
+Acceptance rate 0.384
+Batch number 880
+Acceptance rate 0.384
+Batch number 881
+Acceptance rate 0.383
+Batch number 882
+Acceptance rate 0.383
+Batch number 883
+Acceptance rate 0.383
+Batch number 884
+Acceptance rate 0.383
+Batch number 885
+Acceptance rate 0.383
+Batch number 886
+Acceptance rate 0.383
+Batch number 887
+Acceptance rate 0.383
+Batch number 888
+Acceptance rate 0.383
+Batch number 889
+Acceptance rate 0.383
+Batch number 890
+Acceptance rate 0.383
+Batch number 891
+Acceptance rate 0.383
+Batch number 892
+Acceptance rate 0.383
+Batch number 893
+Acceptance rate 0.382
+Batch number 894
+Acceptance rate 0.382
+Batch number 895
+Acceptance rate 0.382
+Batch number 896
+Acceptance rate 0.382
+Batch number 897
+Acceptance rate 0.382
+Batch number 898
+Acceptance rate 0.382
+Batch number 899
+Acceptance rate 0.382
+Batch number 900
+Acceptance rate 0.382
+Batch number 901
+Acceptance rate 0.382
+Batch number 902
+Acceptance rate 0.382
+Batch number 903
+Acceptance rate 0.382
+Batch number 904
+Acceptance rate 0.382
+Batch number 905
+Acceptance rate 0.382
+Batch number 906
+Acceptance rate 0.382
+Batch number 907
+Acceptance rate 0.381
+Batch number 908
+Acceptance rate 0.381
+Batch number 909
+Acceptance rate 0.381
+Batch number 910
+Acceptance rate 0.381
+Batch number 911
+Acceptance rate 0.381
+Batch number 912
+Acceptance rate 0.381
+Batch number 913
+Acceptance rate 0.381
+Batch number 914
+Acceptance rate 0.381
+Batch number 915
+Acceptance rate 0.381
+Batch number 916
+Acceptance rate 0.381
+Batch number 917
+Acceptance rate 0.381
+Batch number 918
+Acceptance rate 0.381
+Batch number 919
+Acceptance rate 0.381
+Batch number 920
+Acceptance rate 0.381
+Batch number 921
+Acceptance rate 0.381
+Batch number 922
+Acceptance rate 0.381
+Batch number 923
+Acceptance rate 0.381
+Batch number 924
+Acceptance rate 0.381
+Batch number 925
+Acceptance rate 0.381
+Batch number 926
+Acceptance rate 0.381
+Batch number 927
+Acceptance rate 0.381
+Batch number 928
+Acceptance rate 0.381
+Batch number 929
+Acceptance rate 0.381
+Batch number 930
+Acceptance rate 0.38
+Batch number 931
+Acceptance rate 0.38
+Batch number 932
+Acceptance rate 0.38
+Batch number 933
+Acceptance rate 0.38
+Batch number 934
+Acceptance rate 0.38
+Batch number 935
+Acceptance rate 0.38
+Batch number 936
+Acceptance rate 0.38
+Batch number 937
+Acceptance rate 0.38
+Batch number 938
+Acceptance rate 0.38
+Batch number 939
+Acceptance rate 0.38
+Batch number 940
+Acceptance rate 0.38
+Batch number 941
+Acceptance rate 0.38
+Batch number 942
+Acceptance rate 0.38
+Batch number 943
+Acceptance rate 0.38
+Batch number 944
+Acceptance rate 0.38
+Batch number 945
+Acceptance rate 0.38
+Batch number 946
+Acceptance rate 0.38
+Batch number 947
+Acceptance rate 0.38
+Batch number 948
+Acceptance rate 0.38
+Batch number 949
+Acceptance rate 0.38
+Batch number 950
+Acceptance rate 0.379
+Batch number 951
+Acceptance rate 0.379
+Batch number 952
+Acceptance rate 0.379
+Batch number 953
+Acceptance rate 0.379
+Batch number 954
+Acceptance rate 0.379
+Batch number 955
+Acceptance rate 0.379
+Batch number 956
+Acceptance rate 0.379
+Batch number 957
+Acceptance rate 0.379
+Batch number 958
+Acceptance rate 0.379
+Batch number 959
+Acceptance rate 0.379
+Batch number 960
+Acceptance rate 0.379
+Batch number 961
+Acceptance rate 0.379
+Batch number 962
+Acceptance rate 0.379
+Batch number 963
+Acceptance rate 0.379
+Batch number 964
+Acceptance rate 0.379
+Batch number 965
+Acceptance rate 0.379
+Batch number 966
+Acceptance rate 0.379
+Batch number 967
+Acceptance rate 0.379
+Batch number 968
+Acceptance rate 0.379
+Batch number 969
+Acceptance rate 0.379
+Batch number 970
+Acceptance rate 0.379
+Batch number 971
+Acceptance rate 0.379
+Batch number 972
+Acceptance rate 0.379
+Batch number 973
+Acceptance rate 0.379
+Batch number 974
+Acceptance rate 0.38
+Batch number 975
+Acceptance rate 0.38
+Batch number 976
+Acceptance rate 0.38
+Batch number 977
+Acceptance rate 0.38
+Batch number 978
+Acceptance rate 0.38
+Batch number 979
+Acceptance rate 0.38
+Batch number 980
+Acceptance rate 0.38
+Batch number 981
+Acceptance rate 0.38
+Batch number 982
+Acceptance rate 0.38
+Batch number 983
+Acceptance rate 0.38
+Batch number 984
+Acceptance rate 0.38
+Batch number 985
+Acceptance rate 0.38
+Batch number 986
+Acceptance rate 0.38
+Batch number 987
+Acceptance rate 0.38
+Batch number 988
+Acceptance rate 0.379
+Batch number 989
+Acceptance rate 0.379
+Batch number 990
+Acceptance rate 0.379
+Batch number 991
+Acceptance rate 0.379
+Batch number 992
+Acceptance rate 0.379
+Batch number 993
+Acceptance rate 0.379
+Batch number 994
+Acceptance rate 0.379
+Batch number 995
+Acceptance rate 0.379
+Batch number 996
+Acceptance rate 0.379
+Batch number 997
+Acceptance rate 0.379
+Batch number 998
+Acceptance rate 0.379
+Batch number 999
+Acceptance rate 0.379
+Batch number 1000
+Acceptance rate 0.379
+Batch number 1001
+Acceptance rate 0.379
+Batch number 1002
+Acceptance rate 0.379
+Batch number 1003
+Acceptance rate 0.379
+Batch number 1004
+Acceptance rate 0.379
+Batch number 1005
+Acceptance rate 0.379
+Batch number 1006
+Acceptance rate 0.379
+Batch number 1007
+Acceptance rate 0.379
+Batch number 1008
+Acceptance rate 0.379
+Batch number 1009
+Acceptance rate 0.379
+Batch number 1010
+Acceptance rate 0.379
+Batch number 1011
+Acceptance rate 0.379
+Batch number 1012
+Acceptance rate 0.379
+Batch number 1013
+Acceptance rate 0.378
+Batch number 1014
+Acceptance rate 0.378
+Batch number 1015
+Acceptance rate 0.378
+Batch number 1016
+Acceptance rate 0.378
+Batch number 1017
+Acceptance rate 0.378
+Batch number 1018
+Acceptance rate 0.378
+Batch number 1019
+Acceptance rate 0.378
+Batch number 1020
+Acceptance rate 0.378
+Batch number 1021
+Acceptance rate 0.378
+Batch number 1022
+Acceptance rate 0.378
+Batch number 1023
+Acceptance rate 0.378
+Batch number 1024
+Acceptance rate 0.377
+Batch number 1025
+Acceptance rate 0.377
+Batch number 1026
+Acceptance rate 0.377
+Batch number 1027
+Acceptance rate 0.377
+Batch number 1028
+Acceptance rate 0.377
+Batch number 1029
+Acceptance rate 0.377
+Batch number 1030
+Acceptance rate 0.377
+Batch number 1031
+Acceptance rate 0.377
+Batch number 1032
+Acceptance rate 0.377
+Batch number 1033
+Acceptance rate 0.377
+Batch number 1034
+Acceptance rate 0.376
+Batch number 1035
+Acceptance rate 0.376
+Batch number 1036
+Acceptance rate 0.376
+Batch number 1037
+Acceptance rate 0.376
+Batch number 1038
+Acceptance rate 0.376
+Batch number 1039
+Acceptance rate 0.376
+Batch number 1040
+Acceptance rate 0.376
+Batch number 1041
+Acceptance rate 0.376
+Batch number 1042
+Acceptance rate 0.376
+Batch number 1043
+Acceptance rate 0.376
+Batch number 1044
+Acceptance rate 0.375
+Batch number 1045
+Acceptance rate 0.375
+Batch number 1046
+Acceptance rate 0.375
+Batch number 1047
+Acceptance rate 0.375
+Batch number 1048
+Acceptance rate 0.375
+Batch number 1049
+Acceptance rate 0.375
+Batch number 1050
+Acceptance rate 0.375
+Batch number 1051
+Acceptance rate 0.375
+Batch number 1052
+Acceptance rate 0.374
+Batch number 1053
+Acceptance rate 0.374
+Batch number 1054
+Acceptance rate 0.374
+Batch number 1055
+Acceptance rate 0.374
+Batch number 1056
+Acceptance rate 0.374
+Batch number 1057
+Acceptance rate 0.374
+Batch number 1058
+Acceptance rate 0.374
+Batch number 1059
+Acceptance rate 0.374
+Batch number 1060
+Acceptance rate 0.374
+Batch number 1061
+Acceptance rate 0.374
+Batch number 1062
+Acceptance rate 0.373
+Batch number 1063
+Acceptance rate 0.373
+Batch number 1064
+Acceptance rate 0.373
+Batch number 1065
+Acceptance rate 0.373
+Batch number 1066
+Acceptance rate 0.373
+Batch number 1067
+Acceptance rate 0.373
+Batch number 1068
+Acceptance rate 0.373
+Batch number 1069
+Acceptance rate 0.373
+Batch number 1070
+Acceptance rate 0.372
+Batch number 1071
+Acceptance rate 0.372
+Batch number 1072
+Acceptance rate 0.372
+Batch number 1073
+Acceptance rate 0.372
+Batch number 1074
+Acceptance rate 0.372
+Batch number 1075
+Acceptance rate 0.372
+Batch number 1076
+Acceptance rate 0.372
+Batch number 1077
+Acceptance rate 0.372
+Batch number 1078
+Acceptance rate 0.371
+Batch number 1079
+Acceptance rate 0.371
+Batch number 1080
+Acceptance rate 0.371
+Batch number 1081
+Acceptance rate 0.371
+Batch number 1082
+Acceptance rate 0.371
+Batch number 1083
+Acceptance rate 0.371
+Batch number 1084
+Acceptance rate 0.371
+Batch number 1085
+Acceptance rate 0.371
+Batch number 1086
+Acceptance rate 0.37
+Batch number 1087
+Acceptance rate 0.37
+Batch number 1088
+Acceptance rate 0.37
+Batch number 1089
+Acceptance rate 0.37
+Batch number 1090
+Acceptance rate 0.37
+Batch number 1091
+Acceptance rate 0.37
+Batch number 1092
+Acceptance rate 0.37
+Batch number 1093
+Acceptance rate 0.37
+Batch number 1094
+Acceptance rate 0.369
+Batch number 1095
+Acceptance rate 0.369
+Batch number 1096
+Acceptance rate 0.369
+Batch number 1097
+Acceptance rate 0.369
+Batch number 1098
+Acceptance rate 0.369
+Batch number 1099
+Acceptance rate 0.369
+Batch number 1100
+Acceptance rate 0.369
+Batch number 1101
+Acceptance rate 0.369
+Batch number 1102
+Acceptance rate 0.368
+Batch number 1103
+Acceptance rate 0.368
+Batch number 1104
+Acceptance rate 0.368
+Batch number 1105
+Acceptance rate 0.368
+Batch number 1106
+Acceptance rate 0.368
+Batch number 1107
+Acceptance rate 0.368
+Batch number 1108
+Acceptance rate 0.368
+Batch number 1109
+Acceptance rate 0.368
+Batch number 1110
+Acceptance rate 0.367
+Batch number 1111
+Acceptance rate 0.367
+Batch number 1112
+Acceptance rate 0.367
+Batch number 1113
+Acceptance rate 0.367
+Batch number 1114
+Acceptance rate 0.367
+Batch number 1115
+Acceptance rate 0.367
+Batch number 1116
+Acceptance rate 0.366
+Batch number 1117
+Acceptance rate 0.366
+Batch number 1118
+Acceptance rate 0.366
+Batch number 1119
+Acceptance rate 0.366
+Batch number 1120
+Acceptance rate 0.366
+Batch number 1121
+Acceptance rate 0.366
+Batch number 1122
+Acceptance rate 0.366
+Batch number 1123
+Acceptance rate 0.366
+Batch number 1124
+Acceptance rate 0.365
+Batch number 1125
+Acceptance rate 0.365
+Batch number 1126
+Acceptance rate 0.365
+Batch number 1127
+Acceptance rate 0.365
+Batch number 1128
+Acceptance rate 0.365
+Batch number 1129
+Acceptance rate 0.365
+Batch number 1130
+Acceptance rate 0.365
+Batch number 1131
+Acceptance rate 0.364
+Batch number 1132
+Acceptance rate 0.364
+Batch number 1133
+Acceptance rate 0.364
+Batch number 1134
+Acceptance rate 0.364
+Batch number 1135
+Acceptance rate 0.364
+Batch number 1136
+Acceptance rate 0.364
+Batch number 1137
+Acceptance rate 0.364
+Batch number 1138
+Acceptance rate 0.364
+Batch number 1139
+Acceptance rate 0.363
+Batch number 1140
+Acceptance rate 0.363
+Batch number 1141
+Acceptance rate 0.363
+Batch number 1142
+Acceptance rate 0.363
+Batch number 1143
+Acceptance rate 0.363
+Batch number 1144
+Acceptance rate 0.363
+Batch number 1145
+Acceptance rate 0.363
+Batch number 1146
+Acceptance rate 0.363
+Batch number 1147
+Acceptance rate 0.363
+Batch number 1148
+Acceptance rate 0.363
+Batch number 1149
+Acceptance rate 0.362
+Batch number 1150
+Acceptance rate 0.362
+Batch number 1151
+Acceptance rate 0.362
+Batch number 1152
+Acceptance rate 0.362
+Batch number 1153
+Acceptance rate 0.362
+Batch number 1154
+Acceptance rate 0.362
+Batch number 1155
+Acceptance rate 0.362
+Batch number 1156
+Acceptance rate 0.361
+Batch number 1157
+Acceptance rate 0.361
+Batch number 1158
+Acceptance rate 0.361
+Batch number 1159
+Acceptance rate 0.361
+Batch number 1160
+Acceptance rate 0.361
+Batch number 1161
+Acceptance rate 0.361
+Batch number 1162
+Acceptance rate 0.361
+Batch number 1163
+Acceptance rate 0.361
+Batch number 1164
+Acceptance rate 0.361
+Batch number 1165
+Acceptance rate 0.36
+Batch number 1166
+Acceptance rate 0.36
+Batch number 1167
+Acceptance rate 0.36
+Batch number 1168
+Acceptance rate 0.36
+Batch number 1169
+Acceptance rate 0.36
+Batch number 1170
+Acceptance rate 0.36
+Batch number 1171
+Acceptance rate 0.36
+Batch number 1172
+Acceptance rate 0.359
+Batch number 1173
+Acceptance rate 0.359
+Batch number 1174
+Acceptance rate 0.359
+Batch number 1175
+Acceptance rate 0.359
+Batch number 1176
+Acceptance rate 0.359
+Batch number 1177
+Acceptance rate 0.359
+Batch number 1178
+Acceptance rate 0.359
+Batch number 1179
+Acceptance rate 0.359
+Batch number 1180
+Acceptance rate 0.359
+Batch number 1181
+Acceptance rate 0.359
+Batch number 1182
+Acceptance rate 0.358
+Batch number 1183
+Acceptance rate 0.358
+Batch number 1184
+Acceptance rate 0.358
+Batch number 1185
+Acceptance rate 0.358
+Batch number 1186
+Acceptance rate 0.358
+Batch number 1187
+Acceptance rate 0.358
+Batch number 1188
+Acceptance rate 0.358
+Batch number 1189
+Acceptance rate 0.358
+Batch number 1190
+Acceptance rate 0.357
+Batch number 1191
+Acceptance rate 0.357
+Batch number 1192
+Acceptance rate 0.357
+Batch number 1193
+Acceptance rate 0.357
+Batch number 1194
+Acceptance rate 0.357
+Batch number 1195
+Acceptance rate 0.357
+Batch number 1196
+Acceptance rate 0.357
+Batch number 1197
+Acceptance rate 0.357
+Batch number 1198
+Acceptance rate 0.357
+Batch number 1199
+Acceptance rate 0.356
+Batch number 1200
+Acceptance rate 0.356
+Batch number 1201
+Acceptance rate 0.356
+Batch number 1202
+Acceptance rate 0.356
+Batch number 1203
+Acceptance rate 0.356
+Batch number 1204
+Acceptance rate 0.356
+Batch number 1205
+Acceptance rate 0.355
+Batch number 1206
+Acceptance rate 0.355
+Batch number 1207
+Acceptance rate 0.355
+Batch number 1208
+Acceptance rate 0.355
+Batch number 1209
+Acceptance rate 0.355
+Batch number 1210
+Acceptance rate 0.355
+Batch number 1211
+Acceptance rate 0.355
+Batch number 1212
+Acceptance rate 0.355
+Batch number 1213
+Acceptance rate 0.355
+Batch number 1214
+Acceptance rate 0.355
+Batch number 1215
+Acceptance rate 0.354
+Batch number 1216
+Acceptance rate 0.354
+Batch number 1217
+Acceptance rate 0.354
+Batch number 1218
+Acceptance rate 0.354
+Batch number 1219
+Acceptance rate 0.354
+Batch number 1220
+Acceptance rate 0.354
+Batch number 1221
+Acceptance rate 0.354
+Batch number 1222
+Acceptance rate 0.353
+Batch number 1223
+Acceptance rate 0.353
+Batch number 1224
+Acceptance rate 0.353
+Batch number 1225
+Acceptance rate 0.353
+Batch number 1226
+Acceptance rate 0.353
+Batch number 1227
+Acceptance rate 0.353
+Batch number 1228
+Acceptance rate 0.353
+Batch number 1229
+Acceptance rate 0.353
+Batch number 1230
+Acceptance rate 0.353
+Batch number 1231
+Acceptance rate 0.353
+Batch number 1232
+Acceptance rate 0.353
+Batch number 1233
+Acceptance rate 0.353
+Batch number 1234
+Acceptance rate 0.352
+Batch number 1235
+Acceptance rate 0.352
+Batch number 1236
+Acceptance rate 0.352
+Batch number 1237
+Acceptance rate 0.352
+Batch number 1238
+Acceptance rate 0.352
+Batch number 1239
+Acceptance rate 0.352
+Batch number 1240
+Acceptance rate 0.352
+Batch number 1241
+Acceptance rate 0.352
+Batch number 1242
+Acceptance rate 0.352
+Batch number 1243
+Acceptance rate 0.351
+Batch number 1244
+Acceptance rate 0.351
+Batch number 1245
+Acceptance rate 0.351
+Batch number 1246
+Acceptance rate 0.351
+Batch number 1247
+Acceptance rate 0.351
+Batch number 1248
+Acceptance rate 0.351
+Batch number 1249
+Acceptance rate 0.351
+Batch number 1250
+Acceptance rate 0.351
+Batch number 1251
+Acceptance rate 0.351
+Batch number 1252
+Acceptance rate 0.351
+Batch number 1253
+Acceptance rate 0.35
+Batch number 1254
+Acceptance rate 0.35
+Batch number 1255
+Acceptance rate 0.35
+Batch number 1256
+Acceptance rate 0.35
+Batch number 1257
+Acceptance rate 0.35
+Batch number 1258
+Acceptance rate 0.35
+Batch number 1259
+Acceptance rate 0.35
+Batch number 1260
+Acceptance rate 0.35
+Batch number 1261
+Acceptance rate 0.35
+Batch number 1262
+Acceptance rate 0.35
+Batch number 1263
+Acceptance rate 0.349
+Batch number 1264
+Acceptance rate 0.349
+Batch number 1265
+Acceptance rate 0.349
+Batch number 1266
+Acceptance rate 0.349
+Batch number 1267
+Acceptance rate 0.349
+Batch number 1268
+Acceptance rate 0.349
+Batch number 1269
+Acceptance rate 0.349
+Batch number 1270
+Acceptance rate 0.349
+Batch number 1271
+Acceptance rate 0.349
+Batch number 1272
+Acceptance rate 0.348
+Batch number 1273
+Acceptance rate 0.348
+Batch number 1274
+Acceptance rate 0.348
+Batch number 1275
+Acceptance rate 0.348
+Batch number 1276
+Acceptance rate 0.348
+Batch number 1277
+Acceptance rate 0.348
+Batch number 1278
+Acceptance rate 0.348
+Batch number 1279
+Acceptance rate 0.347
+Batch number 1280
+Acceptance rate 0.347
+Batch number 1281
+Acceptance rate 0.347
+Batch number 1282
+Acceptance rate 0.347
+Batch number 1283
+Acceptance rate 0.347
+Batch number 1284
+Acceptance rate 0.347
+Batch number 1285
+Acceptance rate 0.347
+Batch number 1286
+Acceptance rate 0.347
+Batch number 1287
+Acceptance rate 0.347
+Batch number 1288
+Acceptance rate 0.347
+Batch number 1289
+Acceptance rate 0.347
+Batch number 1290
+Acceptance rate 0.347
+Batch number 1291
+Acceptance rate 0.346
+Batch number 1292
+Acceptance rate 0.346
+Batch number 1293
+Acceptance rate 0.346
+Batch number 1294
+Acceptance rate 0.346
+Batch number 1295
+Acceptance rate 0.346
+Batch number 1296
+Acceptance rate 0.346
+Batch number 1297
+Acceptance rate 0.346
+Batch number 1298
+Acceptance rate 0.346
+Batch number 1299
+Acceptance rate 0.346
+Batch number 1300
+Acceptance rate 0.346
+Batch number 1301
+Acceptance rate 0.345
+Batch number 1302
+Acceptance rate 0.345
+Batch number 1303
+Acceptance rate 0.345
+Batch number 1304
+Acceptance rate 0.345
+Batch number 1305
+Acceptance rate 0.345
+Batch number 1306
+Acceptance rate 0.345
+Batch number 1307
+Acceptance rate 0.345
+Batch number 1308
+Acceptance rate 0.345
+Batch number 1309
+Acceptance rate 0.345
+Batch number 1310
+Acceptance rate 0.345
+Batch number 1311
+Acceptance rate 0.345
+Batch number 1312
+Acceptance rate 0.345
+Batch number 1313
+Acceptance rate 0.344
+Batch number 1314
+Acceptance rate 0.344
+Batch number 1315
+Acceptance rate 0.344
+Batch number 1316
+Acceptance rate 0.344
+Batch number 1317
+Acceptance rate 0.344
+Batch number 1318
+Acceptance rate 0.344
+Batch number 1319
+Acceptance rate 0.344
+Batch number 1320
+Acceptance rate 0.344
+Batch number 1321
+Acceptance rate 0.344
+Batch number 1322
+Acceptance rate 0.344
+Batch number 1323
+Acceptance rate 0.344
+Batch number 1324
+Acceptance rate 0.343
+Batch number 1325
+Acceptance rate 0.343
+Batch number 1326
+Acceptance rate 0.343
+Batch number 1327
+Acceptance rate 0.343
+Batch number 1328
+Acceptance rate 0.343
+Batch number 1329
+Acceptance rate 0.343
+Batch number 1330
+Acceptance rate 0.343
+Batch number 1331
+Acceptance rate 0.343
+Batch number 1332
+Acceptance rate 0.343
+Batch number 1333
+Acceptance rate 0.343
+Batch number 1334
+Acceptance rate 0.342
+Batch number 1335
+Acceptance rate 0.342
+Batch number 1336
+Acceptance rate 0.342
+Batch number 1337
+Acceptance rate 0.342
+Batch number 1338
+Acceptance rate 0.342
+Batch number 1339
+Acceptance rate 0.342
+Batch number 1340
+Acceptance rate 0.342
+Batch number 1341
+Acceptance rate 0.342
+Batch number 1342
+Acceptance rate 0.342
+Batch number 1343
+Acceptance rate 0.342
+Batch number 1344
+Acceptance rate 0.342
+Batch number 1345
+Acceptance rate 0.341
+Batch number 1346
+Acceptance rate 0.341
+Batch number 1347
+Acceptance rate 0.341
+Batch number 1348
+Acceptance rate 0.341
+Batch number 1349
+Acceptance rate 0.341
+Batch number 1350
+Acceptance rate 0.341
+Batch number 1351
+Acceptance rate 0.341
+Batch number 1352
+Acceptance rate 0.341
+Batch number 1353
+Acceptance rate 0.341
+Batch number 1354
+Acceptance rate 0.341
+Batch number 1355
+Acceptance rate 0.341
+Batch number 1356
+Acceptance rate 0.34
+Batch number 1357
+Acceptance rate 0.34
+Batch number 1358
+Acceptance rate 0.34
+Batch number 1359
+Acceptance rate 0.34
+Batch number 1360
+Acceptance rate 0.34
+Batch number 1361
+Acceptance rate 0.34
+Batch number 1362
+Acceptance rate 0.34
+Batch number 1363
+Acceptance rate 0.34
+Batch number 1364
+Acceptance rate 0.34
+Batch number 1365
+Acceptance rate 0.34
+Batch number 1366
+Acceptance rate 0.34
+Batch number 1367
+Acceptance rate 0.339
+Batch number 1368
+Acceptance rate 0.339
+Batch number 1369
+Acceptance rate 0.339
+Batch number 1370
+Acceptance rate 0.339
+Batch number 1371
+Acceptance rate 0.339
+Batch number 1372
+Acceptance rate 0.339
+Batch number 1373
+Acceptance rate 0.339
+Batch number 1374
+Acceptance rate 0.339
+Batch number 1375
+Acceptance rate 0.339
+Batch number 1376
+Acceptance rate 0.339
+Batch number 1377
+Acceptance rate 0.339
+Batch number 1378
+Acceptance rate 0.338
+Batch number 1379
+Acceptance rate 0.338
+Batch number 1380
+Acceptance rate 0.338
+Batch number 1381
+Acceptance rate 0.338
+Batch number 1382
+Acceptance rate 0.338
+Batch number 1383
+Acceptance rate 0.338
+Batch number 1384
+Acceptance rate 0.338
+Batch number 1385
+Acceptance rate 0.338
+Batch number 1386
+Acceptance rate 0.338
+Batch number 1387
+Acceptance rate 0.338
+Batch number 1388
+Acceptance rate 0.338
+Batch number 1389
+Acceptance rate 0.338
+Batch number 1390
+Acceptance rate 0.338
+Batch number 1391
+Acceptance rate 0.337
+Batch number 1392
+Acceptance rate 0.337
+Batch number 1393
+Acceptance rate 0.337
+Batch number 1394
+Acceptance rate 0.337
+Batch number 1395
+Acceptance rate 0.337
+Batch number 1396
+Acceptance rate 0.337
+Batch number 1397
+Acceptance rate 0.337
+Batch number 1398
+Acceptance rate 0.337
+Batch number 1399
+Acceptance rate 0.337
+Batch number 1400
+Acceptance rate 0.337
+Batch number 1401
+Acceptance rate 0.337
+Batch number 1402
+Acceptance rate 0.337
+Batch number 1403
+Acceptance rate 0.337
+Batch number 1404
+Acceptance rate 0.337
+Batch number 1405
+Acceptance rate 0.337
+Batch number 1406
+Acceptance rate 0.336
+Batch number 1407
+Acceptance rate 0.336
+Batch number 1408
+Acceptance rate 0.336
+Batch number 1409
+Acceptance rate 0.336
+Batch number 1410
+Acceptance rate 0.336
+Batch number 1411
+Acceptance rate 0.336
+Batch number 1412
+Acceptance rate 0.336
+Batch number 1413
+Acceptance rate 0.336
+Batch number 1414
+Acceptance rate 0.336
+Batch number 1415
+Acceptance rate 0.336
+Batch number 1416
+Acceptance rate 0.336
+Batch number 1417
+Acceptance rate 0.336
+Batch number 1418
+Acceptance rate 0.336
+Batch number 1419
+Acceptance rate 0.335
+Batch number 1420
+Acceptance rate 0.335
+Batch number 1421
+Acceptance rate 0.335
+Batch number 1422
+Acceptance rate 0.335
+Batch number 1423
+Acceptance rate 0.335
+Batch number 1424
+Acceptance rate 0.335
+Batch number 1425
+Acceptance rate 0.335
+Batch number 1426
+Acceptance rate 0.335
+Batch number 1427
+Acceptance rate 0.335
+Batch number 1428
+Acceptance rate 0.335
+Batch number 1429
+Acceptance rate 0.335
+Batch number 1430
+Acceptance rate 0.335
+Batch number 1431
+Acceptance rate 0.335
+Batch number 1432
+Acceptance rate 0.335
+Batch number 1433
+Acceptance rate 0.335
+Batch number 1434
+Acceptance rate 0.335
+Batch number 1435
+Acceptance rate 0.334
+Batch number 1436
+Acceptance rate 0.334
+Batch number 1437
+Acceptance rate 0.334
+Batch number 1438
+Acceptance rate 0.334
+Batch number 1439
+Acceptance rate 0.334
+Batch number 1440
+Acceptance rate 0.334
+Batch number 1441
+Acceptance rate 0.334
+Batch number 1442
+Acceptance rate 0.334
+Batch number 1443
+Acceptance rate 0.334
+Batch number 1444
+Acceptance rate 0.334
+Batch number 1445
+Acceptance rate 0.334
+Batch number 1446
+Acceptance rate 0.334
+Batch number 1447
+Acceptance rate 0.333
+Batch number 1448
+Acceptance rate 0.333
+Batch number 1449
+Acceptance rate 0.333
+Batch number 1450
+Acceptance rate 0.333
+Batch number 1451
+Acceptance rate 0.333
+Batch number 1452
+Acceptance rate 0.333
+Batch number 1453
+Acceptance rate 0.333
+Batch number 1454
+Acceptance rate 0.333
+Batch number 1455
+Acceptance rate 0.333
+Batch number 1456
+Acceptance rate 0.333
+Batch number 1457
+Acceptance rate 0.333
+Batch number 1458
+Acceptance rate 0.333
+Batch number 1459
+Acceptance rate 0.333
+Batch number 1460
+Acceptance rate 0.333
+Batch number 1461
+Acceptance rate 0.332
+Batch number 1462
+Acceptance rate 0.332
+Batch number 1463
+Acceptance rate 0.332
+Batch number 1464
+Acceptance rate 0.332
+Batch number 1465
+Acceptance rate 0.332
+Batch number 1466
+Acceptance rate 0.332
+Batch number 1467
+Acceptance rate 0.332
+Batch number 1468
+Acceptance rate 0.332
+Batch number 1469
+Acceptance rate 0.332
+Batch number 1470
+Acceptance rate 0.332
+Batch number 1471
+Acceptance rate 0.332
+Batch number 1472
+Acceptance rate 0.332
+Batch number 1473
+Acceptance rate 0.331
+Batch number 1474
+Acceptance rate 0.331
+Batch number 1475
+Acceptance rate 0.331
+Batch number 1476
+Acceptance rate 0.331
+Batch number 1477
+Acceptance rate 0.331
+Batch number 1478
+Acceptance rate 0.331
+Batch number 1479
+Acceptance rate 0.331
+Batch number 1480
+Acceptance rate 0.331
+Batch number 1481
+Acceptance rate 0.331
+Batch number 1482
+Acceptance rate 0.331
+Batch number 1483
+Acceptance rate 0.331
+Batch number 1484
+Acceptance rate 0.331
+Batch number 1485
+Acceptance rate 0.331
+Batch number 1486
+Acceptance rate 0.331
+Batch number 1487
+Acceptance rate 0.33
+Batch number 1488
+Acceptance rate 0.33
+Batch number 1489
+Acceptance rate 0.33
+Batch number 1490
+Acceptance rate 0.33
+Batch number 1491
+Acceptance rate 0.33
+Batch number 1492
+Acceptance rate 0.33
+Batch number 1493
+Acceptance rate 0.33
+Batch number 1494
+Acceptance rate 0.33
+Batch number 1495
+Acceptance rate 0.33
+Batch number 1496
+Acceptance rate 0.33
+Batch number 1497
+Acceptance rate 0.33
+Batch number 1498
+Acceptance rate 0.33
+Batch number 1499
+Acceptance rate 0.329
+Batch number 1500
+Acceptance rate 0.329
+Batch number 1501
+Acceptance rate 0.329
+Batch number 1502
+Acceptance rate 0.329
+Batch number 1503
+Acceptance rate 0.329
+Batch number 1504
+Acceptance rate 0.329
+Batch number 1505
+Acceptance rate 0.329
+Batch number 1506
+Acceptance rate 0.329
+Batch number 1507
+Acceptance rate 0.329
+Batch number 1508
+Acceptance rate 0.329
+Batch number 1509
+Acceptance rate 0.329
+Batch number 1510
+Acceptance rate 0.329
+Batch number 1511
+Acceptance rate 0.329
+Batch number 1512
+Acceptance rate 0.329
+Batch number 1513
+Acceptance rate 0.328
+Batch number 1514
+Acceptance rate 0.328
+Batch number 1515
+Acceptance rate 0.328
+Batch number 1516
+Acceptance rate 0.328
+Batch number 1517
+Acceptance rate 0.328
+Batch number 1518
+Acceptance rate 0.328
+Batch number 1519
+Acceptance rate 0.328
+Batch number 1520
+Acceptance rate 0.328
+Batch number 1521
+Acceptance rate 0.328
+Batch number 1522
+Acceptance rate 0.328
+Batch number 1523
+Acceptance rate 0.328
+Batch number 1524
+Acceptance rate 0.328
+Batch number 1525
+Acceptance rate 0.328
+Batch number 1526
+Acceptance rate 0.328
+Batch number 1527
+Acceptance rate 0.328
+Batch number 1528
+Acceptance rate 0.328
+Batch number 1529
+Acceptance rate 0.327
+Batch number 1530
+Acceptance rate 0.327
+Batch number 1531
+Acceptance rate 0.327
+Batch number 1532
+Acceptance rate 0.327
+Batch number 1533
+Acceptance rate 0.327
+Batch number 1534
+Acceptance rate 0.327
+Batch number 1535
+Acceptance rate 0.327
+Batch number 1536
+Acceptance rate 0.327
+Batch number 1537
+Acceptance rate 0.327
+Batch number 1538
+Acceptance rate 0.327
+Batch number 1539
+Acceptance rate 0.327
+Batch number 1540
+Acceptance rate 0.326
+Batch number 1541
+Acceptance rate 0.326
+Batch number 1542
+Acceptance rate 0.326
+Batch number 1543
+Acceptance rate 0.326
+Batch number 1544
+Acceptance rate 0.326
+Batch number 1545
+Acceptance rate 0.326
+Batch number 1546
+Acceptance rate 0.326
+Batch number 1547
+Acceptance rate 0.326
+Batch number 1548
+Acceptance rate 0.326
+Batch number 1549
+Acceptance rate 0.326
+Batch number 1550
+Acceptance rate 0.326
+Batch number 1551
+Acceptance rate 0.326
+Batch number 1552
+Acceptance rate 0.326
+Batch number 1553
+Acceptance rate 0.326
+Batch number 1554
+Acceptance rate 0.325
+Batch number 1555
+Acceptance rate 0.325
+Batch number 1556
+Acceptance rate 0.325
+Batch number 1557
+Acceptance rate 0.325
+Batch number 1558
+Acceptance rate 0.325
+Batch number 1559
+Acceptance rate 0.325
+Batch number 1560
+Acceptance rate 0.325
+Batch number 1561
+Acceptance rate 0.325
+Batch number 1562
+Acceptance rate 0.325
+Batch number 1563
+Acceptance rate 0.325
+Batch number 1564
+Acceptance rate 0.325
+Batch number 1565
+Acceptance rate 0.325
+Batch number 1566
+Acceptance rate 0.325
+Batch number 1567
+Acceptance rate 0.325
+Batch number 1568
+Acceptance rate 0.324
+Batch number 1569
+Acceptance rate 0.324
+Batch number 1570
+Acceptance rate 0.324
+Batch number 1571
+Acceptance rate 0.324
+Batch number 1572
+Acceptance rate 0.324
+Batch number 1573
+Acceptance rate 0.324
+Batch number 1574
+Acceptance rate 0.324
+Batch number 1575
+Acceptance rate 0.324
+Batch number 1576
+Acceptance rate 0.324
+Batch number 1577
+Acceptance rate 0.324
+Batch number 1578
+Acceptance rate 0.324
+Batch number 1579
+Acceptance rate 0.324
+Batch number 1580
+Acceptance rate 0.324
+Batch number 1581
+Acceptance rate 0.323
+Batch number 1582
+Acceptance rate 0.323
+Batch number 1583
+Acceptance rate 0.323
+Batch number 1584
+Acceptance rate 0.323
+Batch number 1585
+Acceptance rate 0.323
+Batch number 1586
+Acceptance rate 0.323
+Batch number 1587
+Acceptance rate 0.323
+Batch number 1588
+Acceptance rate 0.323
+Batch number 1589
+Acceptance rate 0.323
+Batch number 1590
+Acceptance rate 0.323
+Batch number 1591
+Acceptance rate 0.323
+Batch number 1592
+Acceptance rate 0.323
+Batch number 1593
+Acceptance rate 0.323
+Batch number 1594
+Acceptance rate 0.323
+Batch number 1595
+Acceptance rate 0.323
+Batch number 1596
+Acceptance rate 0.322
+Batch number 1597
+Acceptance rate 0.322
+Batch number 1598
+Acceptance rate 0.322
+Batch number 1599
+Acceptance rate 0.322
+Batch number 1600
+Acceptance rate 0.322
+Batch number 1601
+Acceptance rate 0.322
+Batch number 1602
+Acceptance rate 0.322
+Batch number 1603
+Acceptance rate 0.322
+Batch number 1604
+Acceptance rate 0.322
+Batch number 1605
+Acceptance rate 0.322
+Batch number 1606
+Acceptance rate 0.322
+Batch number 1607
+Acceptance rate 0.322
+Batch number 1608
+Acceptance rate 0.322
+Batch number 1609
+Acceptance rate 0.321
+Batch number 1610
+Acceptance rate 0.321
+Batch number 1611
+Acceptance rate 0.321
+Batch number 1612
+Acceptance rate 0.321
+Batch number 1613
+Acceptance rate 0.321
+Batch number 1614
+Acceptance rate 0.321
+Batch number 1615
+Acceptance rate 0.321
+Batch number 1616
+Acceptance rate 0.321
+Batch number 1617
+Acceptance rate 0.321
+Batch number 1618
+Acceptance rate 0.321
+Batch number 1619
+Acceptance rate 0.321
+Batch number 1620
+Acceptance rate 0.321
+Batch number 1621
+Acceptance rate 0.321
+Batch number 1622
+Acceptance rate 0.321
+Batch number 1623
+Acceptance rate 0.32
+Batch number 1624
+Acceptance rate 0.32
+Batch number 1625
+Acceptance rate 0.32
+Batch number 1626
+Acceptance rate 0.32
+Batch number 1627
+Acceptance rate 0.32
+Batch number 1628
+Acceptance rate 0.32
+Batch number 1629
+Acceptance rate 0.32
+Batch number 1630
+Acceptance rate 0.32
+Batch number 1631
+Acceptance rate 0.32
+Batch number 1632
+Acceptance rate 0.32
+Batch number 1633
+Acceptance rate 0.32
+Batch number 1634
+Acceptance rate 0.32
+Batch number 1635
+Acceptance rate 0.319
+Batch number 1636
+Acceptance rate 0.319
+Batch number 1637
+Acceptance rate 0.319
+Batch number 1638
+Acceptance rate 0.319
+Batch number 1639
+Acceptance rate 0.319
+Batch number 1640
+Acceptance rate 0.319
+Batch number 1641
+Acceptance rate 0.319
+Batch number 1642
+Acceptance rate 0.319
+Batch number 1643
+Acceptance rate 0.319
+Batch number 1644
+Acceptance rate 0.319
+Batch number 1645
+Acceptance rate 0.319
+Batch number 1646
+Acceptance rate 0.319
+Batch number 1647
+Acceptance rate 0.319
+Batch number 1648
+Acceptance rate 0.319
+Batch number 1649
+Acceptance rate 0.319
+Batch number 1650
+Acceptance rate 0.319
+Batch number 1651
+Acceptance rate 0.319
+Batch number 1652
+Acceptance rate 0.318
+Batch number 1653
+Acceptance rate 0.318
+Batch number 1654
+Acceptance rate 0.318
+Batch number 1655
+Acceptance rate 0.318
+Batch number 1656
+Acceptance rate 0.318
+Batch number 1657
+Acceptance rate 0.318
+Batch number 1658
+Acceptance rate 0.318
+Batch number 1659
+Acceptance rate 0.318
+Batch number 1660
+Acceptance rate 0.318
+Batch number 1661
+Acceptance rate 0.318
+Batch number 1662
+Acceptance rate 0.318
+Batch number 1663
+Acceptance rate 0.318
+Batch number 1664
+Acceptance rate 0.318
+Batch number 1665
+Acceptance rate 0.318
+Batch number 1666
+Acceptance rate 0.317
+Batch number 1667
+Acceptance rate 0.317
+Batch number 1668
+Acceptance rate 0.317
+Batch number 1669
+Acceptance rate 0.317
+Batch number 1670
+Acceptance rate 0.317
+Batch number 1671
+Acceptance rate 0.317
+Batch number 1672
+Acceptance rate 0.317
+Batch number 1673
+Acceptance rate 0.317
+Batch number 1674
+Acceptance rate 0.317
+Batch number 1675
+Acceptance rate 0.317
+Batch number 1676
+Acceptance rate 0.317
+Batch number 1677
+Acceptance rate 0.317
+Batch number 1678
+Acceptance rate 0.317
+Batch number 1679
+Acceptance rate 0.317
+Batch number 1680
+Acceptance rate 0.317
+Batch number 1681
+Acceptance rate 0.316
+Batch number 1682
+Acceptance rate 0.316
+Batch number 1683
+Acceptance rate 0.316
+Batch number 1684
+Acceptance rate 0.316
+Batch number 1685
+Acceptance rate 0.316
+Batch number 1686
+Acceptance rate 0.316
+Batch number 1687
+Acceptance rate 0.316
+Batch number 1688
+Acceptance rate 0.316
+Batch number 1689
+Acceptance rate 0.316
+Batch number 1690
+Acceptance rate 0.316
+Batch number 1691
+Acceptance rate 0.316
+Batch number 1692
+Acceptance rate 0.316
+Batch number 1693
+Acceptance rate 0.316
+Batch number 1694
+Acceptance rate 0.316
+Batch number 1695
+Acceptance rate 0.316
+Batch number 1696
+Acceptance rate 0.316
+Batch number 1697
+Acceptance rate 0.316
+Batch number 1698
+Acceptance rate 0.316
+Batch number 1699
+Acceptance rate 0.315
+Batch number 1700
+Acceptance rate 0.315
+Batch number 1701
+Acceptance rate 0.315
+Batch number 1702
+Acceptance rate 0.315
+Batch number 1703
+Acceptance rate 0.315
+Batch number 1704
+Acceptance rate 0.315
+Batch number 1705
+Acceptance rate 0.315
+Batch number 1706
+Acceptance rate 0.315
+Batch number 1707
+Acceptance rate 0.315
+Batch number 1708
+Acceptance rate 0.315
+Batch number 1709
+Acceptance rate 0.315
+Batch number 1710
+Acceptance rate 0.315
+Batch number 1711
+Acceptance rate 0.315
+Batch number 1712
+Acceptance rate 0.315
+Batch number 1713
+Acceptance rate 0.314
+Batch number 1714
+Acceptance rate 0.314
+Batch number 1715
+Acceptance rate 0.314
+Batch number 1716
+Acceptance rate 0.314
+Batch number 1717
+Acceptance rate 0.314
+Batch number 1718
+Acceptance rate 0.314
+Batch number 1719
+Acceptance rate 0.314
+Batch number 1720
+Acceptance rate 0.314
+Batch number 1721
+Acceptance rate 0.314
+Batch number 1722
+Acceptance rate 0.314
+Batch number 1723
+Acceptance rate 0.314
+Batch number 1724
+Acceptance rate 0.314
+Batch number 1725
+Acceptance rate 0.314
+Batch number 1726
+Acceptance rate 0.314
+Batch number 1727
+Acceptance rate 0.314
+Batch number 1728
+Acceptance rate 0.314
+Batch number 1729
+Acceptance rate 0.314
+Batch number 1730
+Acceptance rate 0.314
+Batch number 1731
+Acceptance rate 0.313
+Batch number 1732
+Acceptance rate 0.313
+Batch number 1733
+Acceptance rate 0.313
+Batch number 1734
+Acceptance rate 0.313
+Batch number 1735
+Acceptance rate 0.313
+Batch number 1736
+Acceptance rate 0.313
+Batch number 1737
+Acceptance rate 0.313
+Batch number 1738
+Acceptance rate 0.313
+Batch number 1739
+Acceptance rate 0.313
+Batch number 1740
+Acceptance rate 0.313
+Batch number 1741
+Acceptance rate 0.313
+Batch number 1742
+Acceptance rate 0.313
+Batch number 1743
+Acceptance rate 0.313
+Batch number 1744
+Acceptance rate 0.313
+Batch number 1745
+Acceptance rate 0.313
+Batch number 1746
+Acceptance rate 0.313
+Batch number 1747
+Acceptance rate 0.313
+Batch number 1748
+Acceptance rate 0.313
+Batch number 1749
+Acceptance rate 0.313
+Batch number 1750
+Acceptance rate 0.312
+Batch number 1751
+Acceptance rate 0.312
+Batch number 1752
+Acceptance rate 0.312
+Batch number 1753
+Acceptance rate 0.312
+Batch number 1754
+Acceptance rate 0.312
+Batch number 1755
+Acceptance rate 0.312
+Batch number 1756
+Acceptance rate 0.312
+Batch number 1757
+Acceptance rate 0.312
+Batch number 1758
+Acceptance rate 0.312
+Batch number 1759
+Acceptance rate 0.312
+Batch number 1760
+Acceptance rate 0.312
+Batch number 1761
+Acceptance rate 0.312
+Batch number 1762
+Acceptance rate 0.312
+Batch number 1763
+Acceptance rate 0.312
+Batch number 1764
+Acceptance rate 0.312
+Batch number 1765
+Acceptance rate 0.312
+Batch number 1766
+Acceptance rate 0.312
+Batch number 1767
+Acceptance rate 0.312
+Batch number 1768
+Acceptance rate 0.312
+Batch number 1769
+Acceptance rate 0.312
+Batch number 1770
+Acceptance rate 0.312
+Batch number 1771
+Acceptance rate 0.312
+Batch number 1772
+Acceptance rate 0.311
+Batch number 1773
+Acceptance rate 0.311
+Batch number 1774
+Acceptance rate 0.311
+Batch number 1775
+Acceptance rate 0.311
+Batch number 1776
+Acceptance rate 0.311
+Batch number 1777
+Acceptance rate 0.311
+Batch number 1778
+Acceptance rate 0.311
+Batch number 1779
+Acceptance rate 0.311
+Batch number 1780
+Acceptance rate 0.311
+Batch number 1781
+Acceptance rate 0.311
+Batch number 1782
+Acceptance rate 0.311
+Batch number 1783
+Acceptance rate 0.311
+Batch number 1784
+Acceptance rate 0.311
+Batch number 1785
+Acceptance rate 0.311
+Batch number 1786
+Acceptance rate 0.311
+Batch number 1787
+Acceptance rate 0.311
+Batch number 1788
+Acceptance rate 0.311
+Batch number 1789
+Acceptance rate 0.311
+Batch number 1790
+Acceptance rate 0.311
+Batch number 1791
+Acceptance rate 0.311
+Batch number 1792
+Acceptance rate 0.311
+Batch number 1793
+Acceptance rate 0.311
+Batch number 1794
+Acceptance rate 0.31
+Batch number 1795
+Acceptance rate 0.31
+Batch number 1796
+Acceptance rate 0.31
+Batch number 1797
+Acceptance rate 0.31
+Batch number 1798
+Acceptance rate 0.31
+Batch number 1799
+Acceptance rate 0.31
+Batch number 1800
+Acceptance rate 0.31
+Batch number 1801
+Acceptance rate 0.31
+Batch number 1802
+Acceptance rate 0.31
+Batch number 1803
+Acceptance rate 0.31
+Batch number 1804
+Acceptance rate 0.31
+Batch number 1805
+Acceptance rate 0.31
+Batch number 1806
+Acceptance rate 0.31
+Batch number 1807
+Acceptance rate 0.31
+Batch number 1808
+Acceptance rate 0.31
+Batch number 1809
+Acceptance rate 0.31
+Batch number 1810
+Acceptance rate 0.31
+Batch number 1811
+Acceptance rate 0.31
+Batch number 1812
+Acceptance rate 0.31
+Batch number 1813
+Acceptance rate 0.309
+Batch number 1814
+Acceptance rate 0.309
+Batch number 1815
+Acceptance rate 0.309
+Batch number 1816
+Acceptance rate 0.309
+Batch number 1817
+Acceptance rate 0.309
+Batch number 1818
+Acceptance rate 0.309
+Batch number 1819
+Acceptance rate 0.309
+Batch number 1820
+Acceptance rate 0.309
+Batch number 1821
+Acceptance rate 0.309
+Batch number 1822
+Acceptance rate 0.309
+Batch number 1823
+Acceptance rate 0.309
+Batch number 1824
+Acceptance rate 0.309
+Batch number 1825
+Acceptance rate 0.309
+Batch number 1826
+Acceptance rate 0.309
+Batch number 1827
+Acceptance rate 0.309
+Batch number 1828
+Acceptance rate 0.309
+Batch number 1829
+Acceptance rate 0.309
+Batch number 1830
+Acceptance rate 0.309
+Batch number 1831
+Acceptance rate 0.309
+Batch number 1832
+Acceptance rate 0.309
+Batch number 1833
+Acceptance rate 0.309
+Batch number 1834
+Acceptance rate 0.309
+Batch number 1835
+Acceptance rate 0.309
+Batch number 1836
+Acceptance rate 0.309
+Batch number 1837
+Acceptance rate 0.308
+Batch number 1838
+Acceptance rate 0.308
+Batch number 1839
+Acceptance rate 0.308
+Batch number 1840
+Acceptance rate 0.308
+Batch number 1841
+Acceptance rate 0.308
+Batch number 1842
+Acceptance rate 0.308
+Batch number 1843
+Acceptance rate 0.308
+Batch number 1844
+Acceptance rate 0.308
+Batch number 1845
+Acceptance rate 0.308
+Batch number 1846
+Acceptance rate 0.308
+Batch number 1847
+Acceptance rate 0.308
+Batch number 1848
+Acceptance rate 0.308
+Batch number 1849
+Acceptance rate 0.308
+Batch number 1850
+Acceptance rate 0.308
+Batch number 1851
+Acceptance rate 0.308
+Batch number 1852
+Acceptance rate 0.308
+Batch number 1853
+Acceptance rate 0.308
+Batch number 1854
+Acceptance rate 0.308
+Batch number 1855
+Acceptance rate 0.308
+Batch number 1856
+Acceptance rate 0.308
+Batch number 1857
+Acceptance rate 0.308
+Batch number 1858
+Acceptance rate 0.308
+Batch number 1859
+Acceptance rate 0.308
+Batch number 1860
+Acceptance rate 0.308
+Batch number 1861
+Acceptance rate 0.308
+Batch number 1862
+Acceptance rate 0.307
+Batch number 1863
+Acceptance rate 0.308
+Batch number 1864
+Acceptance rate 0.307
+Batch number 1865
+Acceptance rate 0.307
+Batch number 1866
+Acceptance rate 0.307
+Batch number 1867
+Acceptance rate 0.307
+Batch number 1868
+Acceptance rate 0.307
+Batch number 1869
+Acceptance rate 0.307
+Batch number 1870
+Acceptance rate 0.307
+Batch number 1871
+Acceptance rate 0.307
+Batch number 1872
+Acceptance rate 0.307
+Batch number 1873
+Acceptance rate 0.307
+Batch number 1874
+Acceptance rate 0.307
+Batch number 1875
+Acceptance rate 0.307
+Batch number 1876
+Acceptance rate 0.307
+Batch number 1877
+Acceptance rate 0.307
+Batch number 1878
+Acceptance rate 0.307
+Batch number 1879
+Acceptance rate 0.307
+Batch number 1880
+Acceptance rate 0.307
+Batch number 1881
+Acceptance rate 0.307
+Batch number 1882
+Acceptance rate 0.307
+Batch number 1883
+Acceptance rate 0.307
+Batch number 1884
+Acceptance rate 0.306
+Batch number 1885
+Acceptance rate 0.306
+Batch number 1886
+Acceptance rate 0.306
+Batch number 1887
+Acceptance rate 0.306
+Batch number 1888
+Acceptance rate 0.306
+Batch number 1889
+Acceptance rate 0.306
+Batch number 1890
+Acceptance rate 0.306
+Batch number 1891
+Acceptance rate 0.306
+Batch number 1892
+Acceptance rate 0.306
+Batch number 1893
+Acceptance rate 0.306
+Batch number 1894
+Acceptance rate 0.306
+Batch number 1895
+Acceptance rate 0.306
+Batch number 1896
+Acceptance rate 0.306
+Batch number 1897
+Acceptance rate 0.306
+Batch number 1898
+Acceptance rate 0.306
+Batch number 1899
+Acceptance rate 0.306
+Batch number 1900
+Acceptance rate 0.306
+Batch number 1901
+Acceptance rate 0.306
+Batch number 1902
+Acceptance rate 0.306
+Batch number 1903
+Acceptance rate 0.306
+Batch number 1904
+Acceptance rate 0.306
+Batch number 1905
+Acceptance rate 0.306
+Batch number 1906
+Acceptance rate 0.305
+Batch number 1907
+Acceptance rate 0.305
+Batch number 1908
+Acceptance rate 0.305
+Batch number 1909
+Acceptance rate 0.305
+Batch number 1910
+Acceptance rate 0.305
+Batch number 1911
+Acceptance rate 0.305
+Batch number 1912
+Acceptance rate 0.305
+Batch number 1913
+Acceptance rate 0.305
+Batch number 1914
+Acceptance rate 0.305
+Batch number 1915
+Acceptance rate 0.305
+Batch number 1916
+Acceptance rate 0.305
+Batch number 1917
+Acceptance rate 0.305
+Batch number 1918
+Acceptance rate 0.305
+Batch number 1919
+Acceptance rate 0.305
+Batch number 1920
+Acceptance rate 0.305
+Batch number 1921
+Acceptance rate 0.305
+Batch number 1922
+Acceptance rate 0.304
+Batch number 1923
+Acceptance rate 0.304
+Batch number 1924
+Acceptance rate 0.304
+Batch number 1925
+Acceptance rate 0.304
+Batch number 1926
+Acceptance rate 0.304
+Batch number 1927
+Acceptance rate 0.304
+Batch number 1928
+Acceptance rate 0.304
+Batch number 1929
+Acceptance rate 0.304
+Batch number 1930
+Acceptance rate 0.304
+Batch number 1931
+Acceptance rate 0.304
+Batch number 1932
+Acceptance rate 0.304
+Batch number 1933
+Acceptance rate 0.304
+Batch number 1934
+Acceptance rate 0.304
+Batch number 1935
+Acceptance rate 0.304
+Batch number 1936
+Acceptance rate 0.304
+Batch number 1937
+Acceptance rate 0.304
+Batch number 1938
+Acceptance rate 0.304
+Batch number 1939
+Acceptance rate 0.304
+Batch number 1940
+Acceptance rate 0.304
+Batch number 1941
+Acceptance rate 0.304
+Batch number 1942
+Acceptance rate 0.304
+Batch number 1943
+Acceptance rate 0.304
+Batch number 1944
+Acceptance rate 0.304
+Batch number 1945
+Acceptance rate 0.304
+Batch number 1946
+Acceptance rate 0.303
+Batch number 1947
+Acceptance rate 0.303
+Batch number 1948
+Acceptance rate 0.303
+Batch number 1949
+Acceptance rate 0.303
+Batch number 1950
+Acceptance rate 0.303
+Batch number 1951
+Acceptance rate 0.303
+Batch number 1952
+Acceptance rate 0.303
+Batch number 1953
+Acceptance rate 0.303
+Batch number 1954
+Acceptance rate 0.303
+Batch number 1955
+Acceptance rate 0.303
+Batch number 1956
+Acceptance rate 0.303
+Batch number 1957
+Acceptance rate 0.303
+Batch number 1958
+Acceptance rate 0.303
+Batch number 1959
+Acceptance rate 0.303
+Batch number 1960
+Acceptance rate 0.303
+Batch number 1961
+Acceptance rate 0.303
+Batch number 1962
+Acceptance rate 0.303
+Batch number 1963
+Acceptance rate 0.303
+Batch number 1964
+Acceptance rate 0.303
+Batch number 1965
+Acceptance rate 0.303
+Batch number 1966
+Acceptance rate 0.303
+Batch number 1967
+Acceptance rate 0.303
+Batch number 1968
+Acceptance rate 0.303
+Batch number 1969
+Acceptance rate 0.303
+Batch number 1970
+Acceptance rate 0.302
+Batch number 1971
+Acceptance rate 0.302
+Batch number 1972
+Acceptance rate 0.302
+Batch number 1973
+Acceptance rate 0.302
+Batch number 1974
+Acceptance rate 0.302
+Batch number 1975
+Acceptance rate 0.302
+Batch number 1976
+Acceptance rate 0.302
+Batch number 1977
+Acceptance rate 0.302
+Batch number 1978
+Acceptance rate 0.302
+Batch number 1979
+Acceptance rate 0.302
+Batch number 1980
+Acceptance rate 0.302
+Batch number 1981
+Acceptance rate 0.302
+Batch number 1982
+Acceptance rate 0.302
+Batch number 1983
+Acceptance rate 0.302
+Batch number 1984
+Acceptance rate 0.302
+Batch number 1985
+Acceptance rate 0.302
+Batch number 1986
+Acceptance rate 0.302
+Batch number 1987
+Acceptance rate 0.302
+Batch number 1988
+Acceptance rate 0.302
+Batch number 1989
+Acceptance rate 0.301
+Batch number 1990
+Acceptance rate 0.301
+Batch number 1991
+Acceptance rate 0.301
+Batch number 1992
+Acceptance rate 0.301
+Batch number 1993
+Acceptance rate 0.301
+Batch number 1994
+Acceptance rate 0.301
+Batch number 1995
+Acceptance rate 0.301
+Batch number 1996
+Acceptance rate 0.301
+Batch number 1997
+Acceptance rate 0.301
+Batch number 1998
+Acceptance rate 0.301
+Batch number 1999
+Acceptance rate 0.301
+Batch number 2000
+Acceptance rate 0.301
+Batch number 2001
+Acceptance rate 0.301
+Batch number 2002
+Acceptance rate 0.301
+Batch number 2003
+Acceptance rate 0.301
+Batch number 2004
+Acceptance rate 0.301
+Batch number 2005
+Acceptance rate 0.301
+Batch number 2006
+Acceptance rate 0.301
+Batch number 2007
+Acceptance rate 0.301
+Batch number 2008
+Acceptance rate 0.301
+Batch number 2009
+Acceptance rate 0.3
+Batch number 2010
+Acceptance rate 0.3
+Batch number 2011
+Acceptance rate 0.3
+Batch number 2012
+Acceptance rate 0.3
+Batch number 2013
+Acceptance rate 0.3
+Batch number 2014
+Acceptance rate 0.3
+Batch number 2015
+Acceptance rate 0.3
+Batch number 2016
+Acceptance rate 0.3
+Batch number 2017
+Acceptance rate 0.3
+Batch number 2018
+Acceptance rate 0.3
+Batch number 2019
+Acceptance rate 0.3
+Batch number 2020
+Acceptance rate 0.3
+Batch number 2021
+Acceptance rate 0.3
+Batch number 2022
+Acceptance rate 0.3
+Batch number 2023
+Acceptance rate 0.3
+Batch number 2024
+Acceptance rate 0.3
+Batch number 2025
+Acceptance rate 0.3
+Batch number 2026
+Acceptance rate 0.3
+Batch number 2027
+Acceptance rate 0.3
+Batch number 2028
+Acceptance rate 0.3
+Batch number 2029
+Acceptance rate 0.3
+Batch number 2030
+Acceptance rate 0.3
+Batch number 2031
+Acceptance rate 0.3
+Batch number 2032
+Acceptance rate 0.3
+Batch number 2033
+Acceptance rate 0.3
+Batch number 2034
+Acceptance rate 0.3
+Batch number 2035
+Acceptance rate 0.3
+Batch number 2036
+Acceptance rate 0.299
+Batch number 2037
+Acceptance rate 0.299
+Batch number 2038
+Acceptance rate 0.299
+Batch number 2039
+Acceptance rate 0.299
+Batch number 2040
+Acceptance rate 0.299
+Batch number 2041
+Acceptance rate 0.299
+Batch number 2042
+Acceptance rate 0.299
+Batch number 2043
+Acceptance rate 0.299
+Batch number 2044
+Acceptance rate 0.299
+Batch number 2045
+Acceptance rate 0.299
+Batch number 2046
+Acceptance rate 0.299
+Batch number 2047
+Acceptance rate 0.299
+Batch number 2048
+Acceptance rate 0.299
+Batch number 2049
+Acceptance rate 0.299
+Batch number 2050
+Acceptance rate 0.299
+Batch number 2051
+Acceptance rate 0.299
+Batch number 2052
+Acceptance rate 0.299
+Batch number 2053
+Acceptance rate 0.299
+Batch number 2054
+Acceptance rate 0.299
+Batch number 2055
+Acceptance rate 0.299
+Batch number 2056
+Acceptance rate 0.299
+Batch number 2057
+Acceptance rate 0.299
+Batch number 2058
+Acceptance rate 0.299
+Batch number 2059
+Acceptance rate 0.299
+Batch number 2060
+Acceptance rate 0.298
+Batch number 2061
+Acceptance rate 0.298
+Batch number 2062
+Acceptance rate 0.298
+Batch number 2063
+Acceptance rate 0.298
+Batch number 2064
+Acceptance rate 0.298
+Batch number 2065
+Acceptance rate 0.298
+Batch number 2066
+Acceptance rate 0.298
+Batch number 2067
+Acceptance rate 0.298
+Batch number 2068
+Acceptance rate 0.298
+Batch number 2069
+Acceptance rate 0.298
+Batch number 2070
+Acceptance rate 0.298
+Batch number 2071
+Acceptance rate 0.298
+Batch number 2072
+Acceptance rate 0.298
+Batch number 2073
+Acceptance rate 0.298
+Batch number 2074
+Acceptance rate 0.298
+Batch number 2075
+Acceptance rate 0.298
+Batch number 2076
+Acceptance rate 0.298
+Batch number 2077
+Acceptance rate 0.298
+Batch number 2078
+Acceptance rate 0.298
+Batch number 2079
+Acceptance rate 0.298
+Batch number 2080
+Acceptance rate 0.298
+Batch number 2081
+Acceptance rate 0.298
+Batch number 2082
+Acceptance rate 0.297
+Batch number 2083
+Acceptance rate 0.297
+Batch number 2084
+Acceptance rate 0.297
+Batch number 2085
+Acceptance rate 0.297
+Batch number 2086
+Acceptance rate 0.297
+Batch number 2087
+Acceptance rate 0.297
+Batch number 2088
+Acceptance rate 0.297
+Batch number 2089
+Acceptance rate 0.297
+Batch number 2090
+Acceptance rate 0.297
+Batch number 2091
+Acceptance rate 0.297
+Batch number 2092
+Acceptance rate 0.297
+Batch number 2093
+Acceptance rate 0.297
+Batch number 2094
+Acceptance rate 0.297
+Batch number 2095
+Acceptance rate 0.297
+Batch number 2096
+Acceptance rate 0.297
+Batch number 2097
+Acceptance rate 0.297
+Batch number 2098
+Acceptance rate 0.297
+Batch number 2099
+Acceptance rate 0.297
+Batch number 2100
+Acceptance rate 0.297
+Batch number 2101
+Acceptance rate 0.297
+Batch number 2102
+Acceptance rate 0.297
+Batch number 2103
+Acceptance rate 0.297
+Batch number 2104
+Acceptance rate 0.296
+Batch number 2105
+Acceptance rate 0.296
+Batch number 2106
+Acceptance rate 0.296
+Batch number 2107
+Acceptance rate 0.296
+Batch number 2108
+Acceptance rate 0.296
+Batch number 2109
+Acceptance rate 0.296
+Batch number 2110
+Acceptance rate 0.296
+Batch number 2111
+Acceptance rate 0.296
+Batch number 2112
+Acceptance rate 0.296
+Batch number 2113
+Acceptance rate 0.296
+Batch number 2114
+Acceptance rate 0.296
+Batch number 2115
+Acceptance rate 0.296
+Batch number 2116
+Acceptance rate 0.296
+Batch number 2117
+Acceptance rate 0.296
+Batch number 2118
+Acceptance rate 0.296
+Batch number 2119
+Acceptance rate 0.296
+Batch number 2120
+Acceptance rate 0.296
+Batch number 2121
+Acceptance rate 0.296
+Batch number 2122
+Acceptance rate 0.296
+Batch number 2123
+Acceptance rate 0.296
+Batch number 2124
+Acceptance rate 0.296
+Batch number 2125
+Acceptance rate 0.296
+Batch number 2126
+Acceptance rate 0.296
+Batch number 2127
+Acceptance rate 0.295
+Batch number 2128
+Acceptance rate 0.295
+Batch number 2129
+Acceptance rate 0.295
+Batch number 2130
+Acceptance rate 0.295
+Batch number 2131
+Acceptance rate 0.295
+Batch number 2132
+Acceptance rate 0.295
+Batch number 2133
+Acceptance rate 0.295
+Batch number 2134
+Acceptance rate 0.295
+Batch number 2135
+Acceptance rate 0.295
+Batch number 2136
+Acceptance rate 0.295
+Batch number 2137
+Acceptance rate 0.295
+Batch number 2138
+Acceptance rate 0.295
+Batch number 2139
+Acceptance rate 0.295
+Batch number 2140
+Acceptance rate 0.295
+Batch number 2141
+Acceptance rate 0.295
+Batch number 2142
+Acceptance rate 0.295
+Batch number 2143
+Acceptance rate 0.295
+Batch number 2144
+Acceptance rate 0.295
+Batch number 2145
+Acceptance rate 0.295
+Batch number 2146
+Acceptance rate 0.295
+Batch number 2147
+Acceptance rate 0.295
+Batch number 2148
+Acceptance rate 0.295
+Batch number 2149
+Acceptance rate 0.295
+Batch number 2150
+Acceptance rate 0.295
+Batch number 2151
+Acceptance rate 0.295
+Batch number 2152
+Acceptance rate 0.295
+Batch number 2153
+Acceptance rate 0.294
+Batch number 2154
+Acceptance rate 0.294
+Batch number 2155
+Acceptance rate 0.294
+Batch number 2156
+Acceptance rate 0.294
+Batch number 2157
+Acceptance rate 0.294
+Batch number 2158
+Acceptance rate 0.294
+Batch number 2159
+Acceptance rate 0.294
+Batch number 2160
+Acceptance rate 0.294
+Batch number 2161
+Acceptance rate 0.294
+Batch number 2162
+Acceptance rate 0.294
+Batch number 2163
+Acceptance rate 0.294
+Batch number 2164
+Acceptance rate 0.294
+Batch number 2165
+Acceptance rate 0.294
+Batch number 2166
+Acceptance rate 0.294
+Batch number 2167
+Acceptance rate 0.294
+Batch number 2168
+Acceptance rate 0.294
+Batch number 2169
+Acceptance rate 0.294
+Batch number 2170
+Acceptance rate 0.294
+Batch number 2171
+Acceptance rate 0.294
+Batch number 2172
+Acceptance rate 0.294
+Batch number 2173
+Acceptance rate 0.294
+Batch number 2174
+Acceptance rate 0.294
+Batch number 2175
+Acceptance rate 0.294
+Batch number 2176
+Acceptance rate 0.294
+Batch number 2177
+Acceptance rate 0.294
+Batch number 2178
+Acceptance rate 0.294
+Batch number 2179
+Acceptance rate 0.294
+Batch number 2180
+Acceptance rate 0.294
+Batch number 2181
+Acceptance rate 0.294
+Batch number 2182
+Acceptance rate 0.294
+Batch number 2183
+Acceptance rate 0.294
+Batch number 2184
+Acceptance rate 0.294
+Batch number 2185
+Acceptance rate 0.294
+Batch number 2186
+Acceptance rate 0.293
+Batch number 2187
+Acceptance rate 0.293
+Batch number 2188
+Acceptance rate 0.293
+Batch number 2189
+Acceptance rate 0.293
+Batch number 2190
+Acceptance rate 0.293
+Batch number 2191
+Acceptance rate 0.293
+Batch number 2192
+Acceptance rate 0.293
+Batch number 2193
+Acceptance rate 0.293
+Batch number 2194
+Acceptance rate 0.293
+Batch number 2195
+Acceptance rate 0.293
+Batch number 2196
+Acceptance rate 0.293
+Batch number 2197
+Acceptance rate 0.293
+Batch number 2198
+Acceptance rate 0.293
+Batch number 2199
+Acceptance rate 0.293
+Batch number 2200
+Acceptance rate 0.293
+Batch number 2201
+Acceptance rate 0.293
+Batch number 2202
+Acceptance rate 0.293
+Batch number 2203
+Acceptance rate 0.293
+Batch number 2204
+Acceptance rate 0.293
+Batch number 2205
+Acceptance rate 0.293
+Batch number 2206
+Acceptance rate 0.293
+Batch number 2207
+Acceptance rate 0.293
+Batch number 2208
+Acceptance rate 0.293
+Batch number 2209
+Acceptance rate 0.293
+Batch number 2210
+Acceptance rate 0.293
+Batch number 2211
+Acceptance rate 0.293
+Batch number 2212
+Acceptance rate 0.293
+Batch number 2213
+Acceptance rate 0.293
+Batch number 2214
+Acceptance rate 0.293
+Batch number 2215
+Acceptance rate 0.292
+Batch number 2216
+Acceptance rate 0.292
+Batch number 2217
+Acceptance rate 0.292
+Batch number 2218
+Acceptance rate 0.292
+Batch number 2219
+Acceptance rate 0.292
+Batch number 2220
+Acceptance rate 0.292
+Batch number 2221
+Acceptance rate 0.292
+Batch number 2222
+Acceptance rate 0.292
+Batch number 2223
+Acceptance rate 0.292
+Batch number 2224
+Acceptance rate 0.292
+Batch number 2225
+Acceptance rate 0.292
+Batch number 2226
+Acceptance rate 0.292
+Batch number 2227
+Acceptance rate 0.292
+Batch number 2228
+Acceptance rate 0.292
+Batch number 2229
+Acceptance rate 0.292
+Batch number 2230
+Acceptance rate 0.292
+Batch number 2231
+Acceptance rate 0.292
+Batch number 2232
+Acceptance rate 0.292
+Batch number 2233
+Acceptance rate 0.292
+Batch number 2234
+Acceptance rate 0.292
+Batch number 2235
+Acceptance rate 0.292
+Batch number 2236
+Acceptance rate 0.292
+Batch number 2237
+Acceptance rate 0.292
+Batch number 2238
+Acceptance rate 0.292
+Batch number 2239
+Acceptance rate 0.292
+Batch number 2240
+Acceptance rate 0.291
+Batch number 2241
+Acceptance rate 0.291
+Batch number 2242
+Acceptance rate 0.291
+Batch number 2243
+Acceptance rate 0.291
+Batch number 2244
+Acceptance rate 0.291
+Batch number 2245
+Acceptance rate 0.291
+Batch number 2246
+Acceptance rate 0.291
+Batch number 2247
+Acceptance rate 0.291
+Batch number 2248
+Acceptance rate 0.291
+Batch number 2249
+Acceptance rate 0.291
+Batch number 2250
+Acceptance rate 0.291
+Batch number 2251
+Acceptance rate 0.291
+Batch number 2252
+Acceptance rate 0.291
+Batch number 2253
+Acceptance rate 0.291
+Batch number 2254
+Acceptance rate 0.291
+Batch number 2255
+Acceptance rate 0.291
+Batch number 2256
+Acceptance rate 0.291
+Batch number 2257
+Acceptance rate 0.291
+Batch number 2258
+Acceptance rate 0.291
+Batch number 2259
+Acceptance rate 0.291
+Batch number 2260
+Acceptance rate 0.291
+Batch number 2261
+Acceptance rate 0.291
+Batch number 2262
+Acceptance rate 0.291
+Batch number 2263
+Acceptance rate 0.291
+Batch number 2264
+Acceptance rate 0.291
+Batch number 2265
+Acceptance rate 0.291
+Batch number 2266
+Acceptance rate 0.291
+Batch number 2267
+Acceptance rate 0.291
+Batch number 2268
+Acceptance rate 0.291
+Batch number 2269
+Acceptance rate 0.29
+Batch number 2270
+Acceptance rate 0.29
+Batch number 2271
+Acceptance rate 0.29
+Batch number 2272
+Acceptance rate 0.29
+Batch number 2273
+Acceptance rate 0.29
+Batch number 2274
+Acceptance rate 0.29
+Batch number 2275
+Acceptance rate 0.29
+Batch number 2276
+Acceptance rate 0.29
+Batch number 2277
+Acceptance rate 0.29
+Batch number 2278
+Acceptance rate 0.29
+Batch number 2279
+Acceptance rate 0.29
+Batch number 2280
+Acceptance rate 0.29
+Batch number 2281
+Acceptance rate 0.29
+Batch number 2282
+Acceptance rate 0.29
+Batch number 2283
+Acceptance rate 0.29
+Batch number 2284
+Acceptance rate 0.29
+Batch number 2285
+Acceptance rate 0.29
+Batch number 2286
+Acceptance rate 0.29
+Batch number 2287
+Acceptance rate 0.29
+Batch number 2288
+Acceptance rate 0.29
+Batch number 2289
+Acceptance rate 0.29
+Batch number 2290
+Acceptance rate 0.29
+Batch number 2291
+Acceptance rate 0.29
+Batch number 2292
+Acceptance rate 0.29
+Batch number 2293
+Acceptance rate 0.29
+Batch number 2294
+Acceptance rate 0.29
+Batch number 2295
+Acceptance rate 0.29
+Batch number 2296
+Acceptance rate 0.29
+Batch number 2297
+Acceptance rate 0.289
+Batch number 2298
+Acceptance rate 0.289
+Batch number 2299
+Acceptance rate 0.289
+Batch number 2300
+Acceptance rate 0.289
+Batch number 2301
+Acceptance rate 0.289
+Batch number 2302
+Acceptance rate 0.289
+Batch number 2303
+Acceptance rate 0.289
+Batch number 2304
+Acceptance rate 0.289
+Batch number 2305
+Acceptance rate 0.289
+Batch number 2306
+Acceptance rate 0.289
+Batch number 2307
+Acceptance rate 0.289
+Batch number 2308
+Acceptance rate 0.289
+Batch number 2309
+Acceptance rate 0.289
+Batch number 2310
+Acceptance rate 0.289
+Batch number 2311
+Acceptance rate 0.289
+Batch number 2312
+Acceptance rate 0.289
+Batch number 2313
+Acceptance rate 0.289
+Batch number 2314
+Acceptance rate 0.289
+Batch number 2315
+Acceptance rate 0.289
+Batch number 2316
+Acceptance rate 0.289
+Batch number 2317
+Acceptance rate 0.289
+Batch number 2318
+Acceptance rate 0.289
+Batch number 2319
+Acceptance rate 0.289
+Batch number 2320
+Acceptance rate 0.289
+Batch number 2321
+Acceptance rate 0.289
+Batch number 2322
+Acceptance rate 0.289
+Batch number 2323
+Acceptance rate 0.289
+Batch number 2324
+Acceptance rate 0.288
+Batch number 2325
+Acceptance rate 0.288
+Batch number 2326
+Acceptance rate 0.288
+Batch number 2327
+Acceptance rate 0.288
+Batch number 2328
+Acceptance rate 0.288
+Batch number 2329
+Acceptance rate 0.288
+Batch number 2330
+Acceptance rate 0.288
+Batch number 2331
+Acceptance rate 0.288
+Batch number 2332
+Acceptance rate 0.288
+Batch number 2333
+Acceptance rate 0.288
+Batch number 2334
+Acceptance rate 0.288
+Batch number 2335
+Acceptance rate 0.288
+Batch number 2336
+Acceptance rate 0.288
+Batch number 2337
+Acceptance rate 0.288
+Batch number 2338
+Acceptance rate 0.288
+Batch number 2339
+Acceptance rate 0.288
+Batch number 2340
+Acceptance rate 0.288
+Batch number 2341
+Acceptance rate 0.288
+Batch number 2342
+Acceptance rate 0.288
+Batch number 2343
+Acceptance rate 0.288
+Batch number 2344
+Acceptance rate 0.288
+Batch number 2345
+Acceptance rate 0.288
+Batch number 2346
+Acceptance rate 0.288
+Batch number 2347
+Acceptance rate 0.288
+Batch number 2348
+Acceptance rate 0.288
+Batch number 2349
+Acceptance rate 0.288
+Batch number 2350
+Acceptance rate 0.288
+Batch number 2351
+Acceptance rate 0.288
+Batch number 2352
+Acceptance rate 0.288
+Batch number 2353
+Acceptance rate 0.288
+Batch number 2354
+Acceptance rate 0.288
+Batch number 2355
+Acceptance rate 0.287
+Batch number 2356
+Acceptance rate 0.287
+Batch number 2357
+Acceptance rate 0.287
+Batch number 2358
+Acceptance rate 0.287
+Batch number 2359
+Acceptance rate 0.287
+Batch number 2360
+Acceptance rate 0.287
+Batch number 2361
+Acceptance rate 0.287
+Batch number 2362
+Acceptance rate 0.287
+Batch number 2363
+Acceptance rate 0.287
+Batch number 2364
+Acceptance rate 0.287
+Batch number 2365
+Acceptance rate 0.287
+Batch number 2366
+Acceptance rate 0.287
+Batch number 2367
+Acceptance rate 0.287
+Batch number 2368
+Acceptance rate 0.287
+Batch number 2369
+Acceptance rate 0.287
+Batch number 2370
+Acceptance rate 0.287
+Batch number 2371
+Acceptance rate 0.287
+Batch number 2372
+Acceptance rate 0.287
+Batch number 2373
+Acceptance rate 0.287
+Batch number 2374
+Acceptance rate 0.287
+Batch number 2375
+Acceptance rate 0.287
+Batch number 2376
+Acceptance rate 0.287
+Batch number 2377
+Acceptance rate 0.287
+Batch number 2378
+Acceptance rate 0.287
+Batch number 2379
+Acceptance rate 0.287
+Batch number 2380
+Acceptance rate 0.287
+Batch number 2381
+Acceptance rate 0.287
+Batch number 2382
+Acceptance rate 0.287
+Batch number 2383
+Acceptance rate 0.287
+Batch number 2384
+Acceptance rate 0.287
+Batch number 2385
+Acceptance rate 0.286
+Batch number 2386
+Acceptance rate 0.286
+Batch number 2387
+Acceptance rate 0.286
+Batch number 2388
+Acceptance rate 0.286
+Batch number 2389
+Acceptance rate 0.286
+Batch number 2390
+Acceptance rate 0.286
+Batch number 2391
+Acceptance rate 0.286
+Batch number 2392
+Acceptance rate 0.286
+Batch number 2393
+Acceptance rate 0.286
+Batch number 2394
+Acceptance rate 0.286
+Batch number 2395
+Acceptance rate 0.286
+Batch number 2396
+Acceptance rate 0.286
+Batch number 2397
+Acceptance rate 0.286
+Batch number 2398
+Acceptance rate 0.286
+Batch number 2399
+Acceptance rate 0.286
+Batch number 2400
+Acceptance rate 0.286
+Batch number 2401
+Acceptance rate 0.286
+Batch number 2402
+Acceptance rate 0.286
+Batch number 2403
+Acceptance rate 0.286
+Batch number 2404
+Acceptance rate 0.286
+Batch number 2405
+Acceptance rate 0.286
+Batch number 2406
+Acceptance rate 0.286
+Batch number 2407
+Acceptance rate 0.286
+Batch number 2408
+Acceptance rate 0.286
+Batch number 2409
+Acceptance rate 0.286
+Batch number 2410
+Acceptance rate 0.286
+Batch number 2411
+Acceptance rate 0.286
+Batch number 2412
+Acceptance rate 0.286
+Batch number 2413
+Acceptance rate 0.286
+Batch number 2414
+Acceptance rate 0.286
+Batch number 2415
+Acceptance rate 0.285
+Batch number 2416
+Acceptance rate 0.285
+Batch number 2417
+Acceptance rate 0.285
+Batch number 2418
+Acceptance rate 0.285
+Batch number 2419
+Acceptance rate 0.285
+Batch number 2420
+Acceptance rate 0.285
+Batch number 2421
+Acceptance rate 0.285
+Batch number 2422
+Acceptance rate 0.285
+Batch number 2423
+Acceptance rate 0.285
+Batch number 2424
+Acceptance rate 0.285
+Batch number 2425
+Acceptance rate 0.285
+Batch number 2426
+Acceptance rate 0.285
+Batch number 2427
+Acceptance rate 0.285
+Batch number 2428
+Acceptance rate 0.285
+Batch number 2429
+Acceptance rate 0.285
+Batch number 2430
+Acceptance rate 0.285
+Batch number 2431
+Acceptance rate 0.285
+Batch number 2432
+Acceptance rate 0.285
+Batch number 2433
+Acceptance rate 0.285
+Batch number 2434
+Acceptance rate 0.285
+Batch number 2435
+Acceptance rate 0.285
+Batch number 2436
+Acceptance rate 0.285
+Batch number 2437
+Acceptance rate 0.285
+Batch number 2438
+Acceptance rate 0.285
+Batch number 2439
+Acceptance rate 0.285
+Batch number 2440
+Acceptance rate 0.285
+Batch number 2441
+Acceptance rate 0.285
+Batch number 2442
+Acceptance rate 0.285
+Batch number 2443
+Acceptance rate 0.285
+Batch number 2444
+Acceptance rate 0.285
+Batch number 2445
+Acceptance rate 0.285
+Batch number 2446
+Acceptance rate 0.285
+Batch number 2447
+Acceptance rate 0.285
+Batch number 2448
+Acceptance rate 0.284
+Batch number 2449
+Acceptance rate 0.284
+Batch number 2450
+Acceptance rate 0.284
+Batch number 2451
+Acceptance rate 0.284
+Batch number 2452
+Acceptance rate 0.284
+Batch number 2453
+Acceptance rate 0.284
+Batch number 2454
+Acceptance rate 0.284
+Batch number 2455
+Acceptance rate 0.284
+Batch number 2456
+Acceptance rate 0.284
+Batch number 2457
+Acceptance rate 0.284
+Batch number 2458
+Acceptance rate 0.284
+Batch number 2459
+Acceptance rate 0.284
+Batch number 2460
+Acceptance rate 0.284
+Batch number 2461
+Acceptance rate 0.284
+Batch number 2462
+Acceptance rate 0.284
+Batch number 2463
+Acceptance rate 0.284
+Batch number 2464
+Acceptance rate 0.284
+Batch number 2465
+Acceptance rate 0.284
+Batch number 2466
+Acceptance rate 0.284
+Batch number 2467
+Acceptance rate 0.284
+Batch number 2468
+Acceptance rate 0.284
+Batch number 2469
+Acceptance rate 0.284
+Batch number 2470
+Acceptance rate 0.284
+Batch number 2471
+Acceptance rate 0.284
+Batch number 2472
+Acceptance rate 0.284
+Batch number 2473
+Acceptance rate 0.284
+Batch number 2474
+Acceptance rate 0.284
+Batch number 2475
+Acceptance rate 0.284
+Batch number 2476
+Acceptance rate 0.284
+Batch number 2477
+Acceptance rate 0.284
+Batch number 2478
+Acceptance rate 0.284
+Batch number 2479
+Acceptance rate 0.284
+Batch number 2480
+Acceptance rate 0.283
+Batch number 2481
+Acceptance rate 0.283
+Batch number 2482
+Acceptance rate 0.283
+Batch number 2483
+Acceptance rate 0.283
+Batch number 2484
+Acceptance rate 0.283
+Batch number 2485
+Acceptance rate 0.283
+Batch number 2486
+Acceptance rate 0.283
+Batch number 2487
+Acceptance rate 0.283
+Batch number 2488
+Acceptance rate 0.283
+Batch number 2489
+Acceptance rate 0.283
+Batch number 2490
+Acceptance rate 0.283
+Batch number 2491
+Acceptance rate 0.283
+Batch number 2492
+Acceptance rate 0.283
+Batch number 2493
+Acceptance rate 0.283
+Batch number 2494
+Acceptance rate 0.283
+Batch number 2495
+Acceptance rate 0.283
+Batch number 2496
+Acceptance rate 0.283
+Batch number 2497
+Acceptance rate 0.283
+Batch number 2498
+Acceptance rate 0.283
+Batch number 2499
+Acceptance rate 0.283
+Batch number 2500
+Acceptance rate 0.283
+Batch number 2501
+Acceptance rate 0.283
+Batch number 2502
+Acceptance rate 0.283
+Batch number 2503
+Acceptance rate 0.283
+Batch number 2504
+Acceptance rate 0.283
+Batch number 2505
+Acceptance rate 0.283
+Batch number 2506
+Acceptance rate 0.283
+Batch number 2507
+Acceptance rate 0.283
+Batch number 2508
+Acceptance rate 0.283
+Batch number 2509
+Acceptance rate 0.283
+Batch number 2510
+Acceptance rate 0.283
+Batch number 2511
+Acceptance rate 0.283
+Batch number 2512
+Acceptance rate 0.282
+Batch number 2513
+Acceptance rate 0.282
+Batch number 2514
+Acceptance rate 0.282
+Batch number 2515
+Acceptance rate 0.282
+Batch number 2516
+Acceptance rate 0.282
+Batch number 2517
+Acceptance rate 0.282
+Batch number 2518
+Acceptance rate 0.282
+Batch number 2519
+Acceptance rate 0.282
+Batch number 2520
+Acceptance rate 0.282
+Batch number 2521
+Acceptance rate 0.282
+Batch number 2522
+Acceptance rate 0.282
+Batch number 2523
+Acceptance rate 0.282
+Batch number 2524
+Acceptance rate 0.282
+Batch number 2525
+Acceptance rate 0.282
+Batch number 2526
+Acceptance rate 0.282
+Batch number 2527
+Acceptance rate 0.282
+Batch number 2528
+Acceptance rate 0.282
+Batch number 2529
+Acceptance rate 0.282
+Batch number 2530
+Acceptance rate 0.282
+Batch number 2531
+Acceptance rate 0.282
+Batch number 2532
+Acceptance rate 0.282
+Batch number 2533
+Acceptance rate 0.282
+Batch number 2534
+Acceptance rate 0.282
+Batch number 2535
+Acceptance rate 0.282
+Batch number 2536
+Acceptance rate 0.282
+Batch number 2537
+Acceptance rate 0.282
+Batch number 2538
+Acceptance rate 0.282
+Batch number 2539
+Acceptance rate 0.282
+Batch number 2540
+Acceptance rate 0.282
+Batch number 2541
+Acceptance rate 0.282
+Batch number 2542
+Acceptance rate 0.282
+Batch number 2543
+Acceptance rate 0.282
+Batch number 2544
+Acceptance rate 0.282
+Batch number 2545
+Acceptance rate 0.282
+Batch number 2546
+Acceptance rate 0.282
+Batch number 2547
+Acceptance rate 0.282
+Batch number 2548
+Acceptance rate 0.282
+Batch number 2549
+Acceptance rate 0.282
+Batch number 2550
+Acceptance rate 0.282
+Batch number 2551
+Acceptance rate 0.282
+Batch number 2552
+Acceptance rate 0.281
+Batch number 2553
+Acceptance rate 0.281
+Batch number 2554
+Acceptance rate 0.281
+Batch number 2555
+Acceptance rate 0.281
+Batch number 2556
+Acceptance rate 0.281
+Batch number 2557
+Acceptance rate 0.281
+Batch number 2558
+Acceptance rate 0.281
+Batch number 2559
+Acceptance rate 0.281
+Batch number 2560
+Acceptance rate 0.281
+Batch number 2561
+Acceptance rate 0.281
+Batch number 2562
+Acceptance rate 0.281
+Batch number 2563
+Acceptance rate 0.281
+Batch number 2564
+Acceptance rate 0.281
+Batch number 2565
+Acceptance rate 0.281
+Batch number 2566
+Acceptance rate 0.281
+Batch number 2567
+Acceptance rate 0.281
+Batch number 2568
+Acceptance rate 0.281
+Batch number 2569
+Acceptance rate 0.281
+Batch number 2570
+Acceptance rate 0.281
+Batch number 2571
+Acceptance rate 0.281
+Batch number 2572
+Acceptance rate 0.281
+Batch number 2573
+Acceptance rate 0.281
+Batch number 2574
+Acceptance rate 0.281
+Batch number 2575
+Acceptance rate 0.281
+Batch number 2576
+Acceptance rate 0.281
+Batch number 2577
+Acceptance rate 0.281
+Batch number 2578
+Acceptance rate 0.281
+Batch number 2579
+Acceptance rate 0.281
+Batch number 2580
+Acceptance rate 0.281
+Batch number 2581
+Acceptance rate 0.281
+Batch number 2582
+Acceptance rate 0.281
+Batch number 2583
+Acceptance rate 0.281
+Batch number 2584
+Acceptance rate 0.281
+Batch number 2585
+Acceptance rate 0.281
+Batch number 2586
+Acceptance rate 0.281
+Batch number 2587
+Acceptance rate 0.281
+Batch number 2588
+Acceptance rate 0.281
+Batch number 2589
+Acceptance rate 0.281
+Batch number 2590
+Acceptance rate 0.28
+Batch number 2591
+Acceptance rate 0.28
+Batch number 2592
+Acceptance rate 0.28
+Batch number 2593
+Acceptance rate 0.28
+Batch number 2594
+Acceptance rate 0.28
+Batch number 2595
+Acceptance rate 0.28
+Batch number 2596
+Acceptance rate 0.28
+Batch number 2597
+Acceptance rate 0.28
+Batch number 2598
+Acceptance rate 0.28
+Batch number 2599
+Acceptance rate 0.28
+Batch number 2600
+Acceptance rate 0.28
+Batch number 2601
+Acceptance rate 0.28
+Batch number 2602
+Acceptance rate 0.28
+Batch number 2603
+Acceptance rate 0.28
+Batch number 2604
+Acceptance rate 0.28
+Batch number 2605
+Acceptance rate 0.28
+Batch number 2606
+Acceptance rate 0.28
+Batch number 2607
+Acceptance rate 0.28
+Batch number 2608
+Acceptance rate 0.28
+Batch number 2609
+Acceptance rate 0.28
+Batch number 2610
+Acceptance rate 0.28
+Batch number 2611
+Acceptance rate 0.28
+Batch number 2612
+Acceptance rate 0.28
+Batch number 2613
+Acceptance rate 0.28
+Batch number 2614
+Acceptance rate 0.28
+Batch number 2615
+Acceptance rate 0.28
+Batch number 2616
+Acceptance rate 0.28
+Batch number 2617
+Acceptance rate 0.28
+Batch number 2618
+Acceptance rate 0.28
+Batch number 2619
+Acceptance rate 0.28
+Batch number 2620
+Acceptance rate 0.28
+Batch number 2621
+Acceptance rate 0.28
+Batch number 2622
+Acceptance rate 0.28
+Batch number 2623
+Acceptance rate 0.28
+Batch number 2624
+Acceptance rate 0.28
+Batch number 2625
+Acceptance rate 0.28
+Batch number 2626
+Acceptance rate 0.279
+Batch number 2627
+Acceptance rate 0.279
+Batch number 2628
+Acceptance rate 0.279
+Batch number 2629
+Acceptance rate 0.279
+Batch number 2630
+Acceptance rate 0.279
+Batch number 2631
+Acceptance rate 0.279
+Batch number 2632
+Acceptance rate 0.279
+Batch number 2633
+Acceptance rate 0.279
+Batch number 2634
+Acceptance rate 0.279
+Batch number 2635
+Acceptance rate 0.279
+Batch number 2636
+Acceptance rate 0.279
+Batch number 2637
+Acceptance rate 0.279
+Batch number 2638
+Acceptance rate 0.279
+Batch number 2639
+Acceptance rate 0.279
+Batch number 2640
+Acceptance rate 0.279
+Batch number 2641
+Acceptance rate 0.279
+Batch number 2642
+Acceptance rate 0.279
+Batch number 2643
+Acceptance rate 0.279
+Batch number 2644
+Acceptance rate 0.279
+Batch number 2645
+Acceptance rate 0.279
+Batch number 2646
+Acceptance rate 0.279
+Batch number 2647
+Acceptance rate 0.279
+Batch number 2648
+Acceptance rate 0.279
+Batch number 2649
+Acceptance rate 0.279
+Batch number 2650
+Acceptance rate 0.279
+Batch number 2651
+Acceptance rate 0.279
+Batch number 2652
+Acceptance rate 0.279
+Batch number 2653
+Acceptance rate 0.279
+Batch number 2654
+Acceptance rate 0.279
+Batch number 2655
+Acceptance rate 0.279
+Batch number 2656
+Acceptance rate 0.279
+Batch number 2657
+Acceptance rate 0.279
+Batch number 2658
+Acceptance rate 0.279
+Batch number 2659
+Acceptance rate 0.279
+Batch number 2660
+Acceptance rate 0.279
+Batch number 2661
+Acceptance rate 0.279
+Batch number 2662
+Acceptance rate 0.279
+Batch number 2663
+Acceptance rate 0.279
+Batch number 2664
+Acceptance rate 0.279
+Batch number 2665
+Acceptance rate 0.278
+Batch number 2666
+Acceptance rate 0.278
+Batch number 2667
+Acceptance rate 0.278
+Batch number 2668
+Acceptance rate 0.278
+Batch number 2669
+Acceptance rate 0.278
+Batch number 2670
+Acceptance rate 0.278
+Batch number 2671
+Acceptance rate 0.278
+Batch number 2672
+Acceptance rate 0.278
+Batch number 2673
+Acceptance rate 0.278
+Batch number 2674
+Acceptance rate 0.278
+Batch number 2675
+Acceptance rate 0.278
+Batch number 2676
+Acceptance rate 0.278
+Batch number 2677
+Acceptance rate 0.278
+Batch number 2678
+Acceptance rate 0.278
+Batch number 2679
+Acceptance rate 0.278
+Batch number 2680
+Acceptance rate 0.278
+Batch number 2681
+Acceptance rate 0.278
+Batch number 2682
+Acceptance rate 0.278
+Batch number 2683
+Acceptance rate 0.278
+Batch number 2684
+Acceptance rate 0.278
+Batch number 2685
+Acceptance rate 0.278
+Batch number 2686
+Acceptance rate 0.278
+Batch number 2687
+Acceptance rate 0.278
+Batch number 2688
+Acceptance rate 0.278
+Batch number 2689
+Acceptance rate 0.278
+Batch number 2690
+Acceptance rate 0.278
+Batch number 2691
+Acceptance rate 0.278
+Batch number 2692
+Acceptance rate 0.278
+Batch number 2693
+Acceptance rate 0.278
+Batch number 2694
+Acceptance rate 0.278
+Batch number 2695
+Acceptance rate 0.278
+Batch number 2696
+Acceptance rate 0.278
+Batch number 2697
+Acceptance rate 0.278
+Batch number 2698
+Acceptance rate 0.278
+Batch number 2699
+Acceptance rate 0.278
+Batch number 2700
+Acceptance rate 0.278
+Batch number 2701
+Acceptance rate 0.278
+Batch number 2702
+Acceptance rate 0.278
+Batch number 2703
+Acceptance rate 0.278
+Batch number 2704
+Acceptance rate 0.278
+Batch number 2705
+Acceptance rate 0.278
+Batch number 2706
+Acceptance rate 0.278
+Batch number 2707
+Acceptance rate 0.277
+Batch number 2708
+Acceptance rate 0.277
+Batch number 2709
+Acceptance rate 0.277
+Batch number 2710
+Acceptance rate 0.277
+Batch number 2711
+Acceptance rate 0.277
+Batch number 2712
+Acceptance rate 0.277
+Batch number 2713
+Acceptance rate 0.277
+Batch number 2714
+Acceptance rate 0.277
+Batch number 2715
+Acceptance rate 0.277
+Batch number 2716
+Acceptance rate 0.277
+Batch number 2717
+Acceptance rate 0.277
+Batch number 2718
+Acceptance rate 0.277
+Batch number 2719
+Acceptance rate 0.277
+Batch number 2720
+Acceptance rate 0.277
+Batch number 2721
+Acceptance rate 0.277
+Batch number 2722
+Acceptance rate 0.277
+Batch number 2723
+Acceptance rate 0.277
+Batch number 2724
+Acceptance rate 0.277
+Batch number 2725
+Acceptance rate 0.277
+Batch number 2726
+Acceptance rate 0.277
+Batch number 2727
+Acceptance rate 0.277
+Batch number 2728
+Acceptance rate 0.277
+Batch number 2729
+Acceptance rate 0.277
+Batch number 2730
+Acceptance rate 0.277
+Batch number 2731
+Acceptance rate 0.277
+Batch number 2732
+Acceptance rate 0.277
+Batch number 2733
+Acceptance rate 0.277
+Batch number 2734
+Acceptance rate 0.277
+Batch number 2735
+Acceptance rate 0.277
+Batch number 2736
+Acceptance rate 0.277
+Batch number 2737
+Acceptance rate 0.277
+Batch number 2738
+Acceptance rate 0.277
+Batch number 2739
+Acceptance rate 0.277
+Batch number 2740
+Acceptance rate 0.277
+Batch number 2741
+Acceptance rate 0.277
+Batch number 2742
+Acceptance rate 0.277
+Batch number 2743
+Acceptance rate 0.277
+Batch number 2744
+Acceptance rate 0.277
+Batch number 2745
+Acceptance rate 0.276
+Batch number 2746
+Acceptance rate 0.276
+Batch number 2747
+Acceptance rate 0.276
+Batch number 2748
+Acceptance rate 0.276
+Batch number 2749
+Acceptance rate 0.276
+Batch number 2750
+Acceptance rate 0.276
+Batch number 2751
+Acceptance rate 0.276
+Batch number 2752
+Acceptance rate 0.276
+Batch number 2753
+Acceptance rate 0.276
+Batch number 2754
+Acceptance rate 0.276
+Batch number 2755
+Acceptance rate 0.276
+Batch number 2756
+Acceptance rate 0.276
+Batch number 2757
+Acceptance rate 0.276
+Batch number 2758
+Acceptance rate 0.276
+Batch number 2759
+Acceptance rate 0.276
+Batch number 2760
+Acceptance rate 0.276
+Batch number 2761
+Acceptance rate 0.276
+Batch number 2762
+Acceptance rate 0.276
+Batch number 2763
+Acceptance rate 0.276
+Batch number 2764
+Acceptance rate 0.276
+Batch number 2765
+Acceptance rate 0.276
+Batch number 2766
+Acceptance rate 0.276
+Batch number 2767
+Acceptance rate 0.276
+Batch number 2768
+Acceptance rate 0.276
+Batch number 2769
+Acceptance rate 0.276
+Batch number 2770
+Acceptance rate 0.276
+Batch number 2771
+Acceptance rate 0.276
+Batch number 2772
+Acceptance rate 0.276
+Batch number 2773
+Acceptance rate 0.276
+Batch number 2774
+Acceptance rate 0.276
+Batch number 2775
+Acceptance rate 0.276
+Batch number 2776
+Acceptance rate 0.276
+Batch number 2777
+Acceptance rate 0.276
+Batch number 2778
+Acceptance rate 0.276
+Batch number 2779
+Acceptance rate 0.276
+Batch number 2780
+Acceptance rate 0.276
+Batch number 2781
+Acceptance rate 0.276
+Batch number 2782
+Acceptance rate 0.276
+Batch number 2783
+Acceptance rate 0.276
+Batch number 2784
+Acceptance rate 0.276
+Batch number 2785
+Acceptance rate 0.276
+Batch number 2786
+Acceptance rate 0.276
+Batch number 2787
+Acceptance rate 0.276
+Batch number 2788
+Acceptance rate 0.276
+Batch number 2789
+Acceptance rate 0.276
+Batch number 2790
+Acceptance rate 0.276
+Batch number 2791
+Acceptance rate 0.276
+Batch number 2792
+Acceptance rate 0.276
+Batch number 2793
+Acceptance rate 0.276
+Batch number 2794
+Acceptance rate 0.276
+Batch number 2795
+Acceptance rate 0.276
+Batch number 2796
+Acceptance rate 0.276
+Batch number 2797
+Acceptance rate 0.275
+Batch number 2798
+Acceptance rate 0.275
+Batch number 2799
+Acceptance rate 0.275
+Batch number 2800
+Acceptance rate 0.275
+Batch number 2801
+Acceptance rate 0.275
+Batch number 2802
+Acceptance rate 0.275
+Batch number 2803
+Acceptance rate 0.275
+Batch number 2804
+Acceptance rate 0.275
+Batch number 2805
+Acceptance rate 0.275
+Batch number 2806
+Acceptance rate 0.275
+Batch number 2807
+Acceptance rate 0.275
+Batch number 2808
+Acceptance rate 0.275
+Batch number 2809
+Acceptance rate 0.275
+Batch number 2810
+Acceptance rate 0.275
+Batch number 2811
+Acceptance rate 0.275
+Batch number 2812
+Acceptance rate 0.275
+Batch number 2813
+Acceptance rate 0.275
+Batch number 2814
+Acceptance rate 0.275
+Batch number 2815
+Acceptance rate 0.275
+Batch number 2816
+Acceptance rate 0.275
+Batch number 2817
+Acceptance rate 0.275
+Batch number 2818
+Acceptance rate 0.275
+Batch number 2819
+Acceptance rate 0.275
+Batch number 2820
+Acceptance rate 0.275
+Batch number 2821
+Acceptance rate 0.275
+Batch number 2822
+Acceptance rate 0.275
+Batch number 2823
+Acceptance rate 0.275
+Batch number 2824
+Acceptance rate 0.275
+Batch number 2825
+Acceptance rate 0.275
+Batch number 2826
+Acceptance rate 0.275
+Batch number 2827
+Acceptance rate 0.275
+Batch number 2828
+Acceptance rate 0.275
+Batch number 2829
+Acceptance rate 0.275
+Batch number 2830
+Acceptance rate 0.275
+Batch number 2831
+Acceptance rate 0.275
+Batch number 2832
+Acceptance rate 0.275
+Batch number 2833
+Acceptance rate 0.275
+Batch number 2834
+Acceptance rate 0.275
+Batch number 2835
+Acceptance rate 0.275
+Batch number 2836
+Acceptance rate 0.275
+Batch number 2837
+Acceptance rate 0.275
+Batch number 2838
+Acceptance rate 0.275
+Batch number 2839
+Acceptance rate 0.275
+Batch number 2840
+Acceptance rate 0.274
+Batch number 2841
+Acceptance rate 0.274
+Batch number 2842
+Acceptance rate 0.274
+Batch number 2843
+Acceptance rate 0.274
+Batch number 2844
+Acceptance rate 0.274
+Batch number 2845
+Acceptance rate 0.274
+Batch number 2846
+Acceptance rate 0.274
+Batch number 2847
+Acceptance rate 0.274
+Batch number 2848
+Acceptance rate 0.274
+Batch number 2849
+Acceptance rate 0.274
+Batch number 2850
+Acceptance rate 0.274
+Batch number 2851
+Acceptance rate 0.274
+Batch number 2852
+Acceptance rate 0.274
+Batch number 2853
+Acceptance rate 0.274
+Batch number 2854
+Acceptance rate 0.274
+Batch number 2855
+Acceptance rate 0.274
+Batch number 2856
+Acceptance rate 0.274
+Batch number 2857
+Acceptance rate 0.274
+Batch number 2858
+Acceptance rate 0.274
+Batch number 2859
+Acceptance rate 0.274
+Batch number 2860
+Acceptance rate 0.274
+Batch number 2861
+Acceptance rate 0.274
+Batch number 2862
+Acceptance rate 0.274
+Batch number 2863
+Acceptance rate 0.274
+Batch number 2864
+Acceptance rate 0.274
+Batch number 2865
+Acceptance rate 0.274
+Batch number 2866
+Acceptance rate 0.274
+Batch number 2867
+Acceptance rate 0.274
+Batch number 2868
+Acceptance rate 0.274
+Batch number 2869
+Acceptance rate 0.274
+Batch number 2870
+Acceptance rate 0.274
+Batch number 2871
+Acceptance rate 0.274
+Batch number 2872
+Acceptance rate 0.274
+Batch number 2873
+Acceptance rate 0.274
+Batch number 2874
+Acceptance rate 0.274
+Batch number 2875
+Acceptance rate 0.274
+Batch number 2876
+Acceptance rate 0.274
+Batch number 2877
+Acceptance rate 0.274
+Batch number 2878
+Acceptance rate 0.274
+Batch number 2879
+Acceptance rate 0.274
+Batch number 2880
+Acceptance rate 0.274
+Batch number 2881
+Acceptance rate 0.273
+Batch number 2882
+Acceptance rate 0.273
+Batch number 2883
+Acceptance rate 0.273
+Batch number 2884
+Acceptance rate 0.273
+Batch number 2885
+Acceptance rate 0.273
+Batch number 2886
+Acceptance rate 0.273
+Batch number 2887
+Acceptance rate 0.273
+Batch number 2888
+Acceptance rate 0.273
+Batch number 2889
+Acceptance rate 0.273
+Batch number 2890
+Acceptance rate 0.273
+Batch number 2891
+Acceptance rate 0.273
+Batch number 2892
+Acceptance rate 0.273
+Batch number 2893
+Acceptance rate 0.273
+Batch number 2894
+Acceptance rate 0.273
+Batch number 2895
+Acceptance rate 0.273
+Batch number 2896
+Acceptance rate 0.273
+Batch number 2897
+Acceptance rate 0.273
+Batch number 2898
+Acceptance rate 0.273
+Batch number 2899
+Acceptance rate 0.273
+Batch number 2900
+Acceptance rate 0.273
+Batch number 2901
+Acceptance rate 0.273
+Batch number 2902
+Acceptance rate 0.273
+Batch number 2903
+Acceptance rate 0.273
+Batch number 2904
+Acceptance rate 0.273
+Batch number 2905
+Acceptance rate 0.273
+Batch number 2906
+Acceptance rate 0.273
+Batch number 2907
+Acceptance rate 0.273
+Batch number 2908
+Acceptance rate 0.273
+Batch number 2909
+Acceptance rate 0.273
+Batch number 2910
+Acceptance rate 0.273
+Batch number 2911
+Acceptance rate 0.273
+Batch number 2912
+Acceptance rate 0.273
+Batch number 2913
+Acceptance rate 0.273
+Batch number 2914
+Acceptance rate 0.273
+Batch number 2915
+Acceptance rate 0.273
+Batch number 2916
+Acceptance rate 0.273
+Batch number 2917
+Acceptance rate 0.273
+Batch number 2918
+Acceptance rate 0.273
+Batch number 2919
+Acceptance rate 0.273
+Batch number 2920
+Acceptance rate 0.273
+Batch number 2921
+Acceptance rate 0.273
+Batch number 2922
+Acceptance rate 0.273
+Batch number 2923
+Acceptance rate 0.272
+Batch number 2924
+Acceptance rate 0.272
+Batch number 2925
+Acceptance rate 0.272
+Batch number 2926
+Acceptance rate 0.272
+Batch number 2927
+Acceptance rate 0.272
+Batch number 2928
+Acceptance rate 0.272
+Batch number 2929
+Acceptance rate 0.272
+Batch number 2930
+Acceptance rate 0.272
+Batch number 2931
+Acceptance rate 0.272
+Batch number 2932
+Acceptance rate 0.272
+Batch number 2933
+Acceptance rate 0.272
+Batch number 2934
+Acceptance rate 0.272
+Batch number 2935
+Acceptance rate 0.272
+Batch number 2936
+Acceptance rate 0.272
+Batch number 2937
+Acceptance rate 0.272
+Batch number 2938
+Acceptance rate 0.272
+Batch number 2939
+Acceptance rate 0.272
+Batch number 2940
+Acceptance rate 0.272
+Batch number 2941
+Acceptance rate 0.272
+Batch number 2942
+Acceptance rate 0.272
+Batch number 2943
+Acceptance rate 0.272
+Batch number 2944
+Acceptance rate 0.272
+Batch number 2945
+Acceptance rate 0.272
+Batch number 2946
+Acceptance rate 0.272
+Batch number 2947
+Acceptance rate 0.272
+Batch number 2948
+Acceptance rate 0.272
+Batch number 2949
+Acceptance rate 0.272
+Batch number 2950
+Acceptance rate 0.272
+Batch number 2951
+Acceptance rate 0.272
+Batch number 2952
+Acceptance rate 0.272
+Batch number 2953
+Acceptance rate 0.272
+Batch number 2954
+Acceptance rate 0.272
+Batch number 2955
+Acceptance rate 0.272
+Batch number 2956
+Acceptance rate 0.272
+Batch number 2957
+Acceptance rate 0.272
+Batch number 2958
+Acceptance rate 0.272
+Batch number 2959
+Acceptance rate 0.272
+Batch number 2960
+Acceptance rate 0.272
+Batch number 2961
+Acceptance rate 0.272
+Batch number 2962
+Acceptance rate 0.272
+Batch number 2963
+Acceptance rate 0.272
+Batch number 2964
+Acceptance rate 0.272
+Batch number 2965
+Acceptance rate 0.272
+Batch number 2966
+Acceptance rate 0.272
+Batch number 2967
+Acceptance rate 0.272
+Batch number 2968
+Acceptance rate 0.272
+Batch number 2969
+Acceptance rate 0.272
+Batch number 2970
+Acceptance rate 0.272
+Batch number 2971
+Acceptance rate 0.272
+Batch number 2972
+Acceptance rate 0.272
+Batch number 2973
+Acceptance rate 0.272
+Batch number 2974
+Acceptance rate 0.272
+Batch number 2975
+Acceptance rate 0.271
+Batch number 2976
+Acceptance rate 0.271
+Batch number 2977
+Acceptance rate 0.271
+Batch number 2978
+Acceptance rate 0.271
+Batch number 2979
+Acceptance rate 0.271
+Batch number 2980
+Acceptance rate 0.271
+Batch number 2981
+Acceptance rate 0.271
+Batch number 2982
+Acceptance rate 0.271
+Batch number 2983
+Acceptance rate 0.271
+Batch number 2984
+Acceptance rate 0.271
+Batch number 2985
+Acceptance rate 0.271
+Batch number 2986
+Acceptance rate 0.271
+Batch number 2987
+Acceptance rate 0.271
+Batch number 2988
+Acceptance rate 0.271
+Batch number 2989
+Acceptance rate 0.271
+Batch number 2990
+Acceptance rate 0.271
+Batch number 2991
+Acceptance rate 0.271
+Batch number 2992
+Acceptance rate 0.271
+Batch number 2993
+Acceptance rate 0.271
+Batch number 2994
+Acceptance rate 0.271
+Batch number 2995
+Acceptance rate 0.271
+Batch number 2996
+Acceptance rate 0.271
+Batch number 2997
+Acceptance rate 0.271
+Batch number 2998
+Acceptance rate 0.271
+Batch number 2999
+Acceptance rate 0.271
+Tau Batch number 0
+Acceptance rate 0.271
+with time 45.25445222854614
+Tau Batch number 1
+Acceptance rate 0.271
+with time 38.140186071395874
+Tau Batch number 2
+Acceptance rate 0.271
+with time 38.12291073799133
+Tau Batch number 3
+Acceptance rate 0.271
+with time 38.16258430480957
+Tau Batch number 4
+Acceptance rate 0.271
+with time 38.15347981452942
+Tau Batch number 5
+Acceptance rate 0.271
+with time 38.127692222595215
+Tau Batch number 6
+Acceptance rate 0.271
+with time 38.13856768608093
+Tau Batch number 7
+Acceptance rate 0.271
+with time 38.13943552970886
+Tau Batch number 8
+Acceptance rate 0.271
+with time 38.17151427268982
+Tau Batch number 9
+Acceptance rate 0.271
+with time 38.14685249328613
+Tau Batch number 10
+Acceptance rate 0.271
+with time 38.14467978477478
+Tau Batch number 11
+Acceptance rate 0.271
+with time 38.137993574142456
+Tau Batch number 12
+Acceptance rate 0.271
+with time 38.156777143478394
+Tau Batch number 13
+Acceptance rate 0.271
+with time 38.13056421279907
+Tau Batch number 14
+Acceptance rate 0.271
+with time 38.149548292160034
+Tau Batch number 15
+Acceptance rate 0.271
+with time 38.1336874961853
+Tau Batch number 16
+Acceptance rate 0.271
+with time 38.16688394546509
+Tau Batch number 17
+Acceptance rate 0.271
+with time 38.12888264656067
+Tau Batch number 18
+Acceptance rate 0.271
+with time 38.1491003036499
+Tau Batch number 19
+Acceptance rate 0.271
+with time 38.1557834148407
+Tau Batch number 20
+Acceptance rate 0.271
+with time 38.163920879364014
+Tau Batch number 21
+Acceptance rate 0.271
+with time 38.12747073173523
+Tau Batch number 22
+Acceptance rate 0.271
+with time 38.1231791973114
+Tau Batch number 23
+Acceptance rate 0.271
+with time 38.13213300704956
+Tau Batch number 24
+Acceptance rate 0.27
+with time 38.1470251083374
+Tau Batch number 25
+Acceptance rate 0.27
+with time 38.128360986709595
+Tau Batch number 26
+Acceptance rate 0.27
+with time 38.131765842437744
+Tau Batch number 27
+Acceptance rate 0.27
+with time 38.10833430290222
+Tau Batch number 28
+Acceptance rate 0.27
+with time 38.12440037727356
+Tau Batch number 29
+Acceptance rate 0.27
+with time 38.11650109291077
+Tau Batch number 30
+Acceptance rate 0.27
+with time 38.144405126571655
+Tau Batch number 31
+Acceptance rate 0.27
+with time 38.1416597366333
+Tau Batch number 32
+Acceptance rate 0.27
+with time 38.1562819480896
+Tau Batch number 33
+Acceptance rate 0.27
+with time 38.14893960952759
+Tau Batch number 34
+Acceptance rate 0.27
+with time 38.144585847854614
+Tau Batch number 35
+Acceptance rate 0.27
+with time 38.13913011550903
+Tau Batch number 36
+Acceptance rate 0.27
+with time 38.141549825668335
+Tau Batch number 37
+Acceptance rate 0.27
+with time 38.1417019367218
+Tau Batch number 38
+Acceptance rate 0.27
+with time 38.15384244918823
+Tau Batch number 39
+Acceptance rate 0.27
+with time 38.14431881904602
+Tau Batch number 40
+Acceptance rate 0.27
+with time 38.12807655334473
+Tau Batch number 41
+Acceptance rate 0.27
+with time 38.111857891082764
+Tau Batch number 42
+Acceptance rate 0.27
+with time 38.11543846130371
+Tau Batch number 43
+Acceptance rate 0.27
+with time 38.12074136734009
+Tau Batch number 44
+Acceptance rate 0.27
+with time 38.132513761520386
+Tau Batch number 45
+Acceptance rate 0.27
+with time 38.12852382659912
+Tau Batch number 46
+Acceptance rate 0.27
+with time 38.12025475502014
+Tau Batch number 47
+Acceptance rate 0.27
+with time 38.13055992126465
+Tau Batch number 48
+Acceptance rate 0.27
+with time 38.123810052871704
+Tau Batch number 49
+Acceptance rate 0.27
+with time 38.13200831413269
+Tau Batch number 50
+Acceptance rate 0.27
+with time 38.11764931678772
+Tau Batch number 51
+Acceptance rate 0.27
+with time 38.1215877532959
+Tau Batch number 52
+Acceptance rate 0.27
+with time 38.1354501247406
+Tau Batch number 53
+Acceptance rate 0.27
+with time 38.11894416809082
+Tau Batch number 54
+Acceptance rate 0.27
+with time 38.1423020362854
+Tau Batch number 55
+Acceptance rate 0.27
+with time 38.140812397003174
+Tau Batch number 56
+Acceptance rate 0.27
+with time 38.11957049369812
+Tau Batch number 57
+Acceptance rate 0.27
+with time 38.15129828453064
+Tau Batch number 58
+Acceptance rate 0.27
+with time 38.11183786392212
+Tau Batch number 59
+Acceptance rate 0.27
+with time 38.20093250274658
+Tau Batch number 60
+Acceptance rate 0.27
+with time 38.14637780189514
+Tau Batch number 61
+Acceptance rate 0.27
+with time 38.16574239730835
+Tau Batch number 62
+Acceptance rate 0.27
+with time 38.12828040122986
+Tau Batch number 63
+Acceptance rate 0.27
+with time 38.10971403121948
+Tau Batch number 64
+Acceptance rate 0.27
+with time 38.15635967254639
+Tau Batch number 65
+Acceptance rate 0.27
+with time 38.113357067108154
+Tau Batch number 66
+Acceptance rate 0.27
+with time 38.11165928840637
+Tau Batch number 67
+Acceptance rate 0.27
+with time 38.16046857833862
+Tau Batch number 68
+Acceptance rate 0.27
+with time 38.17942953109741
+Tau Batch number 69
+Acceptance rate 0.27
+with time 38.19699311256409
+Tau Batch number 70
+Acceptance rate 0.27
+with time 38.16729235649109
+Tau Batch number 71
+Acceptance rate 0.27
+with time 38.18792200088501
+Tau Batch number 72
+Acceptance rate 0.27
+with time 38.203503370285034
+Tau Batch number 73
+Acceptance rate 0.269
+with time 38.19934797286987
+Tau Batch number 74
+Acceptance rate 0.269
+with time 38.169288635253906
+Tau Batch number 75
+Acceptance rate 0.269
+with time 38.17718553543091
+Tau Batch number 76
+Acceptance rate 0.269
+with time 38.214879512786865
+Tau Batch number 77
+Acceptance rate 0.269
+with time 38.18365478515625
+Tau Batch number 78
+Acceptance rate 0.269
+with time 38.187077045440674
+Tau Batch number 79
+Acceptance rate 0.269
+with time 38.18189334869385
+Tau Batch number 80
+Acceptance rate 0.269
+with time 38.173677921295166
+Tau Batch number 81
+Acceptance rate 0.269
+with time 38.245731592178345
+Tau Batch number 82
+Acceptance rate 0.269
+with time 38.18110537528992
+Tau Batch number 83
+Acceptance rate 0.269
+with time 38.20807147026062
+Tau Batch number 84
+Acceptance rate 0.269
+with time 38.18247056007385
+Tau Batch number 85
+Acceptance rate 0.269
+with time 38.182756662368774
+Tau Batch number 86
+Acceptance rate 0.269
+with time 38.16873264312744
+Tau Batch number 87
+Acceptance rate 0.269
+with time 38.19472670555115
+Tau Batch number 88
+Acceptance rate 0.269
+with time 38.184905767440796
+Tau Batch number 89
+Acceptance rate 0.269
+with time 38.17217016220093
+Tau Batch number 90
+Acceptance rate 0.269
+with time 38.20019578933716
+Tau Batch number 91
+Acceptance rate 0.269
+with time 38.19325399398804
+Tau Batch number 92
+Acceptance rate 0.269
+with time 38.208515644073486
+Tau Batch number 93
+Acceptance rate 0.269
+with time 38.21573257446289
+Tau Batch number 94
+Acceptance rate 0.269
+with time 38.17881631851196
+Tau Batch number 95
+Acceptance rate 0.269
+with time 38.18037796020508
+Tau Batch number 96
+Acceptance rate 0.269
+with time 38.19464159011841
+Tau Batch number 97
+Acceptance rate 0.269
+with time 38.16914629936218
+Tau Batch number 98
+Acceptance rate 0.269
+with time 38.18492102622986
+Tau Batch number 99
+Acceptance rate 0.269
+with time 38.129817962646484
+Tau Batch number 100
+Acceptance rate 0.269
+with time 38.11574578285217
+Tau Batch number 101
+Acceptance rate 0.269
+with time 38.16962242126465
+Tau Batch number 102
+Acceptance rate 0.269
+with time 38.200719356536865
+Tau Batch number 103
+Acceptance rate 0.269
+with time 38.19387245178223
+Tau Batch number 104
+Acceptance rate 0.269
+with time 38.12831139564514
+Tau Batch number 105
+Acceptance rate 0.269
+with time 38.18897247314453
+Tau Batch number 106
+Acceptance rate 0.269
+with time 38.188740491867065
+Tau Batch number 107
+Acceptance rate 0.269
+with time 38.152552366256714
+Tau Batch number 108
+Acceptance rate 0.269
+with time 38.14582371711731
+Tau Batch number 109
+Acceptance rate 0.269
+with time 38.16414928436279
+Tau Batch number 110
+Acceptance rate 0.269
+with time 38.16995906829834
+Tau Batch number 111
+Acceptance rate 0.269
+with time 38.188862323760986
+Tau Batch number 112
+Acceptance rate 0.269
+with time 38.16330003738403
+Tau Batch number 113
+Acceptance rate 0.269
+with time 38.19541263580322
+Tau Batch number 114
+Acceptance rate 0.269
+with time 38.179224491119385
+Tau Batch number 115
+Acceptance rate 0.269
+with time 38.171884536743164
+Tau Batch number 116
+Acceptance rate 0.269
+with time 38.17603325843811
+Tau Batch number 117
+Acceptance rate 0.269
+with time 38.15738344192505
+Tau Batch number 118
+Acceptance rate 0.269
+with time 38.159552812576294
+Tau Batch number 119
+Acceptance rate 0.269
+with time 38.18283939361572
+Tau Batch number 120
+Acceptance rate 0.269
+with time 38.173771142959595
+Tau Batch number 121
+Acceptance rate 0.269
+with time 38.179455518722534
+Tau Batch number 122
+Acceptance rate 0.269
+with time 38.172587871551514
+Tau Batch number 123
+Acceptance rate 0.268
+with time 38.1710684299469
+Tau Batch number 124
+Acceptance rate 0.268
+with time 38.17557120323181
+Tau Batch number 125
+Acceptance rate 0.268
+with time 38.210455894470215
+Tau Batch number 126
+Acceptance rate 0.268
+with time 38.18311071395874
+Tau Batch number 127
+Acceptance rate 0.268
+with time 38.19013476371765
+Tau Batch number 128
+Acceptance rate 0.268
+with time 38.16254734992981
+Tau Batch number 129
+Acceptance rate 0.268
+with time 38.181891202926636
+Tau Batch number 130
+Acceptance rate 0.268
+with time 38.198641538619995
+Tau Batch number 131
+Acceptance rate 0.268
+with time 38.189289808273315
+Tau Batch number 132
+Acceptance rate 0.268
+with time 38.180246114730835
+Tau Batch number 133
+Acceptance rate 0.268
+with time 38.116294145584106
+Tau Batch number 134
+Acceptance rate 0.268
+with time 38.1715784072876
+Tau Batch number 135
+Acceptance rate 0.268
+with time 38.155699253082275
+Tau Batch number 136
+Acceptance rate 0.268
+with time 38.15540146827698
+Tau Batch number 137
+Acceptance rate 0.268
+with time 38.15220785140991
+Tau Batch number 138
+Acceptance rate 0.268
+with time 38.13532829284668
+Tau Batch number 139
+Acceptance rate 0.268
+with time 38.1521737575531
+Tau Batch number 140
+Acceptance rate 0.268
+with time 38.17489433288574
+Tau Batch number 141
+Acceptance rate 0.268
+with time 38.18322777748108
+Tau Batch number 142
+Acceptance rate 0.268
+with time 38.181493043899536
+Tau Batch number 143
+Acceptance rate 0.268
+with time 38.16822052001953
+Tau Batch number 144
+Acceptance rate 0.268
+with time 38.19850301742554
+Tau Batch number 145
+Acceptance rate 0.268
+with time 38.15714693069458
+Tau Batch number 146
+Acceptance rate 0.268
+with time 38.1878719329834
+Tau Batch number 147
+Acceptance rate 0.268
+with time 38.17335891723633
+Tau Batch number 148
+Acceptance rate 0.268
+with time 38.296451568603516
+Tau Batch number 149
+Acceptance rate 0.268
+with time 38.1954460144043
+Tau Batch number 150
+Acceptance rate 0.268
+with time 38.18822360038757
+Tau Batch number 151
+Acceptance rate 0.268
+with time 38.17552351951599
+Tau Batch number 152
+Acceptance rate 0.268
+with time 38.16326975822449
+Tau Batch number 153
+Acceptance rate 0.268
+with time 38.179728746414185
+Tau Batch number 154
+Acceptance rate 0.268
+with time 38.178327798843384
+Tau Batch number 155
+Acceptance rate 0.268
+with time 38.17154097557068
+Tau Batch number 156
+Acceptance rate 0.268
+with time 38.183555364608765
+Tau Batch number 157
+Acceptance rate 0.268
+with time 38.168994665145874
+Tau Batch number 158
+Acceptance rate 0.268
+with time 38.19165110588074
+Tau Batch number 159
+Acceptance rate 0.268
+with time 38.2335524559021
+Tau Batch number 160
+Acceptance rate 0.268
+with time 38.20737075805664
+Tau Batch number 161
+Acceptance rate 0.268
+with time 38.15459108352661
+Tau Batch number 162
+Acceptance rate 0.268
+with time 38.130582094192505
+Tau Batch number 163
+Acceptance rate 0.268
+with time 38.13135814666748
+Tau Batch number 164
+Acceptance rate 0.268
+with time 38.10767483711243
+Tau Batch number 165
+Acceptance rate 0.268
+with time 38.10804796218872
+Tau Batch number 166
+Acceptance rate 0.268
+with time 38.096919536590576
+Tau Batch number 167
+Acceptance rate 0.268
+with time 38.070523738861084
+Tau Batch number 168
+Acceptance rate 0.268
+with time 38.066466331481934
+Tau Batch number 169
+Acceptance rate 0.268
+with time 38.08218431472778
+Tau Batch number 170
+Acceptance rate 0.268
+with time 38.1174111366272
+Tau Batch number 171
+Acceptance rate 0.268
+with time 38.133859157562256
+Tau Batch number 172
+Acceptance rate 0.268
+with time 38.12039494514465
+Tau Batch number 173
+Acceptance rate 0.268
+with time 38.098397970199585
+Tau Batch number 174
+Acceptance rate 0.268
+with time 38.096142053604126
+Tau Batch number 175
+Acceptance rate 0.268
+with time 38.128491163253784
+Tau Batch number 176
+Acceptance rate 0.268
+with time 38.11215853691101
+Tau Batch number 177
+Acceptance rate 0.268
+with time 38.1338050365448
+Tau Batch number 178
+Acceptance rate 0.268
+with time 38.09180164337158
+Tau Batch number 179
+Acceptance rate 0.268
+with time 38.1020565032959
+Tau Batch number 180
+Acceptance rate 0.268
+with time 38.08304476737976
+Tau Batch number 181
+Acceptance rate 0.268
+with time 38.09456944465637
+Tau Batch number 182
+Acceptance rate 0.268
+with time 38.13089990615845
+Tau Batch number 183
+Acceptance rate 0.268
+with time 38.13509917259216
+Tau Batch number 184
+Acceptance rate 0.268
+with time 38.09120988845825
+Tau Batch number 185
+Acceptance rate 0.268
+with time 38.0870258808136
+Tau Batch number 186
+Acceptance rate 0.268
+with time 38.100359201431274
+Tau Batch number 187
+Acceptance rate 0.268
+with time 38.109968423843384
+Tau Batch number 188
+Acceptance rate 0.268
+with time 38.08991193771362
+Tau Batch number 189
+Acceptance rate 0.268
+with time 38.08802580833435
+Tau Batch number 190
+Acceptance rate 0.268
+with time 38.12516808509827
+Tau Batch number 191
+Acceptance rate 0.267
+with time 38.14039063453674
+Tau Batch number 192
+Acceptance rate 0.267
+with time 38.122649908065796
+Tau Batch number 193
+Acceptance rate 0.267
+with time 38.09096670150757
+Tau Batch number 194
+Acceptance rate 0.267
+with time 38.09822487831116
+Tau Batch number 195
+Acceptance rate 0.267
+with time 38.09697461128235
+Tau Batch number 196
+Acceptance rate 0.267
+with time 38.07923746109009
+Tau Batch number 197
+Acceptance rate 0.267
+with time 38.08231830596924
+Tau Batch number 198
+Acceptance rate 0.267
+with time 38.07299280166626
+Tau Batch number 199
+Acceptance rate 0.267
+with time 38.09037113189697
+Tau Batch number 200
+Acceptance rate 0.267
+with time 38.098361015319824
+Tau Batch number 201
+Acceptance rate 0.267
+with time 38.0604784488678
+Tau Batch number 202
+Acceptance rate 0.267
+with time 38.027928590774536
+Tau Batch number 203
+Acceptance rate 0.267
+with time 38.08786177635193
+Tau Batch number 204
+Acceptance rate 0.267
+with time 38.05917286872864
+Tau Batch number 205
+Acceptance rate 0.267
+with time 38.089223861694336
+Tau Batch number 206
+Acceptance rate 0.267
+with time 38.102479219436646
+Tau Batch number 207
+Acceptance rate 0.267
+with time 38.140815019607544
+Tau Batch number 208
+Acceptance rate 0.267
+with time 38.04911160469055
+Tau Batch number 209
+Acceptance rate 0.267
+with time 38.100345611572266
+Tau Batch number 210
+Acceptance rate 0.267
+with time 38.10058116912842
+Tau Batch number 211
+Acceptance rate 0.267
+with time 38.05724787712097
+Tau Batch number 212
+Acceptance rate 0.267
+with time 38.09805917739868
+Tau Batch number 213
+Acceptance rate 0.267
+with time 38.116971254348755
+Tau Batch number 214
+Acceptance rate 0.267
+with time 38.01878023147583
+Tau Batch number 215
+Acceptance rate 0.267
+with time 38.06890869140625
+Tau Batch number 216
+Acceptance rate 0.267
+with time 38.089776039123535
+Tau Batch number 217
+Acceptance rate 0.267
+with time 38.07832908630371
+Tau Batch number 218
+Acceptance rate 0.267
+with time 38.11200141906738
+Tau Batch number 219
+Acceptance rate 0.267
+with time 38.15690779685974
+Tau Batch number 220
+Acceptance rate 0.267
+with time 38.02777314186096
+Tau Batch number 221
+Acceptance rate 0.267
+with time 38.072888135910034
+Tau Batch number 222
+Acceptance rate 0.267
+with time 38.08347296714783
+Tau Batch number 223
+Acceptance rate 0.267
+with time 38.08444666862488
+Tau Batch number 224
+Acceptance rate 0.267
+with time 38.121110916137695
+Tau Batch number 225
+Acceptance rate 0.267
+with time 38.13570499420166
+Tau Batch number 226
+Acceptance rate 0.267
+with time 38.039663314819336
+Tau Batch number 227
+Acceptance rate 0.267
+with time 38.07386326789856
+Tau Batch number 228
+Acceptance rate 0.267
+with time 38.06502962112427
+Tau Batch number 229
+Acceptance rate 0.267
+with time 38.06695532798767
+Tau Batch number 230
+Acceptance rate 0.267
+with time 38.09059476852417
+Tau Batch number 231
+Acceptance rate 0.267
+with time 38.09153866767883
+Tau Batch number 232
+Acceptance rate 0.267
+with time 38.040096044540405
+Tau Batch number 233
+Acceptance rate 0.267
+with time 38.07487416267395
+Tau Batch number 234
+Acceptance rate 0.267
+with time 38.07467174530029
+Tau Batch number 235
+Acceptance rate 0.267
+with time 38.091694593429565
+Tau Batch number 236
+Acceptance rate 0.267
+with time 38.09689998626709
+Tau Batch number 237
+Acceptance rate 0.267
+with time 38.161420583724976
+Tau Batch number 238
+Acceptance rate 0.267
+with time 38.1721556186676
+Tau Batch number 239
+Acceptance rate 0.267
+with time 38.13478922843933
+Tau Batch number 240
+Acceptance rate 0.267
+with time 38.13706660270691
+Tau Batch number 241
+Acceptance rate 0.267
+with time 38.13898181915283
+Tau Batch number 242
+Acceptance rate 0.267
+with time 38.13539743423462
+Tau Batch number 243
+Acceptance rate 0.267
+with time 38.16477942466736
+Tau Batch number 244
+Acceptance rate 0.267
+with time 38.15088868141174
+Tau Batch number 245
+Acceptance rate 0.267
+with time 38.150846004486084
+Tau Batch number 246
+Acceptance rate 0.267
+with time 38.140905141830444
+Tau Batch number 247
+Acceptance rate 0.267
+with time 38.13531708717346
+Tau Batch number 248
+Acceptance rate 0.267
+with time 38.132967710494995
+Tau Batch number 249
+Acceptance rate 0.266
+with time 38.12673282623291
+Tau Batch number 250
+Acceptance rate 0.266
+with time 38.122164487838745
+Tau Batch number 251
+Acceptance rate 0.266
+with time 38.12185454368591
+Tau Batch number 252
+Acceptance rate 0.266
+with time 38.124313831329346
+Tau Batch number 253
+Acceptance rate 0.266
+with time 38.126086473464966
+Tau Batch number 254
+Acceptance rate 0.266
+with time 38.114649057388306
+Tau Batch number 255
+Acceptance rate 0.266
+with time 38.148080825805664
+Tau Batch number 256
+Acceptance rate 0.266
+with time 38.121941804885864
+Tau Batch number 257
+Acceptance rate 0.266
+with time 38.13227438926697
+Tau Batch number 258
+Acceptance rate 0.266
+with time 38.1475465297699
+Tau Batch number 259
+Acceptance rate 0.266
+with time 38.114437103271484
+Tau Batch number 260
+Acceptance rate 0.266
+with time 38.141091108322144
+Tau Batch number 261
+Acceptance rate 0.266
+with time 38.15158128738403
+Tau Batch number 262
+Acceptance rate 0.266
+with time 38.15421938896179
+Tau Batch number 263
+Acceptance rate 0.266
+with time 38.14047169685364
+Tau Batch number 264
+Acceptance rate 0.266
+with time 38.13010096549988
+Tau Batch number 265
+Acceptance rate 0.266
+with time 38.130178928375244
+Tau Batch number 266
+Acceptance rate 0.266
+with time 38.129149436950684
+Tau Batch number 267
+Acceptance rate 0.266
+with time 38.123701095581055
+Tau Batch number 268
+Acceptance rate 0.266
+with time 38.14084339141846
+Tau Batch number 269
+Acceptance rate 0.266
+with time 38.11301279067993
+Tau Batch number 270
+Acceptance rate 0.266
+with time 38.11866044998169
+Tau Batch number 271
+Acceptance rate 0.266
+with time 38.14086961746216
+Tau Batch number 272
+Acceptance rate 0.266
+with time 38.14007592201233
+Tau Batch number 273
+Acceptance rate 0.266
+with time 38.15309119224548
+Tau Batch number 274
+Acceptance rate 0.266
+with time 38.1283540725708
+Tau Batch number 275
+Acceptance rate 0.266
+with time 38.13647770881653
+Tau Batch number 276
+Acceptance rate 0.266
+with time 38.13553810119629
+Tau Batch number 277
+Acceptance rate 0.266
+with time 38.129451513290405
+Tau Batch number 278
+Acceptance rate 0.266
+with time 38.14450430870056
+Tau Batch number 279
+Acceptance rate 0.266
+with time 38.10285496711731
+Tau Batch number 280
+Acceptance rate 0.266
+with time 38.11481833457947
+Tau Batch number 281
+Acceptance rate 0.266
+with time 38.11819386482239
+Tau Batch number 282
+Acceptance rate 0.266
+with time 38.125351428985596
+Tau Batch number 283
+Acceptance rate 0.266
+with time 38.10337710380554
+Tau Batch number 284
+Acceptance rate 0.266
+with time 38.11392307281494
+Tau Batch number 285
+Acceptance rate 0.266
+with time 38.084657192230225
+Tau Batch number 286
+Acceptance rate 0.266
+with time 38.12754535675049
+Tau Batch number 287
+Acceptance rate 0.266
+with time 38.109748125076294
+Tau Batch number 288
+Acceptance rate 0.266
+with time 38.10827326774597
+Tau Batch number 289
+Acceptance rate 0.266
+with time 38.12736177444458
+Tau Batch number 290
+Acceptance rate 0.266
+with time 38.11740517616272
+Tau Batch number 291
+Acceptance rate 0.266
+with time 38.10919451713562
+Tau Batch number 292
+Acceptance rate 0.266
+with time 38.108126401901245
+Tau Batch number 293
+Acceptance rate 0.266
+with time 38.10926294326782
+Tau Batch number 294
+Acceptance rate 0.266
+with time 38.098819971084595
+Tau Batch number 295
+Acceptance rate 0.266
+with time 38.13432836532593
+Tau Batch number 296
+Acceptance rate 0.266
+with time 38.15162420272827
+Tau Batch number 297
+Acceptance rate 0.266
+with time 38.13162636756897
+Tau Batch number 298
+Acceptance rate 0.266
+with time 38.12792897224426
+Tau Batch number 299
+Acceptance rate 0.266
+with time 38.125096559524536
+Tau Batch number 300
+Acceptance rate 0.266
+with time 38.11902213096619
+Tau Batch number 301
+Acceptance rate 0.266
+with time 38.1191201210022
+Tau Batch number 302
+Acceptance rate 0.266
+with time 38.12893223762512
+Tau Batch number 303
+Acceptance rate 0.266
+with time 38.137322425842285
+Tau Batch number 304
+Acceptance rate 0.266
+with time 38.13724160194397
+Tau Batch number 305
+Acceptance rate 0.266
+with time 38.13915276527405
+Tau Batch number 306
+Acceptance rate 0.266
+with time 38.12208127975464
+Tau Batch number 307
+Acceptance rate 0.266
+with time 38.12599587440491
+Tau Batch number 308
+Acceptance rate 0.266
+with time 38.12798357009888
+Tau Batch number 309
+Acceptance rate 0.266
+with time 38.12982249259949
+Tau Batch number 310
+Acceptance rate 0.265
+with time 38.116910457611084
+Tau Batch number 311
+Acceptance rate 0.265
+with time 38.12231135368347
+Tau Batch number 312
+Acceptance rate 0.265
+with time 38.127257108688354
+Tau Batch number 313
+Acceptance rate 0.265
+with time 38.13000988960266
+Tau Batch number 314
+Acceptance rate 0.265
+with time 38.16344380378723
+Tau Batch number 315
+Acceptance rate 0.265
+with time 38.14135956764221
+Tau Batch number 316
+Acceptance rate 0.265
+with time 38.149412393569946
+Tau Batch number 317
+Acceptance rate 0.265
+with time 38.14819312095642
+Tau Batch number 318
+Acceptance rate 0.265
+with time 38.13164806365967
+Tau Batch number 319
+Acceptance rate 0.265
+with time 38.14575672149658
+Tau Batch number 320
+Acceptance rate 0.265
+with time 38.14958167076111
+Tau Batch number 321
+Acceptance rate 0.265
+with time 38.14074754714966
+Tau Batch number 322
+Acceptance rate 0.265
+with time 38.15552735328674
+Tau Batch number 323
+Acceptance rate 0.265
+with time 38.14037537574768
+Tau Batch number 324
+Acceptance rate 0.265
+with time 38.12865114212036
+Tau Batch number 325
+Acceptance rate 0.265
+with time 38.12764310836792
+Tau Batch number 326
+Acceptance rate 0.265
+with time 38.15457725524902
+Tau Batch number 327
+Acceptance rate 0.265
+with time 38.1511013507843
+Tau Batch number 328
+Acceptance rate 0.265
+with time 38.132951498031616
+Tau Batch number 329
+Acceptance rate 0.265
+with time 38.154123306274414
+Tau Batch number 330
+Acceptance rate 0.265
+with time 38.13853669166565
+Tau Batch number 331
+Acceptance rate 0.265
+with time 38.13060712814331
+Tau Batch number 332
+Acceptance rate 0.265
+with time 38.146347761154175
+Tau Batch number 333
+Acceptance rate 0.265
+with time 38.14209699630737
+Tau Batch number 334
+Acceptance rate 0.265
+with time 38.157644510269165
+Tau Batch number 335
+Acceptance rate 0.265
+with time 38.146631479263306
+Tau Batch number 336
+Acceptance rate 0.265
+with time 38.125794410705566
+Tau Batch number 337
+Acceptance rate 0.265
+with time 38.137882471084595
+Tau Batch number 338
+Acceptance rate 0.265
+with time 38.127610206604004
+Tau Batch number 339
+Acceptance rate 0.265
+with time 38.15067005157471
+Tau Batch number 340
+Acceptance rate 0.265
+with time 38.160375118255615
+Tau Batch number 341
+Acceptance rate 0.265
+with time 38.15066194534302
+Tau Batch number 342
+Acceptance rate 0.265
+with time 38.1363308429718
+Tau Batch number 343
+Acceptance rate 0.265
+with time 38.12911009788513
+Tau Batch number 344
+Acceptance rate 0.265
+with time 38.14387035369873
+Tau Batch number 345
+Acceptance rate 0.265
+with time 38.12802028656006
+Tau Batch number 346
+Acceptance rate 0.265
+with time 38.13806486129761
+Tau Batch number 347
+Acceptance rate 0.265
+with time 38.13303327560425
+Tau Batch number 348
+Acceptance rate 0.265
+with time 38.13369822502136
+Tau Batch number 349
+Acceptance rate 0.265
+with time 38.13319492340088
+Tau Batch number 350
+Acceptance rate 0.265
+with time 38.12873983383179
+Tau Batch number 351
+Acceptance rate 0.265
+with time 38.129913091659546
+Tau Batch number 352
+Acceptance rate 0.265
+with time 38.15309405326843
+Tau Batch number 353
+Acceptance rate 0.265
+with time 38.13299870491028
+Tau Batch number 354
+Acceptance rate 0.265
+with time 38.14385771751404
+Tau Batch number 355
+Acceptance rate 0.265
+with time 38.13649582862854
+Tau Batch number 356
+Acceptance rate 0.265
+with time 38.11735916137695
+Tau Batch number 357
+Acceptance rate 0.265
+with time 38.12848162651062
+Tau Batch number 358
+Acceptance rate 0.265
+with time 38.14785623550415
+Tau Batch number 359
+Acceptance rate 0.265
+with time 38.11661195755005
+Tau Batch number 360
+Acceptance rate 0.265
+with time 38.15339756011963
+Tau Batch number 361
+Acceptance rate 0.265
+with time 38.126463651657104
+Tau Batch number 362
+Acceptance rate 0.265
+with time 38.11610412597656
+Tau Batch number 363
+Acceptance rate 0.265
+with time 38.13914251327515
+Tau Batch number 364
+Acceptance rate 0.265
+with time 38.13511872291565
+Tau Batch number 365
+Acceptance rate 0.265
+with time 38.165398597717285
+Tau Batch number 366
+Acceptance rate 0.265
+with time 38.14254808425903
+Tau Batch number 367
+Acceptance rate 0.265
+with time 38.1369469165802
+Tau Batch number 368
+Acceptance rate 0.265
+with time 38.116618156433105
+Tau Batch number 369
+Acceptance rate 0.264
+with time 38.147780895233154
+Tau Batch number 370
+Acceptance rate 0.264
+with time 38.13350319862366
+Tau Batch number 371
+Acceptance rate 0.264
+with time 38.09844350814819
+Tau Batch number 372
+Acceptance rate 0.264
+with time 38.10918092727661
+Tau Batch number 373
+Acceptance rate 0.264
+with time 38.09081530570984
+Tau Batch number 374
+Acceptance rate 0.264
+with time 38.12889218330383
+Tau Batch number 375
+Acceptance rate 0.264
+with time 38.11438322067261
+Tau Batch number 376
+Acceptance rate 0.264
+with time 38.08490824699402
+Tau Batch number 377
+Acceptance rate 0.264
+with time 38.099854707717896
+Tau Batch number 378
+Acceptance rate 0.264
+with time 38.09934735298157
+Tau Batch number 379
+Acceptance rate 0.264
+with time 38.09774923324585
+Tau Batch number 380
+Acceptance rate 0.264
+with time 38.13670301437378
+Tau Batch number 381
+Acceptance rate 0.264
+with time 38.09961915016174
+Tau Batch number 382
+Acceptance rate 0.264
+with time 38.09919214248657
+Tau Batch number 383
+Acceptance rate 0.264
+with time 38.10920262336731
+Tau Batch number 384
+Acceptance rate 0.264
+with time 38.084498167037964
+Tau Batch number 385
+Acceptance rate 0.264
+with time 38.08433437347412
+Tau Batch number 386
+Acceptance rate 0.264
+with time 38.08925151824951
+Tau Batch number 387
+Acceptance rate 0.264
+with time 38.105331897735596
+Tau Batch number 388
+Acceptance rate 0.264
+with time 38.1047682762146
+Tau Batch number 389
+Acceptance rate 0.264
+with time 38.09280490875244
+Tau Batch number 390
+Acceptance rate 0.264
+with time 38.12049674987793
+Tau Batch number 391
+Acceptance rate 0.264
+with time 38.10151934623718
+Tau Batch number 392
+Acceptance rate 0.264
+with time 38.099345207214355
+Tau Batch number 393
+Acceptance rate 0.264
+with time 38.06873106956482
+Tau Batch number 394
+Acceptance rate 0.264
+with time 38.1172251701355
+Tau Batch number 395
+Acceptance rate 0.264
+with time 38.10289764404297
+Tau Batch number 396
+Acceptance rate 0.264
+with time 38.134281396865845
+Tau Batch number 397
+Acceptance rate 0.264
+with time 38.10351610183716
+Tau Batch number 398
+Acceptance rate 0.264
+with time 38.14985370635986
+Tau Batch number 399
+Acceptance rate 0.264
+with time 38.13428473472595
+Tau Batch number 400
+Acceptance rate 0.264
+with time 38.128575563430786
+Tau Batch number 401
+Acceptance rate 0.264
+with time 38.11616826057434
+Tau Batch number 402
+Acceptance rate 0.264
+with time 38.10534477233887
+Tau Batch number 403
+Acceptance rate 0.264
+with time 38.086893796920776
+Tau Batch number 404
+Acceptance rate 0.264
+with time 38.09915256500244
+Tau Batch number 405
+Acceptance rate 0.264
+with time 38.09963798522949
+Tau Batch number 406
+Acceptance rate 0.264
+with time 38.11315369606018
+Tau Batch number 407
+Acceptance rate 0.264
+with time 38.08837056159973
+Tau Batch number 408
+Acceptance rate 0.264
+with time 38.1151180267334
+Tau Batch number 409
+Acceptance rate 0.264
+with time 38.0900502204895
+Tau Batch number 410
+Acceptance rate 0.264
+with time 38.10196805000305
+Tau Batch number 411
+Acceptance rate 0.264
+with time 38.10336661338806
+Tau Batch number 412
+Acceptance rate 0.264
+with time 38.11094331741333
+Tau Batch number 413
+Acceptance rate 0.264
+with time 38.096930503845215
+Tau Batch number 414
+Acceptance rate 0.264
+with time 38.11364531517029
+Tau Batch number 415
+Acceptance rate 0.264
+with time 38.089736223220825
+Tau Batch number 416
+Acceptance rate 0.264
+with time 38.128095865249634
+Tau Batch number 417
+Acceptance rate 0.264
+with time 38.09795022010803
+Tau Batch number 418
+Acceptance rate 0.264
+with time 38.11107015609741
+Tau Batch number 419
+Acceptance rate 0.264
+with time 38.087584257125854
+Tau Batch number 420
+Acceptance rate 0.264
+with time 38.09420895576477
+Tau Batch number 421
+Acceptance rate 0.264
+with time 38.10243630409241
+Tau Batch number 422
+Acceptance rate 0.264
+with time 38.08584523200989
+Tau Batch number 423
+Acceptance rate 0.264
+with time 38.102980852127075
+Tau Batch number 424
+Acceptance rate 0.264
+with time 38.1084349155426
+Tau Batch number 425
+Acceptance rate 0.264
+with time 38.10388994216919
+Tau Batch number 426
+Acceptance rate 0.264
+with time 38.11534023284912
+Tau Batch number 427
+Acceptance rate 0.264
+with time 38.103999614715576
+Tau Batch number 428
+Acceptance rate 0.264
+with time 38.10224103927612
+Tau Batch number 429
+Acceptance rate 0.264
+with time 38.1037232875824
+Tau Batch number 430
+Acceptance rate 0.264
+with time 38.11126947402954
+Tau Batch number 431
+Acceptance rate 0.264
+with time 38.08098030090332
+Tau Batch number 432
+Acceptance rate 0.264
+with time 38.080323934555054
+Tau Batch number 433
+Acceptance rate 0.264
+with time 38.08031940460205
+Tau Batch number 434
+Acceptance rate 0.264
+with time 38.09355711936951
+Tau Batch number 435
+Acceptance rate 0.263
+with time 38.09843134880066
+Tau Batch number 436
+Acceptance rate 0.263
+with time 38.08243680000305
+Tau Batch number 437
+Acceptance rate 0.263
+with time 38.08967638015747
+Tau Batch number 438
+Acceptance rate 0.263
+with time 38.103848695755005
+Tau Batch number 439
+Acceptance rate 0.263
+with time 38.10487937927246
+Tau Batch number 440
+Acceptance rate 0.263
+with time 38.13727617263794
+Tau Batch number 441
+Acceptance rate 0.263
+with time 38.127572536468506
+Tau Batch number 442
+Acceptance rate 0.263
+with time 38.12199378013611
+Tau Batch number 443
+Acceptance rate 0.263
+with time 38.11591672897339
+Tau Batch number 444
+Acceptance rate 0.263
+with time 38.0841383934021
+Tau Batch number 445
+Acceptance rate 0.263
+with time 38.09110999107361
+Tau Batch number 446
+Acceptance rate 0.263
+with time 38.10594296455383
+Tau Batch number 447
+Acceptance rate 0.263
+with time 38.096004486083984
+Tau Batch number 448
+Acceptance rate 0.263
+with time 38.09604334831238
+Tau Batch number 449
+Acceptance rate 0.263
+with time 38.08503198623657
+Tau Batch number 450
+Acceptance rate 0.263
+with time 38.10654830932617
+Tau Batch number 451
+Acceptance rate 0.263
+with time 38.107404708862305
+Tau Batch number 452
+Acceptance rate 0.263
+with time 38.0957133769989
+Tau Batch number 453
+Acceptance rate 0.263
+with time 38.09799861907959
+Tau Batch number 454
+Acceptance rate 0.263
+with time 38.08490777015686
+Tau Batch number 455
+Acceptance rate 0.263
+with time 38.11126947402954
+Tau Batch number 456
+Acceptance rate 0.263
+with time 38.08365774154663
+Tau Batch number 457
+Acceptance rate 0.263
+with time 38.09982132911682
+Tau Batch number 458
+Acceptance rate 0.263
+with time 38.12083077430725
+Tau Batch number 459
+Acceptance rate 0.263
+with time 38.08913850784302
+Tau Batch number 460
+Acceptance rate 0.263
+with time 38.10292148590088
+Tau Batch number 461
+Acceptance rate 0.263
+with time 38.11088156700134
+Tau Batch number 462
+Acceptance rate 0.263
+with time 38.126296281814575
+Tau Batch number 463
+Acceptance rate 0.263
+with time 38.11396908760071
+Tau Batch number 464
+Acceptance rate 0.263
+with time 38.105735301971436
+Tau Batch number 465
+Acceptance rate 0.263
+with time 38.12047028541565
+Tau Batch number 466
+Acceptance rate 0.263
+with time 38.088465213775635
+Tau Batch number 467
+Acceptance rate 0.263
+with time 38.10561418533325
+Tau Batch number 468
+Acceptance rate 0.263
+with time 38.1210675239563
+Tau Batch number 469
+Acceptance rate 0.263
+with time 38.114567279815674
+Tau Batch number 470
+Acceptance rate 0.263
+with time 38.10863924026489
+Tau Batch number 471
+Acceptance rate 0.263
+with time 38.13709568977356
+Tau Batch number 472
+Acceptance rate 0.263
+with time 38.10269236564636
+Tau Batch number 473
+Acceptance rate 0.263
+with time 38.072452783584595
+Tau Batch number 474
+Acceptance rate 0.263
+with time 38.11157774925232
+Tau Batch number 475
+Acceptance rate 0.263
+with time 38.13721537590027
+Tau Batch number 476
+Acceptance rate 0.263
+with time 38.10176420211792
+Tau Batch number 477
+Acceptance rate 0.263
+with time 38.11744737625122
+Tau Batch number 478
+Acceptance rate 0.263
+with time 38.0949592590332
+Tau Batch number 479
+Acceptance rate 0.263
+with time 38.11352849006653
+Tau Batch number 480
+Acceptance rate 0.263
+with time 38.094890832901
+Tau Batch number 481
+Acceptance rate 0.263
+with time 38.11815667152405
+Tau Batch number 482
+Acceptance rate 0.263
+with time 38.12189054489136
+Tau Batch number 483
+Acceptance rate 0.263
+with time 38.13993501663208
+Tau Batch number 484
+Acceptance rate 0.263
+with time 38.09984064102173
+Tau Batch number 485
+Acceptance rate 0.263
+with time 38.10820913314819
+Tau Batch number 486
+Acceptance rate 0.263
+with time 38.11257338523865
+Tau Batch number 487
+Acceptance rate 0.263
+with time 38.09853959083557
+Tau Batch number 488
+Acceptance rate 0.263
+with time 38.11394929885864
+Tau Batch number 489
+Acceptance rate 0.263
+with time 38.111695766448975
+Tau Batch number 490
+Acceptance rate 0.263
+with time 38.095353841781616
+Tau Batch number 491
+Acceptance rate 0.263
+with time 38.09850358963013
+Tau Batch number 492
+Acceptance rate 0.263
+with time 38.113866090774536
+Tau Batch number 493
+Acceptance rate 0.263
+with time 38.10835337638855
+Tau Batch number 494
+Acceptance rate 0.263
+with time 38.13309144973755
+Tau Batch number 495
+Acceptance rate 0.263
+with time 38.119162797927856
+Tau Batch number 496
+Acceptance rate 0.263
+with time 38.10223841667175
+Tau Batch number 497
+Acceptance rate 0.263
+with time 38.12515425682068
+Tau Batch number 498
+Acceptance rate 0.263
+with time 38.148242235183716
+Tau Batch number 499
+Acceptance rate 0.263
+with time 38.13695955276489
+Tau Batch number 500
+Acceptance rate 0.263
+with time 38.11336278915405
+Tau Batch number 501
+Acceptance rate 0.263
+with time 38.120078563690186
+Tau Batch number 502
+Acceptance rate 0.263
+with time 38.1139395236969
+Tau Batch number 503
+Acceptance rate 0.263
+with time 38.10782790184021
+Tau Batch number 504
+Acceptance rate 0.263
+with time 38.14849042892456
+Tau Batch number 505
+Acceptance rate 0.263
+with time 38.1224262714386
+Tau Batch number 506
+Acceptance rate 0.263
+with time 38.1227343082428
+Tau Batch number 507
+Acceptance rate 0.263
+with time 38.09618163108826
+Tau Batch number 508
+Acceptance rate 0.262
+with time 38.09304594993591
+Tau Batch number 509
+Acceptance rate 0.262
+with time 38.08956575393677
+Tau Batch number 510
+Acceptance rate 0.262
+with time 38.1154088973999
+Tau Batch number 511
+Acceptance rate 0.262
+with time 38.11149215698242
+Tau Batch number 512
+Acceptance rate 0.262
+with time 38.089178800582886
+Tau Batch number 513
+Acceptance rate 0.262
+with time 38.10877728462219
+Tau Batch number 514
+Acceptance rate 0.262
+with time 38.093162298202515
+Tau Batch number 515
+Acceptance rate 0.262
+with time 38.07991290092468
+Tau Batch number 516
+Acceptance rate 0.262
+with time 38.0866904258728
+Tau Batch number 517
+Acceptance rate 0.262
+with time 38.10295820236206
+Tau Batch number 518
+Acceptance rate 0.262
+with time 38.08792853355408
+Tau Batch number 519
+Acceptance rate 0.262
+with time 38.12535309791565
+Tau Batch number 520
+Acceptance rate 0.262
+with time 38.10632848739624
+Tau Batch number 521
+Acceptance rate 0.262
+with time 38.10726046562195
+Tau Batch number 522
+Acceptance rate 0.262
+with time 38.0799446105957
+Tau Batch number 523
+Acceptance rate 0.262
+with time 38.090351581573486
+Tau Batch number 524
+Acceptance rate 0.262
+with time 38.09240460395813
+Tau Batch number 525
+Acceptance rate 0.262
+with time 38.08454489707947
+Tau Batch number 526
+Acceptance rate 0.262
+with time 38.06545948982239
+Tau Batch number 527
+Acceptance rate 0.262
+with time 38.07249641418457
+Tau Batch number 528
+Acceptance rate 0.262
+with time 38.08012914657593
+Tau Batch number 529
+Acceptance rate 0.262
+with time 38.08612656593323
+Tau Batch number 530
+Acceptance rate 0.262
+with time 38.08304715156555
+Tau Batch number 531
+Acceptance rate 0.262
+with time 38.07370924949646
+Tau Batch number 532
+Acceptance rate 0.262
+with time 38.08349680900574
+Tau Batch number 533
+Acceptance rate 0.262
+with time 38.09939980506897
+Tau Batch number 534
+Acceptance rate 0.262
+with time 38.066813945770264
+Tau Batch number 535
+Acceptance rate 0.262
+with time 38.06546354293823
+Tau Batch number 536
+Acceptance rate 0.262
+with time 38.07812428474426
+Tau Batch number 537
+Acceptance rate 0.262
+with time 38.061959743499756
+Tau Batch number 538
+Acceptance rate 0.262
+with time 38.090606689453125
+Tau Batch number 539
+Acceptance rate 0.262
+with time 38.099900245666504
+Tau Batch number 540
+Acceptance rate 0.262
+with time 38.0770845413208
+Tau Batch number 541
+Acceptance rate 0.262
+with time 38.10358762741089
+Tau Batch number 542
+Acceptance rate 0.262
+with time 38.08787989616394
+Tau Batch number 543
+Acceptance rate 0.262
+with time 38.053929567337036
+Tau Batch number 544
+Acceptance rate 0.262
+with time 38.09250283241272
+Tau Batch number 545
+Acceptance rate 0.262
+with time 38.10082173347473
+Tau Batch number 546
+Acceptance rate 0.262
+with time 38.11365056037903
+Tau Batch number 547
+Acceptance rate 0.262
+with time 38.08668398857117
+Tau Batch number 548
+Acceptance rate 0.262
+with time 38.08379769325256
+Tau Batch number 549
+Acceptance rate 0.262
+with time 38.06413388252258
+Tau Batch number 550
+Acceptance rate 0.262
+with time 38.07941198348999
+Tau Batch number 551
+Acceptance rate 0.262
+with time 38.065415143966675
+Tau Batch number 552
+Acceptance rate 0.262
+with time 38.07316446304321
+Tau Batch number 553
+Acceptance rate 0.262
+with time 38.09560036659241
+Tau Batch number 554
+Acceptance rate 0.262
+with time 38.07270002365112
+Tau Batch number 555
+Acceptance rate 0.262
+with time 38.07729506492615
+Tau Batch number 556
+Acceptance rate 0.262
+with time 38.081817865371704
+Tau Batch number 557
+Acceptance rate 0.262
+with time 38.07892179489136
+Tau Batch number 558
+Acceptance rate 0.262
+with time 38.085238218307495
+Tau Batch number 559
+Acceptance rate 0.262
+with time 38.11465287208557
+Tau Batch number 560
+Acceptance rate 0.262
+with time 38.14179849624634
+Tau Batch number 561
+Acceptance rate 0.262
+with time 38.14732503890991
+Tau Batch number 562
+Acceptance rate 0.262
+with time 38.14865064620972
+Tau Batch number 563
+Acceptance rate 0.262
+with time 38.156176805496216
+Tau Batch number 564
+Acceptance rate 0.261
+with time 38.16795587539673
+Tau Batch number 565
+Acceptance rate 0.261
+with time 38.15753674507141
+Tau Batch number 566
+Acceptance rate 0.261
+with time 38.15219736099243
+Tau Batch number 567
+Acceptance rate 0.261
+with time 38.13690733909607
+Tau Batch number 568
+Acceptance rate 0.261
+with time 38.13661289215088
+Tau Batch number 569
+Acceptance rate 0.261
+with time 38.15566110610962
+Tau Batch number 570
+Acceptance rate 0.261
+with time 38.13706684112549
+Tau Batch number 571
+Acceptance rate 0.261
+with time 38.15731906890869
+Tau Batch number 572
+Acceptance rate 0.261
+with time 38.14785146713257
+Tau Batch number 573
+Acceptance rate 0.261
+with time 38.15791058540344
+Tau Batch number 574
+Acceptance rate 0.261
+with time 38.150909423828125
+Tau Batch number 575
+Acceptance rate 0.261
+with time 38.14508509635925
+Tau Batch number 576
+Acceptance rate 0.261
+with time 38.146408796310425
+Tau Batch number 577
+Acceptance rate 0.261
+with time 38.138800859451294
+Tau Batch number 578
+Acceptance rate 0.261
+with time 38.12900710105896
+Tau Batch number 579
+Acceptance rate 0.261
+with time 38.163238286972046
+Tau Batch number 580
+Acceptance rate 0.261
+with time 38.15371036529541
+Tau Batch number 581
+Acceptance rate 0.261
+with time 38.13540458679199
+Tau Batch number 582
+Acceptance rate 0.261
+with time 38.154196977615356
+Tau Batch number 583
+Acceptance rate 0.261
+with time 38.13876962661743
+Tau Batch number 584
+Acceptance rate 0.261
+with time 38.158069133758545
+Tau Batch number 585
+Acceptance rate 0.261
+with time 38.14490056037903
+Tau Batch number 586
+Acceptance rate 0.261
+with time 38.1441171169281
+Tau Batch number 587
+Acceptance rate 0.261
+with time 38.11558246612549
+Tau Batch number 588
+Acceptance rate 0.261
+with time 38.124818086624146
+Tau Batch number 589
+Acceptance rate 0.261
+with time 38.15612721443176
+Tau Batch number 590
+Acceptance rate 0.261
+with time 38.096269607543945
+Tau Batch number 591
+Acceptance rate 0.261
+with time 38.127309799194336
+Tau Batch number 592
+Acceptance rate 0.261
+with time 38.13705897331238
+Tau Batch number 593
+Acceptance rate 0.261
+with time 38.1567816734314
+Tau Batch number 594
+Acceptance rate 0.261
+with time 38.13295340538025
+Tau Batch number 595
+Acceptance rate 0.261
+with time 38.14253640174866
+Tau Batch number 596
+Acceptance rate 0.261
+with time 38.13666248321533
+Tau Batch number 597
+Acceptance rate 0.261
+with time 38.142529010772705
+Tau Batch number 598
+Acceptance rate 0.261
+with time 38.13347363471985
+Tau Batch number 599
+Acceptance rate 0.261
+with time 38.13216781616211
+Tau Batch number 600
+Acceptance rate 0.261
+with time 38.14936900138855
+Tau Batch number 601
+Acceptance rate 0.261
+with time 38.140408754348755
+Tau Batch number 602
+Acceptance rate 0.261
+with time 38.13001799583435
+Tau Batch number 603
+Acceptance rate 0.261
+with time 38.12338614463806
+Tau Batch number 604
+Acceptance rate 0.261
+with time 38.13793969154358
+Tau Batch number 605
+Acceptance rate 0.261
+with time 38.1325147151947
+Tau Batch number 606
+Acceptance rate 0.261
+with time 38.11587643623352
+Tau Batch number 607
+Acceptance rate 0.261
+with time 38.12430167198181
+Tau Batch number 608
+Acceptance rate 0.261
+with time 38.09713912010193
+Tau Batch number 609
+Acceptance rate 0.261
+with time 38.098729610443115
+Tau Batch number 610
+Acceptance rate 0.261
+with time 38.127866983413696
+Tau Batch number 611
+Acceptance rate 0.261
+with time 38.12127208709717
+Tau Batch number 612
+Acceptance rate 0.261
+with time 38.115575075149536
+Tau Batch number 613
+Acceptance rate 0.261
+with time 38.12798595428467
+Tau Batch number 614
+Acceptance rate 0.261
+with time 38.12694525718689
+Tau Batch number 615
+Acceptance rate 0.261
+with time 38.13622188568115
+Tau Batch number 616
+Acceptance rate 0.261
+with time 38.12642955780029
+Tau Batch number 617
+Acceptance rate 0.261
+with time 38.20070123672485
+Tau Batch number 618
+Acceptance rate 0.261
+with time 38.19411063194275
+Tau Batch number 619
+Acceptance rate 0.261
+with time 38.191516160964966
+Tau Batch number 620
+Acceptance rate 0.261
+with time 38.19237780570984
+Tau Batch number 621
+Acceptance rate 0.261
+with time 38.20695519447327
+Tau Batch number 622
+Acceptance rate 0.261
+with time 38.17393255233765
+Tau Batch number 623
+Acceptance rate 0.261
+with time 38.185970067977905
+Tau Batch number 624
+Acceptance rate 0.261
+with time 38.16514611244202
+Tau Batch number 625
+Acceptance rate 0.261
+with time 38.17546200752258
+Tau Batch number 626
+Acceptance rate 0.261
+with time 38.19526433944702
+Tau Batch number 627
+Acceptance rate 0.261
+with time 38.18119406700134
+Tau Batch number 628
+Acceptance rate 0.26
+with time 38.1907753944397
+Tau Batch number 629
+Acceptance rate 0.26
+with time 38.167075872421265
+Tau Batch number 630
+Acceptance rate 0.26
+with time 38.17493796348572
+Tau Batch number 631
+Acceptance rate 0.26
+with time 38.14634561538696
+Tau Batch number 632
+Acceptance rate 0.26
+with time 38.15809893608093
+Tau Batch number 633
+Acceptance rate 0.26
+with time 38.17132019996643
+Tau Batch number 634
+Acceptance rate 0.26
+with time 38.15450143814087
+Tau Batch number 635
+Acceptance rate 0.26
+with time 38.13892865180969
+Tau Batch number 636
+Acceptance rate 0.26
+with time 38.13233423233032
+Tau Batch number 637
+Acceptance rate 0.26
+with time 38.15351414680481
+Tau Batch number 638
+Acceptance rate 0.26
+with time 38.14472723007202
+Tau Batch number 639
+Acceptance rate 0.26
+with time 38.1488139629364
+Tau Batch number 640
+Acceptance rate 0.26
+with time 38.16893815994263
+Tau Batch number 641
+Acceptance rate 0.26
+with time 38.15583848953247
+Tau Batch number 642
+Acceptance rate 0.26
+with time 38.15633749961853
+Tau Batch number 643
+Acceptance rate 0.26
+with time 38.157339334487915
+Tau Batch number 644
+Acceptance rate 0.26
+with time 38.157586097717285
+Tau Batch number 645
+Acceptance rate 0.26
+with time 38.15062975883484
+Tau Batch number 646
+Acceptance rate 0.26
+with time 38.15254545211792
+Tau Batch number 647
+Acceptance rate 0.26
+with time 38.15210556983948
+Tau Batch number 648
+Acceptance rate 0.26
+with time 38.14793920516968
+Tau Batch number 649
+Acceptance rate 0.26
+with time 38.1405713558197
+Tau Batch number 650
+Acceptance rate 0.26
+with time 38.12813401222229
+Tau Batch number 651
+Acceptance rate 0.26
+with time 38.14573693275452
+Tau Batch number 652
+Acceptance rate 0.26
+with time 38.14626932144165
+Tau Batch number 653
+Acceptance rate 0.26
+with time 38.11720943450928
+Tau Batch number 654
+Acceptance rate 0.26
+with time 38.12810015678406
+Tau Batch number 655
+Acceptance rate 0.26
+with time 38.115020990371704
+Tau Batch number 656
+Acceptance rate 0.26
+with time 38.13688564300537
+Tau Batch number 657
+Acceptance rate 0.26
+with time 38.156038761138916
+Tau Batch number 658
+Acceptance rate 0.26
+with time 38.1240291595459
+Tau Batch number 659
+Acceptance rate 0.26
+with time 38.154592514038086
+Tau Batch number 660
+Acceptance rate 0.26
+with time 38.12141537666321
+Tau Batch number 661
+Acceptance rate 0.26
+with time 38.25714135169983
+Tau Batch number 662
+Acceptance rate 0.26
+with time 38.15707731246948
+Tau Batch number 663
+Acceptance rate 0.26
+with time 38.11380910873413
+Tau Batch number 664
+Acceptance rate 0.26
+with time 38.128899574279785
+Tau Batch number 665
+Acceptance rate 0.26
+with time 38.13900351524353
+Tau Batch number 666
+Acceptance rate 0.26
+with time 38.16455340385437
+Tau Batch number 667
+Acceptance rate 0.26
+with time 38.12967324256897
+Tau Batch number 668
+Acceptance rate 0.26
+with time 38.11788082122803
+Tau Batch number 669
+Acceptance rate 0.26
+with time 38.11114025115967
+Tau Batch number 670
+Acceptance rate 0.26
+with time 38.09803581237793
+Tau Batch number 671
+Acceptance rate 0.26
+with time 38.12346363067627
+Tau Batch number 672
+Acceptance rate 0.26
+with time 38.177263259887695
+Tau Batch number 673
+Acceptance rate 0.26
+with time 38.165284156799316
+Tau Batch number 674
+Acceptance rate 0.26
+with time 38.16052865982056
+Tau Batch number 675
+Acceptance rate 0.26
+with time 38.14292311668396
+Tau Batch number 676
+Acceptance rate 0.26
+with time 38.16454792022705
+Tau Batch number 677
+Acceptance rate 0.26
+with time 38.1340606212616
+Tau Batch number 678
+Acceptance rate 0.26
+with time 38.12138795852661
+Tau Batch number 679
+Acceptance rate 0.26
+with time 38.143744707107544
+Tau Batch number 680
+Acceptance rate 0.26
+with time 38.13525462150574
+Tau Batch number 681
+Acceptance rate 0.26
+with time 38.145562410354614
+Tau Batch number 682
+Acceptance rate 0.26
+with time 38.10705876350403
+Tau Batch number 683
+Acceptance rate 0.26
+with time 38.11750149726868
+Tau Batch number 684
+Acceptance rate 0.26
+with time 38.12295150756836
+Tau Batch number 685
+Acceptance rate 0.26
+with time 38.10975003242493
+Tau Batch number 686
+Acceptance rate 0.259
+with time 38.12445950508118
+Tau Batch number 687
+Acceptance rate 0.259
+with time 38.11441206932068
+Tau Batch number 688
+Acceptance rate 0.259
+with time 38.109036922454834
+Tau Batch number 689
+Acceptance rate 0.259
+with time 38.120373249053955
+Tau Batch number 690
+Acceptance rate 0.259
+with time 38.15696334838867
+Tau Batch number 691
+Acceptance rate 0.259
+with time 38.19269251823425
+Tau Batch number 692
+Acceptance rate 0.259
+with time 38.1382155418396
+Tau Batch number 693
+Acceptance rate 0.259
+with time 38.102882623672485
+Tau Batch number 694
+Acceptance rate 0.259
+with time 38.15591859817505
+Tau Batch number 695
+Acceptance rate 0.259
+with time 38.11471152305603
+Tau Batch number 696
+Acceptance rate 0.259
+with time 38.099804401397705
+Tau Batch number 697
+Acceptance rate 0.259
+with time 38.10784363746643
+Tau Batch number 698
+Acceptance rate 0.259
+with time 38.08819246292114
+Tau Batch number 699
+Acceptance rate 0.259
+with time 38.080925703048706
+Tau Batch number 700
+Acceptance rate 0.259
+with time 38.098849296569824
+Tau Batch number 701
+Acceptance rate 0.259
+with time 38.10060715675354
+Tau Batch number 702
+Acceptance rate 0.259
+with time 38.07630729675293
+Tau Batch number 703
+Acceptance rate 0.259
+with time 38.103418827056885
+Tau Batch number 704
+Acceptance rate 0.259
+with time 38.07775020599365
+Tau Batch number 705
+Acceptance rate 0.259
+with time 38.10630393028259
+Tau Batch number 706
+Acceptance rate 0.259
+with time 38.0907301902771
+Tau Batch number 707
+Acceptance rate 0.259
+with time 38.076409339904785
+Tau Batch number 708
+Acceptance rate 0.259
+with time 38.06824088096619
+Tau Batch number 709
+Acceptance rate 0.259
+with time 38.0616180896759
+Tau Batch number 710
+Acceptance rate 0.259
+with time 38.067058801651
+Tau Batch number 711
+Acceptance rate 0.259
+with time 38.06795024871826
+Tau Batch number 712
+Acceptance rate 0.259
+with time 38.072694540023804
+Tau Batch number 713
+Acceptance rate 0.259
+with time 38.07024955749512
+Tau Batch number 714
+Acceptance rate 0.259
+with time 38.09545564651489
+Tau Batch number 715
+Acceptance rate 0.259
+with time 38.12116289138794
+Tau Batch number 716
+Acceptance rate 0.259
+with time 38.10749411582947
+Tau Batch number 717
+Acceptance rate 0.259
+with time 38.114147663116455
+Tau Batch number 718
+Acceptance rate 0.259
+with time 38.115705251693726
+Tau Batch number 719
+Acceptance rate 0.259
+with time 38.10182738304138
+Tau Batch number 720
+Acceptance rate 0.259
+with time 38.08739137649536
+Tau Batch number 721
+Acceptance rate 0.259
+with time 38.08578848838806
+Tau Batch number 722
+Acceptance rate 0.259
+with time 38.132049322128296
+Tau Batch number 723
+Acceptance rate 0.259
+with time 38.17338514328003
+Tau Batch number 724
+Acceptance rate 0.259
+with time 38.115821838378906
+Tau Batch number 725
+Acceptance rate 0.259
+with time 38.1530966758728
+Tau Batch number 726
+Acceptance rate 0.259
+with time 38.136494636535645
+Tau Batch number 727
+Acceptance rate 0.259
+with time 38.12206172943115
+Tau Batch number 728
+Acceptance rate 0.259
+with time 38.11338567733765
+Tau Batch number 729
+Acceptance rate 0.259
+with time 38.128912687301636
+Tau Batch number 730
+Acceptance rate 0.259
+with time 38.13155460357666
+Tau Batch number 731
+Acceptance rate 0.259
+with time 38.137975215911865
+Tau Batch number 732
+Acceptance rate 0.259
+with time 38.070138692855835
+Tau Batch number 733
+Acceptance rate 0.259
+with time 38.10451149940491
+Tau Batch number 734
+Acceptance rate 0.259
+with time 38.07903838157654
+Tau Batch number 735
+Acceptance rate 0.259
+with time 38.106117248535156
+Tau Batch number 736
+Acceptance rate 0.259
+with time 38.081517934799194
+Tau Batch number 737
+Acceptance rate 0.259
+with time 38.108017444610596
+Tau Batch number 738
+Acceptance rate 0.259
+with time 38.0976984500885
+Tau Batch number 739
+Acceptance rate 0.259
+with time 38.104368686676025
+Tau Batch number 740
+Acceptance rate 0.259
+with time 38.067224740982056
+Tau Batch number 741
+Acceptance rate 0.259
+with time 38.075196266174316
+Tau Batch number 742
+Acceptance rate 0.259
+with time 38.0891809463501
+Tau Batch number 743
+Acceptance rate 0.259
+with time 38.05848741531372
+Tau Batch number 744
+Acceptance rate 0.259
+with time 38.1366925239563
+Tau Batch number 745
+Acceptance rate 0.259
+with time 38.14552617073059
+Tau Batch number 746
+Acceptance rate 0.259
+with time 38.18386626243591
+Tau Batch number 747
+Acceptance rate 0.259
+with time 38.19534420967102
+Tau Batch number 748
+Acceptance rate 0.259
+with time 38.18104147911072
+Tau Batch number 749
+Acceptance rate 0.259
+with time 38.1833758354187
+Tau Batch number 750
+Acceptance rate 0.259
+with time 38.1917781829834
+Tau Batch number 751
+Acceptance rate 0.259
+with time 38.11088228225708
+Tau Batch number 752
+Acceptance rate 0.259
+with time 38.15225172042847
+Tau Batch number 753
+Acceptance rate 0.259
+with time 38.083675384521484
+Tau Batch number 754
+Acceptance rate 0.259
+with time 38.12000823020935
+Tau Batch number 755
+Acceptance rate 0.259
+with time 38.07204532623291
+Tau Batch number 756
+Acceptance rate 0.259
+with time 38.1371967792511
+Tau Batch number 757
+Acceptance rate 0.258
+with time 38.08767008781433
+Tau Batch number 758
+Acceptance rate 0.258
+with time 38.10292840003967
+Tau Batch number 759
+Acceptance rate 0.258
+with time 38.072909355163574
+Tau Batch number 760
+Acceptance rate 0.258
+with time 38.1187744140625
+Tau Batch number 761
+Acceptance rate 0.258
+with time 38.07689332962036
+Tau Batch number 762
+Acceptance rate 0.258
+with time 38.10899353027344
+Tau Batch number 763
+Acceptance rate 0.258
+with time 38.05427145957947
+Tau Batch number 764
+Acceptance rate 0.258
+with time 38.131383419036865
+Tau Batch number 765
+Acceptance rate 0.258
+with time 38.062257051467896
+Tau Batch number 766
+Acceptance rate 0.258
+with time 38.13365054130554
+Tau Batch number 767
+Acceptance rate 0.258
+with time 38.076881885528564
+Tau Batch number 768
+Acceptance rate 0.258
+with time 38.12406015396118
+Tau Batch number 769
+Acceptance rate 0.258
+with time 38.10592341423035
+Tau Batch number 770
+Acceptance rate 0.258
+with time 38.143819093704224
+Tau Batch number 771
+Acceptance rate 0.258
+with time 38.08381700515747
+Tau Batch number 772
+Acceptance rate 0.258
+with time 38.111865758895874
+Tau Batch number 773
+Acceptance rate 0.258
+with time 38.05308675765991
+Tau Batch number 774
+Acceptance rate 0.258
+with time 38.11518406867981
+Tau Batch number 775
+Acceptance rate 0.258
+with time 38.06207466125488
+Tau Batch number 776
+Acceptance rate 0.258
+with time 38.09626531600952
+Tau Batch number 777
+Acceptance rate 0.258
+with time 38.057523250579834
+Tau Batch number 778
+Acceptance rate 0.258
+with time 38.10403919219971
+Tau Batch number 779
+Acceptance rate 0.258
+with time 38.03736925125122
+Tau Batch number 780
+Acceptance rate 0.258
+with time 38.11582112312317
+Tau Batch number 781
+Acceptance rate 0.258
+with time 38.08469271659851
+Tau Batch number 782
+Acceptance rate 0.258
+with time 38.142064809799194
+Tau Batch number 783
+Acceptance rate 0.258
+with time 38.100043535232544
+Tau Batch number 784
+Acceptance rate 0.258
+with time 38.16084837913513
+Tau Batch number 785
+Acceptance rate 0.258
+with time 38.11747336387634
+Tau Batch number 786
+Acceptance rate 0.258
+with time 38.1147620677948
+Tau Batch number 787
+Acceptance rate 0.258
+with time 38.10756826400757
+Tau Batch number 788
+Acceptance rate 0.258
+with time 38.09966492652893
+Tau Batch number 789
+Acceptance rate 0.258
+with time 38.099754333496094
+Tau Batch number 790
+Acceptance rate 0.258
+with time 38.11201000213623
+Tau Batch number 791
+Acceptance rate 0.258
+with time 38.08151912689209
+Tau Batch number 792
+Acceptance rate 0.258
+with time 38.08519887924194
+Tau Batch number 793
+Acceptance rate 0.258
+with time 38.08513879776001
+Tau Batch number 794
+Acceptance rate 0.258
+with time 38.05235767364502
+Tau Batch number 795
+Acceptance rate 0.258
+with time 38.07653880119324
+Tau Batch number 796
+Acceptance rate 0.258
+with time 38.06802940368652
+Tau Batch number 797
+Acceptance rate 0.258
+with time 38.053319215774536
+Tau Batch number 798
+Acceptance rate 0.258
+with time 38.07833218574524
+Tau Batch number 799
+Acceptance rate 0.258
+with time 38.07072687149048
+Tau Batch number 800
+Acceptance rate 0.258
+with time 38.10218524932861
+Tau Batch number 801
+Acceptance rate 0.258
+with time 38.09288835525513
+Tau Batch number 802
+Acceptance rate 0.258
+with time 38.082260608673096
+Tau Batch number 803
+Acceptance rate 0.258
+with time 38.07810187339783
+Tau Batch number 804
+Acceptance rate 0.258
+with time 38.10412240028381
+Tau Batch number 805
+Acceptance rate 0.258
+with time 38.055206537246704
+Tau Batch number 806
+Acceptance rate 0.258
+with time 38.08220362663269
+Tau Batch number 807
+Acceptance rate 0.258
+with time 38.067564249038696
+Tau Batch number 808
+Acceptance rate 0.258
+with time 38.07444643974304
+Tau Batch number 809
+Acceptance rate 0.258
+with time 38.08393836021423
+Tau Batch number 810
+Acceptance rate 0.258
+with time 38.1000440120697
+Tau Batch number 811
+Acceptance rate 0.258
+with time 38.09350252151489
+Tau Batch number 812
+Acceptance rate 0.258
+with time 38.10733699798584
+Tau Batch number 813
+Acceptance rate 0.258
+with time 38.05968403816223
+Tau Batch number 814
+Acceptance rate 0.258
+with time 38.08534860610962
+Tau Batch number 815
+Acceptance rate 0.258
+with time 38.06594514846802
+Tau Batch number 816
+Acceptance rate 0.258
+with time 38.0878963470459
+Tau Batch number 817
+Acceptance rate 0.258
+with time 38.05497145652771
+Tau Batch number 818
+Acceptance rate 0.258
+with time 38.07644748687744
+Tau Batch number 819
+Acceptance rate 0.258
+with time 38.08345317840576
+Tau Batch number 820
+Acceptance rate 0.258
+with time 38.0689480304718
+Tau Batch number 821
+Acceptance rate 0.258
+with time 38.05382823944092
+Tau Batch number 822
+Acceptance rate 0.258
+with time 38.076531410217285
+Tau Batch number 823
+Acceptance rate 0.258
+with time 38.067156076431274
+Tau Batch number 824
+Acceptance rate 0.258
+with time 38.06970238685608
+Tau Batch number 825
+Acceptance rate 0.258
+with time 38.05789113044739
+Tau Batch number 826
+Acceptance rate 0.258
+with time 38.07991003990173
+Tau Batch number 827
+Acceptance rate 0.258
+with time 38.067394495010376
+Tau Batch number 828
+Acceptance rate 0.258
+with time 38.09226846694946
+Tau Batch number 829
+Acceptance rate 0.258
+with time 38.073660373687744
+Tau Batch number 830
+Acceptance rate 0.258
+with time 38.04957842826843
+Tau Batch number 831
+Acceptance rate 0.258
+with time 38.04423928260803
+Tau Batch number 832
+Acceptance rate 0.258
+with time 38.063695430755615
+Tau Batch number 833
+Acceptance rate 0.258
+with time 38.07425022125244
+Tau Batch number 834
+Acceptance rate 0.258
+with time 38.0781455039978
+Tau Batch number 835
+Acceptance rate 0.258
+with time 38.054537773132324
+Tau Batch number 836
+Acceptance rate 0.258
+with time 38.0543999671936
+Tau Batch number 837
+Acceptance rate 0.257
+with time 38.075133085250854
+Tau Batch number 838
+Acceptance rate 0.257
+with time 38.05581855773926
+Tau Batch number 839
+Acceptance rate 0.257
+with time 38.08022737503052
+Tau Batch number 840
+Acceptance rate 0.257
+with time 38.078484535217285
+Tau Batch number 841
+Acceptance rate 0.257
+with time 38.08091163635254
+Tau Batch number 842
+Acceptance rate 0.257
+with time 38.04793071746826
+Tau Batch number 843
+Acceptance rate 0.257
+with time 38.05358648300171
+Tau Batch number 844
+Acceptance rate 0.257
+with time 38.06345248222351
+Tau Batch number 845
+Acceptance rate 0.257
+with time 38.06285834312439
+Tau Batch number 846
+Acceptance rate 0.257
+with time 38.06181478500366
+Tau Batch number 847
+Acceptance rate 0.257
+with time 38.07215690612793
+Tau Batch number 848
+Acceptance rate 0.257
+with time 38.04954123497009
+Tau Batch number 849
+Acceptance rate 0.257
+with time 38.08632755279541
+Tau Batch number 850
+Acceptance rate 0.257
+with time 38.05871534347534
+Tau Batch number 851
+Acceptance rate 0.257
+with time 38.08387565612793
+Tau Batch number 852
+Acceptance rate 0.257
+with time 38.05116367340088
+Tau Batch number 853
+Acceptance rate 0.257
+with time 38.052037954330444
+Tau Batch number 854
+Acceptance rate 0.257
+with time 38.06048560142517
+Tau Batch number 855
+Acceptance rate 0.257
+with time 38.04085111618042
+Tau Batch number 856
+Acceptance rate 0.257
+with time 38.05362248420715
+Tau Batch number 857
+Acceptance rate 0.257
+with time 38.08081364631653
+Tau Batch number 858
+Acceptance rate 0.257
+with time 38.061447858810425
+Tau Batch number 859
+Acceptance rate 0.257
+with time 38.066158056259155
+Tau Batch number 860
+Acceptance rate 0.257
+with time 38.059481620788574
+Tau Batch number 861
+Acceptance rate 0.257
+with time 38.051029443740845
+Tau Batch number 862
+Acceptance rate 0.257
+with time 38.05842852592468
+Tau Batch number 863
+Acceptance rate 0.257
+with time 38.087491512298584
+Tau Batch number 864
+Acceptance rate 0.257
+with time 38.06692171096802
+Tau Batch number 865
+Acceptance rate 0.257
+with time 38.036285638809204
+Tau Batch number 866
+Acceptance rate 0.257
+with time 38.086976289749146
+Tau Batch number 867
+Acceptance rate 0.257
+with time 38.043938398361206
+Tau Batch number 868
+Acceptance rate 0.257
+with time 38.03325700759888
+Tau Batch number 869
+Acceptance rate 0.257
+with time 38.0597038269043
+Tau Batch number 870
+Acceptance rate 0.257
+with time 38.02106070518494
+Tau Batch number 871
+Acceptance rate 0.257
+with time 38.05022931098938
+Tau Batch number 872
+Acceptance rate 0.257
+with time 38.054336071014404
+Tau Batch number 873
+Acceptance rate 0.257
+with time 38.07485556602478
+Tau Batch number 874
+Acceptance rate 0.257
+with time 38.107242822647095
+Tau Batch number 875
+Acceptance rate 0.257
+with time 38.081119775772095
+Tau Batch number 876
+Acceptance rate 0.257
+with time 38.06873846054077
+Tau Batch number 877
+Acceptance rate 0.257
+with time 38.05579113960266
+Tau Batch number 878
+Acceptance rate 0.257
+with time 38.06323504447937
+Tau Batch number 879
+Acceptance rate 0.257
+with time 38.03315544128418
+Tau Batch number 880
+Acceptance rate 0.257
+with time 38.03631114959717
+Tau Batch number 881
+Acceptance rate 0.257
+with time 38.03729224205017
+Tau Batch number 882
+Acceptance rate 0.257
+with time 38.052584648132324
+Tau Batch number 883
+Acceptance rate 0.257
+with time 38.036978006362915
+Tau Batch number 884
+Acceptance rate 0.257
+with time 38.03697967529297
+Tau Batch number 885
+Acceptance rate 0.257
+with time 38.01822376251221
+Tau Batch number 886
+Acceptance rate 0.257
+with time 38.050745725631714
+Tau Batch number 887
+Acceptance rate 0.257
+with time 38.04206943511963
+Tau Batch number 888
+Acceptance rate 0.257
+with time 38.04013013839722
+Tau Batch number 889
+Acceptance rate 0.257
+with time 38.065722942352295
+Tau Batch number 890
+Acceptance rate 0.257
+with time 38.02611827850342
+Tau Batch number 891
+Acceptance rate 0.257
+with time 38.06779670715332
+Tau Batch number 892
+Acceptance rate 0.257
+with time 38.040449142456055
+Tau Batch number 893
+Acceptance rate 0.257
+with time 38.0436224937439
+Tau Batch number 894
+Acceptance rate 0.257
+with time 38.03058862686157
+Tau Batch number 895
+Acceptance rate 0.257
+with time 38.04954695701599
+Tau Batch number 896
+Acceptance rate 0.257
+with time 38.052706241607666
+Tau Batch number 897
+Acceptance rate 0.257
+with time 38.04648041725159
+Tau Batch number 898
+Acceptance rate 0.257
+with time 38.018975496292114
+Tau Batch number 899
+Acceptance rate 0.257
+with time 38.04862928390503
+Tau Batch number 900
+Acceptance rate 0.257
+with time 38.02795195579529
+Tau Batch number 901
+Acceptance rate 0.257
+with time 38.02978467941284
+Tau Batch number 902
+Acceptance rate 0.257
+with time 38.03644633293152
+Tau Batch number 903
+Acceptance rate 0.257
+with time 38.04040765762329
+Tau Batch number 904
+Acceptance rate 0.257
+with time 38.055866718292236
+Tau Batch number 905
+Acceptance rate 0.257
+with time 38.05344843864441
+Tau Batch number 906
+Acceptance rate 0.257
+with time 38.05166244506836
+Tau Batch number 907
+Acceptance rate 0.257
+with time 38.06490707397461
+Tau Batch number 908
+Acceptance rate 0.257
+with time 38.05059814453125
+Tau Batch number 909
+Acceptance rate 0.257
+with time 38.03986692428589
+Tau Batch number 910
+Acceptance rate 0.256
+with time 38.05179142951965
+Tau Batch number 911
+Acceptance rate 0.256
+with time 38.049126386642456
+Tau Batch number 912
+Acceptance rate 0.256
+with time 38.043182611465454
+Tau Batch number 913
+Acceptance rate 0.256
+with time 38.04398965835571
+Tau Batch number 914
+Acceptance rate 0.256
+with time 38.055086612701416
+Tau Batch number 915
+Acceptance rate 0.256
+with time 38.06293225288391
+Tau Batch number 916
+Acceptance rate 0.256
+with time 38.06294369697571
+Tau Batch number 917
+Acceptance rate 0.256
+with time 38.063485860824585
+Tau Batch number 918
+Acceptance rate 0.256
+with time 38.06305551528931
+Tau Batch number 919
+Acceptance rate 0.256
+with time 38.059197425842285
+Tau Batch number 920
+Acceptance rate 0.256
+with time 38.03579306602478
+Tau Batch number 921
+Acceptance rate 0.256
+with time 38.05106472969055
+Tau Batch number 922
+Acceptance rate 0.256
+with time 38.03647518157959
+Tau Batch number 923
+Acceptance rate 0.256
+with time 38.024704933166504
+Tau Batch number 924
+Acceptance rate 0.256
+with time 38.05533742904663
+Tau Batch number 925
+Acceptance rate 0.256
+with time 38.034765005111694
+Tau Batch number 926
+Acceptance rate 0.256
+with time 38.018749475479126
+Tau Batch number 927
+Acceptance rate 0.256
+with time 38.0289261341095
+Tau Batch number 928
+Acceptance rate 0.256
+with time 38.04166603088379
+Tau Batch number 929
+Acceptance rate 0.256
+with time 38.04397177696228
+Tau Batch number 930
+Acceptance rate 0.256
+with time 37.99899125099182
+Tau Batch number 931
+Acceptance rate 0.256
+with time 38.05337476730347
+Tau Batch number 932
+Acceptance rate 0.256
+with time 38.00786375999451
+Tau Batch number 933
+Acceptance rate 0.256
+with time 38.06385779380798
+Tau Batch number 934
+Acceptance rate 0.256
+with time 37.997756481170654
+Tau Batch number 935
+Acceptance rate 0.256
+with time 38.06959939002991
+Tau Batch number 936
+Acceptance rate 0.256
+with time 38.00150012969971
+Tau Batch number 937
+Acceptance rate 0.256
+with time 38.059447050094604
+Tau Batch number 938
+Acceptance rate 0.256
+with time 38.031774282455444
+Tau Batch number 939
+Acceptance rate 0.256
+with time 38.053977966308594
+Tau Batch number 940
+Acceptance rate 0.256
+with time 38.01236891746521
+Tau Batch number 941
+Acceptance rate 0.256
+with time 38.04362392425537
+Tau Batch number 942
+Acceptance rate 0.256
+with time 38.015066623687744
+Tau Batch number 943
+Acceptance rate 0.256
+with time 38.04817318916321
+Tau Batch number 944
+Acceptance rate 0.256
+with time 38.00374245643616
+Tau Batch number 945
+Acceptance rate 0.256
+with time 38.056872606277466
+Tau Batch number 946
+Acceptance rate 0.256
+with time 38.00236177444458
+Tau Batch number 947
+Acceptance rate 0.256
+with time 38.02799463272095
+Tau Batch number 948
+Acceptance rate 0.256
+with time 37.994016885757446
+Tau Batch number 949
+Acceptance rate 0.256
+with time 38.02983856201172
+Tau Batch number 950
+Acceptance rate 0.256
+with time 37.99241375923157
+Tau Batch number 951
+Acceptance rate 0.256
+with time 38.038087606430054
+Tau Batch number 952
+Acceptance rate 0.256
+with time 37.99214458465576
+Tau Batch number 953
+Acceptance rate 0.256
+with time 38.03176474571228
+Tau Batch number 954
+Acceptance rate 0.256
+with time 38.01129961013794
+Tau Batch number 955
+Acceptance rate 0.256
+with time 38.04437875747681
+Tau Batch number 956
+Acceptance rate 0.256
+with time 37.9855375289917
+Tau Batch number 957
+Acceptance rate 0.256
+with time 38.0370078086853
+Tau Batch number 958
+Acceptance rate 0.256
+with time 38.001046895980835
+Tau Batch number 959
+Acceptance rate 0.256
+with time 38.05522966384888
+Tau Batch number 960
+Acceptance rate 0.256
+with time 38.01477289199829
+Tau Batch number 961
+Acceptance rate 0.256
+with time 38.041435956954956
+Tau Batch number 962
+Acceptance rate 0.256
+with time 38.01423740386963
+Tau Batch number 963
+Acceptance rate 0.256
+with time 38.068620681762695
+Tau Batch number 964
+Acceptance rate 0.256
+with time 38.000717639923096
+Tau Batch number 965
+Acceptance rate 0.256
+with time 38.03209948539734
+Tau Batch number 966
+Acceptance rate 0.256
+with time 37.997963190078735
+Tau Batch number 967
+Acceptance rate 0.256
+with time 38.038179874420166
+Tau Batch number 968
+Acceptance rate 0.256
+with time 38.00382733345032
+Tau Batch number 969
+Acceptance rate 0.256
+with time 38.037142753601074
+Tau Batch number 970
+Acceptance rate 0.256
+with time 38.004316329956055
+Tau Batch number 971
+Acceptance rate 0.256
+with time 38.04799008369446
+Tau Batch number 972
+Acceptance rate 0.256
+with time 37.98116731643677
+Tau Batch number 973
+Acceptance rate 0.256
+with time 38.0355863571167
+Tau Batch number 974
+Acceptance rate 0.256
+with time 37.99314022064209
+Tau Batch number 975
+Acceptance rate 0.256
+with time 38.050570487976074
+Tau Batch number 976
+Acceptance rate 0.256
+with time 38.021909952163696
+Tau Batch number 977
+Acceptance rate 0.256
+with time 38.02889037132263
+Tau Batch number 978
+Acceptance rate 0.256
+with time 37.988802671432495
+Tau Batch number 979
+Acceptance rate 0.256
+with time 38.02479791641235
+Tau Batch number 980
+Acceptance rate 0.256
+with time 37.99510598182678
+Tau Batch number 981
+Acceptance rate 0.256
+with time 38.04900884628296
+Tau Batch number 982
+Acceptance rate 0.256
+with time 37.98479151725769
+Tau Batch number 983
+Acceptance rate 0.256
+with time 38.052462100982666
+Tau Batch number 984
+Acceptance rate 0.255
+with time 38.00572466850281
+Tau Batch number 985
+Acceptance rate 0.255
+with time 38.040010929107666
+Tau Batch number 986
+Acceptance rate 0.255
+with time 37.98650145530701
+Tau Batch number 987
+Acceptance rate 0.255
+with time 38.0492684841156
+Tau Batch number 988
+Acceptance rate 0.255
+with time 38.02083778381348
+Tau Batch number 989
+Acceptance rate 0.255
+with time 38.04118371009827
+Tau Batch number 990
+Acceptance rate 0.255
+with time 37.995614528656006
+Tau Batch number 991
+Acceptance rate 0.255
+with time 38.03960061073303
+Tau Batch number 992
+Acceptance rate 0.255
+with time 38.02837371826172
+Tau Batch number 993
+Acceptance rate 0.255
+with time 38.039119720458984
+Tau Batch number 994
+Acceptance rate 0.255
+with time 38.0155508518219
+Tau Batch number 995
+Acceptance rate 0.255
+with time 38.04561758041382
+Tau Batch number 996
+Acceptance rate 0.255
+with time 37.99492383003235
+Tau Batch number 997
+Acceptance rate 0.255
+with time 38.05447435379028
+Tau Batch number 998
+Acceptance rate 0.255
+with time 38.02420496940613
+Tau Batch number 999
+Acceptance rate 0.255
+with time 38.047428369522095
