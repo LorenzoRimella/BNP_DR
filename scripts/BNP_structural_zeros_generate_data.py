@@ -47,80 +47,6 @@ def NegativeMultinomial(n, prob_constr, seed_sim = None, max_val = 10):
 
 	return prev_sample_freq[:]
 
-# # Step 1 on old mixtures
-# def unobserved_step_1_old_mixtures(one_n_j, unobserved_X, pi_i_0k_full, theta_k_full, seed_s1_1):
-    
-#     one_hot_X = tf.one_hot(unobserved_X, tf.shape(one_n_j)[1])    
-
-#     theta_jxk = tf.einsum("ijn,kjn->ijk", one_hot_X, theta_k_full)
-    
-#     prob_ijnk = tf.einsum("ik,ijk->ijk", pi_i_0k_full[:,1:], theta_jxk)
-#     prob_ijn0 = pi_i_0k_full[:,0:1]/tf.expand_dims(tf.reduce_sum(one_n_j, axis = 1), axis = 0)
-
-#     # TODO we could use only pi for the placeholder and do everything in here
-#     # if a placeholder is assigned to a new mixture then sample from a uniform with probabilitites 1/n_j
-#     prob_ijn0k = tf.concat((tf.expand_dims(prob_ijn0, axis = -1), prob_ijnk), axis = -1)
-#     prob_ijn0k = prob_ijn0k/tf.reduce_sum(prob_ijn0k, axis = -1, keepdims = True)
-
-#     Z_ij = tfp.distributions.Categorical(probs = prob_ijn0k).sample(seed = seed_s1_1)
-
-#     return tf.where(unobserved_X==-1, unobserved_X, Z_ij)
-
-# # Step 1
-# def unobserved_step_1(one_n_j, K_current, unobserved_X, pi_i_0k_full, theta_k_full, beta_k_00_full, alpha_0, alpha_i, seed_s1):
-
-# 	seed_s1_1, seed_s1_2 = tfp.random.split_seed( seed_s1, n=2, salt='step_1_split')
-
-# 	Z_ij = unobserved_step_1_old_mixtures(one_n_j, unobserved_X, pi_i_0k_full, theta_k_full, seed_s1_1)
-
-# 	indexes_new_assignment = tf.where(Z_ij==0)
-
-# 	if tf.reduce_any(Z_ij==0):
-
-# 		# states = tf.zeros(1, dtype = tf.int32)
-
-# 		seed_s1_2_to_use, seed_s1_2_to_carry = tfp.random.split_seed( seed_s1_2, n=2, salt='seed_s1_2_to_carry_split')
-
-# 		beta_k_00_full, pi_i_0k_full, Z_ij = SZ_step_1_new_mixture_assignment(indexes_new_assignment[0], K_current, alpha_0, alpha_i, 
-# 											beta_k_00_full, pi_i_0k_full, Z_ij, seed_s1_2_to_use)
-
-# 		K_current = K_current+1
-# 		states = tf.concat((tf.zeros(1, dtype = tf.int32), tf.expand_dims(K_current, axis = 0)), axis = 0)
-
-# 		counter = 0
-# 		while tf.reduce_any(Z_ij==0):
-
-# 			counter = counter + 1
-# 			if counter>1000:
-# 				raise ValueError("Something wrong")
-
-# 			seed_s1_2_to_use_first, seed_s1_2_to_use_second, seed_s1_2_to_carry = tfp.random.split_seed( seed_s1_2_to_carry, n=3, salt='seed_s1_2_to_carry_split')
-
-# 			indexes_new_assignment = tf.where(Z_ij==0)
-# 			index_rows    = indexes_new_assignment[:,0]
-
-# 			probability_assign_same_mixture = tf.gather(tf.gather(pi_i_0k_full, index_rows, axis =0), states, axis =1)
-# 			probability_assign_same_mixture = probability_assign_same_mixture/tf.reduce_sum(probability_assign_same_mixture, axis = 1, keepdims = True)
-
-# 			assignment = tfp.distributions.Categorical(probs = probability_assign_same_mixture).sample(seed = seed_s1_2_to_use_first)
-# 			state_assignment = tf.gather(states, assignment)
-
-# 			Z_ij = tf.tensor_scatter_nd_update(Z_ij, indexes_new_assignment, state_assignment)
-
-# 			indexes_new_assignment = tf.where(Z_ij==0)
-
-# 			if tf.reduce_any(Z_ij==0):
-
-# 				beta_k_00_full, pi_i_0k_full, Z_ij = SZ_step_1_new_mixture_assignment(indexes_new_assignment[0], K_current, alpha_0, alpha_i, 
-# 													beta_k_00_full, pi_i_0k_full, Z_ij, seed_s1_2_to_use_second)
-
-# 				K_current = K_current+1
-# 				states = tf.concat((tf.zeros(1, dtype = tf.int32), tf.expand_dims(K_current, axis = 0)), axis = 0)
-
-# 	Z_ij = tf.where(Z_ij==-1, tf.zeros(tf.shape(Z_ij), dtype = tf.int32), Z_ij)
-
-# 	return beta_k_00_full, pi_i_0k_full, tf.where(unobserved_X==-1, unobserved_X, Z_ij-1), K_current
-
 # Step 1 on old mixtures
 def unobserved_step_1_old_mixtures(one_n_j, unobserved_X, pi_i_0k_full, theta_k_full, seed_s1_1):
     
@@ -134,7 +60,7 @@ def unobserved_step_1_old_mixtures(one_n_j, unobserved_X, pi_i_0k_full, theta_k_
     # TODO we could use only pi for the placeholder and do everything in here
     # if a placeholder is assigned to a new mixture then sample from a uniform with probabilitites 1/n_j
     prob_ijn0k = tf.concat((tf.expand_dims(prob_ijn0, axis = -1), prob_ijnk), axis = -1)
-    prob_ijn0k = prob_ijn0k/tf.reduce_sum(prob_ijn0k, axis = -1, keepdims = True)
+#     prob_ijn0k = prob_ijn0k/tf.reduce_sum(prob_ijn0k, axis = -1, keepdims = True)
 
     prob_ijn0k = tf.where((tf.expand_dims(unobserved_X, axis = -1)*tf.ones(tf.shape(prob_ijn0k), dtype = tf.int32))==-1, tf.expand_dims(pi_i_0k_full, axis = 1)*tf.ones(tf.shape(prob_ijn0k)), prob_ijn0k)
 
@@ -222,8 +148,6 @@ def SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_
 
 	return tf.reduce_mean(mc_sample_prob, axis = 0)
 
-# TODO this is more or less the same of the MC approx
-# beta_test = tf.einsum("k,ckj->cj", beta_k_00_full[...,1:], sub_theta) + pi_n[0,...]
 	
 def SZ_step_789(disjoint_constraints, one_n_j, alpha_0, a, b, K_current, beta_k_00_full, theta_k_full, n, seed_s789):
      
@@ -231,7 +155,7 @@ def SZ_step_789(disjoint_constraints, one_n_j, alpha_0, a, b, K_current, beta_k_
 	n_max = 10
 	J = tf.shape(one_n_j)[0]
      
-	seed_s789_splitted = tfp.random.split_seed( seed_s789, n=3, salt='step_789_split')
+	seed_s789_splitted = tfp.random.split_seed( seed_s789, n=6, salt='step_789_split')
  
 	p_c = SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, n_mc_samples, seed_s789_splitted[0])
 
@@ -241,98 +165,30 @@ def SZ_step_789(disjoint_constraints, one_n_j, alpha_0, a, b, K_current, beta_k_
 	n_SZ_non_zero = tf.gather(n_SZ[1:], tf.where(n_SZ[1:]!=0)[:,0], axis =0)
 	disjoint_constraints_non_zero = tf.gather(disjoint_constraints, tf.where(n_SZ[1:]!=0)[:,0], axis =0)
 
-	seed_s789_carry = seed_s789_splitted[2]
+	unobserved_X = tf.concat([tf.tile(disjoint_constraints_non_zero[i:(i+1),:], (n_SZ_non_zero[i], 1)) for i in range(tf.shape(n_SZ_non_zero)[0])], axis = 0)
 
-	# def body(input, i):
+	unobserved_alpha_i = tfp.distributions.Gamma( concentration = a, rate = b).sample(tf.shape(unobserved_X)[0], seed = seed_s789_splitted[2])
 
-	# 	(seed_s789_carry, _, _, beta_k_00_full, K_current) = input
+	concentration_pi_i = tf.expand_dims(unobserved_alpha_i, axis = 1)*tf.expand_dims(beta_k_00_full, axis = 0)
+	unobserved_pi_ik = tfp.distributions.Dirichlet(concentration = concentration_pi_i).sample(seed = seed_s789_splitted[3])
+     
+	beta_k_00_full, unobserved_pi_i_0k_full, unobserved_Z_ij, K_current = unobserved_step_1(one_n_j, K_current, unobserved_X, unobserved_pi_ik, theta_k_full, beta_k_00_full, alpha_0, unobserved_alpha_i, seed_s789_splitted[4])
 
-	# 	seed_s789_splitted_within = tfp.random.split_seed( seed_s789_carry, n=6, salt='step_789_within_split')
+	theta_Z = tf.einsum("ijk,kjn->ijn", tf.one_hot(unobserved_Z_ij, tf.shape(theta_k_full)[0]), theta_k_full)
 
-	# 	unobserved_X = tf.tile(disjoint_constraints_non_zero[i:(i+1),:], (n_SZ_non_zero[i], 1))
+	unobserved_placeholders_X = tfp.distributions.Categorical(probs = theta_Z).sample(seed = seed_s789_splitted[5])
 
-	# 	unobserved_alpha_i = tfp.distributions.Gamma( concentration = a, rate = b).sample(tf.shape(unobserved_X)[0], seed = seed_s789_splitted_within[0])
-
-	# 	concentration_pi_i = tf.expand_dims(unobserved_alpha_i, axis = 1)*tf.expand_dims(beta_k_00_full, axis = 0)
-	# 	unobserved_pi_ik = tfp.distributions.Dirichlet(concentration = concentration_pi_i).sample(seed = seed_s789_splitted_within[1])
-	
-	# 	beta_k_00_full, _, unobserved_Z_ij, K_current = unobserved_step_1(one_n_j, K_current, unobserved_X, unobserved_pi_ik, theta_k_full, beta_k_00_full, alpha_0, unobserved_alpha_i, seed_s789_splitted_within[2])
-
-	# 	theta_Z = tf.einsum("ijk,kjn->ijn", tf.one_hot(unobserved_Z_ij, tf.shape(theta_k_full)[0]), theta_k_full)
-
-	# 	unobserved_placeholders_X = tfp.distributions.Categorical(probs = theta_Z).sample(seed = seed_s789_splitted_within[3])
-	# 	unobserved_X = tf.where(unobserved_X==-1, unobserved_placeholders_X, unobserved_X)
-
-	# 	one_hot_unobserved_X = tf.one_hot(unobserved_X, tf.shape(one_n_j)[1])
-
-	# 	one_hot_unobserved_Z = tf.one_hot(unobserved_Z_ij, tf.shape(beta_k_00_full)[0]-1)
-	# 	unobserved_n_i_dot_k = tf.reduce_sum(one_hot_unobserved_Z, axis = 1)
-
-	# 	unobserved_m_ik = SZ_step_2(unobserved_n_i_dot_k, alpha_0, beta_k_00_full, J, seed_s789_splitted_within[4])
-
-	# 	unobserved_XZ_counting = tf.einsum("ijk,ijn->kjn", one_hot_unobserved_Z, one_hot_unobserved_X)
-
-	# 	seed_s789_carry = seed_s789_splitted_within[5]
-
-	# 	return seed_s789_carry, tf.reduce_sum(unobserved_m_ik, axis = 0), unobserved_XZ_counting, beta_k_00_full, K_current
-
-	# start_input = (seed_s789_carry, tf.zeros(tf.shape(beta_k_00_full)[0]-1, dtype = tf.int32), tf.zeros(tf.shape(theta_k_full)), beta_k_00_full, K_current)
-	# output = tf.scan(body, tf.range(0, tf.shape(n_SZ_non_zero)[0]), initializer =  start_input)
-
-	# return tf.reduce_sum(output[1], axis = 0), tf.reduce_sum(output[2], axis = 0), output[3][-1,...], output[4][-1]
-
-	unobserved_m_ik_list        = []
-	unobserved_XZ_counting_list = []
-	for i in range(tf.shape(n_SZ_non_zero)[0]):
-
-		seed_s789_splitted_within = tfp.random.split_seed( seed_s789_carry, n=6, salt='step_789_within_split')
-
-		unobserved_X = tf.tile(disjoint_constraints_non_zero[i:(i+1),:], (n_SZ_non_zero[i], 1))
-
-		unobserved_alpha_i = tfp.distributions.Gamma( concentration = a, rate = b).sample(tf.shape(unobserved_X)[0], seed = seed_s789_splitted_within[0])
-
-		concentration_pi_i = tf.expand_dims(unobserved_alpha_i, axis = 1)*tf.expand_dims(beta_k_00_full, axis = 0)
-		unobserved_pi_ik = tfp.distributions.Dirichlet(concentration = concentration_pi_i).sample(seed = seed_s789_splitted_within[1])
-	
-		beta_k_00_full, pi_i_0k_full, unobserved_Z_ij, K_current = unobserved_step_1(one_n_j, K_current, unobserved_X, unobserved_pi_ik, theta_k_full, beta_k_00_full, alpha_0, unobserved_alpha_i, seed_s789_splitted_within[2])
-
-		theta_Z = tf.einsum("ijk,kjn->ijn", tf.one_hot(unobserved_Z_ij, tf.shape(theta_k_full)[0]), theta_k_full)
-
-		unobserved_placeholders_X = tfp.distributions.Categorical(probs = theta_Z).sample(seed = seed_s789_splitted_within[3])
-		unobserved_X = tf.where(unobserved_X==-1, unobserved_placeholders_X, unobserved_X)
-
-		one_hot_unobserved_X = tf.one_hot(unobserved_X, tf.shape(one_n_j)[1])
-
-		one_hot_unobserved_Z = tf.one_hot(unobserved_Z_ij, tf.shape(beta_k_00_full)[0]-1)
-		unobserved_n_i_dot_k = tf.reduce_sum(one_hot_unobserved_Z, axis = 1)
-
-		unobserved_m_ik = SZ_step_2(unobserved_n_i_dot_k, alpha_0, beta_k_00_full, J, seed_s789_splitted_within[4])
-		unobserved_m_ik_list.append(unobserved_m_ik)
-
-		unobserved_XZ_counting = tf.einsum("ijk,ijn->kjn", one_hot_unobserved_Z, one_hot_unobserved_X)
-		unobserved_XZ_counting_list.append(unobserved_XZ_counting)
-
-		seed_s789_carry = seed_s789_splitted_within[5]
-
-	return tf.reduce_sum(tf.concat(unobserved_m_ik_list, axis = 0), axis = 0), tf.reduce_sum(tf.stack(unobserved_XZ_counting_list), axis = 0), beta_k_00_full, K_current
-
+	return tf.where(unobserved_X==-1, unobserved_placeholders_X, unobserved_X), unobserved_Z_ij, beta_k_00_full, K_current
 
 # # Mixture cutter
-def SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full, unobserved_m_dotk, unobserved_XZ_counting):
+def SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full):
 
     K_max = tf.shape(one_hot_Z)[-1]
 
-    condition_1 = tf.reduce_sum(n_i_dot_k, axis =0)!=0
-    condition_2 = unobserved_m_dotk!=0
-    condition = tf.reduce_any(tf.stack((condition_1, condition_2)), axis = 0)
-
-    non_zero_index = tf.cast(tf.where(condition)[:,0], dtype = tf.int32)
+    non_zero_index = tf.cast(tf.where(tf.reduce_sum(n_i_dot_k, axis =0)!=0)[:,0], dtype = tf.int32)
 
     new_one_hot_Z = tf.gather(one_hot_Z, non_zero_index, axis = -1)
     new_n_i_dot_k = tf.gather(n_i_dot_k, non_zero_index, axis = -1)
-
-    unobserved_m_dotk      = tf.gather(unobserved_m_dotk,       non_zero_index, axis = -1)
-    unobserved_XZ_counting = tf.gather(unobserved_XZ_counting,  non_zero_index, axis = 0)
 
     non_zero_index_plus_0 = tf.concat((tf.zeros(1, dtype = tf.int32), 1+non_zero_index), axis = 0)
 
@@ -345,10 +201,7 @@ def SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full, unobse
     new_beta_k_00_full_zeros = tf.zeros((K_max- tf.shape(new_one_hot_Z)[2]))
     new_pi_i_0k_full_zeros   = tf.zeros((tf.shape(pi_i_0k_full)[0], K_max- tf.shape(new_one_hot_Z)[2]))
 
-    unobserved_m_dotk_zeros = tf.zeros((K_max - tf.shape(unobserved_m_dotk)), dtype = tf.int32)
-    unobserved_XZ_counting_zeros = tf.zeros((K_max - tf.shape(unobserved_XZ_counting)[0], tf.shape(unobserved_XZ_counting)[1], tf.shape(unobserved_XZ_counting)[2]), dtype = tf.float32)
-
-    return tf.concat((new_one_hot_Z, new_one_hot_Z_zeros), axis = -1), tf.concat((new_beta_k_00_full, new_beta_k_00_full_zeros), axis = -1), tf.concat((new_pi_i_0k_full, new_pi_i_0k_full_zeros), axis = -1), tf.cast(new_K_current+1, dtype = tf.int32), tf.concat((unobserved_m_dotk, unobserved_m_dotk_zeros), axis = -1), tf.concat((unobserved_XZ_counting, unobserved_XZ_counting_zeros), axis = 0)
+    return tf.concat((new_one_hot_Z, new_one_hot_Z_zeros), axis = -1), tf.concat((new_beta_k_00_full, new_beta_k_00_full_zeros), axis = -1), tf.concat((new_pi_i_0k_full, new_pi_i_0k_full_zeros), axis = -1), tf.cast(new_K_current+1, dtype = tf.int32)
 
 # Step 1 on old mixtures
 def SZ_step_1_old_mixtures(one_n_j, one_hot_X, pi_i_0k_full, theta_k_full, seed_s1_1):
@@ -496,9 +349,9 @@ def SZ_step_2( n_i_dot_k, alpha_0, beta_k_00_full, J, seed_s2):
 
 #     return beta_k_00_full
 
-def SZ_step_3(m_ik, unobserved_m_dotk, alpha_0, seed_s3):
+def SZ_step_3(m_ik, alpha_0, seed_s3):
 
-    concentration_beta_1k = tf.cast(tf.reduce_sum(m_ik, axis = 0) + unobserved_m_dotk, dtype = tf.float32)
+    concentration_beta_1k = tf.cast(tf.reduce_sum(m_ik, axis = 0), dtype = tf.float32)
     concentration_beta_0k = tf.concat((tf.expand_dims(alpha_0, axis = 0), concentration_beta_1k), axis = 0)
 
     beta_k_00_full = tfp.distributions.Dirichlet(concentration = concentration_beta_0k).sample(seed = seed_s3)
@@ -516,26 +369,27 @@ def SZ_step_4(n_i_dot_k, alpha_i, beta_k_00_full, seed_s4):
     return pi_ik
 
 # Step 5
-def SZ_step_5(one_hot_X, one_n_j, one_hot_Z, unobserved_XZ_counting, seed_s5):
+def SZ_step_5(one_hot_X, one_n_j, one_hot_Z, seed_s5):
 
-    dirichlet_lambda = tf.expand_dims(one_n_j, axis = 0) + tf.einsum("ijk,ijn->kjn", one_hot_Z, one_hot_X) + unobserved_XZ_counting
+    dirichlet_lambda = tf.expand_dims(one_n_j, axis = 0) + tf.einsum("ijk,ijn->kjn", one_hot_Z, one_hot_X)
 
     theta_j_k = tfp.distributions.Dirichlet(concentration = dirichlet_lambda).sample(seed = seed_s5)
 
     return theta_j_k
 
 # Step 6
-def SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, unobserved_m_dotk, alpha_0, alpha_i, seed_s6):
+def SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, alpha_0, alpha_i, seed_s6):
 
+    n = tf.shape(alpha_i)[0]
     seed_s6 = tfp.random.split_seed( seed_s6, n=6, salt='step_6_seed_split')
 
-    m_dot_dot = tf.cast(tf.reduce_sum(m_ik) + tf.reduce_sum(unobserved_m_dotk), dtype = tf.float32)
+    m_dot_dot = tf.cast(tf.reduce_sum(m_ik), dtype = tf.float32)
     eta_0     = tfp.distributions.Beta(concentration1 = alpha_0 + 1, concentration0 = m_dot_dot).sample(seed = seed_s6[0])
     bern_p_0  = m_dot_dot*(b_0 - tf.math.log(eta_0))/(tf.cast(K_current, dtype = tf.float32) + a_0 - 1 + m_dot_dot*(b_0 - tf.math.log(eta_0))) 
     s_0       = tf.cast(tfp.distributions.Bernoulli(probs = bern_p_0).sample(seed = seed_s6[1]), dtype = tf.float32)
     alpha_0  = tfp.distributions.Gamma( concentration = a_0 + tf.cast(K_current, dtype = tf.float32) - s_0, rate = b_0 - tf.math.log(eta_0)).sample(seed = seed_s6[2])
 
-    m_i_dot   = tf.cast(tf.reduce_sum(m_ik, axis = -1), dtype = tf.float32)
+    m_i_dot   = tf.cast(tf.reduce_sum(m_ik[:n,...], axis = -1), dtype = tf.float32)
     eta_i     = tfp.distributions.Beta( concentration1 = alpha_i+1, concentration0 = J ).sample(seed = seed_s6[3])
     bern_p_i  = J*(b - tf.math.log(eta_i))/(m_i_dot + a -1 + J*(b - tf.math.log(eta_i))) 
     s_i       = tf.cast(tfp.distributions.Bernoulli( probs = bern_p_i ).sample(seed = seed_s6[4]), dtype = tf.float32)
@@ -646,110 +500,40 @@ def SZ_step_mc_tau(MCMC_output, X_ij, disjoint_constraints, one_n_j, N, mc_sampl
     return mc_tau
 
 
-# def SZ_BNP_MCMC_step(one_hot_X, one_n_j, disjoint_constraints, K_max, prior_parameters, initialization_MCMC, unobserved_Z, unobserved_X, seed_step, type_1, type_2):
-     
-# 	n = tf.shape(one_hot_X)[0]
-
-# 	a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
-
-# 	a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = initialization_MCMC
-     
-# 	one_hot_complete_X = tf.concat((one_hot_X, tf.one_hot(unobserved_X, tf.shape(one_n_j)[1])), axis = 0)
-
-# 	seed_1, seed_2, seed_3, seed_4, seed_5, seed_6, seed_7, seed_s789 = tfp.random.split_seed( seed_step, n=8, salt='seed_step_split')
-		
-# 	J = tf.cast(tf.shape(one_hot_X)[1], dtype = tf.float32)
-
-# 	beta_k_00_full, pi_i_0k_full, Z_ij, K_current = SZ_step_1(one_n_j, K_current, one_hot_X, pi_i_0k_full, theta_k_full, beta_k_00_full, alpha_0, alpha_i, seed_1)
-
-# 	complete_Z = tf.concat((Z_ij, unobserved_Z), axis = 0 )
-
-# 	one_hot_complete_Z = tf.one_hot(complete_Z, K_max)
-# 	n_i_dot_k = tf.reduce_sum(one_hot_complete_Z, axis = 1)
-
-# 	m_ik = SZ_step_2(n_i_dot_k, alpha_0, beta_k_00_full, J, seed_2)
-
-# 	one_hot_complete_Z, beta_k_00_full, pi_i_0k_full, K_current = SZ_mixture_cutter(n_i_dot_k, one_hot_complete_Z, beta_k_00_full, pi_i_0k_full)
-# 	n_i_dot_k = tf.reduce_sum(one_hot_complete_Z, axis = 1)
-
-# 	seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_3, n=2, salt='seed_s3_carry_'+str(K_current))
-# 	beta_k_00_full = SZ_step_3(m_ik, alpha_0, seed_s3)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(beta_k_00_full)) and counter<100:
-
-# 		seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_s3_carry, n=2, salt='seed_s3_carry_'+str(K_current))
-# 		beta_k_00_full = SZ_step_3(m_ik, alpha_0, seed_s3)
-
-# 		counter = counter +1
-
-# 	seed_s4, seed_s4_carry  = tfp.random.split_seed( seed_4, n=2, salt='seed_s4_carry_'+str(K_current))
-# 	pi_i_0k_full = SZ_step_4(n_i_dot_k[:n,:], alpha_i, beta_k_00_full, seed_s4)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(pi_i_0k_full)) and counter<100:
-
-# 		seed_s4, seed_s4_carry  = tfp.random.split_seed( seed_s4_carry, n=2, salt='seed_s4_carry_'+str(K_current))
-# 		pi_i_0k_full = SZ_step_4(n_i_dot_k[:n,:], alpha_i, beta_k_00_full, seed_s4)
-
-# 		counter = counter +1
-
-# 	seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_5, n=2, salt='seed_s5_carry_'+str(K_current))
-# 	theta_k_full = SZ_step_5(one_hot_complete_X, one_n_j, one_hot_complete_Z, seed_s5)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(theta_k_full)) and counter<100:
-
-# 		seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_s5_carry, n=2, salt='seed_s5_carry_'+str(K_current))
-# 		theta_k_full = SZ_step_5(one_hot_complete_X, one_n_j, one_hot_complete_Z, seed_s5)
-
-# 		counter = counter +1
-
-# 	if type_1 == "single":
-# 		alpha_0, alpha_i = SZ_step_6_single(a_0, b_0, a, b, K_current, J, m_ik[:n,:], alpha_0, alpha_i, seed_6)
-
-# 	if type_1 == "multiple":
-# 		alpha_0, alpha_i = SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik[:n,:], alpha_0, alpha_i, seed_6)
-
-# 		if type_2 == "random a,b":
-# 			a, b = SZ_step_7(alpha_i, a, b, a_1, b_1, a_2, b_2, sigma, seed_7 )
-                  
-# 	if type_2 == "fixed a,b":
-# 		a, b = a_1, b_1
-        
-# 	return a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current
-
-
-def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MCMC, unobserved_m_dotk, unobserved_XZ_counting, seed_step, type_1, type_2):
+def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MCMC, unobserved_X, unobserved_Z, seed_step, type_1, type_2):
      
 	n = tf.shape(one_hot_X)[0]
 
 	a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
 
 	a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = initialization_MCMC
+     
+	one_hot_complete_X = tf.concat((one_hot_X, tf.one_hot(unobserved_X, tf.shape(one_n_j)[1])), axis = 0)
 
-	seed_1, seed_2, seed_3, seed_4, seed_5, seed_6, seed_7 = tfp.random.split_seed( seed_step, n=7, salt='seed_step_split')
+	seed_1, seed_2, seed_3, seed_4, seed_5, seed_6, seed_7, seed_s789 = tfp.random.split_seed( seed_step, n=8, salt='seed_step_split')
 		
 	J = tf.cast(tf.shape(one_hot_X)[1], dtype = tf.float32)
 
 	beta_k_00_full, pi_i_0k_full, Z_ij, K_current = SZ_step_1(one_n_j, K_current, one_hot_X, pi_i_0k_full, theta_k_full, beta_k_00_full, alpha_0, alpha_i, seed_1)
 
-	one_hot_Z = tf.one_hot(Z_ij, K_max)
-	n_i_dot_k = tf.reduce_sum(one_hot_Z, axis = 1)
+	complete_Z = tf.concat((Z_ij, unobserved_Z), axis = 0 )
+
+	one_hot_complete_Z = tf.one_hot(complete_Z, K_max)
+	n_i_dot_k = tf.reduce_sum(one_hot_complete_Z, axis = 1)
 
 	m_ik = SZ_step_2(n_i_dot_k, alpha_0, beta_k_00_full, J, seed_2)
 
-	one_hot_Z, beta_k_00_full, pi_i_0k_full, K_current, unobserved_m_dotk, unobserved_XZ_counting = SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full, unobserved_m_dotk, unobserved_XZ_counting)
-	n_i_dot_k = tf.reduce_sum(one_hot_Z, axis = 1)
+	one_hot_complete_Z, beta_k_00_full, pi_i_0k_full, K_current = SZ_mixture_cutter(n_i_dot_k, one_hot_complete_Z, beta_k_00_full, pi_i_0k_full)
+	n_i_dot_k = tf.reduce_sum(one_hot_complete_Z, axis = 1)
 
 	seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_3, n=2, salt='seed_s3_carry_'+str(K_current))
-	beta_k_00_full = SZ_step_3(m_ik, unobserved_m_dotk, alpha_0, seed_s3)
+	beta_k_00_full = SZ_step_3(m_ik, alpha_0, seed_s3)
 
 	counter = 0
 	while tf.reduce_any(tf.math.is_nan(beta_k_00_full)) and counter<100:
 
 		seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_s3_carry, n=2, salt='seed_s3_carry_'+str(K_current))
-		beta_k_00_full = SZ_step_3(m_ik, unobserved_m_dotk, alpha_0, seed_s3)
+		beta_k_00_full = SZ_step_3(m_ik, alpha_0, seed_s3)
 
 		counter = counter +1
 
@@ -765,13 +549,13 @@ def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization
 		counter = counter +1
 
 	seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_5, n=2, salt='seed_s5_carry_'+str(K_current))
-	theta_k_full = SZ_step_5(one_hot_X, one_n_j, one_hot_Z, unobserved_XZ_counting, seed_s5)
+	theta_k_full = SZ_step_5(one_hot_complete_X, one_n_j, one_hot_complete_Z, seed_s5)
 
 	counter = 0
 	while tf.reduce_any(tf.math.is_nan(theta_k_full)) and counter<100:
 
 		seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_s5_carry, n=2, salt='seed_s5_carry_'+str(K_current))
-		theta_k_full = SZ_step_5(one_hot_X, one_n_j, one_hot_Z, unobserved_XZ_counting, seed_s5)
+		theta_k_full = SZ_step_5(one_hot_complete_X, one_n_j, one_hot_complete_Z, seed_s5)
 
 		counter = counter +1
 
@@ -779,7 +563,7 @@ def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization
 		alpha_0, alpha_i = SZ_step_6_single(a_0, b_0, a, b, K_current, J, m_ik, alpha_0, alpha_i, seed_6)
 
 	if type_1 == "multiple":
-		alpha_0, alpha_i = SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, unobserved_m_dotk, alpha_0, alpha_i, seed_6)
+		alpha_0, alpha_i = SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, alpha_0, alpha_i, seed_6)
 
 		if type_2 == "random a,b":
 			a, b = SZ_step_7(alpha_i, a, b, a_1, b_1, a_2, b_2, sigma, seed_7 )
@@ -788,6 +572,7 @@ def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization
 		a, b = a_1, b_1
         
 	return a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current
+
 
 def SZ_BNP_MCMC_from_start(X_ij, disjoint_constraints, one_n_j, K_current, K_max, prior_parameters, MCMC_iterations, seed_MCMC, type_1, type_2):
 
@@ -815,13 +600,11 @@ def SZ_BNP_MCMC_from_start(X_ij, disjoint_constraints, one_n_j, K_current, K_max
 		hat_a = tf.math.pow(mu, 2)/(mu2 - tf.math.pow(mu, 2))
 		hat_b = mu/(mu2 - tf.math.pow(mu, 2))
                   
-		# start = time.time()
-		unobserved_m_dotk, unobserved_XZ_counting, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_inside[0])
-		# print(time.time() - start)
+		unobserved_X, unobserved_Z_ij, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_inside[0])
 
 		input = (a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current)
 
-		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_m_dotk, unobserved_XZ_counting, seed_step_inside[1], type_1, type_2)
+		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_X, unobserved_Z_ij, seed_step_inside[1], type_1, type_2)
 
 		return output_t
     
@@ -849,11 +632,11 @@ def SZ_BNP_MCMC_initialized(X_ij, disjoint_constraints, one_n_j, K_max, prior_pa
 		hat_a = tf.math.pow(mu, 2)/(mu2 - tf.math.pow(mu, 2))
 		hat_b = mu/(mu2 - tf.math.pow(mu, 2))
                   
-		unobserved_m_dotk, unobserved_XZ_counting, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_inside[0])
+		unobserved_X, unobserved_Z_ij, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_inside[0])
 
 		input = (a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current)
 
-		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_m_dotk, unobserved_XZ_counting, seed_step_inside[1], type_1, type_2)
+		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_X, unobserved_Z_ij, seed_step_inside[1], type_1, type_2)
 
 		return output_t
     
@@ -886,11 +669,11 @@ def SZ_BNP_MCMC_initialized_tau(X_ij, disjoint_constraints, one_n_j, K_max, prio
 		hat_a = tf.math.pow(mu, 2)/(mu2 - tf.math.pow(mu, 2))
 		hat_b = mu/(mu2 - tf.math.pow(mu, 2))
                   
-		unobserved_m_dotk, unobserved_XZ_counting, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_without_tau_1)
+		unobserved_X, unobserved_Z_ij, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_step_without_tau_1)
 
 		input = (a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current)
 
-		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_m_dotk, unobserved_XZ_counting, seed_step_without_tau_2, type_1, type_2)
+		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_X, unobserved_Z_ij, seed_step_without_tau_2, type_1, type_2)
 
 		if type_1=="single":
 			pass

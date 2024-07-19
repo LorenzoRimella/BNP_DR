@@ -34,6 +34,21 @@ def param_mixed_membership_model(K, one_n_j, a_0, b_0, n):
 
     return X_ij, theta_j_k, g_i, g_0
 
+def param_mixed_membership_model_given(K, one_n_j, g_0, theta_j_k, n):
+
+    J = tf.shape(one_n_j)[0]
+
+    g_i = tfp.distributions.Dirichlet(concentration = g_0).sample(n)
+
+    choose_profile = tfp.distributions.Categorical(probs = g_i).sample(J)
+    choose_profile = tf.transpose(choose_profile)
+
+    individual_profile = tf.einsum("kjn,ijk->ijn", theta_j_k, tf.one_hot(choose_profile, K))
+
+    X_ij = tfp.distributions.Categorical(probs = individual_profile).sample()
+
+    return X_ij, g_i
+
 @tf.function(jit_compile = True)
 def param_mixed_membership_model_given_theta_g(K, one_n_j, theta_j_k, g_0, n):
 
@@ -144,11 +159,12 @@ def nonparam_mixed_membership_model(one_n_j, a_0, b_0, a, b, n_batch, batch_size
 
 @tf.function(jit_compile = True)
 def fast_frequency(X_ij, one_n_j):
-
+    
+    max_nj = tf.cast(tf.shape(one_n_j)[0], dtype = tf.float32)
     onehot_X = tf.one_hot(X_ij, tf.shape(one_n_j)[1])
 
-    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X)/10
-    square_matrix = tf.where(square_matrix==1., square_matrix, tf.zeros(tf.shape(square_matrix)))
+    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X)
+    square_matrix = tf.where(square_matrix==max_nj, tf.ones(tf.shape(square_matrix)), tf.zeros(tf.shape(square_matrix)))
     frequencies = tf.reduce_sum(square_matrix, axis = -1)
 
     return frequencies
@@ -156,11 +172,12 @@ def fast_frequency(X_ij, one_n_j):
 @tf.function(jit_compile = True)
 def fast_frequency_batched(X_ij, X_ij_batch, one_n_j):
 
+    max_nj = tf.cast(tf.shape(one_n_j)[0], dtype = tf.float32)
     onehot_X         = tf.one_hot(X_ij, tf.shape(one_n_j)[1])
     onehot_X_batched = tf.one_hot(X_ij_batch, tf.shape(one_n_j)[1])
 
-    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X_batched)/10
-    square_matrix = tf.where(square_matrix==1., square_matrix, tf.zeros(tf.shape(square_matrix)))
+    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X_batched)
+    square_matrix = tf.where(square_matrix==max_nj, tf.ones(tf.shape(square_matrix)), tf.zeros(tf.shape(square_matrix)))
     frequencies = 1 + tf.reduce_sum(square_matrix, axis = -1)
 
     return frequencies
@@ -168,11 +185,12 @@ def fast_frequency_batched(X_ij, X_ij_batch, one_n_j):
 @tf.function(jit_compile = True)
 def fast_frequency_batched_final_size(X_ij, X_ij_batch, one_n_j):
 
+    max_nj = tf.cast(tf.shape(one_n_j)[0], dtype = tf.float32)
     onehot_X         = tf.one_hot(X_ij, tf.shape(one_n_j)[1])
     onehot_X_batched = tf.one_hot(X_ij_batch, tf.shape(one_n_j)[1])
 
-    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X_batched)/10
-    square_matrix = tf.where(square_matrix==1., square_matrix, tf.zeros(tf.shape(square_matrix)))
+    square_matrix = tf.einsum("ijn, Ijn->iI", onehot_X, onehot_X_batched)
+    square_matrix = tf.where(square_matrix==max_nj, tf.ones(tf.shape(square_matrix)), tf.zeros(tf.shape(square_matrix)))
     frequencies = 1 + tf.reduce_sum(square_matrix, axis = -1)
 
     return frequencies
