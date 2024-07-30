@@ -1,0 +1,9002 @@
+Start MCMC with n 1000
+Batch number 0
+Batch number 1
+Batch number 2
+Batch number 3
+Batch number 4
+Batch number 5
+Batch number 6
+Batch number 7
+Batch number 8
+Batch number 9
+Batch number 10
+Batch number 11
+Batch number 12
+Batch number 13
+Batch number 14
+Batch number 15
+Batch number 16
+Batch number 17
+Batch number 18
+Batch number 19
+Batch number 20
+Batch number 21
+Batch number 22
+Batch number 23
+Batch number 24
+Batch number 25
+Batch number 26
+Batch number 27
+Batch number 28
+Batch number 29
+Batch number 30
+Batch number 31
+Batch number 32
+Batch number 33
+Batch number 34
+Batch number 35
+Batch number 36
+Batch number 37
+Batch number 38
+Batch number 39
+Batch number 40
+Batch number 41
+Batch number 42
+Batch number 43
+Batch number 44
+Batch number 45
+Batch number 46
+Batch number 47
+Batch number 48
+Batch number 49
+Batch number 50
+Batch number 51
+Batch number 52
+Batch number 53
+Batch number 54
+Batch number 55
+Batch number 56
+Batch number 57
+Batch number 58
+Batch number 59
+Batch number 60
+Batch number 61
+Batch number 62
+Batch number 63
+Batch number 64
+Batch number 65
+Batch number 66
+Batch number 67
+Batch number 68
+Batch number 69
+Batch number 70
+Batch number 71
+Batch number 72
+Batch number 73
+Batch number 74
+Batch number 75
+Batch number 76
+Batch number 77
+Batch number 78
+Batch number 79
+Batch number 80
+Batch number 81
+Batch number 82
+Batch number 83
+Batch number 84
+Batch number 85
+Batch number 86
+Batch number 87
+Batch number 88
+Batch number 89
+Batch number 90
+Batch number 91
+Batch number 92
+Batch number 93
+Batch number 94
+Batch number 95
+Batch number 96
+Batch number 97
+Batch number 98
+Batch number 99
+Batch number 100
+Batch number 101
+Batch number 102
+Batch number 103
+Batch number 104
+Batch number 105
+Batch number 106
+Batch number 107
+Batch number 108
+Batch number 109
+Batch number 110
+Batch number 111
+Batch number 112
+Batch number 113
+Batch number 114
+Batch number 115
+Batch number 116
+Batch number 117
+Batch number 118
+Batch number 119
+Batch number 120
+Batch number 121
+Batch number 122
+Batch number 123
+Batch number 124
+Batch number 125
+Batch number 126
+Batch number 127
+Batch number 128
+Batch number 129
+Batch number 130
+Batch number 131
+Batch number 132
+Batch number 133
+Batch number 134
+Batch number 135
+Batch number 136
+Batch number 137
+Batch number 138
+Batch number 139
+Batch number 140
+Batch number 141
+Batch number 142
+Batch number 143
+Batch number 144
+Batch number 145
+Batch number 146
+Batch number 147
+Batch number 148
+Batch number 149
+Batch number 150
+Batch number 151
+Batch number 152
+Batch number 153
+Batch number 154
+Batch number 155
+Batch number 156
+Batch number 157
+Batch number 158
+Batch number 159
+Batch number 160
+Batch number 161
+Batch number 162
+Batch number 163
+Batch number 164
+Batch number 165
+Batch number 166
+Batch number 167
+Batch number 168
+Batch number 169
+Batch number 170
+Batch number 171
+Batch number 172
+Batch number 173
+Batch number 174
+Batch number 175
+Batch number 176
+Batch number 177
+Batch number 178
+Batch number 179
+Batch number 180
+Batch number 181
+Batch number 182
+Batch number 183
+Batch number 184
+Batch number 185
+Batch number 186
+Batch number 187
+Batch number 188
+Batch number 189
+Batch number 190
+Batch number 191
+Batch number 192
+Batch number 193
+Batch number 194
+Batch number 195
+Batch number 196
+Batch number 197
+Batch number 198
+Batch number 199
+Batch number 200
+Batch number 201
+Batch number 202
+Batch number 203
+Batch number 204
+Batch number 205
+Batch number 206
+Batch number 207
+Batch number 208
+Batch number 209
+Batch number 210
+Batch number 211
+Batch number 212
+Batch number 213
+Batch number 214
+Batch number 215
+Batch number 216
+Batch number 217
+Batch number 218
+Batch number 219
+Batch number 220
+Batch number 221
+Batch number 222
+Batch number 223
+Batch number 224
+Batch number 225
+Batch number 226
+Batch number 227
+Batch number 228
+Batch number 229
+Batch number 230
+Batch number 231
+Batch number 232
+Batch number 233
+Batch number 234
+Batch number 235
+Batch number 236
+Batch number 237
+Batch number 238
+Batch number 239
+Batch number 240
+Batch number 241
+Batch number 242
+Batch number 243
+Batch number 244
+Batch number 245
+Batch number 246
+Batch number 247
+Batch number 248
+Batch number 249
+Batch number 250
+Batch number 251
+Batch number 252
+Batch number 253
+Batch number 254
+Batch number 255
+Batch number 256
+Batch number 257
+Batch number 258
+Batch number 259
+Batch number 260
+Batch number 261
+Batch number 262
+Batch number 263
+Batch number 264
+Batch number 265
+Batch number 266
+Batch number 267
+Batch number 268
+Batch number 269
+Batch number 270
+Batch number 271
+Batch number 272
+Batch number 273
+Batch number 274
+Batch number 275
+Batch number 276
+Batch number 277
+Batch number 278
+Batch number 279
+Batch number 280
+Batch number 281
+Batch number 282
+Batch number 283
+Batch number 284
+Batch number 285
+Batch number 286
+Batch number 287
+Batch number 288
+Batch number 289
+Batch number 290
+Batch number 291
+Batch number 292
+Batch number 293
+Batch number 294
+Batch number 295
+Batch number 296
+Batch number 297
+Batch number 298
+Batch number 299
+Batch number 300
+Batch number 301
+Batch number 302
+Batch number 303
+Batch number 304
+Batch number 305
+Batch number 306
+Batch number 307
+Batch number 308
+Batch number 309
+Batch number 310
+Batch number 311
+Batch number 312
+Batch number 313
+Batch number 314
+Batch number 315
+Batch number 316
+Batch number 317
+Batch number 318
+Batch number 319
+Batch number 320
+Batch number 321
+Batch number 322
+Batch number 323
+Batch number 324
+Batch number 325
+Batch number 326
+Batch number 327
+Batch number 328
+Batch number 329
+Batch number 330
+Batch number 331
+Batch number 332
+Batch number 333
+Batch number 334
+Batch number 335
+Batch number 336
+Batch number 337
+Batch number 338
+Batch number 339
+Batch number 340
+Batch number 341
+Batch number 342
+Batch number 343
+Batch number 344
+Batch number 345
+Batch number 346
+Batch number 347
+Batch number 348
+Batch number 349
+Batch number 350
+Batch number 351
+Batch number 352
+Batch number 353
+Batch number 354
+Batch number 355
+Batch number 356
+Batch number 357
+Batch number 358
+Batch number 359
+Batch number 360
+Batch number 361
+Batch number 362
+Batch number 363
+Batch number 364
+Batch number 365
+Batch number 366
+Batch number 367
+Batch number 368
+Batch number 369
+Batch number 370
+Batch number 371
+Batch number 372
+Batch number 373
+Batch number 374
+Batch number 375
+Batch number 376
+Batch number 377
+Batch number 378
+Batch number 379
+Batch number 380
+Batch number 381
+Batch number 382
+Batch number 383
+Batch number 384
+Batch number 385
+Batch number 386
+Batch number 387
+Batch number 388
+Batch number 389
+Batch number 390
+Batch number 391
+Batch number 392
+Batch number 393
+Batch number 394
+Batch number 395
+Batch number 396
+Batch number 397
+Batch number 398
+Batch number 399
+Batch number 400
+Batch number 401
+Batch number 402
+Batch number 403
+Batch number 404
+Batch number 405
+Batch number 406
+Batch number 407
+Batch number 408
+Batch number 409
+Batch number 410
+Batch number 411
+Batch number 412
+Batch number 413
+Batch number 414
+Batch number 415
+Batch number 416
+Batch number 417
+Batch number 418
+Batch number 419
+Batch number 420
+Batch number 421
+Batch number 422
+Batch number 423
+Batch number 424
+Batch number 425
+Batch number 426
+Batch number 427
+Batch number 428
+Batch number 429
+Batch number 430
+Batch number 431
+Batch number 432
+Batch number 433
+Batch number 434
+Batch number 435
+Batch number 436
+Batch number 437
+Batch number 438
+Batch number 439
+Batch number 440
+Batch number 441
+Batch number 442
+Batch number 443
+Batch number 444
+Batch number 445
+Batch number 446
+Batch number 447
+Batch number 448
+Batch number 449
+Batch number 450
+Batch number 451
+Batch number 452
+Batch number 453
+Batch number 454
+Batch number 455
+Batch number 456
+Batch number 457
+Batch number 458
+Batch number 459
+Batch number 460
+Batch number 461
+Batch number 462
+Batch number 463
+Batch number 464
+Batch number 465
+Batch number 466
+Batch number 467
+Batch number 468
+Batch number 469
+Batch number 470
+Batch number 471
+Batch number 472
+Batch number 473
+Batch number 474
+Batch number 475
+Batch number 476
+Batch number 477
+Batch number 478
+Batch number 479
+Batch number 480
+Batch number 481
+Batch number 482
+Batch number 483
+Batch number 484
+Batch number 485
+Batch number 486
+Batch number 487
+Batch number 488
+Batch number 489
+Batch number 490
+Batch number 491
+Batch number 492
+Batch number 493
+Batch number 494
+Batch number 495
+Batch number 496
+Batch number 497
+Batch number 498
+Batch number 499
+Batch number 500
+Batch number 501
+Batch number 502
+Batch number 503
+Batch number 504
+Batch number 505
+Batch number 506
+Batch number 507
+Batch number 508
+Batch number 509
+Batch number 510
+Batch number 511
+Batch number 512
+Batch number 513
+Batch number 514
+Batch number 515
+Batch number 516
+Batch number 517
+Batch number 518
+Batch number 519
+Batch number 520
+Batch number 521
+Batch number 522
+Batch number 523
+Batch number 524
+Batch number 525
+Batch number 526
+Batch number 527
+Batch number 528
+Batch number 529
+Batch number 530
+Batch number 531
+Batch number 532
+Batch number 533
+Batch number 534
+Batch number 535
+Batch number 536
+Batch number 537
+Batch number 538
+Batch number 539
+Batch number 540
+Batch number 541
+Batch number 542
+Batch number 543
+Batch number 544
+Batch number 545
+Batch number 546
+Batch number 547
+Batch number 548
+Batch number 549
+Batch number 550
+Batch number 551
+Batch number 552
+Batch number 553
+Batch number 554
+Batch number 555
+Batch number 556
+Batch number 557
+Batch number 558
+Batch number 559
+Batch number 560
+Batch number 561
+Batch number 562
+Batch number 563
+Batch number 564
+Batch number 565
+Batch number 566
+Batch number 567
+Batch number 568
+Batch number 569
+Batch number 570
+Batch number 571
+Batch number 572
+Batch number 573
+Batch number 574
+Batch number 575
+Batch number 576
+Batch number 577
+Batch number 578
+Batch number 579
+Batch number 580
+Batch number 581
+Batch number 582
+Batch number 583
+Batch number 584
+Batch number 585
+Batch number 586
+Batch number 587
+Batch number 588
+Batch number 589
+Batch number 590
+Batch number 591
+Batch number 592
+Batch number 593
+Batch number 594
+Batch number 595
+Batch number 596
+Batch number 597
+Batch number 598
+Batch number 599
+Batch number 600
+Batch number 601
+Batch number 602
+Batch number 603
+Batch number 604
+Batch number 605
+Batch number 606
+Batch number 607
+Batch number 608
+Batch number 609
+Batch number 610
+Batch number 611
+Batch number 612
+Batch number 613
+Batch number 614
+Batch number 615
+Batch number 616
+Batch number 617
+Batch number 618
+Batch number 619
+Batch number 620
+Batch number 621
+Batch number 622
+Batch number 623
+Batch number 624
+Batch number 625
+Batch number 626
+Batch number 627
+Batch number 628
+Batch number 629
+Batch number 630
+Batch number 631
+Batch number 632
+Batch number 633
+Batch number 634
+Batch number 635
+Batch number 636
+Batch number 637
+Batch number 638
+Batch number 639
+Batch number 640
+Batch number 641
+Batch number 642
+Batch number 643
+Batch number 644
+Batch number 645
+Batch number 646
+Batch number 647
+Batch number 648
+Batch number 649
+Batch number 650
+Batch number 651
+Batch number 652
+Batch number 653
+Batch number 654
+Batch number 655
+Batch number 656
+Batch number 657
+Batch number 658
+Batch number 659
+Batch number 660
+Batch number 661
+Batch number 662
+Batch number 663
+Batch number 664
+Batch number 665
+Batch number 666
+Batch number 667
+Batch number 668
+Batch number 669
+Batch number 670
+Batch number 671
+Batch number 672
+Batch number 673
+Batch number 674
+Batch number 675
+Batch number 676
+Batch number 677
+Batch number 678
+Batch number 679
+Batch number 680
+Batch number 681
+Batch number 682
+Batch number 683
+Batch number 684
+Batch number 685
+Batch number 686
+Batch number 687
+Batch number 688
+Batch number 689
+Batch number 690
+Batch number 691
+Batch number 692
+Batch number 693
+Batch number 694
+Batch number 695
+Batch number 696
+Batch number 697
+Batch number 698
+Batch number 699
+Batch number 700
+Batch number 701
+Batch number 702
+Batch number 703
+Batch number 704
+Batch number 705
+Batch number 706
+Batch number 707
+Batch number 708
+Batch number 709
+Batch number 710
+Batch number 711
+Batch number 712
+Batch number 713
+Batch number 714
+Batch number 715
+Batch number 716
+Batch number 717
+Batch number 718
+Batch number 719
+Batch number 720
+Batch number 721
+Batch number 722
+Batch number 723
+Batch number 724
+Batch number 725
+Batch number 726
+Batch number 727
+Batch number 728
+Batch number 729
+Batch number 730
+Batch number 731
+Batch number 732
+Batch number 733
+Batch number 734
+Batch number 735
+Batch number 736
+Batch number 737
+Batch number 738
+Batch number 739
+Batch number 740
+Batch number 741
+Batch number 742
+Batch number 743
+Batch number 744
+Batch number 745
+Batch number 746
+Batch number 747
+Batch number 748
+Batch number 749
+Batch number 750
+Batch number 751
+Batch number 752
+Batch number 753
+Batch number 754
+Batch number 755
+Batch number 756
+Batch number 757
+Batch number 758
+Batch number 759
+Batch number 760
+Batch number 761
+Batch number 762
+Batch number 763
+Batch number 764
+Batch number 765
+Batch number 766
+Batch number 767
+Batch number 768
+Batch number 769
+Batch number 770
+Batch number 771
+Batch number 772
+Batch number 773
+Batch number 774
+Batch number 775
+Batch number 776
+Batch number 777
+Batch number 778
+Batch number 779
+Batch number 780
+Batch number 781
+Batch number 782
+Batch number 783
+Batch number 784
+Batch number 785
+Batch number 786
+Batch number 787
+Batch number 788
+Batch number 789
+Batch number 790
+Batch number 791
+Batch number 792
+Batch number 793
+Batch number 794
+Batch number 795
+Batch number 796
+Batch number 797
+Batch number 798
+Batch number 799
+Batch number 800
+Batch number 801
+Batch number 802
+Batch number 803
+Batch number 804
+Batch number 805
+Batch number 806
+Batch number 807
+Batch number 808
+Batch number 809
+Batch number 810
+Batch number 811
+Batch number 812
+Batch number 813
+Batch number 814
+Batch number 815
+Batch number 816
+Batch number 817
+Batch number 818
+Batch number 819
+Batch number 820
+Batch number 821
+Batch number 822
+Batch number 823
+Batch number 824
+Batch number 825
+Batch number 826
+Batch number 827
+Batch number 828
+Batch number 829
+Batch number 830
+Batch number 831
+Batch number 832
+Batch number 833
+Batch number 834
+Batch number 835
+Batch number 836
+Batch number 837
+Batch number 838
+Batch number 839
+Batch number 840
+Batch number 841
+Batch number 842
+Batch number 843
+Batch number 844
+Batch number 845
+Batch number 846
+Batch number 847
+Batch number 848
+Batch number 849
+Batch number 850
+Batch number 851
+Batch number 852
+Batch number 853
+Batch number 854
+Batch number 855
+Batch number 856
+Batch number 857
+Batch number 858
+Batch number 859
+Batch number 860
+Batch number 861
+Batch number 862
+Batch number 863
+Batch number 864
+Batch number 865
+Batch number 866
+Batch number 867
+Batch number 868
+Batch number 869
+Batch number 870
+Batch number 871
+Batch number 872
+Batch number 873
+Batch number 874
+Batch number 875
+Batch number 876
+Batch number 877
+Batch number 878
+Batch number 879
+Batch number 880
+Batch number 881
+Batch number 882
+Batch number 883
+Batch number 884
+Batch number 885
+Batch number 886
+Batch number 887
+Batch number 888
+Batch number 889
+Batch number 890
+Batch number 891
+Batch number 892
+Batch number 893
+Batch number 894
+Batch number 895
+Batch number 896
+Batch number 897
+Batch number 898
+Batch number 899
+Batch number 900
+Batch number 901
+Batch number 902
+Batch number 903
+Batch number 904
+Batch number 905
+Batch number 906
+Batch number 907
+Batch number 908
+Batch number 909
+Batch number 910
+Batch number 911
+Batch number 912
+Batch number 913
+Batch number 914
+Batch number 915
+Batch number 916
+Batch number 917
+Batch number 918
+Batch number 919
+Batch number 920
+Batch number 921
+Batch number 922
+Batch number 923
+Batch number 924
+Batch number 925
+Batch number 926
+Batch number 927
+Batch number 928
+Batch number 929
+Batch number 930
+Batch number 931
+Batch number 932
+Batch number 933
+Batch number 934
+Batch number 935
+Batch number 936
+Batch number 937
+Batch number 938
+Batch number 939
+Batch number 940
+Batch number 941
+Batch number 942
+Batch number 943
+Batch number 944
+Batch number 945
+Batch number 946
+Batch number 947
+Batch number 948
+Batch number 949
+Batch number 950
+Batch number 951
+Batch number 952
+Batch number 953
+Batch number 954
+Batch number 955
+Batch number 956
+Batch number 957
+Batch number 958
+Batch number 959
+Batch number 960
+Batch number 961
+Batch number 962
+Batch number 963
+Batch number 964
+Batch number 965
+Batch number 966
+Batch number 967
+Batch number 968
+Batch number 969
+Batch number 970
+Batch number 971
+Batch number 972
+Batch number 973
+Batch number 974
+Batch number 975
+Batch number 976
+Batch number 977
+Batch number 978
+Batch number 979
+Batch number 980
+Batch number 981
+Batch number 982
+Batch number 983
+Batch number 984
+Batch number 985
+Batch number 986
+Batch number 987
+Batch number 988
+Batch number 989
+Batch number 990
+Batch number 991
+Batch number 992
+Batch number 993
+Batch number 994
+Batch number 995
+Batch number 996
+Batch number 997
+Batch number 998
+Batch number 999
+Tau Batch number 0
+Mean K 7
+with time 29.57007336616516
+Tau Batch number 1
+Mean K 7
+with time 3.088430643081665
+Tau Batch number 2
+Mean K 6
+with time 3.04927134513855
+Tau Batch number 3
+Mean K 6
+with time 3.0910470485687256
+Tau Batch number 4
+Mean K 6
+with time 3.1022069454193115
+Tau Batch number 5
+Mean K 6
+with time 3.0642619132995605
+Tau Batch number 6
+Mean K 6
+with time 3.1043286323547363
+Tau Batch number 7
+Mean K 6
+with time 3.0874500274658203
+Tau Batch number 8
+Mean K 6
+with time 3.06388258934021
+Tau Batch number 9
+Mean K 6
+with time 3.060206413269043
+Tau Batch number 10
+Mean K 6
+with time 3.128464460372925
+Tau Batch number 11
+Mean K 6
+with time 3.087428569793701
+Tau Batch number 12
+Mean K 6
+with time 3.071598768234253
+Tau Batch number 13
+Mean K 6
+with time 3.089601993560791
+Tau Batch number 14
+Mean K 6
+with time 3.1213409900665283
+Tau Batch number 15
+Mean K 6
+with time 3.0526106357574463
+Tau Batch number 16
+Mean K 6
+with time 3.0863683223724365
+Tau Batch number 17
+Mean K 6
+with time 3.1341986656188965
+Tau Batch number 18
+Mean K 6
+with time 3.155454158782959
+Tau Batch number 19
+Mean K 6
+with time 3.079054832458496
+Tau Batch number 20
+Mean K 6
+with time 3.087660789489746
+Tau Batch number 21
+Mean K 6
+with time 3.068065643310547
+Tau Batch number 22
+Mean K 6
+with time 3.050553798675537
+Tau Batch number 23
+Mean K 6
+with time 3.1467792987823486
+Tau Batch number 24
+Mean K 6
+with time 3.089519500732422
+Tau Batch number 25
+Mean K 6
+with time 3.085188627243042
+Tau Batch number 26
+Mean K 6
+with time 3.10457706451416
+Tau Batch number 27
+Mean K 6
+with time 3.0848352909088135
+Tau Batch number 28
+Mean K 6
+with time 3.0927035808563232
+Tau Batch number 29
+Mean K 6
+with time 3.12073016166687
+Tau Batch number 30
+Mean K 6
+with time 3.0429039001464844
+Tau Batch number 31
+Mean K 6
+with time 3.143446683883667
+Tau Batch number 32
+Mean K 6
+with time 3.0923960208892822
+Tau Batch number 33
+Mean K 6
+with time 3.1277194023132324
+Tau Batch number 34
+Mean K 6
+with time 3.06864333152771
+Tau Batch number 35
+Mean K 6
+with time 3.1101319789886475
+Tau Batch number 36
+Mean K 6
+with time 3.105499029159546
+Tau Batch number 37
+Mean K 6
+with time 3.103118419647217
+Tau Batch number 38
+Mean K 6
+with time 3.0503365993499756
+Tau Batch number 39
+Mean K 6
+with time 3.110971212387085
+Tau Batch number 40
+Mean K 6
+with time 3.0805561542510986
+Tau Batch number 41
+Mean K 6
+with time 3.127150058746338
+Tau Batch number 42
+Mean K 6
+with time 3.106782913208008
+Tau Batch number 43
+Mean K 6
+with time 3.0939829349517822
+Tau Batch number 44
+Mean K 6
+with time 3.0873541831970215
+Tau Batch number 45
+Mean K 6
+with time 3.095240592956543
+Tau Batch number 46
+Mean K 6
+with time 3.0171360969543457
+Tau Batch number 47
+Mean K 6
+with time 3.0703232288360596
+Tau Batch number 48
+Mean K 6
+with time 3.068112373352051
+Tau Batch number 49
+Mean K 6
+with time 3.1738173961639404
+Tau Batch number 50
+Mean K 6
+with time 3.1143088340759277
+Tau Batch number 51
+Mean K 6
+with time 3.1096670627593994
+Tau Batch number 52
+Mean K 6
+with time 3.095855474472046
+Tau Batch number 53
+Mean K 6
+with time 3.0616443157196045
+Tau Batch number 54
+Mean K 6
+with time 3.158383369445801
+Tau Batch number 55
+Mean K 6
+with time 3.109997272491455
+Tau Batch number 56
+Mean K 6
+with time 3.075101852416992
+Tau Batch number 57
+Mean K 6
+with time 3.093830108642578
+Tau Batch number 58
+Mean K 6
+with time 3.0639615058898926
+Tau Batch number 59
+Mean K 6
+with time 3.08522891998291
+Tau Batch number 60
+Mean K 6
+with time 3.0474743843078613
+Tau Batch number 61
+Mean K 6
+with time 3.0508785247802734
+Tau Batch number 62
+Mean K 6
+with time 3.1649131774902344
+Tau Batch number 63
+Mean K 6
+with time 3.075613260269165
+Tau Batch number 64
+Mean K 6
+with time 3.094487428665161
+Tau Batch number 65
+Mean K 6
+with time 3.0674710273742676
+Tau Batch number 66
+Mean K 6
+with time 3.1303465366363525
+Tau Batch number 67
+Mean K 6
+with time 3.1710331439971924
+Tau Batch number 68
+Mean K 6
+with time 3.0768535137176514
+Tau Batch number 69
+Mean K 6
+with time 3.041968822479248
+Tau Batch number 70
+Mean K 6
+with time 3.060598611831665
+Tau Batch number 71
+Mean K 6
+with time 3.113523483276367
+Tau Batch number 72
+Mean K 6
+with time 3.0772693157196045
+Tau Batch number 73
+Mean K 6
+with time 3.1201863288879395
+Tau Batch number 74
+Mean K 6
+with time 3.138267993927002
+Tau Batch number 75
+Mean K 6
+with time 3.124910593032837
+Tau Batch number 76
+Mean K 6
+with time 3.1088221073150635
+Tau Batch number 77
+Mean K 6
+with time 3.106184482574463
+Tau Batch number 78
+Mean K 6
+with time 3.108111619949341
+Tau Batch number 79
+Mean K 6
+with time 3.091909885406494
+Tau Batch number 80
+Mean K 6
+with time 3.1846823692321777
+Tau Batch number 81
+Mean K 6
+with time 3.090667486190796
+Tau Batch number 82
+Mean K 6
+with time 3.1150283813476562
+Tau Batch number 83
+Mean K 6
+with time 3.0755727291107178
+Tau Batch number 84
+Mean K 6
+with time 3.109123945236206
+Tau Batch number 85
+Mean K 6
+with time 3.1302316188812256
+Tau Batch number 86
+Mean K 6
+with time 3.0467164516448975
+Tau Batch number 87
+Mean K 6
+with time 3.085088014602661
+Tau Batch number 88
+Mean K 6
+with time 3.132315158843994
+Tau Batch number 89
+Mean K 6
+with time 3.082977533340454
+Tau Batch number 90
+Mean K 6
+with time 3.1136837005615234
+Tau Batch number 91
+Mean K 6
+with time 3.1011202335357666
+Tau Batch number 92
+Mean K 6
+with time 3.0726940631866455
+Tau Batch number 93
+Mean K 6
+with time 3.0776710510253906
+Tau Batch number 94
+Mean K 6
+with time 3.092475652694702
+Tau Batch number 95
+Mean K 6
+with time 3.0626089572906494
+Tau Batch number 96
+Mean K 6
+with time 3.135971784591675
+Tau Batch number 97
+Mean K 6
+with time 3.052885055541992
+Tau Batch number 98
+Mean K 6
+with time 3.0541181564331055
+Tau Batch number 99
+Mean K 6
+with time 3.0566837787628174
+Tau Batch number 100
+Mean K 6
+with time 3.0796844959259033
+Tau Batch number 101
+Mean K 6
+with time 3.0908432006835938
+Tau Batch number 102
+Mean K 6
+with time 3.0625531673431396
+Tau Batch number 103
+Mean K 6
+with time 3.079789876937866
+Tau Batch number 104
+Mean K 6
+with time 3.112086772918701
+Tau Batch number 105
+Mean K 6
+with time 3.128230333328247
+Tau Batch number 106
+Mean K 6
+with time 3.0324482917785645
+Tau Batch number 107
+Mean K 6
+with time 3.071951150894165
+Tau Batch number 108
+Mean K 6
+with time 3.0608534812927246
+Tau Batch number 109
+Mean K 6
+with time 3.0971975326538086
+Tau Batch number 110
+Mean K 6
+with time 3.0480453968048096
+Tau Batch number 111
+Mean K 6
+with time 3.093412399291992
+Tau Batch number 112
+Mean K 6
+with time 3.095895290374756
+Tau Batch number 113
+Mean K 6
+with time 3.085564613342285
+Tau Batch number 114
+Mean K 6
+with time 3.078181266784668
+Tau Batch number 115
+Mean K 6
+with time 3.0696842670440674
+Tau Batch number 116
+Mean K 6
+with time 3.147031307220459
+Tau Batch number 117
+Mean K 6
+with time 3.030421495437622
+Tau Batch number 118
+Mean K 6
+with time 3.063222646713257
+Tau Batch number 119
+Mean K 6
+with time 3.148865222930908
+Tau Batch number 120
+Mean K 6
+with time 3.090393304824829
+Tau Batch number 121
+Mean K 6
+with time 3.113715887069702
+Tau Batch number 122
+Mean K 6
+with time 3.0949881076812744
+Tau Batch number 123
+Mean K 6
+with time 3.1178107261657715
+Tau Batch number 124
+Mean K 6
+with time 3.0901381969451904
+Tau Batch number 125
+Mean K 6
+with time 3.0871856212615967
+Tau Batch number 126
+Mean K 6
+with time 3.050348997116089
+Tau Batch number 127
+Mean K 6
+with time 3.059325695037842
+Tau Batch number 128
+Mean K 6
+with time 3.148564577102661
+Tau Batch number 129
+Mean K 6
+with time 3.1015501022338867
+Tau Batch number 130
+Mean K 6
+with time 3.1351358890533447
+Tau Batch number 131
+Mean K 6
+with time 3.098512649536133
+Tau Batch number 132
+Mean K 6
+with time 3.0904083251953125
+Tau Batch number 133
+Mean K 6
+with time 3.1254825592041016
+Tau Batch number 134
+Mean K 6
+with time 3.0491387844085693
+Tau Batch number 135
+Mean K 6
+with time 3.1260790824890137
+Tau Batch number 136
+Mean K 6
+with time 3.0828704833984375
+Tau Batch number 137
+Mean K 6
+with time 3.0966315269470215
+Tau Batch number 138
+Mean K 6
+with time 3.115741491317749
+Tau Batch number 139
+Mean K 6
+with time 3.0376133918762207
+Tau Batch number 140
+Mean K 6
+with time 3.189671277999878
+Tau Batch number 141
+Mean K 6
+with time 3.0984444618225098
+Tau Batch number 142
+Mean K 6
+with time 3.0769290924072266
+Tau Batch number 143
+Mean K 6
+with time 3.0925419330596924
+Tau Batch number 144
+Mean K 6
+with time 3.1188395023345947
+Tau Batch number 145
+Mean K 6
+with time 3.09273624420166
+Tau Batch number 146
+Mean K 6
+with time 3.0558414459228516
+Tau Batch number 147
+Mean K 6
+with time 3.066561460494995
+Tau Batch number 148
+Mean K 6
+with time 3.0841588973999023
+Tau Batch number 149
+Mean K 6
+with time 3.073140859603882
+Tau Batch number 150
+Mean K 6
+with time 3.06956148147583
+Tau Batch number 151
+Mean K 6
+with time 3.0883524417877197
+Tau Batch number 152
+Mean K 6
+with time 3.051297664642334
+Tau Batch number 153
+Mean K 6
+with time 3.1096253395080566
+Tau Batch number 154
+Mean K 6
+with time 3.1653714179992676
+Tau Batch number 155
+Mean K 6
+with time 3.1010024547576904
+Tau Batch number 156
+Mean K 6
+with time 3.0623927116394043
+Tau Batch number 157
+Mean K 6
+with time 3.053894519805908
+Tau Batch number 158
+Mean K 6
+with time 3.0448153018951416
+Tau Batch number 159
+Mean K 6
+with time 3.057274341583252
+Tau Batch number 160
+Mean K 6
+with time 3.0837302207946777
+Tau Batch number 161
+Mean K 6
+with time 3.05751633644104
+Tau Batch number 162
+Mean K 6
+with time 3.1089138984680176
+Tau Batch number 163
+Mean K 6
+with time 3.0690107345581055
+Tau Batch number 164
+Mean K 6
+with time 3.0501534938812256
+Tau Batch number 165
+Mean K 6
+with time 3.0651304721832275
+Tau Batch number 166
+Mean K 6
+with time 3.0923659801483154
+Tau Batch number 167
+Mean K 6
+with time 3.0601532459259033
+Tau Batch number 168
+Mean K 6
+with time 3.1036221981048584
+Tau Batch number 169
+Mean K 6
+with time 3.1081082820892334
+Tau Batch number 170
+Mean K 6
+with time 3.060133934020996
+Tau Batch number 171
+Mean K 6
+with time 3.06462025642395
+Tau Batch number 172
+Mean K 6
+with time 3.088294506072998
+Tau Batch number 173
+Mean K 6
+with time 3.110485792160034
+Tau Batch number 174
+Mean K 6
+with time 3.0483360290527344
+Tau Batch number 175
+Mean K 6
+with time 3.0971813201904297
+Tau Batch number 176
+Mean K 6
+with time 3.095176935195923
+Tau Batch number 177
+Mean K 6
+with time 3.0582027435302734
+Tau Batch number 178
+Mean K 6
+with time 3.055445671081543
+Tau Batch number 179
+Mean K 6
+with time 3.0945003032684326
+Tau Batch number 180
+Mean K 6
+with time 3.0800421237945557
+Tau Batch number 181
+Mean K 6
+with time 3.102069139480591
+Tau Batch number 182
+Mean K 6
+with time 3.119842529296875
+Tau Batch number 183
+Mean K 6
+with time 3.0250163078308105
+Tau Batch number 184
+Mean K 6
+with time 3.028951406478882
+Tau Batch number 185
+Mean K 6
+with time 3.0765984058380127
+Tau Batch number 186
+Mean K 6
+with time 3.0584425926208496
+Tau Batch number 187
+Mean K 6
+with time 3.0501184463500977
+Tau Batch number 188
+Mean K 6
+with time 3.0616161823272705
+Tau Batch number 189
+Mean K 6
+with time 3.1015055179595947
+Tau Batch number 190
+Mean K 6
+with time 3.0442469120025635
+Tau Batch number 191
+Mean K 6
+with time 3.1239383220672607
+Tau Batch number 192
+Mean K 6
+with time 3.0973339080810547
+Tau Batch number 193
+Mean K 6
+with time 3.0984995365142822
+Tau Batch number 194
+Mean K 6
+with time 3.0624711513519287
+Tau Batch number 195
+Mean K 6
+with time 3.0469582080841064
+Tau Batch number 196
+Mean K 6
+with time 3.0569586753845215
+Tau Batch number 197
+Mean K 6
+with time 3.052009344100952
+Tau Batch number 198
+Mean K 6
+with time 3.1082727909088135
+Tau Batch number 199
+Mean K 6
+with time 3.065962314605713
+Tau Batch number 200
+Mean K 6
+with time 3.0469138622283936
+Tau Batch number 201
+Mean K 6
+with time 3.1499440670013428
+Tau Batch number 202
+Mean K 6
+with time 3.048123598098755
+Tau Batch number 203
+Mean K 6
+with time 3.0354163646698
+Tau Batch number 204
+Mean K 6
+with time 3.088021993637085
+Tau Batch number 205
+Mean K 6
+with time 3.0447959899902344
+Tau Batch number 206
+Mean K 6
+with time 3.074349880218506
+Tau Batch number 207
+Mean K 6
+with time 3.0587387084960938
+Tau Batch number 208
+Mean K 6
+with time 3.1451621055603027
+Tau Batch number 209
+Mean K 6
+with time 3.073728084564209
+Tau Batch number 210
+Mean K 6
+with time 3.084684371948242
+Tau Batch number 211
+Mean K 6
+with time 3.0379538536071777
+Tau Batch number 212
+Mean K 6
+with time 3.031808376312256
+Tau Batch number 213
+Mean K 6
+with time 3.043041706085205
+Tau Batch number 214
+Mean K 6
+with time 3.086048126220703
+Tau Batch number 215
+Mean K 6
+with time 3.0720255374908447
+Tau Batch number 216
+Mean K 6
+with time 3.0510635375976562
+Tau Batch number 217
+Mean K 6
+with time 3.0478389263153076
+Tau Batch number 218
+Mean K 6
+with time 3.09708309173584
+Tau Batch number 219
+Mean K 6
+with time 3.1332802772521973
+Tau Batch number 220
+Mean K 6
+with time 3.0872321128845215
+Tau Batch number 221
+Mean K 6
+with time 3.046780586242676
+Tau Batch number 222
+Mean K 6
+with time 3.036085367202759
+Tau Batch number 223
+Mean K 6
+with time 3.0393950939178467
+Tau Batch number 224
+Mean K 6
+with time 3.0775394439697266
+Tau Batch number 225
+Mean K 6
+with time 3.05298113822937
+Tau Batch number 226
+Mean K 6
+with time 3.0531365871429443
+Tau Batch number 227
+Mean K 6
+with time 3.1009249687194824
+Tau Batch number 228
+Mean K 6
+with time 3.200186014175415
+Tau Batch number 229
+Mean K 6
+with time 3.041011095046997
+Tau Batch number 230
+Mean K 6
+with time 3.0390617847442627
+Tau Batch number 231
+Mean K 6
+with time 3.1340675354003906
+Tau Batch number 232
+Mean K 6
+with time 3.04184889793396
+Tau Batch number 233
+Mean K 6
+with time 3.040205955505371
+Tau Batch number 234
+Mean K 6
+with time 3.021573543548584
+Tau Batch number 235
+Mean K 6
+with time 3.0913589000701904
+Tau Batch number 236
+Mean K 6
+with time 3.0409045219421387
+Tau Batch number 237
+Mean K 6
+with time 3.053436756134033
+Tau Batch number 238
+Mean K 6
+with time 3.020084857940674
+Tau Batch number 239
+Mean K 6
+with time 3.027475595474243
+Tau Batch number 240
+Mean K 6
+with time 3.0499680042266846
+Tau Batch number 241
+Mean K 6
+with time 3.0516769886016846
+Tau Batch number 242
+Mean K 6
+with time 3.0689499378204346
+Tau Batch number 243
+Mean K 6
+with time 3.128413677215576
+Tau Batch number 244
+Mean K 6
+with time 3.065823554992676
+Tau Batch number 245
+Mean K 6
+with time 3.072082281112671
+Tau Batch number 246
+Mean K 6
+with time 3.0469858646392822
+Tau Batch number 247
+Mean K 6
+with time 3.09956431388855
+Tau Batch number 248
+Mean K 6
+with time 3.0988290309906006
+Tau Batch number 249
+Mean K 6
+with time 3.053565502166748
+Tau Batch number 250
+Mean K 6
+with time 3.0532238483428955
+Tau Batch number 251
+Mean K 6
+with time 3.0260772705078125
+Tau Batch number 252
+Mean K 6
+with time 3.1179237365722656
+Tau Batch number 253
+Mean K 6
+with time 3.07572865486145
+Tau Batch number 254
+Mean K 6
+with time 3.0709309577941895
+Tau Batch number 255
+Mean K 6
+with time 3.069699287414551
+Tau Batch number 256
+Mean K 6
+with time 3.050879955291748
+Tau Batch number 257
+Mean K 6
+with time 3.0662147998809814
+Tau Batch number 258
+Mean K 6
+with time 3.0454397201538086
+Tau Batch number 259
+Mean K 6
+with time 3.0572690963745117
+Tau Batch number 260
+Mean K 6
+with time 3.0673065185546875
+Tau Batch number 261
+Mean K 6
+with time 3.094183921813965
+Tau Batch number 262
+Mean K 6
+with time 3.1117639541625977
+Tau Batch number 263
+Mean K 6
+with time 3.113986015319824
+Tau Batch number 264
+Mean K 6
+with time 3.0371179580688477
+Tau Batch number 265
+Mean K 6
+with time 3.1076009273529053
+Tau Batch number 266
+Mean K 6
+with time 3.016896963119507
+Tau Batch number 267
+Mean K 6
+with time 3.147134304046631
+Tau Batch number 268
+Mean K 6
+with time 3.0150420665740967
+Tau Batch number 269
+Mean K 6
+with time 3.037405490875244
+Tau Batch number 270
+Mean K 6
+with time 3.0583713054656982
+Tau Batch number 271
+Mean K 6
+with time 3.0471274852752686
+Tau Batch number 272
+Mean K 6
+with time 3.034874439239502
+Tau Batch number 273
+Mean K 6
+with time 3.080219030380249
+Tau Batch number 274
+Mean K 6
+with time 3.0404391288757324
+Tau Batch number 275
+Mean K 6
+with time 3.09910249710083
+Tau Batch number 276
+Mean K 6
+with time 3.1037135124206543
+Tau Batch number 277
+Mean K 6
+with time 3.0505669116973877
+Tau Batch number 278
+Mean K 6
+with time 3.1043848991394043
+Tau Batch number 279
+Mean K 6
+with time 3.0691347122192383
+Tau Batch number 280
+Mean K 6
+with time 3.049994468688965
+Tau Batch number 281
+Mean K 6
+with time 3.0386104583740234
+Tau Batch number 282
+Mean K 6
+with time 3.037899971008301
+Tau Batch number 283
+Mean K 6
+with time 3.049083948135376
+Tau Batch number 284
+Mean K 6
+with time 3.049791097640991
+Tau Batch number 285
+Mean K 6
+with time 3.087430238723755
+Tau Batch number 286
+Mean K 6
+with time 3.2330434322357178
+Tau Batch number 287
+Mean K 6
+with time 3.0167274475097656
+Tau Batch number 288
+Mean K 6
+with time 3.04785418510437
+Tau Batch number 289
+Mean K 6
+with time 3.0630667209625244
+Tau Batch number 290
+Mean K 6
+with time 3.072704315185547
+Tau Batch number 291
+Mean K 6
+with time 3.066263198852539
+Tau Batch number 292
+Mean K 6
+with time 3.068570375442505
+Tau Batch number 293
+Mean K 6
+with time 3.0219054222106934
+Tau Batch number 294
+Mean K 6
+with time 3.0150418281555176
+Tau Batch number 295
+Mean K 6
+with time 3.062474250793457
+Tau Batch number 296
+Mean K 6
+with time 3.065260410308838
+Tau Batch number 297
+Mean K 6
+with time 3.005420207977295
+Tau Batch number 298
+Mean K 6
+with time 3.0325136184692383
+Tau Batch number 299
+Mean K 6
+with time 3.0181987285614014
+Tau Batch number 300
+Mean K 6
+with time 3.0240399837493896
+Tau Batch number 301
+Mean K 6
+with time 3.0417990684509277
+Tau Batch number 302
+Mean K 6
+with time 3.034989833831787
+Tau Batch number 303
+Mean K 6
+with time 3.0775089263916016
+Tau Batch number 304
+Mean K 6
+with time 3.07169246673584
+Tau Batch number 305
+Mean K 6
+with time 3.0206258296966553
+Tau Batch number 306
+Mean K 6
+with time 3.053327798843384
+Tau Batch number 307
+Mean K 6
+with time 3.0472075939178467
+Tau Batch number 308
+Mean K 6
+with time 3.1746227741241455
+Tau Batch number 309
+Mean K 6
+with time 3.0809953212738037
+Tau Batch number 310
+Mean K 6
+with time 3.0294947624206543
+Tau Batch number 311
+Mean K 6
+with time 3.01910400390625
+Tau Batch number 312
+Mean K 6
+with time 3.018601179122925
+Tau Batch number 313
+Mean K 6
+with time 3.005995273590088
+Tau Batch number 314
+Mean K 6
+with time 3.0991921424865723
+Tau Batch number 315
+Mean K 6
+with time 3.11655330657959
+Tau Batch number 316
+Mean K 6
+with time 3.033972978591919
+Tau Batch number 317
+Mean K 6
+with time 3.0490572452545166
+Tau Batch number 318
+Mean K 6
+with time 3.0290122032165527
+Tau Batch number 319
+Mean K 6
+with time 3.0420665740966797
+Tau Batch number 320
+Mean K 6
+with time 3.047731876373291
+Tau Batch number 321
+Mean K 6
+with time 3.0492329597473145
+Tau Batch number 322
+Mean K 6
+with time 3.0619962215423584
+Tau Batch number 323
+Mean K 6
+with time 3.051330804824829
+Tau Batch number 324
+Mean K 6
+with time 3.0886762142181396
+Tau Batch number 325
+Mean K 6
+with time 3.083263397216797
+Tau Batch number 326
+Mean K 6
+with time 3.009857654571533
+Tau Batch number 327
+Mean K 6
+with time 3.038804054260254
+Tau Batch number 328
+Mean K 6
+with time 3.027642011642456
+Tau Batch number 329
+Mean K 6
+with time 3.0455939769744873
+Tau Batch number 330
+Mean K 6
+with time 3.105253219604492
+Tau Batch number 331
+Mean K 6
+with time 3.015566110610962
+Tau Batch number 332
+Mean K 6
+with time 3.0639922618865967
+Tau Batch number 333
+Mean K 6
+with time 3.0178866386413574
+Tau Batch number 334
+Mean K 6
+with time 2.981776714324951
+Tau Batch number 335
+Mean K 6
+with time 3.066462278366089
+Tau Batch number 336
+Mean K 6
+with time 3.0803158283233643
+Tau Batch number 337
+Mean K 6
+with time 3.0585129261016846
+Tau Batch number 338
+Mean K 6
+with time 3.0418388843536377
+Tau Batch number 339
+Mean K 6
+with time 3.0399281978607178
+Tau Batch number 340
+Mean K 6
+with time 3.0088772773742676
+Tau Batch number 341
+Mean K 6
+with time 3.0422911643981934
+Tau Batch number 342
+Mean K 6
+with time 3.067492723464966
+Tau Batch number 343
+Mean K 6
+with time 3.050154685974121
+Tau Batch number 344
+Mean K 6
+with time 3.0092406272888184
+Tau Batch number 345
+Mean K 6
+with time 3.053586006164551
+Tau Batch number 346
+Mean K 6
+with time 2.9996414184570312
+Tau Batch number 347
+Mean K 6
+with time 3.02665114402771
+Tau Batch number 348
+Mean K 6
+with time 3.02959942817688
+Tau Batch number 349
+Mean K 6
+with time 3.028308868408203
+Tau Batch number 350
+Mean K 6
+with time 3.031925678253174
+Tau Batch number 351
+Mean K 6
+with time 3.045607089996338
+Tau Batch number 352
+Mean K 6
+with time 3.0254392623901367
+Tau Batch number 353
+Mean K 6
+with time 3.024099826812744
+Tau Batch number 354
+Mean K 6
+with time 3.119487762451172
+Tau Batch number 355
+Mean K 6
+with time 3.0499188899993896
+Tau Batch number 356
+Mean K 6
+with time 3.0855729579925537
+Tau Batch number 357
+Mean K 6
+with time 3.0660736560821533
+Tau Batch number 358
+Mean K 6
+with time 3.1117970943450928
+Tau Batch number 359
+Mean K 6
+with time 3.0305473804473877
+Tau Batch number 360
+Mean K 6
+with time 3.0774242877960205
+Tau Batch number 361
+Mean K 6
+with time 3.129213333129883
+Tau Batch number 362
+Mean K 6
+with time 3.0523526668548584
+Tau Batch number 363
+Mean K 6
+with time 3.0248026847839355
+Tau Batch number 364
+Mean K 6
+with time 3.033897638320923
+Tau Batch number 365
+Mean K 6
+with time 3.0637435913085938
+Tau Batch number 366
+Mean K 6
+with time 3.034115791320801
+Tau Batch number 367
+Mean K 6
+with time 3.0370943546295166
+Tau Batch number 368
+Mean K 6
+with time 3.0504143238067627
+Tau Batch number 369
+Mean K 6
+with time 3.0055227279663086
+Tau Batch number 370
+Mean K 6
+with time 3.0098109245300293
+Tau Batch number 371
+Mean K 6
+with time 3.076356887817383
+Tau Batch number 372
+Mean K 6
+with time 3.0547068119049072
+Tau Batch number 373
+Mean K 6
+with time 3.020829916000366
+Tau Batch number 374
+Mean K 6
+with time 3.02687668800354
+Tau Batch number 375
+Mean K 6
+with time 3.011016368865967
+Tau Batch number 376
+Mean K 6
+with time 3.0728673934936523
+Tau Batch number 377
+Mean K 6
+with time 3.0913875102996826
+Tau Batch number 378
+Mean K 6
+with time 3.074899673461914
+Tau Batch number 379
+Mean K 6
+with time 3.0508551597595215
+Tau Batch number 380
+Mean K 6
+with time 3.076355457305908
+Tau Batch number 381
+Mean K 6
+with time 3.0276029109954834
+Tau Batch number 382
+Mean K 6
+with time 3.0257387161254883
+Tau Batch number 383
+Mean K 6
+with time 3.0165672302246094
+Tau Batch number 384
+Mean K 6
+with time 3.0279157161712646
+Tau Batch number 385
+Mean K 6
+with time 3.0734164714813232
+Tau Batch number 386
+Mean K 6
+with time 3.026749610900879
+Tau Batch number 387
+Mean K 6
+with time 3.0475497245788574
+Tau Batch number 388
+Mean K 6
+with time 3.0312700271606445
+Tau Batch number 389
+Mean K 6
+with time 3.0344510078430176
+Tau Batch number 390
+Mean K 6
+with time 3.0783514976501465
+Tau Batch number 391
+Mean K 6
+with time 3.0638091564178467
+Tau Batch number 392
+Mean K 6
+with time 3.041259527206421
+Tau Batch number 393
+Mean K 6
+with time 3.0509493350982666
+Tau Batch number 394
+Mean K 6
+with time 3.0848844051361084
+Tau Batch number 395
+Mean K 6
+with time 3.0422446727752686
+Tau Batch number 396
+Mean K 6
+with time 3.0616183280944824
+Tau Batch number 397
+Mean K 6
+with time 3.034367799758911
+Tau Batch number 398
+Mean K 6
+with time 3.1046364307403564
+Tau Batch number 399
+Mean K 6
+with time 3.0620665550231934
+Tau Batch number 400
+Mean K 6
+with time 3.002943754196167
+Tau Batch number 401
+Mean K 6
+with time 3.075650215148926
+Tau Batch number 402
+Mean K 6
+with time 3.063917636871338
+Tau Batch number 403
+Mean K 6
+with time 3.0504229068756104
+Tau Batch number 404
+Mean K 6
+with time 3.0906729698181152
+Tau Batch number 405
+Mean K 6
+with time 3.0505356788635254
+Tau Batch number 406
+Mean K 6
+with time 3.1219170093536377
+Tau Batch number 407
+Mean K 6
+with time 3.0595898628234863
+Tau Batch number 408
+Mean K 6
+with time 3.060192823410034
+Tau Batch number 409
+Mean K 6
+with time 3.104114532470703
+Tau Batch number 410
+Mean K 6
+with time 3.013115406036377
+Tau Batch number 411
+Mean K 6
+with time 3.114253282546997
+Tau Batch number 412
+Mean K 6
+with time 3.068072557449341
+Tau Batch number 413
+Mean K 6
+with time 3.1007955074310303
+Tau Batch number 414
+Mean K 6
+with time 3.0378494262695312
+Tau Batch number 415
+Mean K 6
+with time 3.0438072681427
+Tau Batch number 416
+Mean K 6
+with time 3.0045247077941895
+Tau Batch number 417
+Mean K 6
+with time 3.0229146480560303
+Tau Batch number 418
+Mean K 6
+with time 3.0412704944610596
+Tau Batch number 419
+Mean K 6
+with time 3.0148065090179443
+Tau Batch number 420
+Mean K 6
+with time 3.0292434692382812
+Tau Batch number 421
+Mean K 6
+with time 3.0487635135650635
+Tau Batch number 422
+Mean K 6
+with time 3.0645534992218018
+Tau Batch number 423
+Mean K 6
+with time 3.051170587539673
+Tau Batch number 424
+Mean K 6
+with time 3.073376178741455
+Tau Batch number 425
+Mean K 6
+with time 3.0170083045959473
+Tau Batch number 426
+Mean K 6
+with time 3.048996686935425
+Tau Batch number 427
+Mean K 6
+with time 3.1029086112976074
+Tau Batch number 428
+Mean K 6
+with time 3.0195627212524414
+Tau Batch number 429
+Mean K 6
+with time 3.002642869949341
+Tau Batch number 430
+Mean K 6
+with time 3.0354535579681396
+Tau Batch number 431
+Mean K 6
+with time 3.049129009246826
+Tau Batch number 432
+Mean K 6
+with time 3.1348047256469727
+Tau Batch number 433
+Mean K 6
+with time 3.122194528579712
+Tau Batch number 434
+Mean K 6
+with time 3.064580202102661
+Tau Batch number 435
+Mean K 6
+with time 3.077347755432129
+Tau Batch number 436
+Mean K 6
+with time 3.0135560035705566
+Tau Batch number 437
+Mean K 6
+with time 3.0658202171325684
+Tau Batch number 438
+Mean K 6
+with time 3.087622880935669
+Tau Batch number 439
+Mean K 6
+with time 3.1150128841400146
+Tau Batch number 440
+Mean K 6
+with time 3.063265085220337
+Tau Batch number 441
+Mean K 6
+with time 3.115149974822998
+Tau Batch number 442
+Mean K 6
+with time 3.043536424636841
+Tau Batch number 443
+Mean K 6
+with time 3.077697277069092
+Tau Batch number 444
+Mean K 6
+with time 3.0474960803985596
+Tau Batch number 445
+Mean K 6
+with time 3.0341827869415283
+Tau Batch number 446
+Mean K 6
+with time 3.0361077785491943
+Tau Batch number 447
+Mean K 6
+with time 3.0393688678741455
+Tau Batch number 448
+Mean K 6
+with time 3.036284923553467
+Tau Batch number 449
+Mean K 6
+with time 3.0333261489868164
+Tau Batch number 450
+Mean K 6
+with time 3.014256238937378
+Tau Batch number 451
+Mean K 6
+with time 3.0604114532470703
+Tau Batch number 452
+Mean K 6
+with time 3.0426909923553467
+Tau Batch number 453
+Mean K 6
+with time 3.0193142890930176
+Tau Batch number 454
+Mean K 6
+with time 3.0601272583007812
+Tau Batch number 455
+Mean K 6
+with time 3.0559582710266113
+Tau Batch number 456
+Mean K 6
+with time 3.016981840133667
+Tau Batch number 457
+Mean K 6
+with time 3.0782012939453125
+Tau Batch number 458
+Mean K 6
+with time 3.0145747661590576
+Tau Batch number 459
+Mean K 6
+with time 3.0110838413238525
+Tau Batch number 460
+Mean K 6
+with time 3.0644679069519043
+Tau Batch number 461
+Mean K 6
+with time 3.064682722091675
+Tau Batch number 462
+Mean K 6
+with time 2.998889207839966
+Tau Batch number 463
+Mean K 6
+with time 3.1280925273895264
+Tau Batch number 464
+Mean K 6
+with time 3.0308218002319336
+Tau Batch number 465
+Mean K 6
+with time 3.050819158554077
+Tau Batch number 466
+Mean K 6
+with time 3.1165127754211426
+Tau Batch number 467
+Mean K 6
+with time 3.0537269115448
+Tau Batch number 468
+Mean K 6
+with time 3.0014777183532715
+Tau Batch number 469
+Mean K 6
+with time 3.028878927230835
+Tau Batch number 470
+Mean K 6
+with time 3.0489320755004883
+Tau Batch number 471
+Mean K 6
+with time 3.0797958374023438
+Tau Batch number 472
+Mean K 6
+with time 3.0550661087036133
+Tau Batch number 473
+Mean K 6
+with time 3.0791187286376953
+Tau Batch number 474
+Mean K 6
+with time 3.0369930267333984
+Tau Batch number 475
+Mean K 6
+with time 3.0771920680999756
+Tau Batch number 476
+Mean K 6
+with time 3.0543859004974365
+Tau Batch number 477
+Mean K 6
+with time 3.0381429195404053
+Tau Batch number 478
+Mean K 6
+with time 3.0365045070648193
+Tau Batch number 479
+Mean K 6
+with time 3.1101608276367188
+Tau Batch number 480
+Mean K 6
+with time 3.121016502380371
+Tau Batch number 481
+Mean K 6
+with time 3.099886655807495
+Tau Batch number 482
+Mean K 6
+with time 3.055142402648926
+Tau Batch number 483
+Mean K 6
+with time 3.057201862335205
+Tau Batch number 484
+Mean K 6
+with time 3.11004638671875
+Tau Batch number 485
+Mean K 6
+with time 3.031147003173828
+Tau Batch number 486
+Mean K 6
+with time 3.0008325576782227
+Tau Batch number 487
+Mean K 6
+with time 3.0659234523773193
+Tau Batch number 488
+Mean K 6
+with time 3.064377784729004
+Tau Batch number 489
+Mean K 6
+with time 3.0647566318511963
+Tau Batch number 490
+Mean K 6
+with time 3.0668303966522217
+Tau Batch number 491
+Mean K 6
+with time 3.0640640258789062
+Tau Batch number 492
+Mean K 6
+with time 3.047517776489258
+Tau Batch number 493
+Mean K 6
+with time 3.058194637298584
+Tau Batch number 494
+Mean K 6
+with time 3.1057543754577637
+Tau Batch number 495
+Mean K 6
+with time 3.0470077991485596
+Tau Batch number 496
+Mean K 6
+with time 3.0526530742645264
+Tau Batch number 497
+Mean K 6
+with time 3.039646625518799
+Tau Batch number 498
+Mean K 6
+with time 3.0275228023529053
+Tau Batch number 499
+Mean K 6
+with time 3.0213677883148193
+Tau Batch number 500
+Mean K 6
+with time 3.0478804111480713
+Tau Batch number 501
+Mean K 6
+with time 3.0072247982025146
+Tau Batch number 502
+Mean K 6
+with time 3.0600545406341553
+Tau Batch number 503
+Mean K 6
+with time 3.0340969562530518
+Tau Batch number 504
+Mean K 6
+with time 3.1017870903015137
+Tau Batch number 505
+Mean K 6
+with time 3.0334010124206543
+Tau Batch number 506
+Mean K 6
+with time 3.039316415786743
+Tau Batch number 507
+Mean K 6
+with time 3.025972366333008
+Tau Batch number 508
+Mean K 6
+with time 3.0448575019836426
+Tau Batch number 509
+Mean K 6
+with time 3.0444986820220947
+Tau Batch number 510
+Mean K 6
+with time 3.0164074897766113
+Tau Batch number 511
+Mean K 6
+with time 2.9951117038726807
+Tau Batch number 512
+Mean K 6
+with time 3.036623239517212
+Tau Batch number 513
+Mean K 6
+with time 3.0576272010803223
+Tau Batch number 514
+Mean K 6
+with time 3.0456650257110596
+Tau Batch number 515
+Mean K 6
+with time 3.04228138923645
+Tau Batch number 516
+Mean K 6
+with time 3.106647253036499
+Tau Batch number 517
+Mean K 6
+with time 3.048962354660034
+Tau Batch number 518
+Mean K 6
+with time 3.0309340953826904
+Tau Batch number 519
+Mean K 6
+with time 3.012749671936035
+Tau Batch number 520
+Mean K 6
+with time 3.061478614807129
+Tau Batch number 521
+Mean K 6
+with time 3.051132917404175
+Tau Batch number 522
+Mean K 6
+with time 3.101267099380493
+Tau Batch number 523
+Mean K 6
+with time 3.0220255851745605
+Tau Batch number 524
+Mean K 6
+with time 3.0209813117980957
+Tau Batch number 525
+Mean K 6
+with time 3.1502249240875244
+Tau Batch number 526
+Mean K 6
+with time 3.0035316944122314
+Tau Batch number 527
+Mean K 6
+with time 3.035907745361328
+Tau Batch number 528
+Mean K 6
+with time 3.1113595962524414
+Tau Batch number 529
+Mean K 6
+with time 3.115318536758423
+Tau Batch number 530
+Mean K 6
+with time 3.0619049072265625
+Tau Batch number 531
+Mean K 6
+with time 3.072525978088379
+Tau Batch number 532
+Mean K 6
+with time 3.0500502586364746
+Tau Batch number 533
+Mean K 6
+with time 3.0040674209594727
+Tau Batch number 534
+Mean K 6
+with time 3.0202109813690186
+Tau Batch number 535
+Mean K 6
+with time 3.051859140396118
+Tau Batch number 536
+Mean K 6
+with time 3.0094079971313477
+Tau Batch number 537
+Mean K 6
+with time 3.0647671222686768
+Tau Batch number 538
+Mean K 6
+with time 3.083695888519287
+Tau Batch number 539
+Mean K 6
+with time 3.0249032974243164
+Tau Batch number 540
+Mean K 6
+with time 3.002747058868408
+Tau Batch number 541
+Mean K 6
+with time 3.076848268508911
+Tau Batch number 542
+Mean K 6
+with time 3.0073282718658447
+Tau Batch number 543
+Mean K 6
+with time 3.09475040435791
+Tau Batch number 544
+Mean K 6
+with time 3.125715732574463
+Tau Batch number 545
+Mean K 6
+with time 3.0646793842315674
+Tau Batch number 546
+Mean K 6
+with time 3.0129120349884033
+Tau Batch number 547
+Mean K 6
+with time 3.021285057067871
+Tau Batch number 548
+Mean K 6
+with time 3.0623810291290283
+Tau Batch number 549
+Mean K 6
+with time 3.0412700176239014
+Tau Batch number 550
+Mean K 6
+with time 3.0135035514831543
+Tau Batch number 551
+Mean K 6
+with time 3.0138795375823975
+Tau Batch number 552
+Mean K 6
+with time 3.0511069297790527
+Tau Batch number 553
+Mean K 6
+with time 3.056432008743286
+Tau Batch number 554
+Mean K 6
+with time 3.033745765686035
+Tau Batch number 555
+Mean K 6
+with time 3.0275847911834717
+Tau Batch number 556
+Mean K 6
+with time 3.085946559906006
+Tau Batch number 557
+Mean K 6
+with time 3.043665885925293
+Tau Batch number 558
+Mean K 6
+with time 3.059497117996216
+Tau Batch number 559
+Mean K 6
+with time 3.0660505294799805
+Tau Batch number 560
+Mean K 6
+with time 3.043844223022461
+Tau Batch number 561
+Mean K 6
+with time 3.104231595993042
+Tau Batch number 562
+Mean K 6
+with time 3.0404818058013916
+Tau Batch number 563
+Mean K 6
+with time 3.037034749984741
+Tau Batch number 564
+Mean K 6
+with time 2.9966158866882324
+Tau Batch number 565
+Mean K 6
+with time 3.0452637672424316
+Tau Batch number 566
+Mean K 6
+with time 3.042922258377075
+Tau Batch number 567
+Mean K 6
+with time 3.0865931510925293
+Tau Batch number 568
+Mean K 6
+with time 3.040696382522583
+Tau Batch number 569
+Mean K 6
+with time 3.1086978912353516
+Tau Batch number 570
+Mean K 6
+with time 3.0551841259002686
+Tau Batch number 571
+Mean K 6
+with time 3.13824200630188
+Tau Batch number 572
+Mean K 6
+with time 3.045297622680664
+Tau Batch number 573
+Mean K 6
+with time 3.0629193782806396
+Tau Batch number 574
+Mean K 6
+with time 3.034407377243042
+Tau Batch number 575
+Mean K 6
+with time 3.085860013961792
+Tau Batch number 576
+Mean K 6
+with time 3.0149528980255127
+Tau Batch number 577
+Mean K 6
+with time 3.085016965866089
+Tau Batch number 578
+Mean K 6
+with time 3.1790995597839355
+Tau Batch number 579
+Mean K 6
+with time 3.019230365753174
+Tau Batch number 580
+Mean K 6
+with time 3.1096386909484863
+Tau Batch number 581
+Mean K 6
+with time 3.04793381690979
+Tau Batch number 582
+Mean K 6
+with time 3.114143133163452
+Tau Batch number 583
+Mean K 6
+with time 3.0537941455841064
+Tau Batch number 584
+Mean K 6
+with time 3.029035806655884
+Tau Batch number 585
+Mean K 6
+with time 3.011094808578491
+Tau Batch number 586
+Mean K 6
+with time 3.0190563201904297
+Tau Batch number 587
+Mean K 6
+with time 3.0084216594696045
+Tau Batch number 588
+Mean K 6
+with time 3.0377144813537598
+Tau Batch number 589
+Mean K 6
+with time 3.040039300918579
+Tau Batch number 590
+Mean K 6
+with time 3.0434110164642334
+Tau Batch number 591
+Mean K 6
+with time 3.0453357696533203
+Tau Batch number 592
+Mean K 6
+with time 3.103440523147583
+Tau Batch number 593
+Mean K 6
+with time 3.0665900707244873
+Tau Batch number 594
+Mean K 6
+with time 3.1165177822113037
+Tau Batch number 595
+Mean K 6
+with time 3.0708580017089844
+Tau Batch number 596
+Mean K 6
+with time 3.013227701187134
+Tau Batch number 597
+Mean K 6
+with time 3.0146379470825195
+Tau Batch number 598
+Mean K 6
+with time 3.0045955181121826
+Tau Batch number 599
+Mean K 6
+with time 3.051877498626709
+Tau Batch number 600
+Mean K 6
+with time 3.0788047313690186
+Tau Batch number 601
+Mean K 6
+with time 3.0096709728240967
+Tau Batch number 602
+Mean K 6
+with time 3.061689615249634
+Tau Batch number 603
+Mean K 6
+with time 3.0499818325042725
+Tau Batch number 604
+Mean K 6
+with time 3.0433692932128906
+Tau Batch number 605
+Mean K 6
+with time 3.0296270847320557
+Tau Batch number 606
+Mean K 6
+with time 3.115334987640381
+Tau Batch number 607
+Mean K 6
+with time 3.0695066452026367
+Tau Batch number 608
+Mean K 6
+with time 3.0300862789154053
+Tau Batch number 609
+Mean K 6
+with time 3.0480594635009766
+Tau Batch number 610
+Mean K 6
+with time 3.0155434608459473
+Tau Batch number 611
+Mean K 6
+with time 3.0639193058013916
+Tau Batch number 612
+Mean K 6
+with time 3.012521982192993
+Tau Batch number 613
+Mean K 6
+with time 3.0456583499908447
+Tau Batch number 614
+Mean K 6
+with time 3.0783281326293945
+Tau Batch number 615
+Mean K 6
+with time 3.032264471054077
+Tau Batch number 616
+Mean K 6
+with time 3.067477226257324
+Tau Batch number 617
+Mean K 6
+with time 3.1414449214935303
+Tau Batch number 618
+Mean K 6
+with time 3.056016683578491
+Tau Batch number 619
+Mean K 6
+with time 3.052394151687622
+Tau Batch number 620
+Mean K 6
+with time 3.03633713722229
+Tau Batch number 621
+Mean K 6
+with time 3.0758984088897705
+Tau Batch number 622
+Mean K 6
+with time 3.0189642906188965
+Tau Batch number 623
+Mean K 6
+with time 3.084317684173584
+Tau Batch number 624
+Mean K 6
+with time 3.0531065464019775
+Tau Batch number 625
+Mean K 6
+with time 3.0839953422546387
+Tau Batch number 626
+Mean K 6
+with time 3.061140775680542
+Tau Batch number 627
+Mean K 6
+with time 3.038238525390625
+Tau Batch number 628
+Mean K 6
+with time 3.038450241088867
+Tau Batch number 629
+Mean K 6
+with time 3.04557466506958
+Tau Batch number 630
+Mean K 6
+with time 3.055561065673828
+Tau Batch number 631
+Mean K 6
+with time 3.0270931720733643
+Tau Batch number 632
+Mean K 6
+with time 3.014474868774414
+Tau Batch number 633
+Mean K 6
+with time 3.0124547481536865
+Tau Batch number 634
+Mean K 6
+with time 3.0621185302734375
+Tau Batch number 635
+Mean K 6
+with time 3.036038637161255
+Tau Batch number 636
+Mean K 6
+with time 3.0197157859802246
+Tau Batch number 637
+Mean K 6
+with time 3.087954521179199
+Tau Batch number 638
+Mean K 6
+with time 3.111619710922241
+Tau Batch number 639
+Mean K 6
+with time 3.103938341140747
+Tau Batch number 640
+Mean K 6
+with time 3.0436739921569824
+Tau Batch number 641
+Mean K 6
+with time 3.086210250854492
+Tau Batch number 642
+Mean K 6
+with time 3.0384232997894287
+Tau Batch number 643
+Mean K 6
+with time 3.0529441833496094
+Tau Batch number 644
+Mean K 6
+with time 3.010291337966919
+Tau Batch number 645
+Mean K 6
+with time 3.0288968086242676
+Tau Batch number 646
+Mean K 6
+with time 3.038583755493164
+Tau Batch number 647
+Mean K 6
+with time 3.0535261631011963
+Tau Batch number 648
+Mean K 6
+with time 3.052210807800293
+Tau Batch number 649
+Mean K 6
+with time 3.056854724884033
+Tau Batch number 650
+Mean K 6
+with time 3.023841381072998
+Tau Batch number 651
+Mean K 6
+with time 3.047079563140869
+Tau Batch number 652
+Mean K 6
+with time 3.062650203704834
+Tau Batch number 653
+Mean K 6
+with time 3.1150381565093994
+Tau Batch number 654
+Mean K 6
+with time 3.057178258895874
+Tau Batch number 655
+Mean K 6
+with time 3.059542655944824
+Tau Batch number 656
+Mean K 6
+with time 2.9910688400268555
+Tau Batch number 657
+Mean K 6
+with time 3.0196807384490967
+Tau Batch number 658
+Mean K 6
+with time 3.1049110889434814
+Tau Batch number 659
+Mean K 6
+with time 3.014133930206299
+Tau Batch number 660
+Mean K 6
+with time 3.0681653022766113
+Tau Batch number 661
+Mean K 6
+with time 3.0307798385620117
+Tau Batch number 662
+Mean K 6
+with time 3.1025543212890625
+Tau Batch number 663
+Mean K 6
+with time 3.081068277359009
+Tau Batch number 664
+Mean K 6
+with time 3.0781850814819336
+Tau Batch number 665
+Mean K 6
+with time 3.055413007736206
+Tau Batch number 666
+Mean K 6
+with time 3.0961363315582275
+Tau Batch number 667
+Mean K 6
+with time 3.057798385620117
+Tau Batch number 668
+Mean K 6
+with time 3.040195941925049
+Tau Batch number 669
+Mean K 6
+with time 3.0528268814086914
+Tau Batch number 670
+Mean K 6
+with time 3.0264642238616943
+Tau Batch number 671
+Mean K 6
+with time 3.1210100650787354
+Tau Batch number 672
+Mean K 6
+with time 3.0708069801330566
+Tau Batch number 673
+Mean K 6
+with time 3.01875638961792
+Tau Batch number 674
+Mean K 6
+with time 3.0587265491485596
+Tau Batch number 675
+Mean K 6
+with time 3.0891246795654297
+Tau Batch number 676
+Mean K 6
+with time 3.0219688415527344
+Tau Batch number 677
+Mean K 6
+with time 3.04255747795105
+Tau Batch number 678
+Mean K 6
+with time 3.0700461864471436
+Tau Batch number 679
+Mean K 6
+with time 3.022026300430298
+Tau Batch number 680
+Mean K 6
+with time 3.0730278491973877
+Tau Batch number 681
+Mean K 6
+with time 3.0522994995117188
+Tau Batch number 682
+Mean K 6
+with time 3.012484073638916
+Tau Batch number 683
+Mean K 6
+with time 3.039618968963623
+Tau Batch number 684
+Mean K 6
+with time 3.024883985519409
+Tau Batch number 685
+Mean K 6
+with time 3.0799803733825684
+Tau Batch number 686
+Mean K 6
+with time 3.0360212326049805
+Tau Batch number 687
+Mean K 6
+with time 3.0103886127471924
+Tau Batch number 688
+Mean K 6
+with time 3.0734927654266357
+Tau Batch number 689
+Mean K 6
+with time 3.029451608657837
+Tau Batch number 690
+Mean K 6
+with time 3.0397112369537354
+Tau Batch number 691
+Mean K 6
+with time 3.0668439865112305
+Tau Batch number 692
+Mean K 6
+with time 3.047020673751831
+Tau Batch number 693
+Mean K 6
+with time 3.001676321029663
+Tau Batch number 694
+Mean K 6
+with time 3.043382406234741
+Tau Batch number 695
+Mean K 6
+with time 3.0418295860290527
+Tau Batch number 696
+Mean K 6
+with time 3.037527322769165
+Tau Batch number 697
+Mean K 6
+with time 3.0207293033599854
+Tau Batch number 698
+Mean K 6
+with time 3.055675506591797
+Tau Batch number 699
+Mean K 6
+with time 3.0795092582702637
+Tau Batch number 700
+Mean K 6
+with time 3.103334665298462
+Tau Batch number 701
+Mean K 6
+with time 3.0802550315856934
+Tau Batch number 702
+Mean K 6
+with time 3.065378189086914
+Tau Batch number 703
+Mean K 6
+with time 3.073221206665039
+Tau Batch number 704
+Mean K 6
+with time 3.05336594581604
+Tau Batch number 705
+Mean K 6
+with time 3.0453715324401855
+Tau Batch number 706
+Mean K 6
+with time 3.1207849979400635
+Tau Batch number 707
+Mean K 6
+with time 3.0419273376464844
+Tau Batch number 708
+Mean K 6
+with time 3.0495223999023438
+Tau Batch number 709
+Mean K 6
+with time 3.0474159717559814
+Tau Batch number 710
+Mean K 6
+with time 3.0597691535949707
+Tau Batch number 711
+Mean K 6
+with time 3.0544240474700928
+Tau Batch number 712
+Mean K 6
+with time 3.072911500930786
+Tau Batch number 713
+Mean K 6
+with time 3.0418457984924316
+Tau Batch number 714
+Mean K 6
+with time 3.060208559036255
+Tau Batch number 715
+Mean K 6
+with time 3.0483617782592773
+Tau Batch number 716
+Mean K 6
+with time 3.098173141479492
+Tau Batch number 717
+Mean K 6
+with time 3.033278226852417
+Tau Batch number 718
+Mean K 6
+with time 3.0523273944854736
+Tau Batch number 719
+Mean K 6
+with time 3.0349533557891846
+Tau Batch number 720
+Mean K 6
+with time 3.06128191947937
+Tau Batch number 721
+Mean K 6
+with time 3.0802783966064453
+Tau Batch number 722
+Mean K 6
+with time 3.0961945056915283
+Tau Batch number 723
+Mean K 6
+with time 3.090543031692505
+Tau Batch number 724
+Mean K 6
+with time 3.2091736793518066
+Tau Batch number 725
+Mean K 6
+with time 3.1037139892578125
+Tau Batch number 726
+Mean K 6
+with time 3.067303419113159
+Tau Batch number 727
+Mean K 6
+with time 3.0255162715911865
+Tau Batch number 728
+Mean K 6
+with time 3.0348968505859375
+Tau Batch number 729
+Mean K 6
+with time 3.1077826023101807
+Tau Batch number 730
+Mean K 6
+with time 3.023193120956421
+Tau Batch number 731
+Mean K 6
+with time 3.0455472469329834
+Tau Batch number 732
+Mean K 6
+with time 3.0115509033203125
+Tau Batch number 733
+Mean K 6
+with time 3.01387882232666
+Tau Batch number 734
+Mean K 6
+with time 3.009140968322754
+Tau Batch number 735
+Mean K 6
+with time 3.007037878036499
+Tau Batch number 736
+Mean K 6
+with time 3.0462892055511475
+Tau Batch number 737
+Mean K 6
+with time 3.0626237392425537
+Tau Batch number 738
+Mean K 6
+with time 3.0247161388397217
+Tau Batch number 739
+Mean K 6
+with time 3.007784843444824
+Tau Batch number 740
+Mean K 6
+with time 3.138578176498413
+Tau Batch number 741
+Mean K 6
+with time 3.00264835357666
+Tau Batch number 742
+Mean K 6
+with time 3.0480575561523438
+Tau Batch number 743
+Mean K 6
+with time 3.0414648056030273
+Tau Batch number 744
+Mean K 6
+with time 3.0195164680480957
+Tau Batch number 745
+Mean K 6
+with time 3.052511692047119
+Tau Batch number 746
+Mean K 6
+with time 3.028866767883301
+Tau Batch number 747
+Mean K 6
+with time 3.0117740631103516
+Tau Batch number 748
+Mean K 6
+with time 3.0094308853149414
+Tau Batch number 749
+Mean K 6
+with time 3.0595781803131104
+Tau Batch number 750
+Mean K 6
+with time 3.052772045135498
+Tau Batch number 751
+Mean K 6
+with time 3.05739688873291
+Tau Batch number 752
+Mean K 6
+with time 3.0087087154388428
+Tau Batch number 753
+Mean K 6
+with time 3.065504550933838
+Tau Batch number 754
+Mean K 6
+with time 3.0330824851989746
+Tau Batch number 755
+Mean K 6
+with time 3.050083875656128
+Tau Batch number 756
+Mean K 6
+with time 3.0342965126037598
+Tau Batch number 757
+Mean K 6
+with time 3.08343768119812
+Tau Batch number 758
+Mean K 6
+with time 3.0072035789489746
+Tau Batch number 759
+Mean K 6
+with time 3.049928903579712
+Tau Batch number 760
+Mean K 6
+with time 2.98761248588562
+Tau Batch number 761
+Mean K 6
+with time 3.01330828666687
+Tau Batch number 762
+Mean K 6
+with time 3.070006847381592
+Tau Batch number 763
+Mean K 6
+with time 3.0516183376312256
+Tau Batch number 764
+Mean K 6
+with time 2.995507001876831
+Tau Batch number 765
+Mean K 6
+with time 3.009699821472168
+Tau Batch number 766
+Mean K 6
+with time 3.042384624481201
+Tau Batch number 767
+Mean K 6
+with time 3.011477470397949
+Tau Batch number 768
+Mean K 6
+with time 3.0367205142974854
+Tau Batch number 769
+Mean K 6
+with time 2.9884543418884277
+Tau Batch number 770
+Mean K 6
+with time 3.074836015701294
+Tau Batch number 771
+Mean K 6
+with time 3.006049156188965
+Tau Batch number 772
+Mean K 6
+with time 3.044072151184082
+Tau Batch number 773
+Mean K 6
+with time 3.04142689704895
+Tau Batch number 774
+Mean K 6
+with time 3.0270090103149414
+Tau Batch number 775
+Mean K 6
+with time 3.0398213863372803
+Tau Batch number 776
+Mean K 6
+with time 3.0866951942443848
+Tau Batch number 777
+Mean K 6
+with time 3.0056111812591553
+Tau Batch number 778
+Mean K 6
+with time 3.0083038806915283
+Tau Batch number 779
+Mean K 6
+with time 2.9921422004699707
+Tau Batch number 780
+Mean K 6
+with time 3.077035903930664
+Tau Batch number 781
+Mean K 6
+with time 3.0522053241729736
+Tau Batch number 782
+Mean K 6
+with time 3.045701503753662
+Tau Batch number 783
+Mean K 6
+with time 3.037055015563965
+Tau Batch number 784
+Mean K 6
+with time 3.0683822631835938
+Tau Batch number 785
+Mean K 6
+with time 3.0535671710968018
+Tau Batch number 786
+Mean K 6
+with time 3.0568745136260986
+Tau Batch number 787
+Mean K 6
+with time 3.016162157058716
+Tau Batch number 788
+Mean K 6
+with time 3.0140163898468018
+Tau Batch number 789
+Mean K 6
+with time 3.0442628860473633
+Tau Batch number 790
+Mean K 6
+with time 3.0380256175994873
+Tau Batch number 791
+Mean K 6
+with time 3.0358238220214844
+Tau Batch number 792
+Mean K 6
+with time 3.0475168228149414
+Tau Batch number 793
+Mean K 6
+with time 2.975065231323242
+Tau Batch number 794
+Mean K 6
+with time 3.019188165664673
+Tau Batch number 795
+Mean K 6
+with time 2.998783588409424
+Tau Batch number 796
+Mean K 6
+with time 2.9794368743896484
+Tau Batch number 797
+Mean K 6
+with time 3.0334157943725586
+Tau Batch number 798
+Mean K 6
+with time 3.0681710243225098
+Tau Batch number 799
+Mean K 6
+with time 3.0181429386138916
+Tau Batch number 800
+Mean K 6
+with time 3.0703835487365723
+Tau Batch number 801
+Mean K 6
+with time 3.0142760276794434
+Tau Batch number 802
+Mean K 6
+with time 3.0213823318481445
+Tau Batch number 803
+Mean K 6
+with time 3.035311460494995
+Tau Batch number 804
+Mean K 6
+with time 2.997908353805542
+Tau Batch number 805
+Mean K 6
+with time 3.0525004863739014
+Tau Batch number 806
+Mean K 6
+with time 3.0325186252593994
+Tau Batch number 807
+Mean K 6
+with time 3.052429676055908
+Tau Batch number 808
+Mean K 6
+with time 3.0058939456939697
+Tau Batch number 809
+Mean K 6
+with time 3.058248281478882
+Tau Batch number 810
+Mean K 6
+with time 3.0093111991882324
+Tau Batch number 811
+Mean K 6
+with time 3.036172389984131
+Tau Batch number 812
+Mean K 6
+with time 3.020820140838623
+Tau Batch number 813
+Mean K 6
+with time 3.011321544647217
+Tau Batch number 814
+Mean K 6
+with time 3.035564661026001
+Tau Batch number 815
+Mean K 6
+with time 3.036435842514038
+Tau Batch number 816
+Mean K 6
+with time 3.0302419662475586
+Tau Batch number 817
+Mean K 6
+with time 3.0667736530303955
+Tau Batch number 818
+Mean K 6
+with time 2.981412410736084
+Tau Batch number 819
+Mean K 6
+with time 3.0181047916412354
+Tau Batch number 820
+Mean K 6
+with time 3.0609636306762695
+Tau Batch number 821
+Mean K 6
+with time 2.9719066619873047
+Tau Batch number 822
+Mean K 6
+with time 3.080639123916626
+Tau Batch number 823
+Mean K 6
+with time 2.9683752059936523
+Tau Batch number 824
+Mean K 6
+with time 3.0162060260772705
+Tau Batch number 825
+Mean K 6
+with time 2.989431142807007
+Tau Batch number 826
+Mean K 6
+with time 3.018051862716675
+Tau Batch number 827
+Mean K 6
+with time 3.0335307121276855
+Tau Batch number 828
+Mean K 6
+with time 3.0237886905670166
+Tau Batch number 829
+Mean K 6
+with time 3.028204917907715
+Tau Batch number 830
+Mean K 6
+with time 3.006334066390991
+Tau Batch number 831
+Mean K 6
+with time 3.076394557952881
+Tau Batch number 832
+Mean K 6
+with time 3.003401041030884
+Tau Batch number 833
+Mean K 6
+with time 3.0218441486358643
+Tau Batch number 834
+Mean K 6
+with time 3.0092225074768066
+Tau Batch number 835
+Mean K 6
+with time 3.0262773036956787
+Tau Batch number 836
+Mean K 6
+with time 3.0170507431030273
+Tau Batch number 837
+Mean K 6
+with time 3.020569086074829
+Tau Batch number 838
+Mean K 6
+with time 3.0631418228149414
+Tau Batch number 839
+Mean K 6
+with time 3.0727601051330566
+Tau Batch number 840
+Mean K 6
+with time 2.98669695854187
+Tau Batch number 841
+Mean K 6
+with time 3.0576908588409424
+Tau Batch number 842
+Mean K 6
+with time 3.0205764770507812
+Tau Batch number 843
+Mean K 6
+with time 3.0056819915771484
+Tau Batch number 844
+Mean K 6
+with time 3.0281078815460205
+Tau Batch number 845
+Mean K 6
+with time 3.01979660987854
+Tau Batch number 846
+Mean K 6
+with time 3.109597682952881
+Tau Batch number 847
+Mean K 6
+with time 3.057920217514038
+Tau Batch number 848
+Mean K 6
+with time 2.9953131675720215
+Tau Batch number 849
+Mean K 6
+with time 3.027029037475586
+Tau Batch number 850
+Mean K 6
+with time 2.997622013092041
+Tau Batch number 851
+Mean K 6
+with time 3.0706140995025635
+Tau Batch number 852
+Mean K 6
+with time 3.033245801925659
+Tau Batch number 853
+Mean K 6
+with time 3.068605899810791
+Tau Batch number 854
+Mean K 6
+with time 3.0324864387512207
+Tau Batch number 855
+Mean K 6
+with time 3.0333213806152344
+Tau Batch number 856
+Mean K 6
+with time 3.029980421066284
+Tau Batch number 857
+Mean K 6
+with time 3.062986135482788
+Tau Batch number 858
+Mean K 6
+with time 3.0002169609069824
+Tau Batch number 859
+Mean K 6
+with time 3.092332124710083
+Tau Batch number 860
+Mean K 6
+with time 3.0370240211486816
+Tau Batch number 861
+Mean K 6
+with time 2.985793113708496
+Tau Batch number 862
+Mean K 6
+with time 3.068228006362915
+Tau Batch number 863
+Mean K 6
+with time 3.048288583755493
+Tau Batch number 864
+Mean K 6
+with time 3.0309793949127197
+Tau Batch number 865
+Mean K 6
+with time 3.0413007736206055
+Tau Batch number 866
+Mean K 6
+with time 3.0358633995056152
+Tau Batch number 867
+Mean K 6
+with time 3.0805857181549072
+Tau Batch number 868
+Mean K 6
+with time 3.0596697330474854
+Tau Batch number 869
+Mean K 6
+with time 3.021777629852295
+Tau Batch number 870
+Mean K 6
+with time 3.191943407058716
+Tau Batch number 871
+Mean K 6
+with time 3.0834224224090576
+Tau Batch number 872
+Mean K 6
+with time 3.0754573345184326
+Tau Batch number 873
+Mean K 6
+with time 3.1030466556549072
+Tau Batch number 874
+Mean K 6
+with time 3.047667980194092
+Tau Batch number 875
+Mean K 6
+with time 3.017374038696289
+Tau Batch number 876
+Mean K 6
+with time 3.012239933013916
+Tau Batch number 877
+Mean K 6
+with time 3.0282156467437744
+Tau Batch number 878
+Mean K 6
+with time 3.038137912750244
+Tau Batch number 879
+Mean K 6
+with time 3.0448191165924072
+Tau Batch number 880
+Mean K 6
+with time 3.027287244796753
+Tau Batch number 881
+Mean K 6
+with time 2.997224807739258
+Tau Batch number 882
+Mean K 6
+with time 3.112988233566284
+Tau Batch number 883
+Mean K 6
+with time 3.008363962173462
+Tau Batch number 884
+Mean K 6
+with time 3.011255979537964
+Tau Batch number 885
+Mean K 6
+with time 2.984097957611084
+Tau Batch number 886
+Mean K 6
+with time 3.0381994247436523
+Tau Batch number 887
+Mean K 6
+with time 3.052218437194824
+Tau Batch number 888
+Mean K 6
+with time 3.019193649291992
+Tau Batch number 889
+Mean K 6
+with time 3.0392730236053467
+Tau Batch number 890
+Mean K 6
+with time 3.046610116958618
+Tau Batch number 891
+Mean K 6
+with time 3.0698001384735107
+Tau Batch number 892
+Mean K 6
+with time 3.023621082305908
+Tau Batch number 893
+Mean K 6
+with time 3.0214099884033203
+Tau Batch number 894
+Mean K 6
+with time 3.04645037651062
+Tau Batch number 895
+Mean K 6
+with time 3.054246664047241
+Tau Batch number 896
+Mean K 6
+with time 3.0178394317626953
+Tau Batch number 897
+Mean K 6
+with time 3.06203031539917
+Tau Batch number 898
+Mean K 6
+with time 3.078835964202881
+Tau Batch number 899
+Mean K 6
+with time 3.0398318767547607
+Tau Batch number 900
+Mean K 6
+with time 3.0487277507781982
+Tau Batch number 901
+Mean K 6
+with time 3.0446884632110596
+Tau Batch number 902
+Mean K 6
+with time 3.051278829574585
+Tau Batch number 903
+Mean K 6
+with time 3.0613086223602295
+Tau Batch number 904
+Mean K 6
+with time 3.05788516998291
+Tau Batch number 905
+Mean K 6
+with time 3.0699574947357178
+Tau Batch number 906
+Mean K 6
+with time 3.0533759593963623
+Tau Batch number 907
+Mean K 6
+with time 3.0158278942108154
+Tau Batch number 908
+Mean K 6
+with time 3.014155626296997
+Tau Batch number 909
+Mean K 6
+with time 3.052241802215576
+Tau Batch number 910
+Mean K 6
+with time 3.099083662033081
+Tau Batch number 911
+Mean K 6
+with time 3.0913784503936768
+Tau Batch number 912
+Mean K 6
+with time 3.0589559078216553
+Tau Batch number 913
+Mean K 6
+with time 3.044037342071533
+Tau Batch number 914
+Mean K 6
+with time 3.065735101699829
+Tau Batch number 915
+Mean K 6
+with time 3.100297451019287
+Tau Batch number 916
+Mean K 6
+with time 3.02242112159729
+Tau Batch number 917
+Mean K 6
+with time 2.9869909286499023
+Tau Batch number 918
+Mean K 6
+with time 3.060518741607666
+Tau Batch number 919
+Mean K 6
+with time 3.0178451538085938
+Tau Batch number 920
+Mean K 6
+with time 3.0353100299835205
+Tau Batch number 921
+Mean K 6
+with time 3.0054352283477783
+Tau Batch number 922
+Mean K 6
+with time 3.0020411014556885
+Tau Batch number 923
+Mean K 6
+with time 3.0230746269226074
+Tau Batch number 924
+Mean K 6
+with time 3.0505521297454834
+Tau Batch number 925
+Mean K 6
+with time 3.0673933029174805
+Tau Batch number 926
+Mean K 6
+with time 3.058882474899292
+Tau Batch number 927
+Mean K 6
+with time 3.0928337574005127
+Tau Batch number 928
+Mean K 6
+with time 3.028256416320801
+Tau Batch number 929
+Mean K 6
+with time 3.104391098022461
+Tau Batch number 930
+Mean K 6
+with time 3.0550310611724854
+Tau Batch number 931
+Mean K 6
+with time 3.017040252685547
+Tau Batch number 932
+Mean K 6
+with time 2.991204261779785
+Tau Batch number 933
+Mean K 6
+with time 3.029390811920166
+Tau Batch number 934
+Mean K 6
+with time 3.031160831451416
+Tau Batch number 935
+Mean K 6
+with time 3.071969747543335
+Tau Batch number 936
+Mean K 6
+with time 3.0014820098876953
+Tau Batch number 937
+Mean K 6
+with time 3.0251314640045166
+Tau Batch number 938
+Mean K 6
+with time 3.0702130794525146
+Tau Batch number 939
+Mean K 6
+with time 3.073732852935791
+Tau Batch number 940
+Mean K 6
+with time 3.019749879837036
+Tau Batch number 941
+Mean K 6
+with time 3.0033512115478516
+Tau Batch number 942
+Mean K 6
+with time 2.990738868713379
+Tau Batch number 943
+Mean K 6
+with time 3.061290740966797
+Tau Batch number 944
+Mean K 6
+with time 3.053720474243164
+Tau Batch number 945
+Mean K 6
+with time 3.0230979919433594
+Tau Batch number 946
+Mean K 6
+with time 3.0764849185943604
+Tau Batch number 947
+Mean K 6
+with time 2.9974138736724854
+Tau Batch number 948
+Mean K 6
+with time 3.082460880279541
+Tau Batch number 949
+Mean K 6
+with time 3.067247152328491
+Tau Batch number 950
+Mean K 6
+with time 3.0935301780700684
+Tau Batch number 951
+Mean K 6
+with time 3.0681796073913574
+Tau Batch number 952
+Mean K 6
+with time 3.058499813079834
+Tau Batch number 953
+Mean K 6
+with time 3.0808825492858887
+Tau Batch number 954
+Mean K 6
+with time 3.0305323600769043
+Tau Batch number 955
+Mean K 6
+with time 3.0842528343200684
+Tau Batch number 956
+Mean K 6
+with time 3.0416529178619385
+Tau Batch number 957
+Mean K 6
+with time 3.043755054473877
+Tau Batch number 958
+Mean K 6
+with time 3.08807110786438
+Tau Batch number 959
+Mean K 6
+with time 3.050658702850342
+Tau Batch number 960
+Mean K 6
+with time 2.988142251968384
+Tau Batch number 961
+Mean K 6
+with time 3.0423781871795654
+Tau Batch number 962
+Mean K 6
+with time 3.0567424297332764
+Tau Batch number 963
+Mean K 6
+with time 3.0102059841156006
+Tau Batch number 964
+Mean K 6
+with time 3.079806327819824
+Tau Batch number 965
+Mean K 6
+with time 3.0395586490631104
+Tau Batch number 966
+Mean K 6
+with time 3.0858261585235596
+Tau Batch number 967
+Mean K 6
+with time 3.0861735343933105
+Tau Batch number 968
+Mean K 6
+with time 3.039018154144287
+Tau Batch number 969
+Mean K 6
+with time 3.0389556884765625
+Tau Batch number 970
+Mean K 6
+with time 2.991591453552246
+Tau Batch number 971
+Mean K 6
+with time 3.0675048828125
+Tau Batch number 972
+Mean K 6
+with time 2.9912326335906982
+Tau Batch number 973
+Mean K 6
+with time 3.0631892681121826
+Tau Batch number 974
+Mean K 6
+with time 3.030447006225586
+Tau Batch number 975
+Mean K 6
+with time 3.034285545349121
+Tau Batch number 976
+Mean K 6
+with time 3.0516109466552734
+Tau Batch number 977
+Mean K 6
+with time 3.032864809036255
+Tau Batch number 978
+Mean K 6
+with time 3.1351490020751953
+Tau Batch number 979
+Mean K 6
+with time 3.0297274589538574
+Tau Batch number 980
+Mean K 6
+with time 3.0657670497894287
+Tau Batch number 981
+Mean K 6
+with time 3.016230583190918
+Tau Batch number 982
+Mean K 6
+with time 3.000253677368164
+Tau Batch number 983
+Mean K 6
+with time 3.043281316757202
+Tau Batch number 984
+Mean K 6
+with time 3.0616390705108643
+Tau Batch number 985
+Mean K 6
+with time 3.070765733718872
+Tau Batch number 986
+Mean K 6
+with time 3.086031675338745
+Tau Batch number 987
+Mean K 6
+with time 3.054558038711548
+Tau Batch number 988
+Mean K 6
+with time 3.0138638019561768
+Tau Batch number 989
+Mean K 6
+with time 3.076781749725342
+Tau Batch number 990
+Mean K 6
+with time 3.055889844894409
+Tau Batch number 991
+Mean K 6
+with time 2.985653877258301
+Tau Batch number 992
+Mean K 6
+with time 3.0254790782928467
+Tau Batch number 993
+Mean K 6
+with time 3.0427772998809814
+Tau Batch number 994
+Mean K 6
+with time 3.026784896850586
+Tau Batch number 995
+Mean K 6
+with time 3.026385545730591
+Tau Batch number 996
+Mean K 6
+with time 3.1117870807647705
+Tau Batch number 997
+Mean K 6
+with time 3.0364625453948975
+Tau Batch number 998
+Mean K 6
+with time 3.0062811374664307
+Tau Batch number 999
+Mean K 6
+with time 3.018068313598633
+Start MCMC with n 1000
+Batch number 0
+Batch number 1
+Batch number 2
+Batch number 3
+Batch number 4
+Batch number 5
+Batch number 6
+Batch number 7
+Batch number 8
+Batch number 9
+Batch number 10
+Batch number 11
+Batch number 12
+Batch number 13
+Batch number 14
+Batch number 15
+Batch number 16
+Batch number 17
+Batch number 18
+Batch number 19
+Batch number 20
+Batch number 21
+Batch number 22
+Batch number 23
+Batch number 24
+Batch number 25
+Batch number 26
+Batch number 27
+Batch number 28
+Batch number 29
+Batch number 30
+Batch number 31
+Batch number 32
+Batch number 33
+Batch number 34
+Batch number 35
+Batch number 36
+Batch number 37
+Batch number 38
+Batch number 39
+Batch number 40
+Batch number 41
+Batch number 42
+Batch number 43
+Batch number 44
+Batch number 45
+Batch number 46
+Batch number 47
+Batch number 48
+Batch number 49
+Batch number 50
+Batch number 51
+Batch number 52
+Batch number 53
+Batch number 54
+Batch number 55
+Batch number 56
+Batch number 57
+Batch number 58
+Batch number 59
+Batch number 60
+Batch number 61
+Batch number 62
+Batch number 63
+Batch number 64
+Batch number 65
+Batch number 66
+Batch number 67
+Batch number 68
+Batch number 69
+Batch number 70
+Batch number 71
+Batch number 72
+Batch number 73
+Batch number 74
+Batch number 75
+Batch number 76
+Batch number 77
+Batch number 78
+Batch number 79
+Batch number 80
+Batch number 81
+Batch number 82
+Batch number 83
+Batch number 84
+Batch number 85
+Batch number 86
+Batch number 87
+Batch number 88
+Batch number 89
+Batch number 90
+Batch number 91
+Batch number 92
+Batch number 93
+Batch number 94
+Batch number 95
+Batch number 96
+Batch number 97
+Batch number 98
+Batch number 99
+Batch number 100
+Batch number 101
+Batch number 102
+Batch number 103
+Batch number 104
+Batch number 105
+Batch number 106
+Batch number 107
+Batch number 108
+Batch number 109
+Batch number 110
+Batch number 111
+Batch number 112
+Batch number 113
+Batch number 114
+Batch number 115
+Batch number 116
+Batch number 117
+Batch number 118
+Batch number 119
+Batch number 120
+Batch number 121
+Batch number 122
+Batch number 123
+Batch number 124
+Batch number 125
+Batch number 126
+Batch number 127
+Batch number 128
+Batch number 129
+Batch number 130
+Batch number 131
+Batch number 132
+Batch number 133
+Batch number 134
+Batch number 135
+Batch number 136
+Batch number 137
+Batch number 138
+Batch number 139
+Batch number 140
+Batch number 141
+Batch number 142
+Batch number 143
+Batch number 144
+Batch number 145
+Batch number 146
+Batch number 147
+Batch number 148
+Batch number 149
+Batch number 150
+Batch number 151
+Batch number 152
+Batch number 153
+Batch number 154
+Batch number 155
+Batch number 156
+Batch number 157
+Batch number 158
+Batch number 159
+Batch number 160
+Batch number 161
+Batch number 162
+Batch number 163
+Batch number 164
+Batch number 165
+Batch number 166
+Batch number 167
+Batch number 168
+Batch number 169
+Batch number 170
+Batch number 171
+Batch number 172
+Batch number 173
+Batch number 174
+Batch number 175
+Batch number 176
+Batch number 177
+Batch number 178
+Batch number 179
+Batch number 180
+Batch number 181
+Batch number 182
+Batch number 183
+Batch number 184
+Batch number 185
+Batch number 186
+Batch number 187
+Batch number 188
+Batch number 189
+Batch number 190
+Batch number 191
+Batch number 192
+Batch number 193
+Batch number 194
+Batch number 195
+Batch number 196
+Batch number 197
+Batch number 198
+Batch number 199
+Batch number 200
+Batch number 201
+Batch number 202
+Batch number 203
+Batch number 204
+Batch number 205
+Batch number 206
+Batch number 207
+Batch number 208
+Batch number 209
+Batch number 210
+Batch number 211
+Batch number 212
+Batch number 213
+Batch number 214
+Batch number 215
+Batch number 216
+Batch number 217
+Batch number 218
+Batch number 219
+Batch number 220
+Batch number 221
+Batch number 222
+Batch number 223
+Batch number 224
+Batch number 225
+Batch number 226
+Batch number 227
+Batch number 228
+Batch number 229
+Batch number 230
+Batch number 231
+Batch number 232
+Batch number 233
+Batch number 234
+Batch number 235
+Batch number 236
+Batch number 237
+Batch number 238
+Batch number 239
+Batch number 240
+Batch number 241
+Batch number 242
+Batch number 243
+Batch number 244
+Batch number 245
+Batch number 246
+Batch number 247
+Batch number 248
+Batch number 249
+Batch number 250
+Batch number 251
+Batch number 252
+Batch number 253
+Batch number 254
+Batch number 255
+Batch number 256
+Batch number 257
+Batch number 258
+Batch number 259
+Batch number 260
+Batch number 261
+Batch number 262
+Batch number 263
+Batch number 264
+Batch number 265
+Batch number 266
+Batch number 267
+Batch number 268
+Batch number 269
+Batch number 270
+Batch number 271
+Batch number 272
+Batch number 273
+Batch number 274
+Batch number 275
+Batch number 276
+Batch number 277
+Batch number 278
+Batch number 279
+Batch number 280
+Batch number 281
+Batch number 282
+Batch number 283
+Batch number 284
+Batch number 285
+Batch number 286
+Batch number 287
+Batch number 288
+Batch number 289
+Batch number 290
+Batch number 291
+Batch number 292
+Batch number 293
+Batch number 294
+Batch number 295
+Batch number 296
+Batch number 297
+Batch number 298
+Batch number 299
+Batch number 300
+Batch number 301
+Batch number 302
+Batch number 303
+Batch number 304
+Batch number 305
+Batch number 306
+Batch number 307
+Batch number 308
+Batch number 309
+Batch number 310
+Batch number 311
+Batch number 312
+Batch number 313
+Batch number 314
+Batch number 315
+Batch number 316
+Batch number 317
+Batch number 318
+Batch number 319
+Batch number 320
+Batch number 321
+Batch number 322
+Batch number 323
+Batch number 324
+Batch number 325
+Batch number 326
+Batch number 327
+Batch number 328
+Batch number 329
+Batch number 330
+Batch number 331
+Batch number 332
+Batch number 333
+Batch number 334
+Batch number 335
+Batch number 336
+Batch number 337
+Batch number 338
+Batch number 339
+Batch number 340
+Batch number 341
+Batch number 342
+Batch number 343
+Batch number 344
+Batch number 345
+Batch number 346
+Batch number 347
+Batch number 348
+Batch number 349
+Batch number 350
+Batch number 351
+Batch number 352
+Batch number 353
+Batch number 354
+Batch number 355
+Batch number 356
+Batch number 357
+Batch number 358
+Batch number 359
+Batch number 360
+Batch number 361
+Batch number 362
+Batch number 363
+Batch number 364
+Batch number 365
+Batch number 366
+Batch number 367
+Batch number 368
+Batch number 369
+Batch number 370
+Batch number 371
+Batch number 372
+Batch number 373
+Batch number 374
+Batch number 375
+Batch number 376
+Batch number 377
+Batch number 378
+Batch number 379
+Batch number 380
+Batch number 381
+Batch number 382
+Batch number 383
+Batch number 384
+Batch number 385
+Batch number 386
+Batch number 387
+Batch number 388
+Batch number 389
+Batch number 390
+Batch number 391
+Batch number 392
+Batch number 393
+Batch number 394
+Batch number 395
+Batch number 396
+Batch number 397
+Batch number 398
+Batch number 399
+Batch number 400
+Batch number 401
+Batch number 402
+Batch number 403
+Batch number 404
+Batch number 405
+Batch number 406
+Batch number 407
+Batch number 408
+Batch number 409
+Batch number 410
+Batch number 411
+Batch number 412
+Batch number 413
+Batch number 414
+Batch number 415
+Batch number 416
+Batch number 417
+Batch number 418
+Batch number 419
+Batch number 420
+Batch number 421
+Batch number 422
+Batch number 423
+Batch number 424
+Batch number 425
+Batch number 426
+Batch number 427
+Batch number 428
+Batch number 429
+Batch number 430
+Batch number 431
+Batch number 432
+Batch number 433
+Batch number 434
+Batch number 435
+Batch number 436
+Batch number 437
+Batch number 438
+Batch number 439
+Batch number 440
+Batch number 441
+Batch number 442
+Batch number 443
+Batch number 444
+Batch number 445
+Batch number 446
+Batch number 447
+Batch number 448
+Batch number 449
+Batch number 450
+Batch number 451
+Batch number 452
+Batch number 453
+Batch number 454
+Batch number 455
+Batch number 456
+Batch number 457
+Batch number 458
+Batch number 459
+Batch number 460
+Batch number 461
+Batch number 462
+Batch number 463
+Batch number 464
+Batch number 465
+Batch number 466
+Batch number 467
+Batch number 468
+Batch number 469
+Batch number 470
+Batch number 471
+Batch number 472
+Batch number 473
+Batch number 474
+Batch number 475
+Batch number 476
+Batch number 477
+Batch number 478
+Batch number 479
+Batch number 480
+Batch number 481
+Batch number 482
+Batch number 483
+Batch number 484
+Batch number 485
+Batch number 486
+Batch number 487
+Batch number 488
+Batch number 489
+Batch number 490
+Batch number 491
+Batch number 492
+Batch number 493
+Batch number 494
+Batch number 495
+Batch number 496
+Batch number 497
+Batch number 498
+Batch number 499
+Batch number 500
+Batch number 501
+Batch number 502
+Batch number 503
+Batch number 504
+Batch number 505
+Batch number 506
+Batch number 507
+Batch number 508
+Batch number 509
+Batch number 510
+Batch number 511
+Batch number 512
+Batch number 513
+Batch number 514
+Batch number 515
+Batch number 516
+Batch number 517
+Batch number 518
+Batch number 519
+Batch number 520
+Batch number 521
+Batch number 522
+Batch number 523
+Batch number 524
+Batch number 525
+Batch number 526
+Batch number 527
+Batch number 528
+Batch number 529
+Batch number 530
+Batch number 531
+Batch number 532
+Batch number 533
+Batch number 534
+Batch number 535
+Batch number 536
+Batch number 537
+Batch number 538
+Batch number 539
+Batch number 540
+Batch number 541
+Batch number 542
+Batch number 543
+Batch number 544
+Batch number 545
+Batch number 546
+Batch number 547
+Batch number 548
+Batch number 549
+Batch number 550
+Batch number 551
+Batch number 552
+Batch number 553
+Batch number 554
+Batch number 555
+Batch number 556
+Batch number 557
+Batch number 558
+Batch number 559
+Batch number 560
+Batch number 561
+Batch number 562
+Batch number 563
+Batch number 564
+Batch number 565
+Batch number 566
+Batch number 567
+Batch number 568
+Batch number 569
+Batch number 570
+Batch number 571
+Batch number 572
+Batch number 573
+Batch number 574
+Batch number 575
+Batch number 576
+Batch number 577
+Batch number 578
+Batch number 579
+Batch number 580
+Batch number 581
+Batch number 582
+Batch number 583
+Batch number 584
+Batch number 585
+Batch number 586
+Batch number 587
+Batch number 588
+Batch number 589
+Batch number 590
+Batch number 591
+Batch number 592
+Batch number 593
+Batch number 594
+Batch number 595
+Batch number 596
+Batch number 597
+Batch number 598
+Batch number 599
+Batch number 600
+Batch number 601
+Batch number 602
+Batch number 603
+Batch number 604
+Batch number 605
+Batch number 606
+Batch number 607
+Batch number 608
+Batch number 609
+Batch number 610
+Batch number 611
+Batch number 612
+Batch number 613
+Batch number 614
+Batch number 615
+Batch number 616
+Batch number 617
+Batch number 618
+Batch number 619
+Batch number 620
+Batch number 621
+Batch number 622
+Batch number 623
+Batch number 624
+Batch number 625
+Batch number 626
+Batch number 627
+Batch number 628
+Batch number 629
+Batch number 630
+Batch number 631
+Batch number 632
+Batch number 633
+Batch number 634
+Batch number 635
+Batch number 636
+Batch number 637
+Batch number 638
+Batch number 639
+Batch number 640
+Batch number 641
+Batch number 642
+Batch number 643
+Batch number 644
+Batch number 645
+Batch number 646
+Batch number 647
+Batch number 648
+Batch number 649
+Batch number 650
+Batch number 651
+Batch number 652
+Batch number 653
+Batch number 654
+Batch number 655
+Batch number 656
+Batch number 657
+Batch number 658
+Batch number 659
+Batch number 660
+Batch number 661
+Batch number 662
+Batch number 663
+Batch number 664
+Batch number 665
+Batch number 666
+Batch number 667
+Batch number 668
+Batch number 669
+Batch number 670
+Batch number 671
+Batch number 672
+Batch number 673
+Batch number 674
+Batch number 675
+Batch number 676
+Batch number 677
+Batch number 678
+Batch number 679
+Batch number 680
+Batch number 681
+Batch number 682
+Batch number 683
+Batch number 684
+Batch number 685
+Batch number 686
+Batch number 687
+Batch number 688
+Batch number 689
+Batch number 690
+Batch number 691
+Batch number 692
+Batch number 693
+Batch number 694
+Batch number 695
+Batch number 696
+Batch number 697
+Batch number 698
+Batch number 699
+Batch number 700
+Batch number 701
+Batch number 702
+Batch number 703
+Batch number 704
+Batch number 705
+Batch number 706
+Batch number 707
+Batch number 708
+Batch number 709
+Batch number 710
+Batch number 711
+Batch number 712
+Batch number 713
+Batch number 714
+Batch number 715
+Batch number 716
+Batch number 717
+Batch number 718
+Batch number 719
+Batch number 720
+Batch number 721
+Batch number 722
+Batch number 723
+Batch number 724
+Batch number 725
+Batch number 726
+Batch number 727
+Batch number 728
+Batch number 729
+Batch number 730
+Batch number 731
+Batch number 732
+Batch number 733
+Batch number 734
+Batch number 735
+Batch number 736
+Batch number 737
+Batch number 738
+Batch number 739
+Batch number 740
+Batch number 741
+Batch number 742
+Batch number 743
+Batch number 744
+Batch number 745
+Batch number 746
+Batch number 747
+Batch number 748
+Batch number 749
+Batch number 750
+Batch number 751
+Batch number 752
+Batch number 753
+Batch number 754
+Batch number 755
+Batch number 756
+Batch number 757
+Batch number 758
+Batch number 759
+Batch number 760
+Batch number 761
+Batch number 762
+Batch number 763
+Batch number 764
+Batch number 765
+Batch number 766
+Batch number 767
+Batch number 768
+Batch number 769
+Batch number 770
+Batch number 771
+Batch number 772
+Batch number 773
+Batch number 774
+Batch number 775
+Batch number 776
+Batch number 777
+Batch number 778
+Batch number 779
+Batch number 780
+Batch number 781
+Batch number 782
+Batch number 783
+Batch number 784
+Batch number 785
+Batch number 786
+Batch number 787
+Batch number 788
+Batch number 789
+Batch number 790
+Batch number 791
+Batch number 792
+Batch number 793
+Batch number 794
+Batch number 795
+Batch number 796
+Batch number 797
+Batch number 798
+Batch number 799
+Batch number 800
+Batch number 801
+Batch number 802
+Batch number 803
+Batch number 804
+Batch number 805
+Batch number 806
+Batch number 807
+Batch number 808
+Batch number 809
+Batch number 810
+Batch number 811
+Batch number 812
+Batch number 813
+Batch number 814
+Batch number 815
+Batch number 816
+Batch number 817
+Batch number 818
+Batch number 819
+Batch number 820
+Batch number 821
+Batch number 822
+Batch number 823
+Batch number 824
+Batch number 825
+Batch number 826
+Batch number 827
+Batch number 828
+Batch number 829
+Batch number 830
+Batch number 831
+Batch number 832
+Batch number 833
+Batch number 834
+Batch number 835
+Batch number 836
+Batch number 837
+Batch number 838
+Batch number 839
+Batch number 840
+Batch number 841
+Batch number 842
+Batch number 843
+Batch number 844
+Batch number 845
+Batch number 846
+Batch number 847
+Batch number 848
+Batch number 849
+Batch number 850
+Batch number 851
+Batch number 852
+Batch number 853
+Batch number 854
+Batch number 855
+Batch number 856
+Batch number 857
+Batch number 858
+Batch number 859
+Batch number 860
+Batch number 861
+Batch number 862
+Batch number 863
+Batch number 864
+Batch number 865
+Batch number 866
+Batch number 867
+Batch number 868
+Batch number 869
+Batch number 870
+Batch number 871
+Batch number 872
+Batch number 873
+Batch number 874
+Batch number 875
+Batch number 876
+Batch number 877
+Batch number 878
+Batch number 879
+Batch number 880
+Batch number 881
+Batch number 882
+Batch number 883
+Batch number 884
+Batch number 885
+Batch number 886
+Batch number 887
+Batch number 888
+Batch number 889
+Batch number 890
+Batch number 891
+Batch number 892
+Batch number 893
+Batch number 894
+Batch number 895
+Batch number 896
+Batch number 897
+Batch number 898
+Batch number 899
+Batch number 900
+Batch number 901
+Batch number 902
+Batch number 903
+Batch number 904
+Batch number 905
+Batch number 906
+Batch number 907
+Batch number 908
+Batch number 909
+Batch number 910
+Batch number 911
+Batch number 912
+Batch number 913
+Batch number 914
+Batch number 915
+Batch number 916
+Batch number 917
+Batch number 918
+Batch number 919
+Batch number 920
+Batch number 921
+Batch number 922
+Batch number 923
+Batch number 924
+Batch number 925
+Batch number 926
+Batch number 927
+Batch number 928
+Batch number 929
+Batch number 930
+Batch number 931
+Batch number 932
+Batch number 933
+Batch number 934
+Batch number 935
+Batch number 936
+Batch number 937
+Batch number 938
+Batch number 939
+Batch number 940
+Batch number 941
+Batch number 942
+Batch number 943
+Batch number 944
+Batch number 945
+Batch number 946
+Batch number 947
+Batch number 948
+Batch number 949
+Batch number 950
+Batch number 951
+Batch number 952
+Batch number 953
+Batch number 954
+Batch number 955
+Batch number 956
+Batch number 957
+Batch number 958
+Batch number 959
+Batch number 960
+Batch number 961
+Batch number 962
+Batch number 963
+Batch number 964
+Batch number 965
+Batch number 966
+Batch number 967
+Batch number 968
+Batch number 969
+Batch number 970
+Batch number 971
+Batch number 972
+Batch number 973
+Batch number 974
+Batch number 975
+Batch number 976
+Batch number 977
+Batch number 978
+Batch number 979
+Batch number 980
+Batch number 981
+Batch number 982
+Batch number 983
+Batch number 984
+Batch number 985
+Batch number 986
+Batch number 987
+Batch number 988
+Batch number 989
+Batch number 990
+Batch number 991
+Batch number 992
+Batch number 993
+Batch number 994
+Batch number 995
+Batch number 996
+Batch number 997
+Batch number 998
+Batch number 999
+Batch number 1000
+Batch number 1001
+Batch number 1002
+Batch number 1003
+Batch number 1004
+Batch number 1005
+Batch number 1006
+Batch number 1007
+Batch number 1008
+Batch number 1009
+Batch number 1010
+Batch number 1011
+Batch number 1012
+Batch number 1013
+Batch number 1014
+Batch number 1015
+Batch number 1016
+Batch number 1017
+Batch number 1018
+Batch number 1019
+Batch number 1020
+Batch number 1021
+Batch number 1022
+Batch number 1023
+Batch number 1024
+Batch number 1025
+Batch number 1026
+Batch number 1027
+Batch number 1028
+Batch number 1029
+Batch number 1030
+Batch number 1031
+Batch number 1032
+Batch number 1033
+Batch number 1034
+Batch number 1035
+Batch number 1036
+Batch number 1037
+Batch number 1038
+Batch number 1039
+Batch number 1040
+Batch number 1041
+Batch number 1042
+Batch number 1043
+Batch number 1044
+Batch number 1045
+Batch number 1046
+Batch number 1047
+Batch number 1048
+Batch number 1049
+Batch number 1050
+Batch number 1051
+Batch number 1052
+Batch number 1053
+Batch number 1054
+Batch number 1055
+Batch number 1056
+Batch number 1057
+Batch number 1058
+Batch number 1059
+Batch number 1060
+Batch number 1061
+Batch number 1062
+Batch number 1063
+Batch number 1064
+Batch number 1065
+Batch number 1066
+Batch number 1067
+Batch number 1068
+Batch number 1069
+Batch number 1070
+Batch number 1071
+Batch number 1072
+Batch number 1073
+Batch number 1074
+Batch number 1075
+Batch number 1076
+Batch number 1077
+Batch number 1078
+Batch number 1079
+Batch number 1080
+Batch number 1081
+Batch number 1082
+Batch number 1083
+Batch number 1084
+Batch number 1085
+Batch number 1086
+Batch number 1087
+Batch number 1088
+Batch number 1089
+Batch number 1090
+Batch number 1091
+Batch number 1092
+Batch number 1093
+Batch number 1094
+Batch number 1095
+Batch number 1096
+Batch number 1097
+Batch number 1098
+Batch number 1099
+Batch number 1100
+Batch number 1101
+Batch number 1102
+Batch number 1103
+Batch number 1104
+Batch number 1105
+Batch number 1106
+Batch number 1107
+Batch number 1108
+Batch number 1109
+Batch number 1110
+Batch number 1111
+Batch number 1112
+Batch number 1113
+Batch number 1114
+Batch number 1115
+Batch number 1116
+Batch number 1117
+Batch number 1118
+Batch number 1119
+Batch number 1120
+Batch number 1121
+Batch number 1122
+Batch number 1123
+Batch number 1124
+Batch number 1125
+Batch number 1126
+Batch number 1127
+Batch number 1128
+Batch number 1129
+Batch number 1130
+Batch number 1131
+Batch number 1132
+Batch number 1133
+Batch number 1134
+Batch number 1135
+Batch number 1136
+Batch number 1137
+Batch number 1138
+Batch number 1139
+Batch number 1140
+Batch number 1141
+Batch number 1142
+Batch number 1143
+Batch number 1144
+Batch number 1145
+Batch number 1146
+Batch number 1147
+Batch number 1148
+Batch number 1149
+Batch number 1150
+Batch number 1151
+Batch number 1152
+Batch number 1153
+Batch number 1154
+Batch number 1155
+Batch number 1156
+Batch number 1157
+Batch number 1158
+Batch number 1159
+Batch number 1160
+Batch number 1161
+Batch number 1162
+Batch number 1163
+Batch number 1164
+Batch number 1165
+Batch number 1166
+Batch number 1167
+Batch number 1168
+Batch number 1169
+Batch number 1170
+Batch number 1171
+Batch number 1172
+Batch number 1173
+Batch number 1174
+Batch number 1175
+Batch number 1176
+Batch number 1177
+Batch number 1178
+Batch number 1179
+Batch number 1180
+Batch number 1181
+Batch number 1182
+Batch number 1183
+Batch number 1184
+Batch number 1185
+Batch number 1186
+Batch number 1187
+Batch number 1188
+Batch number 1189
+Batch number 1190
+Batch number 1191
+Batch number 1192
+Batch number 1193
+Batch number 1194
+Batch number 1195
+Batch number 1196
+Batch number 1197
+Batch number 1198
+Batch number 1199
+Batch number 1200
+Batch number 1201
+Batch number 1202
+Batch number 1203
+Batch number 1204
+Batch number 1205
+Batch number 1206
+Batch number 1207
+Batch number 1208
+Batch number 1209
+Batch number 1210
+Batch number 1211
+Batch number 1212
+Batch number 1213
+Batch number 1214
+Batch number 1215
+Batch number 1216
+Batch number 1217
+Batch number 1218
+Batch number 1219
+Batch number 1220
+Batch number 1221
+Batch number 1222
+Batch number 1223
+Batch number 1224
+Batch number 1225
+Batch number 1226
+Batch number 1227
+Batch number 1228
+Batch number 1229
+Batch number 1230
+Batch number 1231
+Batch number 1232
+Batch number 1233
+Batch number 1234
+Batch number 1235
+Batch number 1236
+Batch number 1237
+Batch number 1238
+Batch number 1239
+Batch number 1240
+Batch number 1241
+Batch number 1242
+Batch number 1243
+Batch number 1244
+Batch number 1245
+Batch number 1246
+Batch number 1247
+Batch number 1248
+Batch number 1249
+Batch number 1250
+Batch number 1251
+Batch number 1252
+Batch number 1253
+Batch number 1254
+Batch number 1255
+Batch number 1256
+Batch number 1257
+Batch number 1258
+Batch number 1259
+Batch number 1260
+Batch number 1261
+Batch number 1262
+Batch number 1263
+Batch number 1264
+Batch number 1265
+Batch number 1266
+Batch number 1267
+Batch number 1268
+Batch number 1269
+Batch number 1270
+Batch number 1271
+Batch number 1272
+Batch number 1273
+Batch number 1274
+Batch number 1275
+Batch number 1276
+Batch number 1277
+Batch number 1278
+Batch number 1279
+Batch number 1280
+Batch number 1281
+Batch number 1282
+Batch number 1283
+Batch number 1284
+Batch number 1285
+Batch number 1286
+Batch number 1287
+Batch number 1288
+Batch number 1289
+Batch number 1290
+Batch number 1291
+Batch number 1292
+Batch number 1293
+Batch number 1294
+Batch number 1295
+Batch number 1296
+Batch number 1297
+Batch number 1298
+Batch number 1299
+Batch number 1300
+Batch number 1301
+Batch number 1302
+Batch number 1303
+Batch number 1304
+Batch number 1305
+Batch number 1306
+Batch number 1307
+Batch number 1308
+Batch number 1309
+Batch number 1310
+Batch number 1311
+Batch number 1312
+Batch number 1313
+Batch number 1314
+Batch number 1315
+Batch number 1316
+Batch number 1317
+Batch number 1318
+Batch number 1319
+Batch number 1320
+Batch number 1321
+Batch number 1322
+Batch number 1323
+Batch number 1324
+Batch number 1325
+Batch number 1326
+Batch number 1327
+Batch number 1328
+Batch number 1329
+Batch number 1330
+Batch number 1331
+Batch number 1332
+Batch number 1333
+Batch number 1334
+Batch number 1335
+Batch number 1336
+Batch number 1337
+Batch number 1338
+Batch number 1339
+Batch number 1340
+Batch number 1341
+Batch number 1342
+Batch number 1343
+Batch number 1344
+Batch number 1345
+Batch number 1346
+Batch number 1347
+Batch number 1348
+Batch number 1349
+Batch number 1350
+Batch number 1351
+Batch number 1352
+Batch number 1353
+Batch number 1354
+Batch number 1355
+Batch number 1356
+Batch number 1357
+Batch number 1358
+Batch number 1359
+Batch number 1360
+Batch number 1361
+Batch number 1362
+Batch number 1363
+Batch number 1364
+Batch number 1365
+Batch number 1366
+Batch number 1367
+Batch number 1368
+Batch number 1369
+Batch number 1370
+Batch number 1371
+Batch number 1372
+Batch number 1373
+Batch number 1374
+Batch number 1375
+Batch number 1376
+Batch number 1377
+Batch number 1378
+Batch number 1379
+Batch number 1380
+Batch number 1381
+Batch number 1382
+Batch number 1383
+Batch number 1384
+Batch number 1385
+Batch number 1386
+Batch number 1387
+Batch number 1388
+Batch number 1389
+Batch number 1390
+Batch number 1391
+Batch number 1392
+Batch number 1393
+Batch number 1394
+Batch number 1395
+Batch number 1396
+Batch number 1397
+Batch number 1398
+Batch number 1399
+Batch number 1400
+Batch number 1401
+Batch number 1402
+Batch number 1403
+Batch number 1404
+Batch number 1405
+Batch number 1406
+Batch number 1407
+Batch number 1408
+Batch number 1409
+Batch number 1410
+Batch number 1411
+Batch number 1412
+Batch number 1413
+Batch number 1414
+Batch number 1415
+Batch number 1416
+Batch number 1417
+Batch number 1418
+Batch number 1419
+Batch number 1420
+Batch number 1421
+Batch number 1422
+Batch number 1423
+Batch number 1424
+Batch number 1425
+Batch number 1426
+Batch number 1427
+Batch number 1428
+Batch number 1429
+Batch number 1430
+Batch number 1431
+Batch number 1432
+Batch number 1433
+Batch number 1434
+Batch number 1435
+Batch number 1436
+Batch number 1437
+Batch number 1438
+Batch number 1439
+Batch number 1440
+Batch number 1441
+Batch number 1442
+Batch number 1443
+Batch number 1444
+Batch number 1445
+Batch number 1446
+Batch number 1447
+Batch number 1448
+Batch number 1449
+Batch number 1450
+Batch number 1451
+Batch number 1452
+Batch number 1453
+Batch number 1454
+Batch number 1455
+Batch number 1456
+Batch number 1457
+Batch number 1458
+Batch number 1459
+Batch number 1460
+Batch number 1461
+Batch number 1462
+Batch number 1463
+Batch number 1464
+Batch number 1465
+Batch number 1466
+Batch number 1467
+Batch number 1468
+Batch number 1469
+Batch number 1470
+Batch number 1471
+Batch number 1472
+Batch number 1473
+Batch number 1474
+Batch number 1475
+Batch number 1476
+Batch number 1477
+Batch number 1478
+Batch number 1479
+Batch number 1480
+Batch number 1481
+Batch number 1482
+Batch number 1483
+Batch number 1484
+Batch number 1485
+Batch number 1486
+Batch number 1487
+Batch number 1488
+Batch number 1489
+Batch number 1490
+Batch number 1491
+Batch number 1492
+Batch number 1493
+Batch number 1494
+Batch number 1495
+Batch number 1496
+Batch number 1497
+Batch number 1498
+Batch number 1499
+Batch number 1500
+Batch number 1501
+Batch number 1502
+Batch number 1503
+Batch number 1504
+Batch number 1505
+Batch number 1506
+Batch number 1507
+Batch number 1508
+Batch number 1509
+Batch number 1510
+Batch number 1511
+Batch number 1512
+Batch number 1513
+Batch number 1514
+Batch number 1515
+Batch number 1516
+Batch number 1517
+Batch number 1518
+Batch number 1519
+Batch number 1520
+Batch number 1521
+Batch number 1522
+Batch number 1523
+Batch number 1524
+Batch number 1525
+Batch number 1526
+Batch number 1527
+Batch number 1528
+Batch number 1529
+Batch number 1530
+Batch number 1531
+Batch number 1532
+Batch number 1533
+Batch number 1534
+Batch number 1535
+Batch number 1536
+Batch number 1537
+Batch number 1538
+Batch number 1539
+Batch number 1540
+Batch number 1541
+Batch number 1542
+Batch number 1543
+Batch number 1544
+Batch number 1545
+Batch number 1546
+Batch number 1547
+Batch number 1548
+Batch number 1549
+Batch number 1550
+Batch number 1551
+Batch number 1552
+Batch number 1553
+Batch number 1554
+Batch number 1555
+Batch number 1556
+Batch number 1557
+Batch number 1558
+Batch number 1559
+Batch number 1560
+Batch number 1561
+Batch number 1562
+Batch number 1563
+Batch number 1564
+Batch number 1565
+Batch number 1566
+Batch number 1567
+Batch number 1568
+Batch number 1569
+Batch number 1570
+Batch number 1571
+Batch number 1572
+Batch number 1573
+Batch number 1574
+Batch number 1575
+Batch number 1576
+Batch number 1577
+Batch number 1578
+Batch number 1579
+Batch number 1580
+Batch number 1581
+Batch number 1582
+Batch number 1583
+Batch number 1584
+Batch number 1585
+Batch number 1586
+Batch number 1587
+Batch number 1588
+Batch number 1589
+Batch number 1590
+Batch number 1591
+Batch number 1592
+Batch number 1593
+Batch number 1594
+Batch number 1595
+Batch number 1596
+Batch number 1597
+Batch number 1598
+Batch number 1599
+Batch number 1600
+Batch number 1601
+Batch number 1602
+Batch number 1603
+Batch number 1604
+Batch number 1605
+Batch number 1606
+Batch number 1607
+Batch number 1608
+Batch number 1609
+Batch number 1610
+Batch number 1611
+Batch number 1612
+Batch number 1613
+Batch number 1614
+Batch number 1615
+Batch number 1616
+Batch number 1617
+Batch number 1618
+Batch number 1619
+Batch number 1620
+Batch number 1621
+Batch number 1622
+Batch number 1623
+Batch number 1624
+Batch number 1625
+Batch number 1626
+Batch number 1627
+Batch number 1628
+Batch number 1629
+Batch number 1630
+Batch number 1631
+Batch number 1632
+Batch number 1633
+Batch number 1634
+Batch number 1635
+Batch number 1636
+Batch number 1637
+Batch number 1638
+Batch number 1639
+Batch number 1640
+Batch number 1641
+Batch number 1642
+Batch number 1643
+Batch number 1644
+Batch number 1645
+Batch number 1646
+Batch number 1647
+Batch number 1648
+Batch number 1649
+Batch number 1650
+Batch number 1651
+Batch number 1652
+Batch number 1653
+Batch number 1654
+Batch number 1655
+Batch number 1656
+Batch number 1657
+Batch number 1658
+Batch number 1659
+Batch number 1660
+Batch number 1661
+Batch number 1662
+Batch number 1663
+Batch number 1664
+Batch number 1665
+Batch number 1666
+Batch number 1667
+Batch number 1668
+Batch number 1669
+Batch number 1670
+Batch number 1671
+Batch number 1672
+Batch number 1673
+Batch number 1674
+Batch number 1675
+Batch number 1676
+Batch number 1677
+Batch number 1678
+Batch number 1679
+Batch number 1680
+Batch number 1681
+Batch number 1682
+Batch number 1683
+Batch number 1684
+Batch number 1685
+Batch number 1686
+Batch number 1687
+Batch number 1688
+Batch number 1689
+Batch number 1690
+Batch number 1691
+Batch number 1692
+Batch number 1693
+Batch number 1694
+Batch number 1695
+Batch number 1696
+Batch number 1697
+Batch number 1698
+Batch number 1699
+Batch number 1700
+Batch number 1701
+Batch number 1702
+Batch number 1703
+Batch number 1704
+Batch number 1705
+Batch number 1706
+Batch number 1707
+Batch number 1708
+Batch number 1709
+Batch number 1710
+Batch number 1711
+Batch number 1712
+Batch number 1713
+Batch number 1714
+Batch number 1715
+Batch number 1716
+Batch number 1717
+Batch number 1718
+Batch number 1719
+Batch number 1720
+Batch number 1721
+Batch number 1722
+Batch number 1723
+Batch number 1724
+Batch number 1725
+Batch number 1726
+Batch number 1727
+Batch number 1728
+Batch number 1729
+Batch number 1730
+Batch number 1731
+Batch number 1732
+Batch number 1733
+Batch number 1734
+Batch number 1735
+Batch number 1736
+Batch number 1737
+Batch number 1738
+Batch number 1739
+Batch number 1740
+Batch number 1741
+Batch number 1742
+Batch number 1743
+Batch number 1744
+Batch number 1745
+Batch number 1746
+Batch number 1747
+Batch number 1748
+Batch number 1749
+Batch number 1750
+Batch number 1751
+Batch number 1752
+Batch number 1753
+Batch number 1754
+Batch number 1755
+Batch number 1756
+Batch number 1757
+Batch number 1758
+Batch number 1759
+Batch number 1760
+Batch number 1761
+Batch number 1762
+Batch number 1763
+Batch number 1764
+Batch number 1765
+Batch number 1766
+Batch number 1767
+Batch number 1768
+Batch number 1769
+Batch number 1770
+Batch number 1771
+Batch number 1772
+Batch number 1773
+Batch number 1774
+Batch number 1775
+Batch number 1776
+Batch number 1777
+Batch number 1778
+Batch number 1779
+Batch number 1780
+Batch number 1781
+Batch number 1782
+Batch number 1783
+Batch number 1784
+Batch number 1785
+Batch number 1786
+Batch number 1787
+Batch number 1788
+Batch number 1789
+Batch number 1790
+Batch number 1791
+Batch number 1792
+Batch number 1793
+Batch number 1794
+Batch number 1795
+Batch number 1796
+Batch number 1797
+Batch number 1798
+Batch number 1799
+Batch number 1800
+Batch number 1801
+Batch number 1802
+Batch number 1803
+Batch number 1804
+Batch number 1805
+Batch number 1806
+Batch number 1807
+Batch number 1808
+Batch number 1809
+Batch number 1810
+Batch number 1811
+Batch number 1812
+Batch number 1813
+Batch number 1814
+Batch number 1815
+Batch number 1816
+Batch number 1817
+Batch number 1818
+Batch number 1819
+Batch number 1820
+Batch number 1821
+Batch number 1822
+Batch number 1823
+Batch number 1824
+Batch number 1825
+Batch number 1826
+Batch number 1827
+Batch number 1828
+Batch number 1829
+Batch number 1830
+Batch number 1831
+Batch number 1832
+Batch number 1833
+Batch number 1834
+Batch number 1835
+Batch number 1836
+Batch number 1837
+Batch number 1838
+Batch number 1839
+Batch number 1840
+Batch number 1841
+Batch number 1842
+Batch number 1843
+Batch number 1844
+Batch number 1845
+Batch number 1846
+Batch number 1847
+Batch number 1848
+Batch number 1849
+Batch number 1850
+Batch number 1851
+Batch number 1852
+Batch number 1853
+Batch number 1854
+Batch number 1855
+Batch number 1856
+Batch number 1857
+Batch number 1858
+Batch number 1859
+Batch number 1860
+Batch number 1861
+Batch number 1862
+Batch number 1863
+Batch number 1864
+Batch number 1865
+Batch number 1866
+Batch number 1867
+Batch number 1868
+Batch number 1869
+Batch number 1870
+Batch number 1871
+Batch number 1872
+Batch number 1873
+Batch number 1874
+Batch number 1875
+Batch number 1876
+Batch number 1877
+Batch number 1878
+Batch number 1879
+Batch number 1880
+Batch number 1881
+Batch number 1882
+Batch number 1883
+Batch number 1884
+Batch number 1885
+Batch number 1886
+Batch number 1887
+Batch number 1888
+Batch number 1889
+Batch number 1890
+Batch number 1891
+Batch number 1892
+Batch number 1893
+Batch number 1894
+Batch number 1895
+Batch number 1896
+Batch number 1897
+Batch number 1898
+Batch number 1899
+Batch number 1900
+Batch number 1901
+Batch number 1902
+Batch number 1903
+Batch number 1904
+Batch number 1905
+Batch number 1906
+Batch number 1907
+Batch number 1908
+Batch number 1909
+Batch number 1910
+Batch number 1911
+Batch number 1912
+Batch number 1913
+Batch number 1914
+Batch number 1915
+Batch number 1916
+Batch number 1917
+Batch number 1918
+Batch number 1919
+Batch number 1920
+Batch number 1921
+Batch number 1922
+Batch number 1923
+Batch number 1924
+Batch number 1925
+Batch number 1926
+Batch number 1927
+Batch number 1928
+Batch number 1929
+Batch number 1930
+Batch number 1931
+Batch number 1932
+Batch number 1933
+Batch number 1934
+Batch number 1935
+Batch number 1936
+Batch number 1937
+Batch number 1938
+Batch number 1939
+Batch number 1940
+Batch number 1941
+Batch number 1942
+Batch number 1943
+Batch number 1944
+Batch number 1945
+Batch number 1946
+Batch number 1947
+Batch number 1948
+Batch number 1949
+Batch number 1950
+Batch number 1951
+Batch number 1952
+Batch number 1953
+Batch number 1954
+Batch number 1955
+Batch number 1956
+Batch number 1957
+Batch number 1958
+Batch number 1959
+Batch number 1960
+Batch number 1961
+Batch number 1962
+Batch number 1963
+Batch number 1964
+Batch number 1965
+Batch number 1966
+Batch number 1967
+Batch number 1968
+Batch number 1969
+Batch number 1970
+Batch number 1971
+Batch number 1972
+Batch number 1973
+Batch number 1974
+Batch number 1975
+Batch number 1976
+Batch number 1977
+Batch number 1978
+Batch number 1979
+Batch number 1980
+Batch number 1981
+Batch number 1982
+Batch number 1983
+Batch number 1984
+Batch number 1985
+Batch number 1986
+Batch number 1987
+Batch number 1988
+Batch number 1989
+Batch number 1990
+Batch number 1991
+Batch number 1992
+Batch number 1993
+Batch number 1994
+Batch number 1995
+Batch number 1996
+Batch number 1997
+Batch number 1998
+Batch number 1999
+Tau Batch number 0
+Mean K 7
+with time 30.317814350128174
+Tau Batch number 1
+Mean K 7
+with time 3.3218281269073486
+Tau Batch number 2
+Mean K 8
+with time 3.3885724544525146
+Tau Batch number 3
+Mean K 8
+with time 3.345350503921509
+Tau Batch number 4
+Mean K 8
+with time 3.346200704574585
+Tau Batch number 5
+Mean K 8
+with time 3.3568384647369385
+Tau Batch number 6
+Mean K 8
+with time 3.4296317100524902
+Tau Batch number 7
+Mean K 7
+with time 3.422614336013794
+Tau Batch number 8
+Mean K 7
+with time 3.2897562980651855
+Tau Batch number 9
+Mean K 7
+with time 3.325617551803589
+Tau Batch number 10
+Mean K 7
+with time 3.3626089096069336
+Tau Batch number 11
+Mean K 7
+with time 3.3025217056274414
+Tau Batch number 12
+Mean K 7
+with time 3.3039796352386475
+Tau Batch number 13
+Mean K 7
+with time 3.397616386413574
+Tau Batch number 14
+Mean K 7
+with time 3.3382930755615234
+Tau Batch number 15
+Mean K 7
+with time 3.3298821449279785
+Tau Batch number 16
+Mean K 7
+with time 3.3151519298553467
+Tau Batch number 17
+Mean K 7
+with time 3.4525914192199707
+Tau Batch number 18
+Mean K 7
+with time 3.4514670372009277
+Tau Batch number 19
+Mean K 7
+with time 3.3049380779266357
+Tau Batch number 20
+Mean K 7
+with time 3.319636583328247
+Tau Batch number 21
+Mean K 7
+with time 3.2826087474823
+Tau Batch number 22
+Mean K 7
+with time 3.322206497192383
+Tau Batch number 23
+Mean K 7
+with time 3.345182180404663
+Tau Batch number 24
+Mean K 7
+with time 3.336703062057495
+Tau Batch number 25
+Mean K 7
+with time 3.2967023849487305
+Tau Batch number 26
+Mean K 7
+with time 3.3311400413513184
+Tau Batch number 27
+Mean K 7
+with time 3.3349108695983887
+Tau Batch number 28
+Mean K 7
+with time 3.421553373336792
+Tau Batch number 29
+Mean K 7
+with time 3.3892555236816406
+Tau Batch number 30
+Mean K 7
+with time 3.2786526679992676
+Tau Batch number 31
+Mean K 7
+with time 3.2788076400756836
+Tau Batch number 32
+Mean K 7
+with time 3.356534957885742
+Tau Batch number 33
+Mean K 7
+with time 3.2636473178863525
+Tau Batch number 34
+Mean K 7
+with time 3.3173844814300537
+Tau Batch number 35
+Mean K 7
+with time 3.2986910343170166
+Tau Batch number 36
+Mean K 7
+with time 3.330916166305542
+Tau Batch number 37
+Mean K 6
+with time 3.2671332359313965
+Tau Batch number 38
+Mean K 6
+with time 3.3508946895599365
+Tau Batch number 39
+Mean K 6
+with time 3.4686989784240723
+Tau Batch number 40
+Mean K 6
+with time 3.4211223125457764
+Tau Batch number 41
+Mean K 6
+with time 3.3391451835632324
+Tau Batch number 42
+Mean K 6
+with time 3.350842237472534
+Tau Batch number 43
+Mean K 6
+with time 3.301248788833618
+Tau Batch number 44
+Mean K 6
+with time 3.3144237995147705
+Tau Batch number 45
+Mean K 6
+with time 3.438971519470215
+Tau Batch number 46
+Mean K 6
+with time 3.255159378051758
+Tau Batch number 47
+Mean K 6
+with time 3.3055946826934814
+Tau Batch number 48
+Mean K 6
+with time 3.3266615867614746
+Tau Batch number 49
+Mean K 6
+with time 3.3260724544525146
+Tau Batch number 50
+Mean K 6
+with time 3.442901611328125
+Tau Batch number 51
+Mean K 6
+with time 3.3811261653900146
+Tau Batch number 52
+Mean K 6
+with time 3.292896270751953
+Tau Batch number 53
+Mean K 6
+with time 3.3297958374023438
+Tau Batch number 54
+Mean K 6
+with time 3.299851179122925
+Tau Batch number 55
+Mean K 6
+with time 3.3153915405273438
+Tau Batch number 56
+Mean K 6
+with time 3.30873441696167
+Tau Batch number 57
+Mean K 6
+with time 3.3463830947875977
+Tau Batch number 58
+Mean K 6
+with time 3.337144374847412
+Tau Batch number 59
+Mean K 6
+with time 3.321103572845459
+Tau Batch number 60
+Mean K 6
+with time 3.4150454998016357
+Tau Batch number 61
+Mean K 6
+with time 3.434445858001709
+Tau Batch number 62
+Mean K 6
+with time 3.453734874725342
+Tau Batch number 63
+Mean K 6
+with time 3.3693573474884033
+Tau Batch number 64
+Mean K 6
+with time 3.2971091270446777
+Tau Batch number 65
+Mean K 6
+with time 3.3169796466827393
+Tau Batch number 66
+Mean K 6
+with time 3.3681461811065674
+Tau Batch number 67
+Mean K 6
+with time 3.3129889965057373
+Tau Batch number 68
+Mean K 6
+with time 3.3385326862335205
+Tau Batch number 69
+Mean K 6
+with time 3.33078670501709
+Tau Batch number 70
+Mean K 6
+with time 3.3643743991851807
+Tau Batch number 71
+Mean K 6
+with time 3.348618268966675
+Tau Batch number 72
+Mean K 6
+with time 3.499133348464966
+Tau Batch number 73
+Mean K 6
+with time 3.3988962173461914
+Tau Batch number 74
+Mean K 6
+with time 3.310870409011841
+Tau Batch number 75
+Mean K 6
+with time 3.300023078918457
+Tau Batch number 76
+Mean K 6
+with time 3.336294651031494
+Tau Batch number 77
+Mean K 6
+with time 3.3015356063842773
+Tau Batch number 78
+Mean K 6
+with time 3.352640151977539
+Tau Batch number 79
+Mean K 6
+with time 3.283914804458618
+Tau Batch number 80
+Mean K 6
+with time 3.3651812076568604
+Tau Batch number 81
+Mean K 6
+with time 3.276576519012451
+Tau Batch number 82
+Mean K 6
+with time 3.3567562103271484
+Tau Batch number 83
+Mean K 6
+with time 3.4528186321258545
+Tau Batch number 84
+Mean K 6
+with time 3.4409587383270264
+Tau Batch number 85
+Mean K 6
+with time 3.3122286796569824
+Tau Batch number 86
+Mean K 6
+with time 3.317063808441162
+Tau Batch number 87
+Mean K 6
+with time 3.29327392578125
+Tau Batch number 88
+Mean K 6
+with time 3.2929131984710693
+Tau Batch number 89
+Mean K 6
+with time 3.2940266132354736
+Tau Batch number 90
+Mean K 6
+with time 3.290074348449707
+Tau Batch number 91
+Mean K 6
+with time 3.2742159366607666
+Tau Batch number 92
+Mean K 6
+with time 3.3060953617095947
+Tau Batch number 93
+Mean K 6
+with time 3.341681957244873
+Tau Batch number 94
+Mean K 6
+with time 3.434816837310791
+Tau Batch number 95
+Mean K 6
+with time 3.389353036880493
+Tau Batch number 96
+Mean K 6
+with time 3.2598841190338135
+Tau Batch number 97
+Mean K 6
+with time 3.2842938899993896
+Tau Batch number 98
+Mean K 6
+with time 3.3082334995269775
+Tau Batch number 99
+Mean K 6
+with time 3.2717151641845703
+Tau Batch number 100
+Mean K 6
+with time 3.289552688598633
+Tau Batch number 101
+Mean K 6
+with time 3.273623466491699
+Tau Batch number 102
+Mean K 6
+with time 3.2829513549804688
+Tau Batch number 103
+Mean K 6
+with time 3.321197509765625
+Tau Batch number 104
+Mean K 6
+with time 3.3427493572235107
+Tau Batch number 105
+Mean K 6
+with time 3.3432669639587402
+Tau Batch number 106
+Mean K 6
+with time 3.3972420692443848
+Tau Batch number 107
+Mean K 6
+with time 3.412381172180176
+Tau Batch number 108
+Mean K 6
+with time 3.42189359664917
+Tau Batch number 109
+Mean K 6
+with time 3.390784502029419
+Tau Batch number 110
+Mean K 6
+with time 3.368563652038574
+Tau Batch number 111
+Mean K 6
+with time 3.45055890083313
+Tau Batch number 112
+Mean K 6
+with time 3.3694188594818115
+Tau Batch number 113
+Mean K 6
+with time 3.3427488803863525
+Tau Batch number 114
+Mean K 6
+with time 3.3278911113739014
+Tau Batch number 115
+Mean K 6
+with time 3.289036273956299
+Tau Batch number 116
+Mean K 6
+with time 3.357372760772705
+Tau Batch number 117
+Mean K 6
+with time 3.33630633354187
+Tau Batch number 118
+Mean K 6
+with time 3.2540082931518555
+Tau Batch number 119
+Mean K 6
+with time 3.2835137844085693
+Tau Batch number 120
+Mean K 6
+with time 3.337378740310669
+Tau Batch number 121
+Mean K 6
+with time 3.3061418533325195
+Tau Batch number 122
+Mean K 6
+with time 3.281764030456543
+Tau Batch number 123
+Mean K 6
+with time 3.30410099029541
+Tau Batch number 124
+Mean K 6
+with time 3.331648111343384
+Tau Batch number 125
+Mean K 6
+with time 3.299285411834717
+Tau Batch number 126
+Mean K 6
+with time 3.304992198944092
+Tau Batch number 127
+Mean K 6
+with time 3.4412267208099365
+Tau Batch number 128
+Mean K 6
+with time 3.328016757965088
+Tau Batch number 129
+Mean K 6
+with time 3.3072125911712646
+Tau Batch number 130
+Mean K 6
+with time 3.3052895069122314
+Tau Batch number 131
+Mean K 6
+with time 3.3148441314697266
+Tau Batch number 132
+Mean K 6
+with time 3.3246419429779053
+Tau Batch number 133
+Mean K 6
+with time 3.3235769271850586
+Tau Batch number 134
+Mean K 6
+with time 3.2843575477600098
+Tau Batch number 135
+Mean K 6
+with time 3.310201406478882
+Tau Batch number 136
+Mean K 6
+with time 3.3250882625579834
+Tau Batch number 137
+Mean K 6
+with time 3.2915103435516357
+Tau Batch number 138
+Mean K 6
+with time 3.3403337001800537
+Tau Batch number 139
+Mean K 6
+with time 3.3185982704162598
+Tau Batch number 140
+Mean K 6
+with time 3.296086549758911
+Tau Batch number 141
+Mean K 6
+with time 3.2655107975006104
+Tau Batch number 142
+Mean K 6
+with time 3.302363872528076
+Tau Batch number 143
+Mean K 6
+with time 3.2547719478607178
+Tau Batch number 144
+Mean K 6
+with time 3.319878339767456
+Tau Batch number 145
+Mean K 6
+with time 3.334575891494751
+Tau Batch number 146
+Mean K 6
+with time 3.334991693496704
+Tau Batch number 147
+Mean K 6
+with time 3.292746067047119
+Tau Batch number 148
+Mean K 6
+with time 3.3492794036865234
+Tau Batch number 149
+Mean K 6
+with time 3.294069528579712
+Tau Batch number 150
+Mean K 6
+with time 3.288346767425537
+Tau Batch number 151
+Mean K 6
+with time 3.288961172103882
+Tau Batch number 152
+Mean K 6
+with time 3.3127663135528564
+Tau Batch number 153
+Mean K 6
+with time 3.2971365451812744
+Tau Batch number 154
+Mean K 6
+with time 3.3317291736602783
+Tau Batch number 155
+Mean K 6
+with time 3.3264522552490234
+Tau Batch number 156
+Mean K 6
+with time 3.29960560798645
+Tau Batch number 157
+Mean K 6
+with time 3.2780654430389404
+Tau Batch number 158
+Mean K 6
+with time 3.285661220550537
+Tau Batch number 159
+Mean K 6
+with time 3.3385043144226074
+Tau Batch number 160
+Mean K 6
+with time 3.340902328491211
+Tau Batch number 161
+Mean K 6
+with time 3.234506607055664
+Tau Batch number 162
+Mean K 6
+with time 3.3072738647460938
+Tau Batch number 163
+Mean K 6
+with time 3.307403564453125
+Tau Batch number 164
+Mean K 6
+with time 3.346343517303467
+Tau Batch number 165
+Mean K 6
+with time 3.299363613128662
+Tau Batch number 166
+Mean K 6
+with time 3.270472288131714
+Tau Batch number 167
+Mean K 6
+with time 3.293789863586426
+Tau Batch number 168
+Mean K 6
+with time 3.299398183822632
+Tau Batch number 169
+Mean K 6
+with time 3.409508228302002
+Tau Batch number 170
+Mean K 6
+with time 3.3276121616363525
+Tau Batch number 171
+Mean K 6
+with time 3.3374297618865967
+Tau Batch number 172
+Mean K 6
+with time 3.2782046794891357
+Tau Batch number 173
+Mean K 6
+with time 3.3272030353546143
+Tau Batch number 174
+Mean K 6
+with time 3.278958797454834
+Tau Batch number 175
+Mean K 6
+with time 3.281458616256714
+Tau Batch number 176
+Mean K 6
+with time 3.3241195678710938
+Tau Batch number 177
+Mean K 6
+with time 3.357975482940674
+Tau Batch number 178
+Mean K 6
+with time 3.3032336235046387
+Tau Batch number 179
+Mean K 6
+with time 3.347269058227539
+Tau Batch number 180
+Mean K 6
+with time 3.2772257328033447
+Tau Batch number 181
+Mean K 6
+with time 3.332054615020752
+Tau Batch number 182
+Mean K 6
+with time 3.34220552444458
+Tau Batch number 183
+Mean K 6
+with time 3.2991671562194824
+Tau Batch number 184
+Mean K 6
+with time 3.2525014877319336
+Tau Batch number 185
+Mean K 6
+with time 3.273076295852661
+Tau Batch number 186
+Mean K 6
+with time 3.2916953563690186
+Tau Batch number 187
+Mean K 6
+with time 3.2855448722839355
+Tau Batch number 188
+Mean K 6
+with time 3.297060251235962
+Tau Batch number 189
+Mean K 6
+with time 3.308458089828491
+Tau Batch number 190
+Mean K 6
+with time 3.3021631240844727
+Tau Batch number 191
+Mean K 6
+with time 3.4633185863494873
+Tau Batch number 192
+Mean K 6
+with time 3.299909830093384
+Tau Batch number 193
+Mean K 6
+with time 3.324816942214966
+Tau Batch number 194
+Mean K 6
+with time 3.262662410736084
+Tau Batch number 195
+Mean K 6
+with time 3.307790756225586
+Tau Batch number 196
+Mean K 6
+with time 3.3266026973724365
+Tau Batch number 197
+Mean K 6
+with time 3.3248777389526367
+Tau Batch number 198
+Mean K 6
+with time 3.290616035461426
+Tau Batch number 199
+Mean K 6
+with time 3.2980785369873047
+Tau Batch number 200
+Mean K 6
+with time 3.362180233001709
+Tau Batch number 201
+Mean K 6
+with time 3.341169834136963
+Tau Batch number 202
+Mean K 6
+with time 3.2719831466674805
+Tau Batch number 203
+Mean K 6
+with time 3.293048858642578
+Tau Batch number 204
+Mean K 6
+with time 3.312262773513794
+Tau Batch number 205
+Mean K 6
+with time 3.2861552238464355
+Tau Batch number 206
+Mean K 6
+with time 3.335463047027588
+Tau Batch number 207
+Mean K 6
+with time 3.3439724445343018
+Tau Batch number 208
+Mean K 6
+with time 3.3143904209136963
+Tau Batch number 209
+Mean K 6
+with time 3.2963645458221436
+Tau Batch number 210
+Mean K 6
+with time 3.3271219730377197
+Tau Batch number 211
+Mean K 6
+with time 3.320528507232666
+Tau Batch number 212
+Mean K 6
+with time 3.2972006797790527
+Tau Batch number 213
+Mean K 6
+with time 3.4124135971069336
+Tau Batch number 214
+Mean K 6
+with time 3.405928373336792
+Tau Batch number 215
+Mean K 6
+with time 3.342275619506836
+Tau Batch number 216
+Mean K 6
+with time 3.3320395946502686
+Tau Batch number 217
+Mean K 6
+with time 3.327613115310669
+Tau Batch number 218
+Mean K 6
+with time 3.2868869304656982
+Tau Batch number 219
+Mean K 6
+with time 3.410916328430176
+Tau Batch number 220
+Mean K 6
+with time 3.3603482246398926
+Tau Batch number 221
+Mean K 6
+with time 3.3340675830841064
+Tau Batch number 222
+Mean K 6
+with time 3.298790693283081
+Tau Batch number 223
+Mean K 6
+with time 3.367722272872925
+Tau Batch number 224
+Mean K 6
+with time 3.3263869285583496
+Tau Batch number 225
+Mean K 6
+with time 3.32808780670166
+Tau Batch number 226
+Mean K 6
+with time 3.2706916332244873
+Tau Batch number 227
+Mean K 6
+with time 3.309661388397217
+Tau Batch number 228
+Mean K 6
+with time 3.3136515617370605
+Tau Batch number 229
+Mean K 6
+with time 3.2898223400115967
+Tau Batch number 230
+Mean K 6
+with time 3.2861523628234863
+Tau Batch number 231
+Mean K 6
+with time 3.308659315109253
+Tau Batch number 232
+Mean K 6
+with time 3.297297954559326
+Tau Batch number 233
+Mean K 6
+with time 3.3409996032714844
+Tau Batch number 234
+Mean K 6
+with time 3.3030731678009033
+Tau Batch number 235
+Mean K 6
+with time 3.31752610206604
+Tau Batch number 236
+Mean K 6
+with time 3.331792116165161
+Tau Batch number 237
+Mean K 6
+with time 3.3061628341674805
+Tau Batch number 238
+Mean K 6
+with time 3.3769822120666504
+Tau Batch number 239
+Mean K 6
+with time 3.401867151260376
+Tau Batch number 240
+Mean K 6
+with time 3.2985033988952637
+Tau Batch number 241
+Mean K 6
+with time 3.3170416355133057
+Tau Batch number 242
+Mean K 6
+with time 3.3362159729003906
+Tau Batch number 243
+Mean K 6
+with time 3.37332820892334
+Tau Batch number 244
+Mean K 6
+with time 3.314399242401123
+Tau Batch number 245
+Mean K 6
+with time 3.2792470455169678
+Tau Batch number 246
+Mean K 6
+with time 3.386773109436035
+Tau Batch number 247
+Mean K 6
+with time 3.322849750518799
+Tau Batch number 248
+Mean K 6
+with time 3.3222899436950684
+Tau Batch number 249
+Mean K 6
+with time 3.299689292907715
+Tau Batch number 250
+Mean K 6
+with time 3.3271396160125732
+Tau Batch number 251
+Mean K 6
+with time 3.365116834640503
+Tau Batch number 252
+Mean K 6
+with time 3.330146312713623
+Tau Batch number 253
+Mean K 6
+with time 3.374574661254883
+Tau Batch number 254
+Mean K 6
+with time 3.332832098007202
+Tau Batch number 255
+Mean K 6
+with time 3.300776958465576
+Tau Batch number 256
+Mean K 6
+with time 3.281127452850342
+Tau Batch number 257
+Mean K 6
+with time 3.2895095348358154
+Tau Batch number 258
+Mean K 6
+with time 3.2724320888519287
+Tau Batch number 259
+Mean K 6
+with time 3.3516578674316406
+Tau Batch number 260
+Mean K 6
+with time 3.2961525917053223
+Tau Batch number 261
+Mean K 6
+with time 3.3119380474090576
+Tau Batch number 262
+Mean K 6
+with time 3.252380847930908
+Tau Batch number 263
+Mean K 6
+with time 3.3627333641052246
+Tau Batch number 264
+Mean K 6
+with time 3.3259050846099854
+Tau Batch number 265
+Mean K 6
+with time 3.3511829376220703
+Tau Batch number 266
+Mean K 6
+with time 3.339658260345459
+Tau Batch number 267
+Mean K 6
+with time 3.336620807647705
+Tau Batch number 268
+Mean K 6
+with time 3.31007981300354
+Tau Batch number 269
+Mean K 6
+with time 3.4084057807922363
+Tau Batch number 270
+Mean K 6
+with time 3.3223414421081543
+Tau Batch number 271
+Mean K 6
+with time 3.2642407417297363
+Tau Batch number 272
+Mean K 6
+with time 3.2861993312835693
+Tau Batch number 273
+Mean K 6
+with time 3.3133232593536377
+Tau Batch number 274
+Mean K 6
+with time 3.343712329864502
+Tau Batch number 275
+Mean K 6
+with time 3.3355815410614014
+Tau Batch number 276
+Mean K 6
+with time 3.2882802486419678
+Tau Batch number 277
+Mean K 6
+with time 3.3467884063720703
+Tau Batch number 278
+Mean K 6
+with time 3.291163921356201
+Tau Batch number 279
+Mean K 6
+with time 3.330003261566162
+Tau Batch number 280
+Mean K 6
+with time 3.2479686737060547
+Tau Batch number 281
+Mean K 6
+with time 3.3782687187194824
+Tau Batch number 282
+Mean K 6
+with time 3.27048921585083
+Tau Batch number 283
+Mean K 6
+with time 3.318162441253662
+Tau Batch number 284
+Mean K 6
+with time 3.257805824279785
+Tau Batch number 285
+Mean K 6
+with time 3.3104867935180664
+Tau Batch number 286
+Mean K 6
+with time 3.302464246749878
+Tau Batch number 287
+Mean K 6
+with time 3.3036584854125977
+Tau Batch number 288
+Mean K 6
+with time 3.3352882862091064
+Tau Batch number 289
+Mean K 6
+with time 3.3152897357940674
+Tau Batch number 290
+Mean K 6
+with time 3.373544454574585
+Tau Batch number 291
+Mean K 6
+with time 3.3303189277648926
+Tau Batch number 292
+Mean K 6
+with time 3.3296191692352295
+Tau Batch number 293
+Mean K 6
+with time 3.345186471939087
+Tau Batch number 294
+Mean K 6
+with time 3.3494884967803955
+Tau Batch number 295
+Mean K 6
+with time 3.3287110328674316
+Tau Batch number 296
+Mean K 6
+with time 3.308231830596924
+Tau Batch number 297
+Mean K 6
+with time 3.2997725009918213
+Tau Batch number 298
+Mean K 6
+with time 3.279477119445801
+Tau Batch number 299
+Mean K 6
+with time 3.2889342308044434
+Tau Batch number 300
+Mean K 6
+with time 3.342153787612915
+Tau Batch number 301
+Mean K 6
+with time 3.331488847732544
+Tau Batch number 302
+Mean K 6
+with time 3.2983179092407227
+Tau Batch number 303
+Mean K 6
+with time 3.3176093101501465
+Tau Batch number 304
+Mean K 6
+with time 3.337477922439575
+Tau Batch number 305
+Mean K 6
+with time 3.2789175510406494
+Tau Batch number 306
+Mean K 6
+with time 3.292506456375122
+Tau Batch number 307
+Mean K 6
+with time 3.294210433959961
+Tau Batch number 308
+Mean K 6
+with time 3.3659417629241943
+Tau Batch number 309
+Mean K 6
+with time 3.364292621612549
+Tau Batch number 310
+Mean K 6
+with time 3.302123785018921
+Tau Batch number 311
+Mean K 6
+with time 3.2825405597686768
+Tau Batch number 312
+Mean K 6
+with time 3.2770886421203613
+Tau Batch number 313
+Mean K 6
+with time 3.28741192817688
+Tau Batch number 314
+Mean K 6
+with time 3.3176681995391846
+Tau Batch number 315
+Mean K 6
+with time 3.3210222721099854
+Tau Batch number 316
+Mean K 6
+with time 3.272578477859497
+Tau Batch number 317
+Mean K 6
+with time 3.319195508956909
+Tau Batch number 318
+Mean K 6
+with time 3.3197765350341797
+Tau Batch number 319
+Mean K 6
+with time 3.3008949756622314
+Tau Batch number 320
+Mean K 6
+with time 3.2934763431549072
+Tau Batch number 321
+Mean K 6
+with time 3.330002546310425
+Tau Batch number 322
+Mean K 6
+with time 3.3561394214630127
+Tau Batch number 323
+Mean K 6
+with time 3.3578619956970215
+Tau Batch number 324
+Mean K 6
+with time 3.3199002742767334
+Tau Batch number 325
+Mean K 6
+with time 3.290811061859131
+Tau Batch number 326
+Mean K 6
+with time 3.330408811569214
+Tau Batch number 327
+Mean K 6
+with time 3.3009440898895264
+Tau Batch number 328
+Mean K 6
+with time 3.2683944702148438
+Tau Batch number 329
+Mean K 6
+with time 3.3020782470703125
+Tau Batch number 330
+Mean K 6
+with time 3.3007280826568604
+Tau Batch number 331
+Mean K 6
+with time 3.322758436203003
+Tau Batch number 332
+Mean K 6
+with time 3.299421548843384
+Tau Batch number 333
+Mean K 6
+with time 3.3774187564849854
+Tau Batch number 334
+Mean K 6
+with time 3.3364505767822266
+Tau Batch number 335
+Mean K 6
+with time 3.3315651416778564
+Tau Batch number 336
+Mean K 6
+with time 3.3033342361450195
+Tau Batch number 337
+Mean K 6
+with time 3.4626331329345703
+Tau Batch number 338
+Mean K 6
+with time 3.321655511856079
+Tau Batch number 339
+Mean K 6
+with time 3.3306567668914795
+Tau Batch number 340
+Mean K 6
+with time 3.31447696685791
+Tau Batch number 341
+Mean K 6
+with time 3.274397373199463
+Tau Batch number 342
+Mean K 6
+with time 3.3283021450042725
+Tau Batch number 343
+Mean K 6
+with time 3.289368152618408
+Tau Batch number 344
+Mean K 6
+with time 3.2978341579437256
+Tau Batch number 345
+Mean K 6
+with time 3.284666061401367
+Tau Batch number 346
+Mean K 6
+with time 3.2720518112182617
+Tau Batch number 347
+Mean K 6
+with time 3.317363739013672
+Tau Batch number 348
+Mean K 6
+with time 3.2977397441864014
+Tau Batch number 349
+Mean K 6
+with time 3.2829346656799316
+Tau Batch number 350
+Mean K 6
+with time 3.285902261734009
+Tau Batch number 351
+Mean K 6
+with time 3.2889580726623535
+Tau Batch number 352
+Mean K 6
+with time 3.2760300636291504
+Tau Batch number 353
+Mean K 6
+with time 3.259016752243042
+Tau Batch number 354
+Mean K 6
+with time 3.312140464782715
+Tau Batch number 355
+Mean K 6
+with time 3.264737606048584
+Tau Batch number 356
+Mean K 6
+with time 3.2706315517425537
+Tau Batch number 357
+Mean K 6
+with time 3.2677195072174072
+Tau Batch number 358
+Mean K 6
+with time 3.3459746837615967
+Tau Batch number 359
+Mean K 6
+with time 3.254004716873169
+Tau Batch number 360
+Mean K 6
+with time 3.311812400817871
+Tau Batch number 361
+Mean K 6
+with time 3.366943836212158
+Tau Batch number 362
+Mean K 6
+with time 3.270786762237549
+Tau Batch number 363
+Mean K 6
+with time 3.306204319000244
+Tau Batch number 364
+Mean K 6
+with time 3.317763566970825
+Tau Batch number 365
+Mean K 6
+with time 3.2923433780670166
+Tau Batch number 366
+Mean K 6
+with time 3.3872313499450684
+Tau Batch number 367
+Mean K 6
+with time 3.275965929031372
+Tau Batch number 368
+Mean K 6
+with time 3.310251235961914
+Tau Batch number 369
+Mean K 6
+with time 3.2605950832366943
+Tau Batch number 370
+Mean K 6
+with time 3.303757429122925
+Tau Batch number 371
+Mean K 6
+with time 3.2958054542541504
+Tau Batch number 372
+Mean K 6
+with time 3.256730556488037
+Tau Batch number 373
+Mean K 6
+with time 3.312774419784546
+Tau Batch number 374
+Mean K 6
+with time 3.3098580837249756
+Tau Batch number 375
+Mean K 6
+with time 3.2960383892059326
+Tau Batch number 376
+Mean K 6
+with time 3.361760139465332
+Tau Batch number 377
+Mean K 6
+with time 3.3147904872894287
+Tau Batch number 378
+Mean K 6
+with time 3.3036623001098633
+Tau Batch number 379
+Mean K 6
+with time 3.3225865364074707
+Tau Batch number 380
+Mean K 6
+with time 3.329413414001465
+Tau Batch number 381
+Mean K 6
+with time 3.4132258892059326
+Tau Batch number 382
+Mean K 6
+with time 3.3198602199554443
+Tau Batch number 383
+Mean K 6
+with time 3.2832040786743164
+Tau Batch number 384
+Mean K 6
+with time 3.284860372543335
+Tau Batch number 385
+Mean K 6
+with time 3.2507522106170654
+Tau Batch number 386
+Mean K 6
+with time 3.2571983337402344
+Tau Batch number 387
+Mean K 6
+with time 3.268460512161255
+Tau Batch number 388
+Mean K 6
+with time 3.338210344314575
+Tau Batch number 389
+Mean K 6
+with time 3.293182611465454
+Tau Batch number 390
+Mean K 6
+with time 3.3110437393188477
+Tau Batch number 391
+Mean K 6
+with time 3.309652805328369
+Tau Batch number 392
+Mean K 6
+with time 3.284027576446533
+Tau Batch number 393
+Mean K 6
+with time 3.326326608657837
+Tau Batch number 394
+Mean K 6
+with time 3.291734218597412
+Tau Batch number 395
+Mean K 6
+with time 3.3115580081939697
+Tau Batch number 396
+Mean K 6
+with time 3.3039445877075195
+Tau Batch number 397
+Mean K 6
+with time 3.2710039615631104
+Tau Batch number 398
+Mean K 6
+with time 3.30936861038208
+Tau Batch number 399
+Mean K 6
+with time 3.3626692295074463
+Tau Batch number 400
+Mean K 6
+with time 3.2945094108581543
+Tau Batch number 401
+Mean K 6
+with time 3.322817087173462
+Tau Batch number 402
+Mean K 6
+with time 3.2866549491882324
+Tau Batch number 403
+Mean K 6
+with time 3.289431571960449
+Tau Batch number 404
+Mean K 6
+with time 3.3556480407714844
+Tau Batch number 405
+Mean K 6
+with time 3.284862756729126
+Tau Batch number 406
+Mean K 6
+with time 3.332845449447632
+Tau Batch number 407
+Mean K 6
+with time 3.3263778686523438
+Tau Batch number 408
+Mean K 6
+with time 3.305743455886841
+Tau Batch number 409
+Mean K 6
+with time 3.3586533069610596
+Tau Batch number 410
+Mean K 6
+with time 3.3398303985595703
+Tau Batch number 411
+Mean K 6
+with time 3.304982900619507
+Tau Batch number 412
+Mean K 6
+with time 3.2600834369659424
+Tau Batch number 413
+Mean K 6
+with time 3.326139450073242
+Tau Batch number 414
+Mean K 6
+with time 3.259979248046875
+Tau Batch number 415
+Mean K 6
+with time 3.288607120513916
+Tau Batch number 416
+Mean K 6
+with time 3.407506227493286
+Tau Batch number 417
+Mean K 6
+with time 3.344883918762207
+Tau Batch number 418
+Mean K 6
+with time 3.3265602588653564
+Tau Batch number 419
+Mean K 6
+with time 3.314765691757202
+Tau Batch number 420
+Mean K 6
+with time 3.2940783500671387
+Tau Batch number 421
+Mean K 6
+with time 3.263500690460205
+Tau Batch number 422
+Mean K 6
+with time 3.3256754875183105
+Tau Batch number 423
+Mean K 6
+with time 3.254176139831543
+Tau Batch number 424
+Mean K 6
+with time 3.2474563121795654
+Tau Batch number 425
+Mean K 6
+with time 3.319124698638916
+Tau Batch number 426
+Mean K 6
+with time 3.2880477905273438
+Tau Batch number 427
+Mean K 6
+with time 3.2910661697387695
+Tau Batch number 428
+Mean K 6
+with time 3.280649423599243
+Tau Batch number 429
+Mean K 6
+with time 3.2737879753112793
+Tau Batch number 430
+Mean K 6
+with time 3.280585527420044
+Tau Batch number 431
+Mean K 6
+with time 3.348788022994995
+Tau Batch number 432
+Mean K 6
+with time 3.2909107208251953
+Tau Batch number 433
+Mean K 6
+with time 3.28239369392395
+Tau Batch number 434
+Mean K 6
+with time 3.2856802940368652
+Tau Batch number 435
+Mean K 6
+with time 3.327188491821289
+Tau Batch number 436
+Mean K 6
+with time 3.2305636405944824
+Tau Batch number 437
+Mean K 6
+with time 3.3174524307250977
+Tau Batch number 438
+Mean K 6
+with time 3.3352065086364746
+Tau Batch number 439
+Mean K 6
+with time 3.2641289234161377
+Tau Batch number 440
+Mean K 6
+with time 3.2703499794006348
+Tau Batch number 441
+Mean K 6
+with time 3.3145241737365723
+Tau Batch number 442
+Mean K 6
+with time 3.339048385620117
+Tau Batch number 443
+Mean K 6
+with time 3.2477216720581055
+Tau Batch number 444
+Mean K 6
+with time 3.3024935722351074
+Tau Batch number 445
+Mean K 6
+with time 3.313988208770752
+Tau Batch number 446
+Mean K 6
+with time 3.288975477218628
+Tau Batch number 447
+Mean K 6
+with time 3.2925570011138916
+Tau Batch number 448
+Mean K 6
+with time 3.3144044876098633
+Tau Batch number 449
+Mean K 6
+with time 3.2990152835845947
+Tau Batch number 450
+Mean K 6
+with time 3.277400493621826
+Tau Batch number 451
+Mean K 6
+with time 3.292358636856079
+Tau Batch number 452
+Mean K 6
+with time 3.2781147956848145
+Tau Batch number 453
+Mean K 6
+with time 3.266326904296875
+Tau Batch number 454
+Mean K 6
+with time 3.27427339553833
+Tau Batch number 455
+Mean K 6
+with time 3.2655723094940186
+Tau Batch number 456
+Mean K 6
+with time 3.246272087097168
+Tau Batch number 457
+Mean K 6
+with time 3.3319785594940186
+Tau Batch number 458
+Mean K 6
+with time 3.3102428913116455
+Tau Batch number 459
+Mean K 6
+with time 3.32710599899292
+Tau Batch number 460
+Mean K 6
+with time 3.287137985229492
+Tau Batch number 461
+Mean K 6
+with time 3.3743221759796143
+Tau Batch number 462
+Mean K 6
+with time 3.28487229347229
+Tau Batch number 463
+Mean K 6
+with time 3.3116235733032227
+Tau Batch number 464
+Mean K 6
+with time 3.2773587703704834
+Tau Batch number 465
+Mean K 6
+with time 3.2722365856170654
+Tau Batch number 466
+Mean K 6
+with time 3.3237733840942383
+Tau Batch number 467
+Mean K 6
+with time 3.2996277809143066
+Tau Batch number 468
+Mean K 6
+with time 3.267666816711426
+Tau Batch number 469
+Mean K 6
+with time 3.255140781402588
+Tau Batch number 470
+Mean K 6
+with time 3.277096748352051
+Tau Batch number 471
+Mean K 6
+with time 3.347365617752075
+Tau Batch number 472
+Mean K 6
+with time 3.287865161895752
+Tau Batch number 473
+Mean K 6
+with time 3.291249990463257
+Tau Batch number 474
+Mean K 6
+with time 3.3406758308410645
+Tau Batch number 475
+Mean K 6
+with time 3.302945852279663
+Tau Batch number 476
+Mean K 6
+with time 3.393059253692627
+Tau Batch number 477
+Mean K 6
+with time 3.303307294845581
+Tau Batch number 478
+Mean K 6
+with time 3.319303274154663
+Tau Batch number 479
+Mean K 6
+with time 3.2913296222686768
+Tau Batch number 480
+Mean K 6
+with time 3.3705642223358154
+Tau Batch number 481
+Mean K 6
+with time 3.2835960388183594
+Tau Batch number 482
+Mean K 6
+with time 3.2893903255462646
+Tau Batch number 483
+Mean K 6
+with time 3.2793540954589844
+Tau Batch number 484
+Mean K 6
+with time 3.3160719871520996
+Tau Batch number 485
+Mean K 6
+with time 3.3253021240234375
+Tau Batch number 486
+Mean K 6
+with time 3.3966572284698486
+Tau Batch number 487
+Mean K 6
+with time 3.32808518409729
+Tau Batch number 488
+Mean K 6
+with time 3.276683807373047
+Tau Batch number 489
+Mean K 6
+with time 3.3380515575408936
+Tau Batch number 490
+Mean K 6
+with time 3.3074820041656494
+Tau Batch number 491
+Mean K 6
+with time 3.2823410034179688
+Tau Batch number 492
+Mean K 6
+with time 3.2894182205200195
+Tau Batch number 493
+Mean K 6
+with time 3.298226833343506
+Tau Batch number 494
+Mean K 6
+with time 3.2936489582061768
+Tau Batch number 495
+Mean K 6
+with time 3.3395683765411377
+Tau Batch number 496
+Mean K 6
+with time 3.2830071449279785
+Tau Batch number 497
+Mean K 6
+with time 3.3055663108825684
+Tau Batch number 498
+Mean K 6
+with time 3.2687931060791016
+Tau Batch number 499
+Mean K 6
+with time 3.309488534927368
+Tau Batch number 500
+Mean K 6
+with time 3.348690986633301
+Tau Batch number 501
+Mean K 6
+with time 3.284946918487549
+Tau Batch number 502
+Mean K 6
+with time 3.2649009227752686
+Tau Batch number 503
+Mean K 6
+with time 3.2938902378082275
+Tau Batch number 504
+Mean K 6
+with time 3.2843575477600098
+Tau Batch number 505
+Mean K 6
+with time 3.2555432319641113
+Tau Batch number 506
+Mean K 6
+with time 3.3149166107177734
+Tau Batch number 507
+Mean K 6
+with time 3.339665412902832
+Tau Batch number 508
+Mean K 6
+with time 3.2594733238220215
+Tau Batch number 509
+Mean K 6
+with time 3.2686119079589844
+Tau Batch number 510
+Mean K 6
+with time 3.279689311981201
+Tau Batch number 511
+Mean K 6
+with time 3.2938756942749023
+Tau Batch number 512
+Mean K 6
+with time 3.305466413497925
+Tau Batch number 513
+Mean K 6
+with time 3.2878904342651367
+Tau Batch number 514
+Mean K 6
+with time 3.266181468963623
+Tau Batch number 515
+Mean K 6
+with time 3.317141532897949
+Tau Batch number 516
+Mean K 6
+with time 3.2844791412353516
+Tau Batch number 517
+Mean K 6
+with time 3.330773115158081
+Tau Batch number 518
+Mean K 6
+with time 3.271205186843872
+Tau Batch number 519
+Mean K 6
+with time 3.411815643310547
+Tau Batch number 520
+Mean K 6
+with time 3.373655080795288
+Tau Batch number 521
+Mean K 6
+with time 3.333848714828491
+Tau Batch number 522
+Mean K 6
+with time 3.358774185180664
+Tau Batch number 523
+Mean K 6
+with time 3.287198781967163
+Tau Batch number 524
+Mean K 6
+with time 3.3016953468322754
+Tau Batch number 525
+Mean K 6
+with time 3.2977540493011475
+Tau Batch number 526
+Mean K 6
+with time 3.3647048473358154
+Tau Batch number 527
+Mean K 6
+with time 3.3073570728302
+Tau Batch number 528
+Mean K 6
+with time 3.2910573482513428
+Tau Batch number 529
+Mean K 6
+with time 3.3025267124176025
+Tau Batch number 530
+Mean K 6
+with time 3.295799970626831
+Tau Batch number 531
+Mean K 6
+with time 3.25050687789917
+Tau Batch number 532
+Mean K 6
+with time 3.3003811836242676
+Tau Batch number 533
+Mean K 6
+with time 3.3366663455963135
+Tau Batch number 534
+Mean K 6
+with time 3.3251850605010986
+Tau Batch number 535
+Mean K 6
+with time 3.3106331825256348
+Tau Batch number 536
+Mean K 6
+with time 3.370027780532837
+Tau Batch number 537
+Mean K 6
+with time 3.2889153957366943
+Tau Batch number 538
+Mean K 6
+with time 3.3405513763427734
+Tau Batch number 539
+Mean K 6
+with time 3.326143264770508
+Tau Batch number 540
+Mean K 6
+with time 3.2573482990264893
+Tau Batch number 541
+Mean K 6
+with time 3.3432223796844482
+Tau Batch number 542
+Mean K 6
+with time 3.253945827484131
+Tau Batch number 543
+Mean K 6
+with time 3.3119564056396484
+Tau Batch number 544
+Mean K 6
+with time 3.3215255737304688
+Tau Batch number 545
+Mean K 6
+with time 3.274984359741211
+Tau Batch number 546
+Mean K 6
+with time 3.2237019538879395
+Tau Batch number 547
+Mean K 6
+with time 3.291389226913452
+Tau Batch number 548
+Mean K 6
+with time 3.292348623275757
+Tau Batch number 549
+Mean K 6
+with time 3.2700250148773193
+Tau Batch number 550
+Mean K 6
+with time 3.3640830516815186
+Tau Batch number 551
+Mean K 6
+with time 3.2673470973968506
+Tau Batch number 552
+Mean K 6
+with time 3.2762157917022705
+Tau Batch number 553
+Mean K 6
+with time 3.2954907417297363
+Tau Batch number 554
+Mean K 6
+with time 3.3750579357147217
+Tau Batch number 555
+Mean K 6
+with time 3.3414700031280518
+Tau Batch number 556
+Mean K 6
+with time 3.293639659881592
+Tau Batch number 557
+Mean K 6
+with time 3.3232834339141846
+Tau Batch number 558
+Mean K 6
+with time 3.322200298309326
+Tau Batch number 559
+Mean K 6
+with time 3.322415351867676
+Tau Batch number 560
+Mean K 6
+with time 3.294180393218994
+Tau Batch number 561
+Mean K 6
+with time 3.3927502632141113
+Tau Batch number 562
+Mean K 6
+with time 3.266688823699951
+Tau Batch number 563
+Mean K 6
+with time 3.272630453109741
+Tau Batch number 564
+Mean K 6
+with time 3.3332579135894775
+Tau Batch number 565
+Mean K 6
+with time 3.3202767372131348
+Tau Batch number 566
+Mean K 6
+with time 3.313307046890259
+Tau Batch number 567
+Mean K 6
+with time 3.3243017196655273
+Tau Batch number 568
+Mean K 6
+with time 3.3139266967773438
+Tau Batch number 569
+Mean K 6
+with time 3.297947406768799
+Tau Batch number 570
+Mean K 6
+with time 3.3505988121032715
+Tau Batch number 571
+Mean K 6
+with time 3.3287911415100098
+Tau Batch number 572
+Mean K 6
+with time 3.2416059970855713
+Tau Batch number 573
+Mean K 6
+with time 3.32127046585083
+Tau Batch number 574
+Mean K 6
+with time 3.2955918312072754
+Tau Batch number 575
+Mean K 6
+with time 3.3115415573120117
+Tau Batch number 576
+Mean K 6
+with time 3.2964272499084473
+Tau Batch number 577
+Mean K 6
+with time 3.322049856185913
+Tau Batch number 578
+Mean K 6
+with time 3.3301050662994385
+Tau Batch number 579
+Mean K 6
+with time 3.265974521636963
+Tau Batch number 580
+Mean K 6
+with time 3.3630077838897705
+Tau Batch number 581
+Mean K 6
+with time 3.277566909790039
+Tau Batch number 582
+Mean K 6
+with time 3.260369300842285
+Tau Batch number 583
+Mean K 6
+with time 3.263180732727051
+Tau Batch number 584
+Mean K 6
+with time 3.279344320297241
+Tau Batch number 585
+Mean K 6
+with time 3.362247943878174
+Tau Batch number 586
+Mean K 6
+with time 3.310708999633789
+Tau Batch number 587
+Mean K 6
+with time 3.3163564205169678
+Tau Batch number 588
+Mean K 6
+with time 3.3005576133728027
+Tau Batch number 589
+Mean K 6
+with time 3.2961502075195312
+Tau Batch number 590
+Mean K 6
+with time 3.277998685836792
+Tau Batch number 591
+Mean K 6
+with time 3.3119871616363525
+Tau Batch number 592
+Mean K 6
+with time 3.305422306060791
+Tau Batch number 593
+Mean K 6
+with time 3.3233673572540283
+Tau Batch number 594
+Mean K 6
+with time 3.350811719894409
+Tau Batch number 595
+Mean K 6
+with time 3.2994089126586914
+Tau Batch number 596
+Mean K 6
+with time 3.250262975692749
+Tau Batch number 597
+Mean K 6
+with time 3.3119919300079346
+Tau Batch number 598
+Mean K 6
+with time 3.341615915298462
+Tau Batch number 599
+Mean K 6
+with time 3.3184001445770264
+Tau Batch number 600
+Mean K 6
+with time 3.297644853591919
+Tau Batch number 601
+Mean K 6
+with time 3.284445285797119
+Tau Batch number 602
+Mean K 6
+with time 3.3097217082977295
+Tau Batch number 603
+Mean K 6
+with time 3.3750367164611816
+Tau Batch number 604
+Mean K 6
+with time 3.3228816986083984
+Tau Batch number 605
+Mean K 6
+with time 3.287734270095825
+Tau Batch number 606
+Mean K 6
+with time 3.351923942565918
+Tau Batch number 607
+Mean K 6
+with time 3.316570281982422
+Tau Batch number 608
+Mean K 6
+with time 3.361452102661133
+Tau Batch number 609
+Mean K 6
+with time 3.3906829357147217
+Tau Batch number 610
+Mean K 6
+with time 3.3358635902404785
+Tau Batch number 611
+Mean K 6
+with time 3.338557481765747
+Tau Batch number 612
+Mean K 6
+with time 3.2938435077667236
+Tau Batch number 613
+Mean K 6
+with time 3.261009693145752
+Tau Batch number 614
+Mean K 6
+with time 3.2768521308898926
+Tau Batch number 615
+Mean K 6
+with time 3.313154697418213
+Tau Batch number 616
+Mean K 6
+with time 3.34826397895813
+Tau Batch number 617
+Mean K 6
+with time 3.3795766830444336
+Tau Batch number 618
+Mean K 6
+with time 3.3321099281311035
+Tau Batch number 619
+Mean K 6
+with time 3.313218593597412
+Tau Batch number 620
+Mean K 6
+with time 3.3198935985565186
+Tau Batch number 621
+Mean K 6
+with time 3.3298683166503906
+Tau Batch number 622
+Mean K 6
+with time 3.324251413345337
+Tau Batch number 623
+Mean K 6
+with time 3.3102433681488037
+Tau Batch number 624
+Mean K 6
+with time 3.2864038944244385
+Tau Batch number 625
+Mean K 6
+with time 3.3081727027893066
+Tau Batch number 626
+Mean K 6
+with time 3.3364522457122803
+Tau Batch number 627
+Mean K 6
+with time 3.3355977535247803
+Tau Batch number 628
+Mean K 6
+with time 3.3436520099639893
+Tau Batch number 629
+Mean K 6
+with time 3.274906873703003
+Tau Batch number 630
+Mean K 6
+with time 3.3031504154205322
+Tau Batch number 631
+Mean K 6
+with time 3.3671514987945557
+Tau Batch number 632
+Mean K 6
+with time 3.32517147064209
+Tau Batch number 633
+Mean K 6
+with time 3.3054676055908203
+Tau Batch number 634
+Mean K 6
+with time 3.4813947677612305
+Tau Batch number 635
+Mean K 6
+with time 3.3064844608306885
+Tau Batch number 636
+Mean K 6
+with time 3.2989583015441895
+Tau Batch number 637
+Mean K 6
+with time 3.3462729454040527
+Tau Batch number 638
+Mean K 6
+with time 3.3374361991882324
+Tau Batch number 639
+Mean K 6
+with time 3.3210012912750244
+Tau Batch number 640
+Mean K 6
+with time 3.27195143699646
+Tau Batch number 641
+Mean K 6
+with time 3.3183605670928955
+Tau Batch number 642
+Mean K 6
+with time 3.350289821624756
+Tau Batch number 643
+Mean K 6
+with time 3.3328285217285156
+Tau Batch number 644
+Mean K 6
+with time 3.248115301132202
+Tau Batch number 645
+Mean K 6
+with time 3.264112710952759
+Tau Batch number 646
+Mean K 6
+with time 3.2875916957855225
+Tau Batch number 647
+Mean K 6
+with time 3.275005578994751
+Tau Batch number 648
+Mean K 6
+with time 3.356698513031006
+Tau Batch number 649
+Mean K 6
+with time 3.3286328315734863
+Tau Batch number 650
+Mean K 6
+with time 3.368492603302002
+Tau Batch number 651
+Mean K 6
+with time 3.307779550552368
+Tau Batch number 652
+Mean K 6
+with time 3.3122074604034424
+Tau Batch number 653
+Mean K 6
+with time 3.282655715942383
+Tau Batch number 654
+Mean K 6
+with time 3.278721570968628
+Tau Batch number 655
+Mean K 6
+with time 3.318903684616089
+Tau Batch number 656
+Mean K 6
+with time 3.312370538711548
+Tau Batch number 657
+Mean K 6
+with time 3.2987003326416016
+Tau Batch number 658
+Mean K 6
+with time 3.2957723140716553
+Tau Batch number 659
+Mean K 6
+with time 3.3118369579315186
+Tau Batch number 660
+Mean K 6
+with time 3.262810230255127
+Tau Batch number 661
+Mean K 6
+with time 3.330012798309326
+Tau Batch number 662
+Mean K 6
+with time 3.2382102012634277
+Tau Batch number 663
+Mean K 6
+with time 3.2801384925842285
+Tau Batch number 664
+Mean K 6
+with time 3.3396384716033936
+Tau Batch number 665
+Mean K 6
+with time 3.2760891914367676
+Tau Batch number 666
+Mean K 6
+with time 3.3002805709838867
+Tau Batch number 667
+Mean K 6
+with time 3.3331894874572754
+Tau Batch number 668
+Mean K 6
+with time 3.319399833679199
+Tau Batch number 669
+Mean K 6
+with time 3.43363094329834
+Tau Batch number 670
+Mean K 6
+with time 3.480400800704956
+Tau Batch number 671
+Mean K 6
+with time 3.328530788421631
+Tau Batch number 672
+Mean K 6
+with time 3.317744493484497
+Tau Batch number 673
+Mean K 6
+with time 3.274824857711792
+Tau Batch number 674
+Mean K 6
+with time 3.336496114730835
+Tau Batch number 675
+Mean K 6
+with time 3.2141575813293457
+Tau Batch number 676
+Mean K 6
+with time 3.2427725791931152
+Tau Batch number 677
+Mean K 6
+with time 3.2408010959625244
+Tau Batch number 678
+Mean K 6
+with time 3.298818349838257
+Tau Batch number 679
+Mean K 6
+with time 3.2840287685394287
+Tau Batch number 680
+Mean K 6
+with time 3.2517712116241455
+Tau Batch number 681
+Mean K 6
+with time 3.3053460121154785
+Tau Batch number 682
+Mean K 6
+with time 3.263388156890869
+Tau Batch number 683
+Mean K 6
+with time 3.2934927940368652
+Tau Batch number 684
+Mean K 6
+with time 3.2742254734039307
+Tau Batch number 685
+Mean K 6
+with time 3.3267569541931152
+Tau Batch number 686
+Mean K 6
+with time 3.265787363052368
+Tau Batch number 687
+Mean K 6
+with time 3.245270013809204
+Tau Batch number 688
+Mean K 6
+with time 3.272176742553711
+Tau Batch number 689
+Mean K 6
+with time 3.3115506172180176
+Tau Batch number 690
+Mean K 6
+with time 3.244534492492676
+Tau Batch number 691
+Mean K 6
+with time 3.2871580123901367
+Tau Batch number 692
+Mean K 6
+with time 3.275167226791382
+Tau Batch number 693
+Mean K 6
+with time 3.237633228302002
+Tau Batch number 694
+Mean K 6
+with time 3.2693326473236084
+Tau Batch number 695
+Mean K 6
+with time 3.2546284198760986
+Tau Batch number 696
+Mean K 6
+with time 3.288642644882202
+Tau Batch number 697
+Mean K 6
+with time 3.275054454803467
+Tau Batch number 698
+Mean K 6
+with time 3.2842767238616943
+Tau Batch number 699
+Mean K 6
+with time 3.3322410583496094
+Tau Batch number 700
+Mean K 6
+with time 3.3115408420562744
+Tau Batch number 701
+Mean K 6
+with time 3.307997703552246
+Tau Batch number 702
+Mean K 6
+with time 3.2462549209594727
+Tau Batch number 703
+Mean K 6
+with time 3.3118319511413574
+Tau Batch number 704
+Mean K 6
+with time 3.3119845390319824
+Tau Batch number 705
+Mean K 6
+with time 3.2364487648010254
+Tau Batch number 706
+Mean K 6
+with time 3.318573474884033
+Tau Batch number 707
+Mean K 6
+with time 3.345960855484009
+Tau Batch number 708
+Mean K 6
+with time 3.25844407081604
+Tau Batch number 709
+Mean K 6
+with time 3.275461196899414
+Tau Batch number 710
+Mean K 6
+with time 3.272907018661499
+Tau Batch number 711
+Mean K 6
+with time 3.2749180793762207
+Tau Batch number 712
+Mean K 6
+with time 3.2966554164886475
+Tau Batch number 713
+Mean K 6
+with time 3.3308513164520264
+Tau Batch number 714
+Mean K 6
+with time 3.2834208011627197
+Tau Batch number 715
+Mean K 6
+with time 3.258516311645508
+Tau Batch number 716
+Mean K 6
+with time 3.3031487464904785
+Tau Batch number 717
+Mean K 6
+with time 3.3357796669006348
+Tau Batch number 718
+Mean K 6
+with time 3.379859447479248
+Tau Batch number 719
+Mean K 6
+with time 3.2855777740478516
+Tau Batch number 720
+Mean K 6
+with time 3.291682481765747
+Tau Batch number 721
+Mean K 6
+with time 3.310365676879883
+Tau Batch number 722
+Mean K 6
+with time 3.3647260665893555
+Tau Batch number 723
+Mean K 6
+with time 3.3178982734680176
+Tau Batch number 724
+Mean K 6
+with time 3.336040735244751
+Tau Batch number 725
+Mean K 6
+with time 3.279052257537842
+Tau Batch number 726
+Mean K 6
+with time 3.2766804695129395
+Tau Batch number 727
+Mean K 6
+with time 3.3632922172546387
+Tau Batch number 728
+Mean K 6
+with time 3.2579331398010254
+Tau Batch number 729
+Mean K 6
+with time 3.318502426147461
+Tau Batch number 730
+Mean K 6
+with time 3.280261516571045
+Tau Batch number 731
+Mean K 6
+with time 3.2988193035125732
+Tau Batch number 732
+Mean K 6
+with time 3.3006606101989746
+Tau Batch number 733
+Mean K 6
+with time 3.280031442642212
+Tau Batch number 734
+Mean K 6
+with time 3.2634024620056152
+Tau Batch number 735
+Mean K 6
+with time 3.2962682247161865
+Tau Batch number 736
+Mean K 6
+with time 3.2949655055999756
+Tau Batch number 737
+Mean K 6
+with time 3.3117501735687256
+Tau Batch number 738
+Mean K 6
+with time 3.362640142440796
+Tau Batch number 739
+Mean K 6
+with time 3.2542977333068848
+Tau Batch number 740
+Mean K 6
+with time 3.3598225116729736
+Tau Batch number 741
+Mean K 6
+with time 3.249797821044922
+Tau Batch number 742
+Mean K 6
+with time 3.2805657386779785
+Tau Batch number 743
+Mean K 6
+with time 3.3609981536865234
+Tau Batch number 744
+Mean K 6
+with time 3.3019511699676514
+Tau Batch number 745
+Mean K 6
+with time 3.2566885948181152
+Tau Batch number 746
+Mean K 6
+with time 3.3057968616485596
+Tau Batch number 747
+Mean K 6
+with time 3.2828166484832764
+Tau Batch number 748
+Mean K 6
+with time 3.3103880882263184
+Tau Batch number 749
+Mean K 6
+with time 3.3081681728363037
+Tau Batch number 750
+Mean K 6
+with time 3.348609685897827
+Tau Batch number 751
+Mean K 6
+with time 3.36421537399292
+Tau Batch number 752
+Mean K 6
+with time 3.3379244804382324
+Tau Batch number 753
+Mean K 6
+with time 3.320542335510254
+Tau Batch number 754
+Mean K 6
+with time 3.267849922180176
+Tau Batch number 755
+Mean K 6
+with time 3.2755444049835205
+Tau Batch number 756
+Mean K 6
+with time 3.3311100006103516
+Tau Batch number 757
+Mean K 6
+with time 3.2968084812164307
+Tau Batch number 758
+Mean K 6
+with time 3.2923054695129395
+Tau Batch number 759
+Mean K 6
+with time 3.2581377029418945
+Tau Batch number 760
+Mean K 6
+with time 3.2837743759155273
+Tau Batch number 761
+Mean K 6
+with time 3.318249225616455
+Tau Batch number 762
+Mean K 6
+with time 3.314462184906006
+Tau Batch number 763
+Mean K 6
+with time 3.3668313026428223
+Tau Batch number 764
+Mean K 6
+with time 3.2605345249176025
+Tau Batch number 765
+Mean K 6
+with time 3.2633414268493652
+Tau Batch number 766
+Mean K 6
+with time 3.335503339767456
+Tau Batch number 767
+Mean K 6
+with time 3.3000919818878174
+Tau Batch number 768
+Mean K 6
+with time 3.3047454357147217
+Tau Batch number 769
+Mean K 6
+with time 3.282139539718628
+Tau Batch number 770
+Mean K 6
+with time 3.310048818588257
+Tau Batch number 771
+Mean K 6
+with time 3.285170793533325
+Tau Batch number 772
+Mean K 6
+with time 3.2317912578582764
+Tau Batch number 773
+Mean K 6
+with time 3.2763428688049316
+Tau Batch number 774
+Mean K 6
+with time 3.2681453227996826
+Tau Batch number 775
+Mean K 6
+with time 3.314741373062134
+Tau Batch number 776
+Mean K 6
+with time 3.306652784347534
+Tau Batch number 777
+Mean K 6
+with time 3.2671515941619873
+Tau Batch number 778
+Mean K 6
+with time 3.2311794757843018
+Tau Batch number 779
+Mean K 6
+with time 3.269658327102661
+Tau Batch number 780
+Mean K 6
+with time 3.452817916870117
+Tau Batch number 781
+Mean K 6
+with time 3.271916627883911
+Tau Batch number 782
+Mean K 6
+with time 3.257072687149048
+Tau Batch number 783
+Mean K 6
+with time 3.2680208683013916
+Tau Batch number 784
+Mean K 6
+with time 3.245178699493408
+Tau Batch number 785
+Mean K 6
+with time 3.2562737464904785
+Tau Batch number 786
+Mean K 6
+with time 3.3347890377044678
+Tau Batch number 787
+Mean K 6
+with time 3.296053409576416
+Tau Batch number 788
+Mean K 6
+with time 3.322035789489746
+Tau Batch number 789
+Mean K 6
+with time 3.303839921951294
+Tau Batch number 790
+Mean K 6
+with time 3.278473377227783
+Tau Batch number 791
+Mean K 6
+with time 3.338940143585205
+Tau Batch number 792
+Mean K 6
+with time 3.2825725078582764
+Tau Batch number 793
+Mean K 6
+with time 3.2337679862976074
+Tau Batch number 794
+Mean K 6
+with time 3.245929002761841
+Tau Batch number 795
+Mean K 6
+with time 3.2766268253326416
+Tau Batch number 796
+Mean K 6
+with time 3.3125369548797607
+Tau Batch number 797
+Mean K 6
+with time 3.29489803314209
+Tau Batch number 798
+Mean K 6
+with time 3.294719934463501
+Tau Batch number 799
+Mean K 6
+with time 3.258049488067627
+Tau Batch number 800
+Mean K 6
+with time 3.2509360313415527
+Tau Batch number 801
+Mean K 6
+with time 3.297114372253418
+Tau Batch number 802
+Mean K 6
+with time 3.2853903770446777
+Tau Batch number 803
+Mean K 6
+with time 3.2664120197296143
+Tau Batch number 804
+Mean K 6
+with time 3.238888740539551
+Tau Batch number 805
+Mean K 6
+with time 3.290314197540283
+Tau Batch number 806
+Mean K 6
+with time 3.329663038253784
+Tau Batch number 807
+Mean K 6
+with time 3.306760787963867
+Tau Batch number 808
+Mean K 6
+with time 3.242976665496826
+Tau Batch number 809
+Mean K 6
+with time 3.3261568546295166
+Tau Batch number 810
+Mean K 6
+with time 3.279146909713745
+Tau Batch number 811
+Mean K 6
+with time 3.262664556503296
+Tau Batch number 812
+Mean K 6
+with time 3.3454530239105225
+Tau Batch number 813
+Mean K 6
+with time 3.3510146141052246
+Tau Batch number 814
+Mean K 6
+with time 3.2996983528137207
+Tau Batch number 815
+Mean K 6
+with time 3.3230199813842773
+Tau Batch number 816
+Mean K 6
+with time 3.3202834129333496
+Tau Batch number 817
+Mean K 6
+with time 3.3130152225494385
+Tau Batch number 818
+Mean K 6
+with time 3.2518529891967773
+Tau Batch number 819
+Mean K 6
+with time 3.263977527618408
+Tau Batch number 820
+Mean K 6
+with time 3.2643227577209473
+Tau Batch number 821
+Mean K 6
+with time 3.2465620040893555
+Tau Batch number 822
+Mean K 6
+with time 3.3490350246429443
+Tau Batch number 823
+Mean K 6
+with time 3.2102856636047363
+Tau Batch number 824
+Mean K 6
+with time 3.2795777320861816
+Tau Batch number 825
+Mean K 6
+with time 3.2888433933258057
+Tau Batch number 826
+Mean K 6
+with time 3.2292375564575195
+Tau Batch number 827
+Mean K 6
+with time 3.319023847579956
+Tau Batch number 828
+Mean K 6
+with time 3.3826992511749268
+Tau Batch number 829
+Mean K 6
+with time 3.2894320487976074
+Tau Batch number 830
+Mean K 6
+with time 3.274466037750244
+Tau Batch number 831
+Mean K 6
+with time 3.314326047897339
+Tau Batch number 832
+Mean K 6
+with time 3.298982858657837
+Tau Batch number 833
+Mean K 6
+with time 3.2880241870880127
+Tau Batch number 834
+Mean K 6
+with time 3.2868804931640625
+Tau Batch number 835
+Mean K 6
+with time 3.2525131702423096
+Tau Batch number 836
+Mean K 6
+with time 3.272026300430298
+Tau Batch number 837
+Mean K 6
+with time 3.240542411804199
+Tau Batch number 838
+Mean K 6
+with time 3.3052070140838623
+Tau Batch number 839
+Mean K 6
+with time 3.317178249359131
+Tau Batch number 840
+Mean K 6
+with time 3.2661023139953613
+Tau Batch number 841
+Mean K 6
+with time 3.27321195602417
+Tau Batch number 842
+Mean K 6
+with time 3.265981435775757
+Tau Batch number 843
+Mean K 6
+with time 3.253803014755249
+Tau Batch number 844
+Mean K 6
+with time 3.2380337715148926
+Tau Batch number 845
+Mean K 6
+with time 3.2697622776031494
+Tau Batch number 846
+Mean K 6
+with time 3.259071111679077
+Tau Batch number 847
+Mean K 6
+with time 3.3322153091430664
+Tau Batch number 848
+Mean K 6
+with time 3.2595455646514893
+Tau Batch number 849
+Mean K 6
+with time 3.3086960315704346
+Tau Batch number 850
+Mean K 6
+with time 3.324450969696045
+Tau Batch number 851
+Mean K 6
+with time 3.3400497436523438
+Tau Batch number 852
+Mean K 6
+with time 3.295623302459717
+Tau Batch number 853
+Mean K 6
+with time 3.2483339309692383
+Tau Batch number 854
+Mean K 6
+with time 3.293801784515381
+Tau Batch number 855
+Mean K 6
+with time 3.304497241973877
+Tau Batch number 856
+Mean K 6
+with time 3.3916015625
+Tau Batch number 857
+Mean K 6
+with time 3.238754987716675
+Tau Batch number 858
+Mean K 6
+with time 3.228717088699341
+Tau Batch number 859
+Mean K 6
+with time 3.2414815425872803
+Tau Batch number 860
+Mean K 6
+with time 3.2629854679107666
+Tau Batch number 861
+Mean K 6
+with time 3.241969347000122
+Tau Batch number 862
+Mean K 6
+with time 3.282282590866089
+Tau Batch number 863
+Mean K 6
+with time 3.3332765102386475
+Tau Batch number 864
+Mean K 6
+with time 3.3062613010406494
+Tau Batch number 865
+Mean K 6
+with time 3.2606041431427
+Tau Batch number 866
+Mean K 6
+with time 3.33978533744812
+Tau Batch number 867
+Mean K 6
+with time 3.248420476913452
+Tau Batch number 868
+Mean K 6
+with time 3.2964651584625244
+Tau Batch number 869
+Mean K 6
+with time 3.309424638748169
+Tau Batch number 870
+Mean K 6
+with time 3.2820897102355957
+Tau Batch number 871
+Mean K 6
+with time 3.2550060749053955
+Tau Batch number 872
+Mean K 6
+with time 3.3339221477508545
+Tau Batch number 873
+Mean K 6
+with time 3.2340102195739746
+Tau Batch number 874
+Mean K 6
+with time 3.295949697494507
+Tau Batch number 875
+Mean K 6
+with time 3.2500109672546387
+Tau Batch number 876
+Mean K 6
+with time 3.2689595222473145
+Tau Batch number 877
+Mean K 6
+with time 3.303711414337158
+Tau Batch number 878
+Mean K 6
+with time 3.343012809753418
+Tau Batch number 879
+Mean K 6
+with time 3.2694005966186523
+Tau Batch number 880
+Mean K 6
+with time 3.2940804958343506
+Tau Batch number 881
+Mean K 6
+with time 3.2571699619293213
+Tau Batch number 882
+Mean K 6
+with time 3.261791706085205
+Tau Batch number 883
+Mean K 6
+with time 3.254711389541626
+Tau Batch number 884
+Mean K 6
+with time 3.2527196407318115
+Tau Batch number 885
+Mean K 6
+with time 3.237100839614868
+Tau Batch number 886
+Mean K 6
+with time 3.3176188468933105
+Tau Batch number 887
+Mean K 6
+with time 3.2504665851593018
+Tau Batch number 888
+Mean K 6
+with time 3.3376030921936035
+Tau Batch number 889
+Mean K 6
+with time 3.3333208560943604
+Tau Batch number 890
+Mean K 6
+with time 3.2769651412963867
+Tau Batch number 891
+Mean K 6
+with time 3.287518262863159
+Tau Batch number 892
+Mean K 6
+with time 3.309713363647461
+Tau Batch number 893
+Mean K 6
+with time 3.257979154586792
+Tau Batch number 894
+Mean K 6
+with time 3.2656795978546143
+Tau Batch number 895
+Mean K 6
+with time 3.265610933303833
+Tau Batch number 896
+Mean K 6
+with time 3.275848865509033
+Tau Batch number 897
+Mean K 6
+with time 3.2536611557006836
+Tau Batch number 898
+Mean K 6
+with time 3.2915022373199463
+Tau Batch number 899
+Mean K 6
+with time 3.317399501800537
+Tau Batch number 900
+Mean K 6
+with time 3.3408422470092773
+Tau Batch number 901
+Mean K 6
+with time 3.3119146823883057
+Tau Batch number 902
+Mean K 6
+with time 3.341127872467041
+Tau Batch number 903
+Mean K 6
+with time 3.347968101501465
+Tau Batch number 904
+Mean K 6
+with time 3.2501301765441895
+Tau Batch number 905
+Mean K 6
+with time 3.2557644844055176
+Tau Batch number 906
+Mean K 6
+with time 3.27894926071167
+Tau Batch number 907
+Mean K 6
+with time 3.2502288818359375
+Tau Batch number 908
+Mean K 6
+with time 3.230299949645996
+Tau Batch number 909
+Mean K 6
+with time 3.3071019649505615
+Tau Batch number 910
+Mean K 6
+with time 3.258068561553955
+Tau Batch number 911
+Mean K 6
+with time 3.317347764968872
+Tau Batch number 912
+Mean K 6
+with time 3.3194241523742676
+Tau Batch number 913
+Mean K 6
+with time 3.258303642272949
+Tau Batch number 914
+Mean K 6
+with time 3.2952520847320557
+Tau Batch number 915
+Mean K 6
+with time 3.32448410987854
+Tau Batch number 916
+Mean K 6
+with time 3.293212890625
+Tau Batch number 917
+Mean K 6
+with time 3.3076329231262207
+Tau Batch number 918
+Mean K 6
+with time 3.275394916534424
+Tau Batch number 919
+Mean K 6
+with time 3.252476453781128
+Tau Batch number 920
+Mean K 6
+with time 3.281175374984741
+Tau Batch number 921
+Mean K 6
+with time 3.2745535373687744
+Tau Batch number 922
+Mean K 6
+with time 3.2469797134399414
+Tau Batch number 923
+Mean K 6
+with time 3.27419114112854
+Tau Batch number 924
+Mean K 6
+with time 3.3776276111602783
+Tau Batch number 925
+Mean K 6
+with time 3.261690855026245
+Tau Batch number 926
+Mean K 6
+with time 3.4474751949310303
+Tau Batch number 927
+Mean K 6
+with time 3.299034595489502
+Tau Batch number 928
+Mean K 6
+with time 3.22822642326355
+Tau Batch number 929
+Mean K 6
+with time 3.2912864685058594
+Tau Batch number 930
+Mean K 6
+with time 3.2365193367004395
+Tau Batch number 931
+Mean K 6
+with time 3.2743659019470215
+Tau Batch number 932
+Mean K 6
+with time 3.284184217453003
+Tau Batch number 933
+Mean K 6
+with time 3.2238919734954834
+Tau Batch number 934
+Mean K 6
+with time 3.2277450561523438
+Tau Batch number 935
+Mean K 6
+with time 3.3886702060699463
+Tau Batch number 936
+Mean K 6
+with time 3.288684368133545
+Tau Batch number 937
+Mean K 6
+with time 3.302403450012207
+Tau Batch number 938
+Mean K 6
+with time 3.3070666790008545
+Tau Batch number 939
+Mean K 6
+with time 3.3365895748138428
+Tau Batch number 940
+Mean K 6
+with time 3.360957622528076
+Tau Batch number 941
+Mean K 6
+with time 3.379371404647827
+Tau Batch number 942
+Mean K 6
+with time 3.2598869800567627
+Tau Batch number 943
+Mean K 6
+with time 3.2668569087982178
+Tau Batch number 944
+Mean K 6
+with time 3.2907462120056152
+Tau Batch number 945
+Mean K 6
+with time 3.2805111408233643
+Tau Batch number 946
+Mean K 6
+with time 3.2823688983917236
+Tau Batch number 947
+Mean K 6
+with time 3.280014991760254
+Tau Batch number 948
+Mean K 6
+with time 3.291140556335449
+Tau Batch number 949
+Mean K 6
+with time 3.30143404006958
+Tau Batch number 950
+Mean K 6
+with time 3.2784461975097656
+Tau Batch number 951
+Mean K 6
+with time 3.3117706775665283
+Tau Batch number 952
+Mean K 6
+with time 3.312817335128784
+Tau Batch number 953
+Mean K 6
+with time 3.2871782779693604
+Tau Batch number 954
+Mean K 6
+with time 3.253896474838257
+Tau Batch number 955
+Mean K 6
+with time 3.312683582305908
+Tau Batch number 956
+Mean K 6
+with time 3.237489700317383
+Tau Batch number 957
+Mean K 6
+with time 3.3334853649139404
+Tau Batch number 958
+Mean K 6
+with time 3.244673013687134
+Tau Batch number 959
+Mean K 6
+with time 3.3299355506896973
+Tau Batch number 960
+Mean K 6
+with time 3.338762044906616
+Tau Batch number 961
+Mean K 6
+with time 3.304489850997925
+Tau Batch number 962
+Mean K 6
+with time 3.2929446697235107
+Tau Batch number 963
+Mean K 6
+with time 3.2630035877227783
+Tau Batch number 964
+Mean K 6
+with time 3.291612148284912
+Tau Batch number 965
+Mean K 6
+with time 3.3756866455078125
+Tau Batch number 966
+Mean K 6
+with time 3.424628496170044
+Tau Batch number 967
+Mean K 6
+with time 3.321795701980591
+Tau Batch number 968
+Mean K 6
+with time 3.2556405067443848
+Tau Batch number 969
+Mean K 6
+with time 3.2610466480255127
+Tau Batch number 970
+Mean K 6
+with time 3.3250739574432373
+Tau Batch number 971
+Mean K 6
+with time 3.2915635108947754
+Tau Batch number 972
+Mean K 6
+with time 3.3168067932128906
+Tau Batch number 973
+Mean K 6
+with time 3.3343052864074707
+Tau Batch number 974
+Mean K 6
+with time 3.306790828704834
+Tau Batch number 975
+Mean K 6
+with time 3.271975517272949
+Tau Batch number 976
+Mean K 6
+with time 3.3438565731048584
+Tau Batch number 977
+Mean K 6
+with time 3.267409563064575
+Tau Batch number 978
+Mean K 6
+with time 3.2944390773773193
+Tau Batch number 979
+Mean K 6
+with time 3.297086477279663
+Tau Batch number 980
+Mean K 6
+with time 3.325502634048462
+Tau Batch number 981
+Mean K 6
+with time 3.220031976699829
+Tau Batch number 982
+Mean K 6
+with time 3.298501491546631
+Tau Batch number 983
+Mean K 6
+with time 3.2970082759857178
+Tau Batch number 984
+Mean K 6
+with time 3.2990050315856934
+Tau Batch number 985
+Mean K 6
+with time 3.3332321643829346
+Tau Batch number 986
+Mean K 6
+with time 3.297236204147339
+Tau Batch number 987
+Mean K 6
+with time 3.2907848358154297
+Tau Batch number 988
+Mean K 6
+with time 3.2422595024108887
+Tau Batch number 989
+Mean K 6
+with time 3.2396771907806396
+Tau Batch number 990
+Mean K 6
+with time 3.2330048084259033
+Tau Batch number 991
+Mean K 6
+with time 3.2733168601989746
+Tau Batch number 992
+Mean K 6
+with time 3.255328416824341
+Tau Batch number 993
+Mean K 6
+with time 3.2605063915252686
+Tau Batch number 994
+Mean K 6
+with time 3.30810809135437
+Tau Batch number 995
+Mean K 6
+with time 3.320162296295166
+Tau Batch number 996
+Mean K 6
+with time 3.291600465774536
+Tau Batch number 997
+Mean K 6
+with time 3.288677453994751
+Tau Batch number 998
+Mean K 6
+with time 3.266984224319458
+Tau Batch number 999
+Mean K 6
+with time 3.2767252922058105

@@ -41,7 +41,6 @@ if gpus:
 a_0, b_0 = 2, 1
 
 K_list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-# K_list = [2, 5, 10, 12, 15, 18, 20, 30, 40, 50]
 K = K_list[task_id]
 
 X_ij    = tf.convert_to_tensor(np.load(input_path+"synth_X_ij_"+str(n)+".npy"), dtype = tf.int32)
@@ -61,7 +60,6 @@ np.random.seed((seed_to_use+n))
 seed_MCMC_start, seed_MCMC_after_start  = tfp.random.split_seed( seed_to_use, n=2, salt='seed_MCMC_start_'+str(n))
 
 sigma_list = [0.01, 0.008, 0.006, 0.005, 0.005, 0.004, 0.004, 0.004, 0.004, 0.0035] 
-# sigma_list = [0.045, 0.016, 0.01, 0.01, 0.009, 0.008, 0.008, 0.006, 0.005, 0.005] 
 sigma = sigma_list[task_id]
 
 nr_accepted_list = []

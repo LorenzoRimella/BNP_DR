@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH -p gpu-short
+#SBATCH -p gpu-medium
 #SBATCH --gres=gpu:1
 #SBATCH --mem=32G
-#SBATCH --time=12:00:00
+#SBATCH --time=48:00:00
 #SBATCH --cpus-per-task=1
-#SBATCH -a 1-2:1
-#$ -N SZ_US
+#SBATCH -a 3-3:1
+#$ -N SZ_NY_mc
 
 source /etc/profile
 

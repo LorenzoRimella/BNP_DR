@@ -8,15 +8,15 @@ import tensorflow_probability as tfp
 import time
 
 import sys
-sys.path.append('DisclosureRisk/Scripts/')
+sys.path.append('scripts/')
 from BNP import *
 from BNP_structural_zeros import *
 
 task_id =  int(os.getenv("SLURM_ARRAY_TASK_ID"))-1
 
 n = [1000, 5000, 10000][task_id]
-input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-output_path = "DisclosureRisk/Data/NY/structural_zeros/SZ_BNP/mc/"+str(n)+"/"
+input_path =  "data/structural_zeros/"
+output_path = "data/structural_zeros/SZ_BNP/mc/"+str(n)+"/"
 if not os.path.exists(output_path):
 
     os.makedirs(output_path)
@@ -36,7 +36,7 @@ if gpus:
     for gpu in gpus:
         tf.config.experimental.set_memory_growth(gpu, True)
 
-seed_to_use = 1234+n
+seed_to_use = [1042, 1234, 123][task_id]
 
 tf.random.set_seed((seed_to_use+n))
 np.random.seed((seed_to_use+n))
@@ -60,7 +60,7 @@ disjoint_constraints = disjoint_constraint -1
 batch_size = 100
 N = 953076
 
-MCMC_iterations = 100
+MCMC_iterations = 10
 
 seed_MCMC_start, seed_MCMC_after_start  = tfp.random.split_seed( seed_to_use, n=2, salt='seed_MCMC_start_'+str(n))
 
@@ -75,7 +75,7 @@ initialization_MCMC = tuple(elem[-1,...] for elem in output)
 
 seed_MCMC_before_tau, seed_MCMC_after_tau  = tfp.random.split_seed( seed_MCMC_after_start, n=2, salt='seed_MCMC_before_after_tau_'+str(n))
 
-before_tau_iterations = 1
+before_tau_iterations = 99
 seed_MCMC_before_tau_splitted  = tfp.random.split_seed( seed_MCMC_before_tau, n=before_tau_iterations, salt='seed_MCMC_before_tau_'+str(n))
 for i in range(before_tau_iterations):
 
@@ -87,13 +87,6 @@ for i in range(before_tau_iterations):
     output = SZ_BNP_MCMC_initialized(X_ij, disjoint_constraints, one_n_j, K_max, prior_MCMC, initialization_MCMC, MCMC_iterations, seed_MCMC_before_tau_splitted[i], "multiple", "fixed a,b")
     initialization_MCMC = tuple(elem[-1,...] for elem in output)
 
-#     key_list = ["a", "b", "alpha_0", "alpha_i", "theta_k_full", "beta_k_00_full", "pi_i_0k_full", "K_current"]
-#     current_MCMC = {}
-#     for i in range(len(key_list)):
-#         current_MCMC[key_list[i]] = initialization_MCMC[i]
-        
-#     np.save(output_path+name_sim+"MCMC_initialization.npy", current_MCMC)
-
 K_list = []
 alpha_0_list = []
 alpha_i_list = []
@@ -101,9 +94,7 @@ tau_list = []
 a_list = []
 b_list = []
 
-MCMC_iterations = 10
-
-after_tau_iterations = 1000
+after_tau_iterations = 10000
 seed_MCMC_after_tau_splitted  = tfp.random.split_seed( seed_MCMC_after_tau, n=after_tau_iterations, salt='seed_MCMC_after_tau_'+str(n))
 for i in range(after_tau_iterations):
     
@@ -112,13 +103,14 @@ for i in range(after_tau_iterations):
     f.writelines(string)
     f.close()
 
-    start = time.time()
+    start = time.time()    
     tau_output = SZ_BNP_MCMC_initialized_tau(X_ij, disjoint_constraints, one_n_j, K_max, prior_MCMC, 
 					  initialization_MCMC, MCMC_iterations, N, batch_size, 
                 			  seed_MCMC_after_tau_splitted[i], "multiple", "fixed a,b", "Monte Carlo")
+    end = time.time()- start
     
     initialization_MCMC = tuple(elem[-1,...] for elem in tau_output[0])
-    end = time.time()- start
+    np.save(output_path+name_sim+"initialization_MCMC.npy", {str(i): tau_output[0][i][-1,...] for i in range(len(tau_output[0]))}, allow_pickle=True)
 
     K_list.append(tau_output[0][-1])
     a_list.append(tau_output[0][0])

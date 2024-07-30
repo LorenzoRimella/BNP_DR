@@ -8,15 +8,15 @@ import tensorflow_probability as tfp
 import time
 
 import sys
-sys.path.append('DisclosureRisk/Scripts/')
+sys.path.append('scripts/')
 from mixed_membership_model import *
 from BNP import *
 
 task_id =  0#int(os.getenv("SLURM_ARRAY_TASK_ID"))-1
 
 n = [1000, 5000, 10000][task_id]
-input_path =  "DisclosureRisk/Data/Synthetic/"
-output_path = "DisclosureRisk/Data/Synthetic/BNP/mc/"+str(n)+"/"
+input_path =  "data/synthetic/"
+output_path = "data/synthetic/BNP/mc/"+str(n)+"/"
 if not os.path.exists(output_path):
 
     os.makedirs(output_path)

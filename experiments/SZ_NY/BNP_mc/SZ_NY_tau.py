@@ -8,15 +8,15 @@ import tensorflow_probability as tfp
 import time
 
 import sys
-sys.path.append('DisclosureRisk/Scripts/')
+sys.path.append('scripts/')
 from mixed_membership_model import *
 from BNP import *
 
 task_id =  int(os.getenv("SLURM_ARRAY_TASK_ID"))-1
 
 n = [1000, 5000, 10000][task_id]
-input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-output_path = "DisclosureRisk/Data/NY/structural_zeros/BNP/mc/"+str(n)+"/"
+input_path =  "data/structural_zeros/"
+output_path = "data/structural_zeros/BNP/mc/"+str(n)+"/"
 if not os.path.exists(output_path):
 
     os.makedirs(output_path)
@@ -55,7 +55,7 @@ X_ij    = tf.convert_to_tensor(np.load(input_path+"SZ_NY_X_ij_"+str(n)+".npy"), 
 one_n_j = tf.convert_to_tensor(np.load(input_path+"SZ_NY_one_n_j.npy"), dtype = tf.float32)
 
 batch_size = 100
-N = 712174
+N = 953076
 
 MCMC_iterations = 100
 
@@ -88,8 +88,6 @@ K_list = []
 alpha_0_list = []
 alpha_i_list = []
 tau_list = []
-# a_list = []
-# b_list = []
 
 after_tau_iterations = 1000
 seed_MCMC_after_tau_splitted  = tfp.random.split_seed( seed_MCMC_after_tau, n=after_tau_iterations, salt='seed_MCMC_after_tau_'+str(n))
@@ -106,20 +104,12 @@ for i in range(after_tau_iterations):
     end = time.time()- start
 
     K_list.append(tau_output[0][-1])
-#     a_list.append(tau_output[0][0])
-#     b_list.append(tau_output[0][5][0])
     alpha_0_list.append(tau_output[0][2])
     alpha_i_list.append(tau_output[0][3][0])
 
     MCMC_K = tf.concat(K_list, axis = 0)
     np.save(output_path+name_sim+"MCMC_K.npy", np.array(MCMC_K))
     mean_k = tf.reduce_mean(MCMC_K)
-    
-#     MCMC_a = tf.concat(a_list, axis = 0)
-#     np.save(output_path+name_sim+"MCMC_a.npy", np.array(MCMC_a))
-    
-#     MCMC_b = tf.concat(b_list, axis = 0)
-#     np.save(output_path+name_sim+"MCMC_b.npy", np.array(MCMC_b))
     
     MCMC_alpha_0 = tf.concat(alpha_0_list, axis = 0)
     np.save(output_path+name_sim+"MCMC_alpha_0.npy", np.array(MCMC_alpha_0))

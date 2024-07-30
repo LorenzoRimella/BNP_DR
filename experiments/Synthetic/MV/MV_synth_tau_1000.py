@@ -10,14 +10,14 @@ import tensorflow_probability as tfp
 import time
 
 import sys
-sys.path.append('DisclosureRisk/Scripts/')
+sys.path.append('scripts/')
 from mixed_membership_model import *
 from Manrique_Vallier import *
 
 n = 1000
 
-input_path  = "DisclosureRisk/Data/Synthetic/"
-output_path = "DisclosureRisk/Data/Synthetic/MV/"+str(n)+"/"
+input_path  = "data/synthetic/"
+output_path = "data/synthetic/MV/"+str(n)+"/"
 if not os.path.exists(output_path):
 
     os.makedirs(output_path)
@@ -41,7 +41,6 @@ if gpus:
 a_0, b_0 = 2, 1
 
 K_list = [2, 5, 10, 12, 15, 18, 20, 30, 40, 50]
-# K_list = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 K = K_list[task_id]
 
 X_ij    = tf.convert_to_tensor(np.load(input_path+"synth_X_ij_"+str(n)+".npy"), dtype = tf.int32)
@@ -60,7 +59,6 @@ np.random.seed((seed_to_use+n))
 seed_MCMC_start, seed_MCMC_after_start  = tfp.random.split_seed( seed_to_use, n=2, salt='seed_MCMC_start_'+str(n)+str(task_id))
 
 sigma_list = [0.095, 0.0375, 0.0225, 0.02, 0.018, 0.016, 0.015, 0.012, 0.01, 0.01] 
-# sigma_list = [0.08, 0.04, 0.03, 0.0325, 0.025, 0.02, 0.0275, 0.0275, 0.025, 0.022] 
 sigma = sigma_list[task_id]
 
 nr_accepted_list = []
