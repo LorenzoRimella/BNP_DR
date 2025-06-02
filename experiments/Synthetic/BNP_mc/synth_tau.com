@@ -9,8 +9,8 @@
 
 source /etc/profile
 
-module add cuda/11.2
-module add anaconda3
+module add anaconda3/2023.09
+module add cuda/12.5
 
 source activate tf-gpu
 

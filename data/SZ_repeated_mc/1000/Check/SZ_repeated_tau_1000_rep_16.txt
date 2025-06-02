@@ -1,0 +1,302 @@
+Start experiment with n 1000
+Simulation nr 16
+tau: 7.0
+Batch number 0
+Batch number 1
+Batch number 2
+Batch number 3
+Batch number 4
+Batch number 5
+Batch number 6
+Batch number 7
+Batch number 8
+Batch number 9
+Batch number 10
+Batch number 11
+Batch number 12
+Batch number 13
+Batch number 14
+Batch number 15
+Batch number 16
+Batch number 17
+Batch number 18
+Batch number 19
+Batch number 20
+Batch number 21
+Batch number 22
+Batch number 23
+Batch number 24
+Batch number 25
+Batch number 26
+Batch number 27
+Batch number 28
+Batch number 29
+Batch number 30
+Batch number 31
+Batch number 32
+Batch number 33
+Batch number 34
+Batch number 35
+Batch number 36
+Batch number 37
+Batch number 38
+Batch number 39
+Batch number 40
+Batch number 41
+Batch number 42
+Batch number 43
+Batch number 44
+Batch number 45
+Batch number 46
+Batch number 47
+Batch number 48
+Batch number 49
+Batch number 50
+Batch number 51
+Batch number 52
+Batch number 53
+Batch number 54
+Batch number 55
+Batch number 56
+Batch number 57
+Batch number 58
+Batch number 59
+Batch number 60
+Batch number 61
+Batch number 62
+Batch number 63
+Batch number 64
+Batch number 65
+Batch number 66
+Batch number 67
+Batch number 68
+Batch number 69
+Batch number 70
+Batch number 71
+Batch number 72
+Batch number 73
+Batch number 74
+Batch number 75
+Batch number 76
+Batch number 77
+Batch number 78
+Batch number 79
+Batch number 80
+Batch number 81
+Batch number 82
+Batch number 83
+Batch number 84
+Batch number 85
+Batch number 86
+Batch number 87
+Batch number 88
+Batch number 89
+Batch number 90
+Batch number 91
+Batch number 92
+Batch number 93
+Batch number 94
+Batch number 95
+Batch number 96
+Batch number 97
+Batch number 98
+Tau Batch number 0
+Tau Batch number 1
+Tau Batch number 2
+Tau Batch number 3
+Tau Batch number 4
+Tau Batch number 5
+Tau Batch number 6
+Tau Batch number 7
+Tau Batch number 8
+Tau Batch number 9
+Tau Batch number 10
+Tau Batch number 11
+Tau Batch number 12
+Tau Batch number 13
+Tau Batch number 14
+Tau Batch number 15
+Tau Batch number 16
+Tau Batch number 17
+Tau Batch number 18
+Tau Batch number 19
+Tau Batch number 20
+Tau Batch number 21
+Tau Batch number 22
+Tau Batch number 23
+Tau Batch number 24
+Tau Batch number 25
+Tau Batch number 26
+Tau Batch number 27
+Tau Batch number 28
+Tau Batch number 29
+Tau Batch number 30
+Tau Batch number 31
+Tau Batch number 32
+Tau Batch number 33
+Tau Batch number 34
+Tau Batch number 35
+Tau Batch number 36
+Tau Batch number 37
+Tau Batch number 38
+Tau Batch number 39
+Tau Batch number 40
+Tau Batch number 41
+Tau Batch number 42
+Tau Batch number 43
+Tau Batch number 44
+Tau Batch number 45
+Tau Batch number 46
+Tau Batch number 47
+Tau Batch number 48
+Tau Batch number 49
+Tau Batch number 50
+Tau Batch number 51
+Tau Batch number 52
+Tau Batch number 53
+Tau Batch number 54
+Tau Batch number 55
+Tau Batch number 56
+Tau Batch number 57
+Tau Batch number 58
+Tau Batch number 59
+Tau Batch number 60
+Tau Batch number 61
+Tau Batch number 62
+Tau Batch number 63
+Tau Batch number 64
+Tau Batch number 65
+Tau Batch number 66
+Tau Batch number 67
+Tau Batch number 68
+Tau Batch number 69
+Tau Batch number 70
+Tau Batch number 71
+Tau Batch number 72
+Tau Batch number 73
+Tau Batch number 74
+Tau Batch number 75
+Tau Batch number 76
+Tau Batch number 77
+Tau Batch number 78
+Tau Batch number 79
+Tau Batch number 80
+Tau Batch number 81
+Tau Batch number 82
+Tau Batch number 83
+Tau Batch number 84
+Tau Batch number 85
+Tau Batch number 86
+Tau Batch number 87
+Tau Batch number 88
+Tau Batch number 89
+Tau Batch number 90
+Tau Batch number 91
+Tau Batch number 92
+Tau Batch number 93
+Tau Batch number 94
+Tau Batch number 95
+Tau Batch number 96
+Tau Batch number 97
+Tau Batch number 98
+Tau Batch number 99
+Tau Batch number 100
+Tau Batch number 101
+Tau Batch number 102
+Tau Batch number 103
+Tau Batch number 104
+Tau Batch number 105
+Tau Batch number 106
+Tau Batch number 107
+Tau Batch number 108
+Tau Batch number 109
+Tau Batch number 110
+Tau Batch number 111
+Tau Batch number 112
+Tau Batch number 113
+Tau Batch number 114
+Tau Batch number 115
+Tau Batch number 116
+Tau Batch number 117
+Tau Batch number 118
+Tau Batch number 119
+Tau Batch number 120
+Tau Batch number 121
+Tau Batch number 122
+Tau Batch number 123
+Tau Batch number 124
+Tau Batch number 125
+Tau Batch number 126
+Tau Batch number 127
+Tau Batch number 128
+Tau Batch number 129
+Tau Batch number 130
+Tau Batch number 131
+Tau Batch number 132
+Tau Batch number 133
+Tau Batch number 134
+Tau Batch number 135
+Tau Batch number 136
+Tau Batch number 137
+Tau Batch number 138
+Tau Batch number 139
+Tau Batch number 140
+Tau Batch number 141
+Tau Batch number 142
+Tau Batch number 143
+Tau Batch number 144
+Tau Batch number 145
+Tau Batch number 146
+Tau Batch number 147
+Tau Batch number 148
+Tau Batch number 149
+Tau Batch number 150
+Tau Batch number 151
+Tau Batch number 152
+Tau Batch number 153
+Tau Batch number 154
+Tau Batch number 155
+Tau Batch number 156
+Tau Batch number 157
+Tau Batch number 158
+Tau Batch number 159
+Tau Batch number 160
+Tau Batch number 161
+Tau Batch number 162
+Tau Batch number 163
+Tau Batch number 164
+Tau Batch number 165
+Tau Batch number 166
+Tau Batch number 167
+Tau Batch number 168
+Tau Batch number 169
+Tau Batch number 170
+Tau Batch number 171
+Tau Batch number 172
+Tau Batch number 173
+Tau Batch number 174
+Tau Batch number 175
+Tau Batch number 176
+Tau Batch number 177
+Tau Batch number 178
+Tau Batch number 179
+Tau Batch number 180
+Tau Batch number 181
+Tau Batch number 182
+Tau Batch number 183
+Tau Batch number 184
+Tau Batch number 185
+Tau Batch number 186
+Tau Batch number 187
+Tau Batch number 188
+Tau Batch number 189
+Tau Batch number 190
+Tau Batch number 191
+Tau Batch number 192
+Tau Batch number 193
+Tau Batch number 194
+Tau Batch number 195
+Tau Batch number 196
+Tau Batch number 197
+Tau Batch number 198
+Tau Batch number 199

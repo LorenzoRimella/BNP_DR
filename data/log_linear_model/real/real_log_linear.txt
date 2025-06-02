@@ -1,0 +1,48 @@
+#################################
+RUN real data
+n=1000 with tau: 9.0
+#################################
+independent log-linear
+n=1000 with tau from log-linear: 12.509197 in 0.012136484252081976
+#################################
+interaction log-linear
+n=1000 with tau from log-linear with interaction: 12.32856 in 0.014456698099772135
+#################################
+interaction+penalization log-linear
+n=1000 with tau from log-linear with 1.0 penalized interaction: 8.941463 in 0.01572065790494283
+n=1000 with tau from log-linear with 10.0 penalized interaction: 9.364856 in 0.01553056432141198
+n=1000 with tau from log-linear with 100.0 penalized interaction: 7.3157268 in 0.015968213743633695
+n=1000 with tau from log-linear with 1000.0 penalized interaction: 8.866949 in 0.015633730557229785
+n=1000 with tau from log-linear with 10000.0 penalized interaction: 49.389187 in 0.015674600534968906
+#################################
+#################################
+n=5000 with tau: 27.0
+#################################
+independent log-linear
+n=5000 with tau from log-linear: 49.601803 in 0.013349794612990485
+#################################
+interaction log-linear
+n=5000 with tau from log-linear with interaction: 52.75368 in 0.014609210954772101
+#################################
+interaction+penalization log-linear
+n=5000 with tau from log-linear with 1.0 penalized interaction: 57.48384 in 0.015619231462478638
+n=5000 with tau from log-linear with 10.0 penalized interaction: 55.066494 in 0.015569311711523268
+n=5000 with tau from log-linear with 100.0 penalized interaction: 47.565216 in 0.01592011895444658
+n=5000 with tau from log-linear with 1000.0 penalized interaction: 24.386585 in 0.016150041487481857
+n=5000 with tau from log-linear with 10000.0 penalized interaction: 41.29865 in 0.01573672115802765
+#################################
+#################################
+n=10000 with tau: 53.0
+#################################
+independent log-linear
+n=10000 with tau from log-linear: 85.466415 in 0.012733672658602396
+#################################
+interaction log-linear
+n=10000 with tau from log-linear with interaction: 95.13637 in 0.013891085253821479
+#################################
+interaction+penalization log-linear
+n=10000 with tau from log-linear with 1.0 penalized interaction: 97.23184 in 0.01560857097307841
+n=10000 with tau from log-linear with 10.0 penalized interaction: 95.205124 in 0.014877341720792983
+n=10000 with tau from log-linear with 100.0 penalized interaction: 88.79011 in 0.015783858233027987
+n=10000 with tau from log-linear with 1000.0 penalized interaction: 63.7494 in 0.015510852734247843
+n=10000 with tau from log-linear with 10000.0 penalized interaction: 63.66567 in 0.015447487168841891

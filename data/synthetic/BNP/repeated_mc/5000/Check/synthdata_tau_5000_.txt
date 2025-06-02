@@ -1,0 +1,35 @@
+Start experiment with n 5000
+Simulation nr 0
+Batch number 0
+Tau Batch number 0
+Tau Batch number 1
+Tau Batch number 2
+Tau Batch number 3
+Tau Batch number 4
+Tau Batch number 5
+Tau Batch number 6
+Tau Batch number 7
+Tau Batch number 8
+Tau Batch number 9
+Tau Batch number 10
+Tau Batch number 11
+Tau Batch number 12
+Tau Batch number 13
+Tau Batch number 14
+Tau Batch number 15
+Tau Batch number 16
+Tau Batch number 17
+Tau Batch number 18
+Tau Batch number 19
+Tau Batch number 20
+Tau Batch number 21
+Tau Batch number 22
+Tau Batch number 23
+Tau Batch number 24
+Tau Batch number 25
+Tau Batch number 26
+Tau Batch number 27
+Tau Batch number 28
+Tau Batch number 29
+Tau Batch number 30
+Tau Batch number 31

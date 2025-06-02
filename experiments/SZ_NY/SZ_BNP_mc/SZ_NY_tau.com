@@ -9,9 +9,9 @@
 
 source /etc/profile
 
-module add cuda/11.2
-module add anaconda3
+module add opence/1.10.0
+module add cuda/11.8
 
-source activate tf-gpu
+export XLA_FLAGS="--xla_gpu_cuda_data_dir=/usr/shared_apps/packages/cuda-11.8/nvvm/libdevice"
 
-python DisclosureRisk/Experiments/SZ_NY/SZ_BNP_mc/SZ_NY_tau.py
+python DisclosureRisk/experiments/SZ_NY/SZ_BNP_mc/SZ_NY_tau.py

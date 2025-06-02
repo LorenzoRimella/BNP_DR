@@ -9,9 +9,6 @@
 
 source /etc/profile
 
-module add cuda/11.2
-module add anaconda3
-
-source activate tf-gpu
+module add opence/1.10.0
 
 python DisclosureRisk/Experiments/SZ_NY/BNP_mc/SZ_NY_tau.py
