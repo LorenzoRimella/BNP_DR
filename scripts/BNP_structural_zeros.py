@@ -6,6 +6,7 @@ import tensorflow_probability as tfp
 from BNP import BNP_MCMC_initialization
 from mixed_membership_model import *
 
+# utils for the Negative-Multinomial below
 @tf.function(jit_compile=True)
 def middle_sampling(prob, prev_0_count, n_max, seed_to_use = None):
 
@@ -16,36 +17,7 @@ def middle_sampling(prob, prev_0_count, n_max, seed_to_use = None):
 
 	return sample, sample_0, current_0_count, prev_0_count
 
-# sample from Negative BInomial and then from Multinomial
-# @tf.function
-# def NegativeMultinomial(n, prob_constr, seed_sim = None, max_val = 10):
-
-# 	C = tf.shape(prob_constr)[0]
-
-# 	p_0 = 1 - tf.reduce_sum(prob_constr, keepdims=True)
-# 	prob = tf.concat((p_0, prob_constr), axis  = 0)
-
-# 	n_max = n*max_val
-
-# 	seed_to_use, seed_carry = tfp.random.split_seed( seed_sim, n=2, salt='seed_negative_multinomial')
-
-# 	prev_sample_freq = tf.zeros(C+1)
-# 	prev_0_count     = tf.zeros(n_max)
-
-# 	sample, sample_0, current_0_count, prev_0_count = middle_sampling(prob, prev_0_count, n_max)
-# 	while tf.shape(tf.where(current_0_count==tf.cast(n, dtype = tf.float32)))[0]==0:
-
-# 		seed_to_use, seed_carry = tfp.random.split_seed( seed_carry, n=2, salt='seed_negative_multinomial')
-		
-# 		prev_sample_freq = prev_sample_freq + tf.reduce_sum(tf.one_hot(sample, C+1), axis = 0)
-
-# 		sample, sample_0, current_0_count, prev_0_count = middle_sampling(prob, prev_0_count, n_max)
-
-# 	index = tf.where(current_0_count==tf.cast(n, dtype = tf.float32))[0,0]
-# 	prev_sample_freq = prev_sample_freq + tf.reduce_sum(tf.one_hot(sample[:(index+1)], C+1), axis = 0)
-
-# 	return prev_sample_freq[:]
-
+# Sampling from a Negative-Multinomial
 @tf.function
 def NegativeMultinomial(n, prob_constr, seed_sim = None, max_val = 10):
 
@@ -81,17 +53,10 @@ def NegativeMultinomial(n, prob_constr, seed_sim = None, max_val = 10):
 
 	return prev_sample_freq[:]
 
-	# p_c = prob_constr
 
-	# seed_to_use = tfp.random.split_seed( seed_sim, n=2, salt='seed_negative_multinomial')
-
-	# n0 = tfp.distributions.NegativeBinomial(total_count = tf.cast(n, tf.float32), probs = tf.reduce_sum(p_c)).sample(seed = seed_to_use[0])
-	# n_SZ_no0 = tfp.distributions.Multinomial(total_count = n0, probs = p_c/tf.reduce_sum(p_c)).sample(seed = seed_to_use[1])
-	# n_SZ = tf.concat((tf.cast(tf.expand_dims(n, axis = 0), tf.float32), n_SZ_no0), axis = 0)
-
-	# return n_SZ
-
-
+############################################################
+# Algorithm from section 4.1, steps refers to the steps listed in the paper
+############################################################
 # Step 1 on old mixtures
 def unobserved_step_1_old_mixtures(one_n_j, unobserved_X, pi_i_0k_full, theta_k_full, seed_s1_1):
     
@@ -166,6 +131,7 @@ def unobserved_step_1(one_n_j, K_current, unobserved_X, pi_i_0k_full, theta_k_fu
 
 	return beta_k_00_full, pi_i_0k_full, Z_ij-1, K_current
 
+# Monte Carlo estimate of Step 7
 def SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, mc_sample_size, seed_SZ):   
 
 	seed_step_tau_1, seed_step_tau_2_carry = tfp.random.split_seed( seed_SZ, n=2, salt='seed_split_for_tau_mc')
@@ -192,14 +158,8 @@ def SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_
 
 	return tf.reduce_mean(mc_sample_prob, axis = 0), sub_pi_0k
 
-# @tf.function(jit_compile=True)
+# Compute the indicator part of the Dirchlet parameters in Step 5
 def SZ_XZ_counting_cheap(one_hot_disjoint_constraints_with_placeholders, one_n_j, n_SZ, theta_k_full, sub_pi_0k):
-
-	# input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-	# one_n_j = tf.convert_to_tensor(np.load(input_path+"SZ_NY_one_n_j.npy"), dtype = tf.float32)
-	# theta_with_0 = tf.concat((tf.expand_dims(1/tf.reduce_sum(one_n_j, axis =1, keepdims = True)*one_n_j, axis = 0), theta_k_full), axis = 0)
-	# disjoint_constraint = tf.convert_to_tensor(np.load(input_path+"SZ_NY_disjoint_constraint_MV.npy"), dtype = tf.int32)
-	# disjoint_constraints = disjoint_constraint -1 
 
 	one_hot_disjoint_constraints_with_placeholders = one_hot_disjoint_constraints_with_placeholders*tf.expand_dims(one_n_j, axis = 0)
 	one_hot_disjoint_constraints_with_placeholders = one_hot_disjoint_constraints_with_placeholders/tf.reduce_sum(one_hot_disjoint_constraints_with_placeholders, axis = -1, keepdims = True)
@@ -213,19 +173,9 @@ def SZ_XZ_counting_cheap(one_hot_disjoint_constraints_with_placeholders, one_n_j
 
 	unobserved_XZ_counting_cheap_with_zeros = tf.math.round(tf.einsum("c,ckjn->kjn", n_SZ[1:], mean_g_theta_under_constraints))
 
-	# v1 n_SZ_disjoint_constraints_with_placeholders = tf.einsum("cjn,c->cjn", one_hot_disjoint_constraints_with_placeholders, n_SZ[1:])
-
-	# v2 theta_k_full_under_constraints = tf.einsum("cjn,kjn->ckjn", one_hot_disjoint_constraints_with_placeholders, theta_k_full)
-	# v2 constrained_theta = tf.einsum("cjn,ckjn->kjn", n_SZ_disjoint_constraints_with_placeholders, theta_k_full_under_constraints/tf.reduce_sum(theta_k_full_under_constraints, axis = -1, keepdims = True))
-	# v1 constrained_theta = tf.einsum("cjn,kjn->kjn", n_SZ_disjoint_constraints_with_placeholders, theta_k_full)
-	# theta_k_full_under_with_0 = tf.einsum("cjn,kjn->ckjn", one_hot_disjoint_constraints_with_placeholders, theta_with_0)
-	# constrained_theta_with_0 = tf.einsum("cjn,ckjn->kjn", n_SZ_disjoint_constraints_with_placeholders, theta_k_full_under_with_0/tf.reduce_sum(theta_k_full_under_with_0, axis = -1, keepdims = True))
-	
-	# v1-v2 unobserved_XZ_counting_cheap = tf.math.round(tf.reduce_mean(tf.einsum("mk,kjn->mkjn", sub_pi_0k[:,1:], constrained_theta), axis = 0))
-	# unobserved_XZ_counting_cheap_with_0 = tf.math.round(tf.reduce_mean(tf.einsum("mk,kjn->mkjn", sub_pi_0k, constrained_theta_with_0), axis = 0))
-
 	return unobserved_XZ_counting_cheap_with_zeros[1:,...]
 
+# Computation of m_ik in Step 2 
 @tf.function(jit_compile=True)
 def SZ_m_ik_cheap(one_hot_disjoint_constraints_with_placeholders, one_n_j, theta_k_full, J, alpha_0, beta_k_00_full, sub_pi_0k, n_SZ):
 
@@ -233,7 +183,6 @@ def SZ_m_ik_cheap(one_hot_disjoint_constraints_with_placeholders, one_n_j, theta
 
 	theta_with_0 = tf.concat((tf.expand_dims(1/tf.reduce_sum(one_n_j, axis =1, keepdims = True)*one_n_j, axis = 0), theta_k_full), axis = 0)
 	theta_with_0_under_constraints = tf.einsum("cjn,kjn->ckj", one_hot_disjoint_constraints_with_placeholders, theta_with_0)
-	# norm_const_theta = tf.where(tf.reduce_sum(theta_with_0_under_constraints, axis = 1, keepdims = True)==0, 1, tf.reduce_sum(theta_with_0_under_constraints, axis = 1, keepdims = True))
 
 	grid_j = tf.cast(tf.linspace(1, J, J), tf.float32)
 	dir_process_prob = tf.expand_dims(alpha_0*beta_k_00_full, axis = -1)/(tf.expand_dims(alpha_0*beta_k_00_full, axis = -1) + tf.expand_dims(grid_j, axis = 0) - 1)
@@ -245,67 +194,13 @@ def SZ_m_ik_cheap(one_hot_disjoint_constraints_with_placeholders, one_n_j, theta
 	bernoulli_trial = bernoulli_trial/norm_bernoulli_trial
 
 	exp_n_idotk_curr_sample = tf.cast(tf.round(tf.reduce_sum(bernoulli_trial, axis = -1)) , tf.int32)
-	# sample_n_idotk_curr_sample = tf.reduce_sum(tfp.distributions.Bernoulli(probs = bernoulli_trial).sample(seed = seed_s789_splitted[2]), axis = -1)
 	sample_sum_to_n_idotk = tf.einsum("kj,mckj->mck", cumsum_dir_process_prob, tf.one_hot(exp_n_idotk_curr_sample-1, J))
 
 	unobserved_m_ik_cheap = tf.math.round(tf.reduce_sum(tf.expand_dims(n_SZ[1:], axis = -1)*tf.reduce_mean(sample_sum_to_n_idotk, axis = 0), axis = 0))
 
 	return unobserved_m_ik_cheap
 
-# @tf.function(jit_compile=True)
-# def SZ_m_ik_cheap_old(one_hot_disjoint_constraints, theta_k_full, disjoint_constraints, J, alpha_0, beta_k_00_full, sub_pi_0k, seed_s789_splitted, n_SZ):
-# 	theta_c = tf.einsum("cjn,kjn->ckj", one_hot_disjoint_constraints, theta_k_full)
-# 	theta_c_with_ones = tf.where(tf.expand_dims(disjoint_constraints, axis = 1)==-1, tf.ones(tf.shape(theta_c)), theta_c)
-
-# 	grid_j = tf.cast(tf.linspace(1, J, J), tf.float32)
-# 	dir_process_prob = tf.expand_dims(alpha_0*beta_k_00_full[1:], axis = -1)/(tf.expand_dims(alpha_0*beta_k_00_full[1:], axis = -1) + tf.expand_dims(grid_j, axis = 0) - 1)
-# 	dir_process_prob = tf.where(tf.expand_dims(grid_j, axis = 0)==1, tf.ones(tf.shape(dir_process_prob)), dir_process_prob)
-# 	cumsum_dir_process_prob = tf.math.cumsum(dir_process_prob, axis = -1)
-
-# 	# iterations = tf.cast(tf.shape(sub_pi_0k)[0]/100, tf.int32)
-# 	# seed_for_loop = tfp.random.split_seed( seed_s789_splitted[2], n=iterations, salt='step_789_split_within_for_loops')
-# 	# def body(input, iteration):
-# 	# 	print("here")
-
-# 	# 	bernoulli_trial = tf.einsum("mk,ckj->mckj", sub_pi_0k[iteration*100:(iteration+1)*100,1:], theta_c_with_ones)
-
-# 	# 	print("here MF1")
-
-# 	# 	sample_n_idotk_curr_sample = tf.reduce_sum(tfp.distributions.Bernoulli(probs = bernoulli_trial).sample(seed = seed_for_loop[iteration]), axis = -1)
-
-# 	# 	print("here MF2")
-
-# 	# 	output = tf.einsum("kj,mckj->mck", cumsum_dir_process_prob, tf.one_hot(sample_n_idotk_curr_sample-1, J))
-
-# 	# 	print("here MF3")
-
-# 	# 	return output
-	
-# 	# sample_sum_to_n_idotk = tf.scan(body, tf.range(iterations), initializer=tf.zeros((100, tf.shape(one_hot_disjoint_constraints)[0], tf.shape(theta_k_full)[0])))
-
-# 	# reshaped_sample_sum_to_n_idotk = tf.reshape(sample_sum_to_n_idotk, (-1, tf.shape(sample_sum_to_n_idotk)[2], tf.shape(sample_sum_to_n_idotk)[3]))
-
-# 	# unobserved_m_ik_cheap = tf.math.round(tf.reduce_sum(tf.expand_dims(n_SZ[1:], axis = -1)*tf.reduce_mean(reshaped_sample_sum_to_n_idotk, axis = 0), axis = 0))
-
-# 	# sample_sum_to_n_idotk = []
-# 	# for iteration in range(iterations):
-# 	# 	bernoulli_trial = tf.einsum("mk,ckj->mckj", sub_pi_0k[iteration*100:(iteration+1)*100,1:], theta_c_with_ones)
-
-# 	# 	sample_n_idotk_curr_sample = tf.reduce_sum(tfp.distributions.Bernoulli(probs = bernoulli_trial).sample(seed = seed_for_loop[iteration]), axis = -1)
-# 	# 	sample_sum_to_n_idotk.append(tf.einsum("kj,mckj->mck", cumsum_dir_process_prob, tf.one_hot(sample_n_idotk_curr_sample-1, J)))
-
-# 	# unobserved_m_ik_cheap = tf.math.round(tf.reduce_sum(tf.expand_dims(n_SZ[1:], axis = -1)*tf.reduce_mean(tf.concat(sample_sum_to_n_idotk, axis = 0), axis = 0), axis = 0))
-
-
-# 	bernoulli_trial = tf.einsum("mk,ckj->mckj", sub_pi_0k[:,1:], theta_c_with_ones)
-
-# 	sample_n_idotk_curr_sample = tf.reduce_sum(tfp.distributions.Bernoulli(probs = bernoulli_trial).sample(seed = seed_s789_splitted[2]), axis = -1)
-# 	sample_sum_to_n_idotk = tf.einsum("kj,mckj->mck", cumsum_dir_process_prob, tf.one_hot(sample_n_idotk_curr_sample-1, J))
-
-# 	unobserved_m_ik_cheap = tf.math.round(tf.reduce_sum(tf.expand_dims(n_SZ[1:], axis = -1)*tf.reduce_mean(sample_sum_to_n_idotk, axis = 0), axis = 0))
-
-# 	return unobserved_m_ik_cheap
-
+# Steps 7,8,9
 def SZ_step_789(disjoint_constraints, one_n_j, alpha_0, a, b, K_current, beta_k_00_full, theta_k_full, n, seed_s789):
 
 	nJ = tf.shape(one_n_j)[1]
@@ -321,28 +216,16 @@ def SZ_step_789(disjoint_constraints, one_n_j, alpha_0, a, b, K_current, beta_k_
  
 	p_c, sub_pi_0k = SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, n_mc_samples, seed_s789_splitted[0])
 
-	# import matplotlib.pyplot as plt
-	# plt.plot(p_c)
-	# plt.show()
-
-	# n_0 = tf.cast(n, tf.float32)*tf.reduce_sum(p_c)/(1-tf.reduce_sum(p_c))
-
-	# if n_0>500*tf.cast(n, tf.float32):
-		# n_SZ_no_zero = tf.math.round(n_0*p_c)
-		# n_SZ = tf.concat((tf.expand_dims(tf.cast(n, tf.float32), axis = 0), tf.math.round(n_0*p_c)), axis = 0)
-
-	# else:
 	n_SZ = NegativeMultinomial(n, p_c, seed_s789_splitted[1], n_max)
 
 	unobserved_XZ_counting_cheap = SZ_XZ_counting_cheap(one_hot_disjoint_constraints_with_placeholders_ones, one_n_j, n_SZ, theta_k_full, sub_pi_0k)
 
 	unobserved_m_ik_cheap = SZ_m_ik_cheap(one_hot_disjoint_constraints_with_placeholders_ones, one_n_j, theta_k_full, J, alpha_0, beta_k_00_full, sub_pi_0k, n_SZ)
-	# unobserved_m_ik_cheap = SZ_m_ik_cheap_old(one_hot_disjoint_constraints, theta_k_full, disjoint_constraints, J, alpha_0, beta_k_00_full, sub_pi_0k, seed_s789_splitted, n_SZ)
 
 	return tf.cast(unobserved_m_ik_cheap, tf.int32), unobserved_XZ_counting_cheap, beta_k_00_full, K_current
 
 
-# # Mixture cutter
+# Set up the mixture such that the 0 elements mixtures are excluded
 def SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full, unobserved_m_dotk, unobserved_XZ_counting):
 
     K_max = tf.shape(one_hot_Z)[-1]
@@ -589,6 +472,7 @@ def noSZ_prob_estimator(X_ij, one_n_j, a, b, theta_k_full, beta_k_00_full, mc_sa
 
     return mc_sample_prob
 
+# Estimate tau with Monte Carlo
 def SZ_step_mc_tau(MCMC_output, X_ij, disjoint_constraints, one_n_j, N, mc_sample_size, seed_step_tau):
 
     a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = MCMC_output
@@ -612,6 +496,7 @@ def SZ_step_mc_tau(MCMC_output, X_ij, disjoint_constraints, one_n_j, N, mc_sampl
 
     return mc_tau
 
+# A single MCMC iteration
 def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MCMC, unobserved_m_dotk, unobserved_XZ_counting, seed_step, type_1, type_2):
      
 	n = tf.shape(one_hot_X)[0]
@@ -624,17 +509,7 @@ def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization
 		
 	J = tf.cast(tf.shape(one_hot_X)[1], dtype = tf.float32)
 
-	# input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-	# disjoint_constraint = tf.convert_to_tensor(np.load(input_path+"SZ_NY_disjoint_constraint_MV.npy"), dtype = tf.int32)
-	# disjoint_constraints = disjoint_constraint -1 
-	# tf.reduce_sum(SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, 500, 123)[0])
-
 	beta_k_00_full, pi_i_0k_full, Z_ij, K_current = SZ_step_1(one_n_j, K_current, one_hot_X, pi_i_0k_full, theta_k_full, beta_k_00_full, alpha_0, alpha_i, seed_1)
-
-	# input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-	# disjoint_constraint = tf.convert_to_tensor(np.load(input_path+"SZ_NY_disjoint_constraint_MV.npy"), dtype = tf.int32)
-	# disjoint_constraints = disjoint_constraint -1 
-	# tf.reduce_sum(SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, 500, 123)[0])
 
 	one_hot_Z = tf.one_hot(Z_ij, K_max)
 	n_i_dot_k = tf.reduce_sum(one_hot_Z, axis = 1)
@@ -685,86 +560,7 @@ def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization
         
 	return a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current
 
-# def SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MCMC, disjoint_constraints, seed_step, type_1, type_2):
-     
-# 	n = tf.shape(one_hot_X)[0]
-
-# 	a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
-
-# 	a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = initialization_MCMC
-
-# 	seed_1, seed_2, seed_3, seed_4, seed_5, seed_6, seed_7 = tfp.random.split_seed( seed_step, n=7, salt='seed_step_split')
-		
-# 	J = tf.cast(tf.shape(one_hot_X)[1], dtype = tf.float32)
-
-# 	# input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-# 	# disjoint_constraint = tf.convert_to_tensor(np.load(input_path+"SZ_NY_disjoint_constraint_MV.npy"), dtype = tf.int32)
-# 	# disjoint_constraints = disjoint_constraint -1 
-# 	# tf.reduce_sum(SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, 500, 123)[0])
-
-# 	beta_k_00_full, pi_i_0k_full, Z_ij, K_current = SZ_step_1(one_n_j, K_current, one_hot_X, pi_i_0k_full, theta_k_full, beta_k_00_full, alpha_0, alpha_i, seed_1)
-
-# 	mu  = tf.reduce_mean(alpha_i)
-# 	mu2 = tf.reduce_mean(tf.math.pow(alpha_i, 2))
-# 	hat_a = tf.math.pow(mu, 2)/(mu2 - tf.math.pow(mu, 2))
-# 	hat_b = mu/(mu2 - tf.math.pow(mu, 2))
-		
-# 	unobserved_m_dotk, unobserved_XZ_counting, beta_k_00_full, K_current = SZ_step_789(disjoint_constraints, one_n_j, alpha_0, hat_a, hat_b, K_current, beta_k_00_full, theta_k_full, n, seed_7)
-
-# 	# input_path =  "DisclosureRisk/Data/NY/structural_zeros/"
-# 	# disjoint_constraint = tf.convert_to_tensor(np.load(input_path+"SZ_NY_disjoint_constraint_MV.npy"), dtype = tf.int32)
-# 	# disjoint_constraints = disjoint_constraint -1 
-# 	# tf.reduce_sum(SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, 500, 123)[0])
-
-# 	one_hot_Z = tf.one_hot(Z_ij, K_max)
-# 	n_i_dot_k = tf.reduce_sum(one_hot_Z, axis = 1)
-
-# 	m_ik = SZ_step_2(n_i_dot_k, alpha_0, beta_k_00_full, J, seed_2)
-
-# 	one_hot_Z, beta_k_00_full, pi_i_0k_full, K_current, unobserved_m_dotk, unobserved_XZ_counting = SZ_mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full, unobserved_m_dotk, unobserved_XZ_counting)
-# 	n_i_dot_k = tf.reduce_sum(one_hot_Z, axis = 1)
-
-# 	seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_3, n=2, salt='seed_s3_carry_'+str(K_current))
-# 	beta_k_00_full = SZ_step_3(m_ik, unobserved_m_dotk, alpha_0, seed_s3)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(beta_k_00_full)) and counter<100:
-
-# 		seed_s3, seed_s3_carry  = tfp.random.split_seed( seed_s3_carry, n=2, salt='seed_s3_carry_'+str(K_current))
-# 		beta_k_00_full = SZ_step_3(m_ik, unobserved_m_dotk, alpha_0, seed_s3)
-
-# 		counter = counter +1
-
-# 	seed_s4, seed_s4_carry  = tfp.random.split_seed( seed_4, n=2, salt='seed_s4_carry_'+str(K_current))
-# 	pi_i_0k_full = SZ_step_4(n_i_dot_k[:n,:], alpha_i, beta_k_00_full, seed_s4)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(pi_i_0k_full)) and counter<100:
-
-# 		seed_s4, seed_s4_carry  = tfp.random.split_seed( seed_s4_carry, n=2, salt='seed_s4_carry_'+str(K_current))
-# 		pi_i_0k_full = SZ_step_4(n_i_dot_k[:n,:], alpha_i, beta_k_00_full, seed_s4)
-
-# 		counter = counter +1
-
-# 	seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_5, n=2, salt='seed_s5_carry_'+str(K_current))
-# 	theta_k_full = SZ_step_5(one_hot_X, one_n_j, one_hot_Z, unobserved_XZ_counting, seed_s5)
-
-# 	counter = 0
-# 	while tf.reduce_any(tf.math.is_nan(theta_k_full)) and counter<100:
-
-# 		seed_s5, seed_s5_carry  = tfp.random.split_seed( seed_s5_carry, n=2, salt='seed_s5_carry_'+str(K_current))
-# 		theta_k_full = SZ_step_5(one_hot_X, one_n_j, one_hot_Z, unobserved_XZ_counting, seed_s5)
-
-# 		counter = counter +1
-
-# 	if type_1 == "multiple":
-# 		alpha_0, alpha_i = SZ_step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, unobserved_m_dotk, alpha_0, alpha_i, seed_6)
-                  
-# 	if type_2 == "fixed a,b":
-# 		a, b = a_1, b_1
-        
-# 	return a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current
-
+# MCMC_iterations MCMC iterations from start (no initial condition given)
 def SZ_BNP_MCMC_from_start(X_ij, disjoint_constraints, one_n_j, K_current, K_max, prior_parameters, MCMC_iterations, seed_MCMC, type_1, type_2):
 
 	a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
@@ -777,9 +573,6 @@ def SZ_BNP_MCMC_from_start(X_ij, disjoint_constraints, one_n_j, K_current, K_max
 	# initialization 
 	a, b = a_1, b_1
 	alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = BNP_MCMC_initialization(a_0, b_0, a, b, one_n_j, n, K_max, K_current, seed_initialization_1)
-
-	# alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = BNP_MCMC_initialization(a_0, b_0, a, b, one_n_j, n, K_max, K_current, None)
-	# tf.reduce_sum(SZ_prob_estimator(disjoint_constraints, one_n_j, a, b, theta_k_full, beta_k_00_full, 500, None)[0])
 
 	seed_step_to_split  = tfp.random.split_seed( seed_step_to_split, n=MCMC_iterations, salt='seed_MCMC_step_per_iter')
 
@@ -800,14 +593,13 @@ def SZ_BNP_MCMC_from_start(X_ij, disjoint_constraints, one_n_j, K_current, K_max
 
 		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_m_dotk, unobserved_XZ_counting, seed_step_inside[1], type_1, type_2)
 
-		# output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, disjoint_constraints, seed_step_to_split[t], type_1, type_2)
-
 		return output_t
     
 	output = tf.scan(body, tf.range(0, MCMC_iterations), initializer =  (a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current))
 
 	return output
 
+# MCMC_iterations MCMC iterations with a given initial condition 
 def SZ_BNP_MCMC_initialized(X_ij, disjoint_constraints, one_n_j, K_max, prior_parameters, initialization_MCMC, MCMC_iterations, seed_MCMC, type_1, type_2):
 
 	a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
@@ -834,14 +626,13 @@ def SZ_BNP_MCMC_initialized(X_ij, disjoint_constraints, one_n_j, K_max, prior_pa
 
 		output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, unobserved_m_dotk, unobserved_XZ_counting, seed_step_inside[1], type_1, type_2)
 
-		# output_t = SZ_BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, input, disjoint_constraints, seed_step_to_split[t], type_1, type_2)
-
 		return output_t
     
 	output = tf.scan(body, tf.range(0, MCMC_iterations), initializer =  initialization_MCMC)
 
 	return output
 
+# MCMC_iterations MCMC iterations with a given initial condition, tau is also computed and given as output
 def SZ_BNP_MCMC_initialized_tau(X_ij, disjoint_constraints, one_n_j, K_max, prior_parameters, 
 				initialization_MCMC, MCMC_iterations, N, batch_size, seed_MCMC, type_1, type_2, type_tau):
 

@@ -5,7 +5,7 @@ import tensorflow_probability as tfp
 
 from mixed_membership_model import *
 
-# # Mixture cutter
+# Set up the mixture such that the 0 elements mixtures are excluded
 def mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full):
 
     K_max = tf.shape(one_hot_Z)[-1]
@@ -28,6 +28,9 @@ def mixture_cutter(n_i_dot_k, one_hot_Z, beta_k_00_full, pi_i_0k_full):
 
     return tf.concat((new_one_hot_Z, new_one_hot_Z_zeros), axis = -1), tf.concat((new_beta_k_00_full, new_beta_k_00_full_zeros), axis = -1), tf.concat((new_pi_i_0k_full, new_pi_i_0k_full_zeros), axis = -1), tf.cast(new_K_current+1, dtype = tf.int32)
 
+############################################################
+# Algorithm from section 3.2.1, steps refers to the steps listed in the paper
+############################################################
 # Step 1 on old mixtures
 @tf.function(jit_compile = True)
 def step_1_old_mixtures(one_n_j, one_hot_X, pi_i_0k_full, theta_k_full, seed_s1_1):
@@ -160,11 +163,6 @@ def step_2( n_i_dot_k, alpha_0, beta_k_00_full, J, seed_s2):
 		m_list.append(m_ik_i)
         
 	return tf.concat((m_list), axis = 0)
-#     table_or_not = tfp.distributions.Categorical(probs=prob_new_table).sample(seed = seed_s2)
-
-#     m_ik = tf.reduce_sum(table_or_not, axis = -1)
-
-#     return m_ik
 
 # Step 3
 @tf.function(jit_compile = True)
@@ -216,14 +214,6 @@ def step_6_multiple(a_0, b_0, a, b, K_current, J, m_ik, alpha_0, alpha_i, seed_s
     s_i       = tf.cast(tfp.distributions.Bernoulli( probs = bern_p_i ).sample(seed = seed_s6[4]), dtype = tf.float32)
     alpha_i   = tfp.distributions.Gamma(concentration = a + m_i_dot - s_i, rate = b - tf.math.log(eta_i)).sample(seed = seed_s6[5])
 
-#     m_dot_dot = tf.cast(tf.reduce_sum(m_ik), dtype = tf.float32)
-#     eta_0     = tfp.distributions.Beta(concentration1 = alpha_0, concentration0 = m_dot_dot).sample(seed = seed_s6[0])
-#     alpha_0  = tfp.distributions.Gamma( concentration = a_0 + tf.cast(K_current, dtype = tf.float32), rate = b_0 - tf.math.log(eta_0)).sample(seed = seed_s6[2])
-
-#     m_i_dot   = tf.cast(tf.reduce_sum(m_ik, axis = -1), dtype = tf.float32)
-#     eta_i     = tfp.distributions.Beta( concentration1 = alpha_i, concentration0 = J ).sample(seed = seed_s6[3])
-#     alpha_i   = tfp.distributions.Gamma(concentration = a + m_i_dot, rate = b - tf.math.log(eta_i)).sample(seed = seed_s6[5])
-
     return alpha_0, alpha_i
 
 # Step 6
@@ -257,7 +247,6 @@ def step_7(alpha_i, a_prev, b_prev, a_1, b_1, a_2, b_2, sigma, seed_7 ):
 
     b_new  = tfp.distributions.Gamma(concentration = a_1 + n*a_prev, rate = b_1 + tf.reduce_sum(alpha_i)).sample(seed = seed_s7[0])
 
-    # a_proposed = tfp.distributions.Gamma(concentration = a_2, rate= b_2).sample(seed = seed_s7[1])
     a_proposed = tf.math.exp(tfp.distributions.Normal(loc = tf.math.log(a_prev), scale = sigma).sample(seed=seed_s7[1]))
 
     log_like_diff  = tf.reduce_sum(tfp.distributions.Gamma(concentration = a_proposed, rate = b_new).log_prob(alpha_i)) - tf.reduce_sum(tfp.distributions.Gamma(concentration = a_prev, rate = b_new).log_prob(alpha_i))
@@ -269,7 +258,7 @@ def step_7(alpha_i, a_prev, b_prev, a_1, b_1, a_2, b_2, sigma, seed_7 ):
     
     return a_new, b_new
 
-# MCMC
+# An initializer for the MCMC
 def BNP_MCMC_initialization(a_0, b_0, a, b, one_n_j, n_indiv, K_max, K_initial, seed_initialization_single_step):
 
     seed_sample_initialize = tfp.random.split_seed( seed_initialization_single_step, n=5, salt='seed_initialization_single_step')
@@ -307,6 +296,7 @@ def BNP_MCMC_initialization(a_0, b_0, a, b, one_n_j, n_indiv, K_max, K_initial, 
 
     return alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, tf.cast(K_initial, dtype = tf.int32)
 
+# A single MCMC iteration
 def BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MCMC, seed_step, type_1, type_2):
 
     a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
@@ -369,8 +359,7 @@ def BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MC
     if type_2 == "random a,b":
 
         if type_1 == "multiple":
-        #     a, b = step_7(alpha_i[0:1,...], a, b, a_1, b_1, a_2, b_2, sigma, seed_7 )
-        # else:
+
             a, b = step_7(alpha_i, a, b, a_1, b_1, a_2, b_2, sigma, seed_7 )
     
     if type_2 == "fixed a,b":
@@ -378,6 +367,7 @@ def BNP_MCMC_step(one_hot_X, one_n_j, K_max, prior_parameters, initialization_MC
 
     return a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current
 
+# MCMC_iterations MCMC iterations from start (no initial condition given)
 def BNP_MCMC_from_start(X_ij, one_n_j, K_current, K_max, prior_parameters, MCMC_iterations, seed_MCMC, type_1, type_2):
 
     a_0, b_0, a_1, b_1, a_2, b_2, sigma = prior_parameters
@@ -403,6 +393,7 @@ def BNP_MCMC_from_start(X_ij, one_n_j, K_current, K_max, prior_parameters, MCMC_
 
     return output
 
+# MCMC_iterations MCMC iterations with a given initial condition
 def BNP_MCMC_initialized(X_ij, one_n_j, K_max, prior_parameters, initialization_MCMC, MCMC_iterations, seed_MCMC, type_1, type_2):
 
     one_hot_X = tf.one_hot(X_ij, tf.shape(one_n_j)[1])
@@ -419,7 +410,7 @@ def BNP_MCMC_initialized(X_ij, one_n_j, K_max, prior_parameters, initialization_
 
     return output
 
-# Estimate tau
+# Sampling from the population
 @tf.function(jit_compile = True)
 def BNP_population_sampler(MCMC_output, one_n_j, J, batch_size, seed_pop_sampler):
 
@@ -445,6 +436,7 @@ def BNP_population_sampler(MCMC_output, one_n_j, J, batch_size, seed_pop_sampler
 
     return X_ij_unobserved
 
+# Sampling from the population (final step divided from other for memory management)
 @tf.function(jit_compile = True)
 def BNP_final_population_sampler(MCMC_output, one_n_j, J, batch_size, final_size, seed_pop_sampler):
 
@@ -470,6 +462,7 @@ def BNP_final_population_sampler(MCMC_output, one_n_j, J, batch_size, final_size
 
     return X_ij_unobserved[:final_size,...]
 
+# Sampling from the population with a single alpha
 def BNP_population_sampler_fixed_alpha(MCMC_output, one_n_j, J, batch_size, seed_pop_sampler):
 
     a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = MCMC_output
@@ -494,6 +487,7 @@ def BNP_population_sampler_fixed_alpha(MCMC_output, one_n_j, J, batch_size, seed
 
     return X_ij_unobserved
 
+# Sampling from the population with a single alpha (final step divided from other for memory management)
 def BNP_final_population_sampler_fixed_alpha(MCMC_output, one_n_j, J, batch_size, final_size, seed_pop_sampler):
 
     a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = MCMC_output
@@ -518,6 +512,7 @@ def BNP_final_population_sampler_fixed_alpha(MCMC_output, one_n_j, J, batch_size
 
     return X_ij_unobserved[:final_size,...]
 
+# Estimate tau via population sampling
 def step_tau(MCMC_output, X_ij, one_n_j, J, batch_size, N, seed_step_tau):
     
     n = tf.shape(X_ij)[0]
@@ -563,6 +558,7 @@ def step_tau(MCMC_output, X_ij, one_n_j, J, batch_size, N, seed_step_tau):
 
     return tau
 
+# Estimate tau via population sampling with a fixed alpha
 def step_tau_fixed_alpha(MCMC_output, X_ij, one_n_j, J, batch_size, N, seed_step_tau):
     
     n = tf.shape(X_ij)[0]
@@ -608,6 +604,7 @@ def step_tau_fixed_alpha(MCMC_output, X_ij, one_n_j, J, batch_size, N, seed_step
 
     return tau
 
+# Estimate the probabilities of unique individuals
 @tf.function(jit_compile = True)
 def prob_estimator(X_ij, one_n_j, a, b, theta_k_full, beta_k_00_full, mc_sample_size, seed_step_tau):
 
@@ -637,6 +634,7 @@ def prob_estimator(X_ij, one_n_j, a, b, theta_k_full, beta_k_00_full, mc_sample_
 
     return mc_sample_prob
 
+# Estimate tau via Monte Carlo
 def step_mc_tau(MCMC_output, X_ij, one_n_j, N, mc_sample_size, seed_step_tau):
 
     a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = MCMC_output
@@ -658,6 +656,7 @@ def step_mc_tau(MCMC_output, X_ij, one_n_j, N, mc_sample_size, seed_step_tau):
 
     return mc_tau
 
+# Estimate the probabilities of unique individuals with fixed alpha
 def prob_estimator_fixed_alpha(X_ij, one_n_j, alpha, theta_k_full, beta_k_00_full, mc_sample_size, seed_step_tau):
 
     freq_0 = fast_frequency(X_ij, one_n_j)
@@ -686,6 +685,7 @@ def prob_estimator_fixed_alpha(X_ij, one_n_j, alpha, theta_k_full, beta_k_00_ful
 
     return mc_sample_prob
 
+# Estimate tau with Monte Carlo and a fixed alpha
 def step_mc_tau_fixed_alpha(MCMC_output, X_ij, one_n_j, N, mc_sample_size, seed_step_tau):
 
     a, b, alpha_0, alpha_i, theta_k_full, beta_k_00_full, pi_i_0k_full, K_current = MCMC_output
@@ -708,6 +708,7 @@ def step_mc_tau_fixed_alpha(MCMC_output, X_ij, one_n_j, N, mc_sample_size, seed_
 
     return mc_tau
 
+# MCMC_iterations MCMC iterations with a given initial condition and estimate of the tau
 def BNP_MCMC_initialized_tau(X_ij, one_n_j, K_max, prior_parameters, initialization_MCMC, N, MCMC_iterations, batch_size, seed_MCMC, type_1, type_2, type_tau):
 
     J = tf.shape(one_n_j)[0]
