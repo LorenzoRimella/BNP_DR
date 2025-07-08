@@ -22,7 +22,7 @@ __experiments__, containing all the experiments we run for the paper:
 - _MCMC_repeated_, which contains the experiments on the real data with structural zeros repeated to build credible intervals;
 - _NY_, which contains the experiments on real data and without structural zeros;
 - _Synthetic_, which contains the experiments on synthetic data;
-- _SZ_NY_, which contains the experiments on the real data with structural zeros;
+- _SZ_NY_, which contains the experiments on the real data with structural zeros.
 
 __scripts__, which contains all the .py files to run our method:
 - _BNP_structural_zeros.py_, the algorithm from section 4.1;
