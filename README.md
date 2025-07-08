@@ -10,24 +10,24 @@ Requirements:
 
 In the repository the user will find three folders. 
 
-_data_, containing all the input and output data of our experiments:
-- clean, which contains the input and output of the experiments on real data and without structural zeros;
-- log_linear_model, which contains the output of the experiments on log-linear models;
-- structural_zeros, which contains the input and output of the experiments on the real data with structural zeros;
-- synthetic, which contains the input and output of the experiments on synthetic data;
-- SZ_repeated_mc, which contains the output of the experiments on the real data with structural zeros repeated to build credible intervals.
+__data__, containing all the input and output data of our experiments:
+- _clean_, which contains the input and output of the experiments on real data and without structural zeros;
+- _log_linear_model_, which contains the output of the experiments on log-linear models;
+- _structural_zeros_, which contains the input and output of the experiments on the real data with structural zeros;
+- _synthetic_, which contains the input and output of the experiments on synthetic data;
+- _SZ_repeated_mc_, which contains the output of the experiments on the real data with structural zeros repeated to build credible intervals.
 
-_experiments_, containing all the experiments we run for the paper:
-- log_linear_model, which contains the experiments on log-linear models;
-- MCMC_repeated, which contains the experiments on the real data with structural zeros repeated to build credible intervals;
-- NY, which contains the experiments on real data and without structural zeros;
-- Synthetic, which contains the experiments on synthetic data;
-- SZ_NY, which contains the experiments on the real data with structural zeros;
+__experiments__, containing all the experiments we run for the paper:
+- _log_linear_model_, which contains the experiments on log-linear models;
+- _MCMC_repeated_, which contains the experiments on the real data with structural zeros repeated to build credible intervals;
+- _NY_, which contains the experiments on real data and without structural zeros;
+- _Synthetic_, which contains the experiments on synthetic data;
+- _SZ_NY_, which contains the experiments on the real data with structural zeros;
 
-_scripts_, which contains all the .py files to run our method:
-- BNP_structural_zeros.py, the algorithm from section 4.1;
-- BNP.py, the algorithm from section 3.2.1;
-- log_linear_model.py, the implementation of log-linear models;
-- manage_constraints.py, the code to transform overlapping constraints in disjoint constraints as in Section 4.2 of reference [6] of the paper;
-- mixed_membership_model.py, a simulator for the mixed membership model;
-- MVR.py, the algorithm from reference [4] of the paper.
+__scripts__, which contains all the .py files to run our method:
+- _BNP_structural_zeros.py_, the algorithm from section 4.1;
+- _BNP.py_, the algorithm from section 3.2.1;
+- _log_linear_model.py_, the implementation of log-linear models;
+- _manage_constraints.py_, the code to transform overlapping constraints in disjoint constraints as in Section 4.2 of reference [6] of the paper;
+- _mixed_membership_model.py_, a simulator for the mixed membership model;
+- _MVR.py_, the algorithm from reference [4] of the paper.
